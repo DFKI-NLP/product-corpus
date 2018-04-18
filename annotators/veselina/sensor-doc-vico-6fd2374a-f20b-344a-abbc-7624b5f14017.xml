@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>2015 (65) - <NODE id="12" />Peugeot<NODE id="19" /> <NODE id="20" />108<NODE id="23" /> 1.2 PureTech Allure 5dr £8,288 Loading Images... Date Registered: Sep 2015 Mileage: 2,173 miles Transmission: Manual Fuel: Petrol Price: £8,288 Colour: Black Body Style: Hatchback Vehicle Trim / Variant: Allure EC Combined (mpg) 65.7 EC Extra Urban (mpg) 76.3 EC Urban (mpg) 52.3  &gt; 65 MPG 11 Insurance Group 82 Performance (BHP) 4 Seats 99 CO2 (g/km) £0 Road Tax History Checked Vehicle Trim / Variant: Allure Insurance Group 11, 1 Registered Keeper, Road Tax Free, Low mileage, Balance of warranty, Reversing camera, Bluetooth system, Stop/start button, Touch screen display, DAB Digital radio, USB socket, Steering wheel mounted remote controls, LED daytime running lights, Tinted rear windows, Front fog lights, Automatic headlights, Leather steering wheel, Isofix on outer rear seats, 50/50 split folding rear seat, Tyre pressure sensor, Rear door child safety locks, Front and rear curtain airbags, Thatcham Cat 2 engine immobiliser, Keyless entry, 15 Thorren alloy wheels, Space saver spare wheel Exact specification may vary from the details on this page. Please contact the seller via our email dealer form or on 01463 548649 to reconfirm any details before purchasing. See terms &amp; conditions for further info. Review Rating This is the all-new Peugeot 108 city car, replacing the long-lived 107 but promising much more. read more Interior roominess Lightweight and economical Impressive kit levels Personalisation themes No diesel option Some cheap materials Noisy petrol engines Review provided by: The following features are fitted on this car... ABS Air conditioning Alloy wheels Audio remote control Bluetooth Connection DAB digital radio Electric door mirrors Folding rear seats Front electric windows Front fog lights Heated door mirrors Height adjustable drivers seat Immobiliser Isofix child seat anchor points PAS Passenger airbag Remote central locking Reverse parking aid Side airbags Traction control Equipment This equipment listed below is a standard description and may differ from the exact detail for the vehicle displayed. If you require further clarification call us on 01463 548649 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Comfort / Convenience 2 rear head restraints 50/50 split folding rear seat ABS+Electronic Brake force Distribution Auxilliary 12V power socket Bluetooth system Driver seat height adjust Electric front windows Electric operated/heated door mirrors EPAS ESP with Hill Assist Height adjustable steering wheel Intermittent rear wash/wipe Isofix on outer rear seats Leather gear knob Leather steering wheel Manual air conditioning Manual rear window popouts Rev counter Reversing camera Speed limiter Stop/start button Tinted rear windows Touch screen display Entertainment 2 speakers + 2 tweeters DAB Digital radio Steering wheel mounted remote controls USB socket Exterior / Styling 15 Thorren alloy wheels Automatic headlights Body colour bumpers Body colour door handles Chrome side window trim Front fog lights LED daytime running lights Space saver spare wheel Safety / Security Driver and passenger airbags Front and rear curtain airbags Front side airbags Keyless entry Passenger airbag deactivation system Rear door child safety locks Remote central locking Seatbelt warning lamp and buzzer Thatcham Cat 2 engine immobiliser Two 3 point rear seatbelts Tyre pressure sensor Technical Specifications The technical specifications detailed below may differ from the exact specifications for the vehicle displayed. If you require further clarification call us on 01463 548649 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Emissions CO2 (g/km) 99
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/6fd2374a-f20b-344a-abbc-7624b5f14017" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-06T05:25:12Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:17:29.548Z" />
+<feature featureName="uri" featureValue="http://www.carmony.co.uk/car-40156516/ds" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="19" type="organization" surface="Peugeot" />
+<Entity id="1" startPos="12" endPos="23" type="product" surface="Peugeot 108" />
+<Entity id="2" startPos="20" endPos="23" type="head" surface="108" /></Entities><Relations>
+<Relation id="3" NAME="company_provides_product">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="4" NAME="entity_head">
+<Entity id="2" label="head" />
+<Entity id="1" label="full_extent" />
+</Relation></Relations>
+</Document>

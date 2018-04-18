@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>news » eu-proposes-stricter-vehicle-emissions-tests 0 ▲ Compare clear all 27.1.2016 EU proposes stricter <NODE id="105" />vehicle<NODE id="112" /> emissions tests New and stricter regulations for <NODE id="162" />car<NODE id="165" /> emissions testing have been proposed by the <NODE id="210" />European Commission<NODE id="229" /> (<NODE id="231" />EC<NODE id="233" />) today (Wednesday 27th January) which aim to prevent the repeat of the <NODE id="305" />VW<NODE id="307" /> emissions scandal in the future. The main points of focus are on the type approval process and on-going testing of cars already on the road. The executive body for the <NODE id="476" />European Union<NODE id="490" /> (<NODE id="492" />EU<NODE id="494" />) wants <NODE id="502" />vehicle<NODE id="509" /> testing to be carried out by independent assessors and for there to be a greater level of EU-level checks in the type approval process. The <NODE id="650" />EC<NODE id="652" /> also wants to reduce the financial connection between type approval regulators and the <NODE id="740" />vehicle<NODE id="747" /> manufacturers to prevent a conflict of interest occurring. Currently assessors test <NODE id="832" />vehicles<NODE id="840" /> at a national level and, once a type approval certificate has been awarded to a model, that is then valid in all <NODE id="954" />EU<NODE id="956" /> member states. This cross-border approval will remain, being tied into the <NODE id="1032" />EU<NODE id="1034" /> single market system, but there will be greater regulation from a European level. New plans would also allow member states to carry out spot-checks on <NODE id="1186" />cars<NODE id="1190" /> already on the market, with proposals for strict and quickly-implemented measures should <NODE id="1280" />vehicles<NODE id="1288" /> be found to be non-compliant. This on-going checking process will help the authorities prevent the late discovery of systems such as <NODE id="1422" />VW<NODE id="1424" />'s<NODE id="1426" /> '<NODE id="1428" />defeat device<NODE id="1441" />', that turned on <NODE id="1459" />emissions control systems<NODE id="1484" /> when it detected the <NODE id="1506" />car<NODE id="1509" /> being tested. Linked to this is the <NODE id="1546" />EC<NODE id="1548" />'s desire to order recalls at a European level and to impose heavy fines on manufacturers that allow illegal <NODE id="1657" />vehicles<NODE id="1665" /> to be sold. The proposals are planned to coincide with the implementation of Real-World Driving Emissions (RDE) testing and tighter NOx emissions levels which could still be months or years away. A recent plan to introduce stricter NOx limits was successfully fought by <NODE id="1936" />EU<NODE id="1938" /> Member States with large automotive manufacturing industries for example, and there is still the issue of how the type approval testing process will be funded if there is a break with manufacturer's payments. Independent environmental transport campaigners <NODE id="2196" />Transport and Environment<NODE id="2221" />'s (<NODE id="2225" />T&amp;E<NODE id="2228" />) clean vehicles director, Greg Archer, commented: This good proposal addresses many flaws in the current car testing system but lacks teeth. The principal reason why <NODE id="2395" />Volkswagen<NODE id="2405" /> managed to get away with cheating in Europe was the lack of independence of national authorities, which were compromised by their cosy relationship with <NODE id="2559" />car<NODE id="2562" /> makers. Without the threat of future <NODE id="2600" />EU<NODE id="2602" /> sanctions, it will be mission impossible to break the strong bond between national regulators and their <NODE id="2707" />car<NODE id="2710" /> makers that has protected the industry but at the cost of higher emissions. Dr Ben Lane. Director of <NODE id="2812" />Next Green Car<NODE id="2826" /> added: The tightening up of the relationships between testing agencies and manufacturers is to be welcomed as is the introduction of emissions checks on real <NODE id="2985" />vehicles<NODE id="2993" /> being used on real roads. In partnership with <NODE id="3040" />NXP Semiconductors<NODE id="3058" />, <NODE id="3060" />Next Green Car<NODE id="3074" /> is investigating how these spot-checks could be conducted at low cost on large numbers of <NODE id="3165" />vehicles<NODE id="3173" /> using Continuous Vehicle Emissions Monitoring (CVEM) , which utilises existing <NODE id="3253" />On-Board Diagnostic (OBD) sensors<NODE id="3286" /> to monitor emissions, and export this data to a central off-board server for reporting purposes. We are currently looking for an opportunity to trial this technology on an existing fleet to demonstrate to regulators that the rise of the <NODE id="3524" />connected car<NODE id="3537" /> will offer new ways to monitor and enforce future <NODE id="3588" />vehicle<NODE id="3595" /> emissions regulations.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/7963936c-08e7-3723-ad79-09961451a21e" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-28T01:18:17Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:21:07.598Z" />
+<feature featureName="uri" featureValue="http://www.nextgreencar.com/news/7462/eu-proposes-stricter-vehicle-emissions-tests" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="105" endPos="112" type="product" surface="vehicle" />
+<Entity id="1" startPos="162" endPos="165" type="product" surface="car" />
+<Entity id="2" startPos="210" endPos="229" type="organization" surface="European Commission" />
+<Entity id="3" startPos="231" endPos="233" type="organization" surface="EC" />
+<Entity id="4" startPos="305" endPos="307" type="organization" surface="VW" />
+<Entity id="5" startPos="476" endPos="490" type="organization" surface="European Union" />
+<Entity id="6" startPos="492" endPos="494" type="organization" surface="EU" />
+<Entity id="7" startPos="502" endPos="509" type="product" surface="vehicle" />
+<Entity id="8" startPos="650" endPos="652" type="organization" surface="EC" />
+<Entity id="9" startPos="740" endPos="747" type="product" surface="vehicle" />
+<Entity id="10" startPos="832" endPos="840" type="product" surface="vehicles" />
+<Entity id="11" startPos="954" endPos="956" type="organization" surface="EU" />
+<Entity id="12" startPos="1032" endPos="1034" type="organization" surface="EU" />
+<Entity id="13" startPos="1186" endPos="1190" type="product" surface="cars" />
+<Entity id="14" startPos="1280" endPos="1288" type="product" surface="vehicles" />
+<Entity id="15" startPos="1422" endPos="1424" type="organization" surface="VW" />
+<Entity id="16" startPos="1424" endPos="1426" type="trigger" surface="'s" />
+<Entity id="17" startPos="1428" endPos="1441" type="product" surface="defeat device" />
+<Entity id="18" startPos="1459" endPos="1484" type="product" surface="emissions control systems" />
+<Entity id="19" startPos="1506" endPos="1509" type="product" surface="car" />
+<Entity id="20" startPos="1546" endPos="1548" type="organization" surface="EC" />
+<Entity id="21" startPos="1657" endPos="1665" type="product" surface="vehicles" />
+<Entity id="22" startPos="1936" endPos="1938" type="organization" surface="EU" />
+<Entity id="23" startPos="2196" endPos="2221" type="organization" surface="Transport and Environment" />
+<Entity id="24" startPos="2225" endPos="2228" type="organization" surface="T&amp;E" />
+<Entity id="25" startPos="2395" endPos="2405" type="organization" surface="Volkswagen" />
+<Entity id="26" startPos="2559" endPos="2562" type="product" surface="car" />
+<Entity id="27" startPos="2600" endPos="2602" type="organization" surface="EU" />
+<Entity id="28" startPos="2707" endPos="2710" type="product" surface="car" />
+<Entity id="29" startPos="2812" endPos="2826" type="organization" surface="Next Green Car" />
+<Entity id="30" startPos="2985" endPos="2993" type="product" surface="vehicles" />
+<Entity id="31" startPos="3040" endPos="3058" type="organization" surface="NXP Semiconductors" />
+<Entity id="32" startPos="3060" endPos="3074" type="organization" surface="Next Green Car" />
+<Entity id="33" startPos="3165" endPos="3173" type="product" surface="vehicles" />
+<Entity id="34" startPos="3253" endPos="3286" type="product" surface="On-Board Diagnostic (OBD) sensors" />
+<Entity id="35" startPos="3524" endPos="3537" type="product" surface="connected car" />
+<Entity id="36" startPos="3588" endPos="3595" type="product" surface="vehicle" /></Entities><Relations>
+<Relation id="37" NAME="company_provides_product">
+<Entity id="17" label="product" />
+<Entity id="16" label="trigger" />
+<Entity id="15" label="company" />
+</Relation></Relations>
+</Document>

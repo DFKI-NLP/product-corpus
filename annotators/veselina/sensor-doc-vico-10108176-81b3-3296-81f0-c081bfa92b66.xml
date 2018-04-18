@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />BACnet International<NODE id="20" /> Welcomes New Slate of Members to Board of Directors PRWeb Tuesday, January 26th 2016 New Board Committed to Advancing Successful Use of BACnet Protocol Atlanta, GA (PRWEB) January 26, 2016 <NODE id="210" />BACnet International<NODE id="230" /> is pleased to announce the results of its recent board of directors elections. The new board is comprised of eight industry executives, including: Roland Laird, Andy McMillan, Jonathan Fulton, Brad Hill, Dennis Swoboda, Raymond Rae, Nancy Stein and Michael Wilson. The board of <NODE id="509" />BACnet International<NODE id="529" /> will continue to focus on expanding the successful use of the <NODE id="592" />BACnet building automation protocol<NODE id="627" />. The following individuals will serve on the 2016 <NODE id="678" />BACnet International<NODE id="698" /> Board of Directors: <NODE id="719" />Roland Laird<NODE id="731" />, Reliable Controls [<NODE id="752" />Chair<NODE id="757" />] <NODE id="759" />Roland Laird<NODE id="771" /> is the founder and <NODE id="791" />president<NODE id="800" /> of <NODE id="804" />Reliable Controls Corporation<NODE id="833" />. Since 1986, <NODE id="847" />Reliable Controls<NODE id="864" /> has grown to more than <NODE id="888" />120<NODE id="891" /> professionals, providing a comprehensive <NODE id="933" />BACnet building automation system<NODE id="966" />. In his current role as president, Laird maintains an active involvement in product development with special emphasis on quality assurance. Through 2005 to 2010, he was an active participant in <NODE id="1161" />BACnet International<NODE id="1181" />’s BACnet Testing Labs working group and the ASHRAE SSPC 135 BACnet Committee. Laird graduated with honors in instrumentation technology from the British Columbia Institute of Technology in 1980. <NODE id="1377" />Andy McMillan<NODE id="1390" />, <NODE id="1392" />BACnet International<NODE id="1412" /> <NODE id="1413" />President &amp; Managing Director<NODE id="1442" /> <NODE id="1443" />Andy McMillan<NODE id="1456" /> is <NODE id="1460" />president<NODE id="1469" /> of <NODE id="1473" />BACnet International<NODE id="1493" />, where he works with users and suppliers to expand and enhance the BACnet community. Formerly he served as president and general manager of an building automation unit of <NODE id="1665" />Philips Lighting<NODE id="1681" />. McMillan’s background includes broad open systems industry development and marketing experience, as well as strong technical knowledge of distributed automation and information management systems. McMillan has co-founded several companies and has been a featured speaker on open systems and automation at conferences in North America, Europe, Japan and Australia. McMillan co-authored a book on open systems networking and holds a dozen patents in sensors, automation and software. He has MBA and BSEE degrees from the University of Michigan and is a member of ASHRAE, AEE, IEEE. Jonathan Fulton, <NODE id="2280" />Building Control Integrators (BCI)<NODE id="2314" /> Jonathan Fulton is the founder of an <NODE id="2352" />Ohio<NODE id="2356" />-<NODE id="2357" />based<NODE id="2362" /> integration firm called <NODE id="2387" />Building Control Integrators (BCI)<NODE id="2421" />, which specializes in <NODE id="2444" />high-level BACnet integrations<NODE id="2474" />. He has been actively involved in designing, implementing and servicing BACnet based systems since 1995. As a state of Ohio licensed HVAC and electrical contractor, he regularly deals with multiple facets of the automation industry. Fulton attended DeVry University, Moody Bible Institute and Western Theological Seminary in pursuit of technological and theological studies. He is passionate about open protocols, the spiritual development of others, and personal higher learning. Fulton is happily married with three children and concurrently serves as a pastor of a central Ohio church. Brad Hill, <NODE id="3075" />Honeywell International<NODE id="3098" /> <NODE id="3099" />Brad Hill<NODE id="3108" /> is working as a <NODE id="3125" />project management office leader<NODE id="3157" /> for <NODE id="3162" />Honeywell Environmental and Energy Solutions<NODE id="3206" /> where he is involved in leading the new product development of commercial building offerings. Hill joined <NODE id="3313" />Honeywell<NODE id="3322" /> in 1990 where he was involved in the design and programming of complex integrated control solutions for large projects. He began involvement with BACnet in 1996 through the need to integrate BACnet devices into building management systems. In 1999, Hill began product development work which included the development of a BACnet operator workstation, where he acquired a deep knowledge of the BACnet standard, after which time he continued on to manage and then lead building management product developments. Hill holds an MBA, MES (Energy Studies), BCompSc (Hons), and a DipElecEng, and is a certified Six Sigma Black Belt and PMP®. Dennis Swoboda, <NODE id="3972" />Blue Ridge Technologies<NODE id="3995" /> <NODE id="3996" />Dennis Swoboda<NODE id="4010" /> is the <NODE id="4018" />vice president of sales and marketing<NODE id="4055" /> for <NODE id="4060" />Blue Ridge Technologies<NODE id="4083" />, a <NODE id="4087" />manufacturer<NODE id="4099" /> of <NODE id="4103" />Native BACnet lighting control solutions<NODE id="4143" /> designed for open communication with most building automation systems. In his role, Swoboda oversees global sales and marketing initiatives for the sale and installation of <NODE id="4317" />Blue Ridge Technologies<NODE id="4340" /> <NODE id="4341" />lighting control systems<NODE id="4365" />. In addition, he works with engineers, end users, owners and controls contractors to help lower life cycle costs, increase energy savings, and reduce carbon emissions by taking control of the largest energy loads in a building. Swoboda has over 20 years of lighting control experience, and gives frequent talks and presentations on energy codes, lighting, and BACnet. He has been a member of <NODE id="4758" />BACnet International<NODE id="4778" /> for almost a decade, and has previously served as the <NODE id="4833" />BACnet International<NODE id="4853" /> marketing committee chair.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/10108176-81b3-3296-81f0-c081bfa92b66" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-26T22:01:11Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:41:22.758Z" />
+<feature featureName="uri" featureValue="http://www.virtual-strategy.com/2016/01/26/bacnet-international-welcomes-new-slate-members-board-directors" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="20" type="organization" surface="BACnet International" />
+<Entity id="1" startPos="210" endPos="230" type="organization" surface="BACnet International" />
+<Entity id="2" startPos="509" endPos="529" type="organization" surface="BACnet International" />
+<Entity id="3" startPos="592" endPos="627" type="product" surface="BACnet building automation protocol" />
+<Entity id="4" startPos="678" endPos="698" type="organization" surface="BACnet International" />
+<Entity id="5" startPos="719" endPos="731" type="person" surface="Roland Laird" />
+<Entity id="6" startPos="752" endPos="757" type="position" surface="Chair" />
+<Entity id="7" startPos="759" endPos="771" type="person" surface="Roland Laird" />
+<Entity id="8" startPos="791" endPos="800" type="position" surface="president" />
+<Entity id="9" startPos="804" endPos="833" type="organization" surface="Reliable Controls Corporation" />
+<Entity id="10" startPos="847" endPos="864" type="organization" surface="Reliable Controls" />
+<Entity id="11" startPos="888" endPos="891" type="number" surface="120" />
+<Entity id="12" startPos="933" endPos="966" type="product" surface="BACnet building automation system" />
+<Entity id="13" startPos="1161" endPos="1181" type="organization" surface="BACnet International" />
+<Entity id="14" startPos="1377" endPos="1390" type="person" surface="Andy McMillan" />
+<Entity id="15" startPos="1392" endPos="1412" type="organization" surface="BACnet International" />
+<Entity id="16" startPos="1392" endPos="1442" type="position" surface="BACnet International President &amp; Managing Director" />
+<Entity id="17" startPos="1413" endPos="1442" type="head" surface="President &amp; Managing Director" />
+<Entity id="18" startPos="1443" endPos="1456" type="organization" surface="Andy McMillan" />
+<Entity id="19" startPos="1460" endPos="1469" type="position" surface="president" />
+<Entity id="20" startPos="1473" endPos="1493" type="organization" surface="BACnet International" />
+<Entity id="21" startPos="1665" endPos="1681" type="organization" surface="Philips Lighting" />
+<Entity id="22" startPos="2280" endPos="2314" type="organization" surface="Building Control Integrators (BCI)" />
+<Entity id="23" startPos="2352" endPos="2356" type="location" surface="Ohio" />
+<Entity id="24" startPos="2357" endPos="2362" type="trigger" surface="based" />
+<Entity id="25" startPos="2387" endPos="2421" type="organization" surface="Building Control Integrators (BCI)" />
+<Entity id="26" startPos="2444" endPos="2474" type="product" surface="high-level BACnet integrations" />
+<Entity id="27" startPos="3075" endPos="3098" type="organization" surface="Honeywell International" />
+<Entity id="28" startPos="3099" endPos="3108" type="person" surface="Brad Hill" />
+<Entity id="29" startPos="3125" endPos="3157" type="position" surface="project management office leader" />
+<Entity id="30" startPos="3162" endPos="3206" type="organization" surface="Honeywell Environmental and Energy Solutions" />
+<Entity id="31" startPos="3313" endPos="3322" type="organization" surface="Honeywell" />
+<Entity id="32" startPos="3972" endPos="3995" type="organization" surface="Blue Ridge Technologies" />
+<Entity id="33" startPos="3996" endPos="4010" type="person" surface="Dennis Swoboda" />
+<Entity id="34" startPos="4018" endPos="4055" type="head" surface="vice president of sales and marketing" />
+<Entity id="35" startPos="4018" endPos="4083" type="position" surface="vice president of sales and marketing for Blue Ridge Technologies" />
+<Entity id="36" startPos="4060" endPos="4083" type="organization" surface="Blue Ridge Technologies" />
+<Entity id="37" startPos="4087" endPos="4099" type="provide_type" surface="manufacturer" />
+<Entity id="38" startPos="4103" endPos="4143" type="product" surface="Native BACnet lighting control solutions" />
+<Entity id="39" startPos="4317" endPos="4340" type="organization" surface="Blue Ridge Technologies" />
+<Entity id="40" startPos="4317" endPos="4365" type="product" surface="Blue Ridge Technologies lighting control systems" />
+<Entity id="41" startPos="4341" endPos="4365" type="head" surface="lighting control systems" />
+<Entity id="42" startPos="4758" endPos="4778" type="organization" surface="BACnet International" />
+<Entity id="43" startPos="4833" endPos="4853" type="organization" surface="BACnet International" /></Entities><Relations>
+<Relation id="44" NAME="company_headquarters">
+<Entity id="23" label="headquarter" />
+<Entity id="25" label="company" />
+<Entity id="24" label="trigger" />
+</Relation>
+<Relation id="45" NAME="company_num_employees">
+<Entity id="11" label="num_employees" />
+<Entity id="10" label="company" />
+</Relation>
+<Relation id="46" NAME="company_provides_product">
+<Entity id="3" label="product" />
+<Entity id="2" label="company" />
+</Relation>
+<Relation id="47" NAME="company_provides_product">
+<Entity id="12" label="product" />
+<Entity id="10" label="company" />
+</Relation>
+<Relation id="48" NAME="company_provides_product">
+<Entity id="25" label="product" />
+<Entity id="26" label="company" />
+</Relation>
+<Relation id="49" NAME="company_provides_product">
+<Entity id="37" label="provide_type" />
+<Entity id="38" label="product" />
+<Entity id="36" label="company" />
+</Relation>
+<Relation id="50" NAME="company_provides_product">
+<Entity id="40" label="product" />
+<Entity id="39" label="company" />
+</Relation>
+<Relation id="51" NAME="entity_head">
+<Entity id="17" label="head" />
+<Entity id="16" label="full_extent" />
+</Relation>
+<Relation id="52" NAME="entity_head">
+<Entity id="34" label="head" />
+<Entity id="35" label="full_extent" />
+</Relation>
+<Relation id="53" NAME="entity_head">
+<Entity id="41" label="head" />
+<Entity id="40" label="full_extent" />
+</Relation>
+<Relation id="54" NAME="organization_leadership">
+<Entity id="5" label="person" />
+<Entity id="4" label="organization" />
+<Entity id="6" label="position" />
+</Relation>
+<Relation id="55" NAME="organization_leadership">
+<Entity id="7" label="person" />
+<Entity id="9" label="organization" />
+<Entity id="8" label="position" />
+</Relation>
+<Relation id="56" NAME="organization_leadership">
+<Entity id="14" label="person" />
+<Entity id="15" label="organization" />
+<Entity id="16" label="position" />
+</Relation>
+<Relation id="57" NAME="organization_leadership">
+<Entity id="18" label="person" />
+<Entity id="20" label="organization" />
+<Entity id="19" label="position" />
+</Relation>
+<Relation id="58" NAME="organization_leadership">
+<Entity id="28" label="person" />
+<Entity id="30" label="organization" />
+<Entity id="29" label="position" />
+</Relation>
+<Relation id="59" NAME="organization_leadership">
+<Entity id="33" label="person" />
+<Entity id="36" label="organization" />
+<Entity id="35" label="position" />
+</Relation></Relations>
+</Document>

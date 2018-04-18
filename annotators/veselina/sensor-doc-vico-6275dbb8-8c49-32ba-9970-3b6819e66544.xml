@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />myDevices<NODE id="9" /> <NODE id="10" />Launches<NODE id="18" /> <NODE id="19" />Cayenne<NODE id="26" />, the World’s First Drag-and-Drop IoT Project Builder World News: 13:00 GMT Tuesday 26th January 2016 . [ <NODE id="132" />myDevices<NODE id="141" /> via Businesswire via SPi World News ] <NODE id="180" />myDevices<NODE id="189" />, the <NODE id="195" />Internet of Things (IoT) solutions<NODE id="229" /> <NODE id="230" />company<NODE id="237" /> that 'simplifies the connected world,' today announced <NODE id="293" />Cayenne<NODE id="300" />, its developer and maker tool for IoT projects, at the IoT Evolution Expo in Fort Lauderdale. <NODE id="395" />myDevices<NODE id="404" /> <NODE id="405" />developed<NODE id="414" /> a <NODE id="417" />robust IoT platform<NODE id="436" /> that allows companies to efficiently connect devices, visualize data, apply sophisticated rules and interact with their connected customers. With the <NODE id="587" />debut<NODE id="592" /> of <NODE id="596" />Cayenne<NODE id="603" />, <NODE id="605" />myDevices<NODE id="614" /> is extending <NODE id="628" />its<NODE id="631" /> <NODE id="632" />versatile device and connectivity agnostic platform<NODE id="683" /> – launched in October 2015 – to the developer and maker community in the form of an easy-to-use, drag-and-drop tool. '<NODE id="802" />We<NODE id="804" /> are very excited to introduce the IoT community to <NODE id="856" />Cayenne<NODE id="863" />, our versatile developer and maker solution, first designed for the Raspberry Pi maker,' said <NODE id="958" />Kevin Bromber<NODE id="971" />, <NODE id="973" />CEO<NODE id="976" /> of <NODE id="980" />myDevices<NODE id="989" />. 'There are a lot of IoT platforms on the market, yet there are few IoT platforms that actually let the developer build a project without having to dig deep into SDKs and APIs just to get a simple proof of concept created.' The Cayenne solution has revolutionary capabilities: automatic device and sensor discovery that enables Cayenne to be up and running in 7 minutes; drag-and-drop widgets that let the developer easily visualize real-time and historical data online or from a mobile app; triggers that allow one sensor, motor or actuator to invoke an action on another device; threshold alerts that send emails or SMS messages based on customizable criteria; and the ability to schedule specific days and times when lights, motors, valves and actuators turn on and turn off. 'With <NODE id="1775" />Cayenne<NODE id="1782" />, <NODE id="1784" />we<NODE id="1786" /> have achieved our goal: engineers can now develop IoT projects in hours instead of months,' Bromber said. On the business side, Cayenne can be used for cost-effective prototyping, improving business prophecies, and streaming workflow. In the home, Cayenne will allow makers to easily and fluidly control home automation, security, sensors and lighting, among other things. In addition to a seamless and intuitive user interface, the greatest benefit of the Cayenne solution is that makers will be able to undertake simple IoT projects and significantly reduce the time and expense of more complex IoT projects. 'It is like an easy-to-use website builder but for IoT projects,' Bromber explained. Key features include: A mobile app to set up, monitor and control devices and sensors from anywhere Easy setup that quickly connects Pi to the Internet, sensors, actuators and extensions in minutes Rules engine for triggering actions across devices Customizable dashboard with drag-and-drop visualization widgets Scheduling of lights, motors and actuators GPIO control that can be configured from a mobile app or dashboard Instant remote access from phone or computer Attendees of the IoT Evolution Expo are invited to stop by <NODE id="3010" />myDevices<NODE id="3019" />’ booth #1921 to see a <NODE id="3042" />Cayenne<NODE id="3049" /> demonstration. To sign up for a free Cayenne account, go to: www.cayenne-mydevices.com About <NODE id="3143" />myDevices<NODE id="3152" /> <NODE id="3153" />myDevices<NODE id="3162" /> <NODE id="3163" />develops<NODE id="3171" /> <NODE id="3172" />middleware platforms<NODE id="3192" /> and <NODE id="3197" />application solutions for the Internet of Things<NODE id="3245" /> that 'simplify the connected world.' <NODE id="3283" />myDevices<NODE id="3292" /> customized solutions allow companies that manufacture, sell and support connected devices to efficiently connect products, manage data, and interact with their customers. <NODE id="3464" />myDevices<NODE id="3473" /> is the first platform of its kind to <NODE id="3511" />offer<NODE id="3516" /> a <NODE id="3519" />back-end connected device solution for the enterprise<NODE id="3572" /> and an <NODE id="3580" />interconnected front-end solution for the end user<NODE id="3630" />. <NODE id="3632" />myDevices<NODE id="3641" /> is <NODE id="3645" />headquartered<NODE id="3658" /> in <NODE id="3662" />Los Angeles<NODE id="3673" /> and is a <NODE id="3683" />division<NODE id="3691" /> of <NODE id="3695" />Avanquest<NODE id="3704" />. For more information please visit www.mydevices.com. Published By:
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/6275dbb8-8c49-32ba-9970-3b6819e66544" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-27T11:43:13Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:12:26.082Z" />
+<feature featureName="uri" featureValue="http://www.sectorpublishingintelligence.co.uk/news/1349186/mydevices+launches+cayenne+the+worlds+first+draganddrop+iot+project+builder" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="organization" surface="myDevices" />
+<Entity id="1" startPos="10" endPos="18" type="trigger" surface="Launches" />
+<Entity id="2" startPos="19" endPos="26" type="product" surface="Cayenne" />
+<Entity id="3" startPos="132" endPos="141" type="organization" surface="myDevices" />
+<Entity id="4" startPos="180" endPos="189" type="organization" surface="myDevices" />
+<Entity id="5" startPos="195" endPos="229" type="industry" surface="Internet of Things (IoT) solutions" />
+<Entity id="6" startPos="195" endPos="237" type="organization" surface="Internet of Things (IoT) solutions company" />
+<Entity id="7" startPos="230" endPos="237" type="head" surface="company" />
+<Entity id="8" startPos="293" endPos="300" type="product" surface="Cayenne" />
+<Entity id="9" startPos="395" endPos="404" type="organization" surface="myDevices" />
+<Entity id="10" startPos="405" endPos="414" type="provide_type" surface="developed" />
+<Entity id="11" startPos="417" endPos="436" type="product" surface="robust IoT platform" />
+<Entity id="12" startPos="587" endPos="592" type="trigger" surface="debut" />
+<Entity id="13" startPos="596" endPos="603" type="product" surface="Cayenne" />
+<Entity id="14" startPos="605" endPos="614" type="organization" surface="myDevices" />
+<Entity id="15" startPos="628" endPos="631" type="organization" surface="its" />
+<Entity id="16" startPos="628" endPos="683" type="product" surface="its versatile device and connectivity agnostic platform" />
+<Entity id="17" startPos="632" endPos="683" type="head" surface="versatile device and connectivity agnostic platform" />
+<Entity id="18" startPos="802" endPos="804" type="organization" surface="We" />
+<Entity id="19" startPos="856" endPos="863" type="product" surface="Cayenne" />
+<Entity id="20" startPos="958" endPos="971" type="person" surface="Kevin Bromber" />
+<Entity id="21" startPos="973" endPos="976" type="head" surface="CEO" />
+<Entity id="22" startPos="973" endPos="989" type="position" surface="CEO of myDevices" />
+<Entity id="23" startPos="980" endPos="989" type="organization" surface="myDevices" />
+<Entity id="24" startPos="1775" endPos="1782" type="product" surface="Cayenne" />
+<Entity id="25" startPos="1784" endPos="1786" type="organization" surface="we" />
+<Entity id="26" startPos="3010" endPos="3019" type="organization" surface="myDevices" />
+<Entity id="27" startPos="3042" endPos="3049" type="product" surface="Cayenne" />
+<Entity id="28" startPos="3143" endPos="3152" type="organization" surface="myDevices" />
+<Entity id="29" startPos="3153" endPos="3162" type="organization" surface="myDevices" />
+<Entity id="30" startPos="3163" endPos="3171" type="trigger" surface="develops" />
+<Entity id="31" startPos="3172" endPos="3192" type="product" surface="middleware platforms" />
+<Entity id="32" startPos="3197" endPos="3245" type="product" surface="application solutions for the Internet of Things" />
+<Entity id="33" startPos="3283" endPos="3292" type="organization" surface="myDevices" />
+<Entity id="34" startPos="3464" endPos="3473" type="organization" surface="myDevices" />
+<Entity id="35" startPos="3511" endPos="3516" type="trigger" surface="offer" />
+<Entity id="36" startPos="3519" endPos="3572" type="product" surface="back-end connected device solution for the enterprise" />
+<Entity id="37" startPos="3580" endPos="3630" type="product" surface="interconnected front-end solution for the end user" />
+<Entity id="38" startPos="3632" endPos="3641" type="organization" surface="myDevices" />
+<Entity id="39" startPos="3645" endPos="3658" type="trigger" surface="headquartered" />
+<Entity id="40" startPos="3662" endPos="3673" type="location" surface="Los Angeles" />
+<Entity id="41" startPos="3683" endPos="3691" type="relation_type" surface="division" />
+<Entity id="42" startPos="3695" endPos="3704" type="organization" surface="Avanquest" /></Entities><Relations>
+<Relation id="43" NAME="company_headquarters">
+<Entity id="40" label="headquarter" />
+<Entity id="38" label="company" />
+<Entity id="39" label="trigger" />
+</Relation>
+<Relation id="44" NAME="company_industry">
+<Entity id="5" label="industry" />
+<Entity id="6" label="company" />
+</Relation>
+<Relation id="45" NAME="company_provides_product">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="46" NAME="company_provides_product">
+<Entity id="8" label="product" />
+<Entity id="4" label="company" />
+</Relation>
+<Relation id="47" NAME="company_provides_product">
+<Entity id="10" label="provide_type" />
+<Entity id="11" label="product" />
+<Entity id="9" label="company" />
+</Relation>
+<Relation id="48" NAME="company_provides_product">
+<Entity id="13" label="product" />
+<Entity id="14" label="company" />
+<Entity id="12" label="trigger" />
+</Relation>
+<Relation id="49" NAME="company_provides_product">
+<Entity id="16" label="product" />
+<Entity id="15" label="company" />
+</Relation>
+<Relation id="50" NAME="company_provides_product">
+<Entity id="24" label="product" />
+<Entity id="25" label="company" />
+</Relation>
+<Relation id="51" NAME="company_provides_product">
+<Entity id="27" label="product" />
+<Entity id="26" label="company" />
+</Relation>
+<Relation id="52" NAME="company_provides_product">
+<Entity id="31" label="product" />
+<Entity id="32" label="product" />
+<Entity id="29" label="company" />
+<Entity id="30" label="trigger" />
+</Relation>
+<Relation id="53" NAME="company_provides_product">
+<Entity id="36" label="product" />
+<Entity id="37" label="product" />
+<Entity id="34" label="company" />
+<Entity id="35" label="trigger" />
+</Relation>
+<Relation id="54" NAME="company_relationship">
+<Entity id="42" label="parent" />
+<Entity id="41" label="relation_type" />
+<Entity id="38" label="child" />
+</Relation>
+<Relation id="55" NAME="entity_head">
+<Entity id="7" label="head" />
+<Entity id="6" label="full_extent" />
+</Relation>
+<Relation id="56" NAME="entity_head">
+<Entity id="21" label="head" />
+<Entity id="22" label="full_extent" />
+</Relation>
+<Relation id="57" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="6" label="target" />
+<Entity id="23" label="target" />
+<Entity id="4" label="target" />
+<Entity id="3" label="target" />
+<Entity id="26" label="target" />
+<Entity id="33" label="target" />
+<Entity id="28" label="target" />
+<Entity id="25" label="target" />
+<Entity id="34" label="target" />
+<Entity id="38" label="target" />
+<Entity id="18" label="target" />
+<Entity id="29" label="target" />
+<Entity id="15" label="target" />
+<Entity id="9" label="target" />
+<Entity id="14" label="target" />
+</Relation>
+<Relation id="58" NAME="organization_leadership">
+<Entity id="20" label="person" />
+<Entity id="23" label="company" />
+<Entity id="22" label="position" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>2013 (63) - <NODE id="12" />BMW<NODE id="15" /> <NODE id="16" />1 Series<NODE id="24" /> Convertible Special Editions 118d Sport Plus Edition 2dr Step Auto £17,490 Reduced by £1,500 was £18,990 Loading Images... Date Registered: Sep 2013 Mileage: 15,573 miles Transmission: Automatic Fuel: Diesel Price: £17,490 Colour: Black Body Style: Convertible Vehicle Trim / Variant: Sport Plus Edition EC Combined (mpg) 51.4 EC Extra Urban (mpg) 60.1 EC Urban (mpg) 40.9  &gt; 51 MPG 25 Insurance Group 143 Performance (BHP) 4 Seats 145 CO2 (g/km) £145 Road Tax History Checked Vehicle Trim / Variant: Sport Plus Edition Insurance Group 25, 0 Registered Keepers, Franchise Approved, <NODE id="607" />BMW<NODE id="610" /> <NODE id="611" />1 Series<NODE id="619" /> 2.0TD 118d Sport Plus Edition 2-Dr Conv finished in carbon black metallic with black / royal blue black boston leather with royal blue stitching interior Specification Includes DAB, USB audio interface, De badged, Run flat tyres, Cruise control, Multi-Function steering wheel, Front and rear park distance control (PDC), Bluetooth handsfree system, Auto dimming rear view mirror, Front centre armrest, Rain sensor with automatic headlight activation, Heated front seats, Sports seats, Extended storage, Automatic gearbox, Air Conditioning and 18 Alloy wheels. Exact specification may vary from the details on this page. Please contact the seller via our email dealer form or on 01205 535945 to reconfirm any details before purchasing. See terms &amp; conditions for further info. Review Rating If you're after a stylish and small convertible, <NODE id="1459" />BMW's<NODE id="1464" /> <NODE id="1465" />1-Series<NODE id="1473" /> Convertible fits the bill perfectly. read more Great to drive, neat styling, wonderful cabin, feels as solid as the Coupe Limited room in the back, fabric roof operation is slow Review provided by: The following features are fitted on this car... ABS Air conditioning Alarm Alloy wheels Audio remote control Bluetooth Connection DAB digital radio Front electric windows Front fog lights Heated door mirrors Immobiliser Isofix child seat anchor points Leather seat trim Passenger airbag Radio/CD Rear electric windows Remote central locking Service indicator Side airbags Sports seats Traction control Trip computer Equipment This equipment listed below is a standard description and may differ from the exact detail for the vehicle displayed. If you require further clarification call us on 01205 535945 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Comfort / Convenience 12V power socket in centre console 3 spoke leather M multi-function steering wheel ABS Air microfilter ASC+T Auto dimming rear view mirror Automatic air conditioning + active carbon filter Battery in luggage with jump start facility Black door sill finishers with <NODE id="2682" />BMW<NODE id="2685" /> designation Boston leather upholstery CBC - (Cornering brake control) DSC-Dynamic Stability Control Dynamic brake control Dynamic Traction Control - DTC Electric front and rear windows with fingertip open/close + anti-trap all round Electronic brake force distribution Engine start/stop button Front centre armrest with storage compartment Front head restraints Front passenger isofix child seat attachment Front sports seats with electric side bolster adjustment Handbrake and gear lever in sensatec Individual anthracite headlining Isofix rear child seat fastenings Leather gear lever Leather handbrake Lights on warning Load restraint lashing eyes Luggage strap Oil level indicator On board computer On-board diagnosis - OBD Outside temperature display Reach + rake adjustable steering column Rear adjustable/removable head restraints Rear seat easy access Rear seat storage trays Run flat tyre indicator Service interval indicator Toolkit located in luggage compartment Tyre puncture warning system Windscreen wipers with adjustable interval Entertainment Auxiliary point for auxiliary devices <NODE id="3784" />BMW<NODE id="3787" /> professional radio with CD player DAB Digital radio Exterior / Styling 18 double spoke light alloy wheels style 313M Body colour door handles Body coloured bumper strips Body coloured bumpers Brake force display Chrome kidney grille with black vertical slats Electro hydraulic fully automatic soft top Enhanced lighting - 1 Series Convertible Front fog lights/heated windscreen washer jets/heated door mirrors M Aerodynamic pack - 1 series Run flat tyres Twin matt chrome round exhaust pipes Safety / Security 2 rear 3 point inertia reel seatbelts 3 point inertia reel seatbelts on front seats Centre lock switch Crash sensor Driver and passenger airbags Front side airbags Occupancy sensor for passenger seat Pyrotechnically pre-tensioned front seatbelts Remote alarm system/immobiliser Remote central locking Seat belt force limiter Warning triangle and first aid kit Technical Specifications The technical specifications detailed below may differ from the exact specifications for the vehicle displayed. If you require further clarification call us on 01205 535945 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Emissions CO2 (g/km) 145
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/fd54cd92-dd98-3ec6-bb4e-e5acf4f2e7cd" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-03T17:56:04Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:11:27.113Z" />
+<feature featureName="uri" featureValue="http://www.carmony.co.uk/car-39643050/sp" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="15" type="organization" surface="BMW" />
+<Entity id="1" startPos="12" endPos="24" type="product" surface="BMW 1 Series" />
+<Entity id="2" startPos="16" endPos="24" type="head" surface="1 Series" />
+<Entity id="3" startPos="607" endPos="610" type="organization" surface="BMW" />
+<Entity id="4" startPos="607" endPos="619" type="product" surface="BMW 1 Series" />
+<Entity id="5" startPos="611" endPos="619" type="head" surface="1 Series" />
+<Entity id="6" startPos="1459" endPos="1464" type="organization" surface="BMW's" />
+<Entity id="7" startPos="1465" endPos="1473" type="product" surface="1-Series" />
+<Entity id="8" startPos="2682" endPos="2685" type="organization" surface="BMW" />
+<Entity id="9" startPos="3784" endPos="3787" type="organization" surface="BMW" /></Entities><Relations>
+<Relation id="10" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="11" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="3" label="company" />
+</Relation>
+<Relation id="12" NAME="CompanyProvidesProduct">
+<Entity id="7" label="product" />
+<Entity id="6" label="company" />
+</Relation>
+<Relation id="13" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="8" label="target" />
+<Entity id="6" label="target" />
+<Entity id="3" label="target" />
+<Entity id="9" label="target" />
+</Relation>
+<Relation id="14" NAME="entity_head">
+<Entity id="2" label="" />
+<Entity id="1" label="" />
+</Relation>
+<Relation id="15" NAME="entity_head">
+<Entity id="4" label="full_extent" />
+<Entity id="5" label="head" />
+</Relation></Relations>
+</Document>

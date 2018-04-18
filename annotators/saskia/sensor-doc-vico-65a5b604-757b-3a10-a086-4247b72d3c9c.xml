@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>FDSOI carries on despite <NODE id="25" />ST<NODE id="27" /> re-org, says COO January 27, 2016 // Peter Clarke <NODE id="78" />STMicroelectronics'<NODE id="97" /> withdrawal from he set-top-box business and the transfer of engineers to microcontroller and digital automotive work will not stop the adoption of fully-depleted silicon-on-insulator (FDSOI) manufacturing process, according to Jean-Marc Chery, <NODE id="342" />ST's<NODE id="346" /> chief operating officer. Page 2 of 3 The reason for the exit from <NODE id="413" />STB<NODE id="416" /> is excessive competition in Asia from the likes of <NODE id="468" />M-Star<NODE id="474" /> and also in the US while the R&amp;D costs to serve that market remain high as they demand leading-edge and highly integrated circuits, Chery said. On the microcontroller front Chery said: <NODE id="660" />We<NODE id="662" /> have announced <NODE id="678" />our<NODE id="681" /> first MCU on 40nm bulk CMOS ramping over the next few quarters. <NODE id="746" />We<NODE id="748" /> are developing the next node on FDSOI at 28nm. For flash [non-volatile memory] <NODE id="828" />we<NODE id="830" /> have a couple of options. Clearly the best choice is PCM [phase-change memory]. <NODE id="911" />We<NODE id="913" /> are looking forward to very ultra low power MCUs. Moving MCUs over to FDSOI at the 28nm node is an approach that is also being considered at <NODE id="1055" />NXP Semiconductors NV<NODE id="1076" />. It may seem rash to nominate PCM as an embedded memory option when stand-alone PCM has proved problematic for decades and is continuing to cause problems for <NODE id="1236" />Intel<NODE id="1241" /> and <NODE id="1246" />Micron<NODE id="1252" /> in its latest incarnation known as <NODE id="1288" />3D-XPoint memory<NODE id="1304" /> (see 3D XPoint steps into the light ). <NODE id="1344" />We<NODE id="1346" /> have another option, said Chery but he declined to state whether that was resistive RAM or perpendicular magnetic RAM, two options being considered by <NODE id="1498" />NXP<NODE id="1501" /> (see <NODE id="1507" />NXP<NODE id="1510" /> embraces 28nm FDSOI for MCUs ). But despite such plans for the medium term, the <NODE id="1591" />company<NODE id="1598" /> has hit a downward spiral of declining sales, which could be hard to break. <NODE id="1675" />ST<NODE id="1677" /> announced <NODE id="1688" />fourth quarter 2015<NODE id="1707" /> sales were <NODE id="1719" />1.67 billion<NODE id="1731" />, down 8.8 percent year on year and the outlook for 1Q16 sales is for a 3 percent sequential decline. Although <NODE id="1842" />ST<NODE id="1844" /> outsources much of <NODE id="1864" />its<NODE id="1867" /> high-end digital manufacturing <NODE id="1899" />it<NODE id="1901" /> retains manufacturing capacity for mixed-signal, specialty processes and such things as MEMS. Low utilization of that in-house manufacturing capacity is contributing to pressure on profit margin. Carlo Ferro, <NODE id="2111" />ST's<NODE id="2115" /> chief financial officer, said in an analysts' call to discuss the financial results: <NODE id="2201" />We<NODE id="2203" /> need 1.8 billion per quarter for the manufacturing machine to be comfortable. So where will those increased sales to turn back the tide come from for <NODE id="2354" />ST<NODE id="2356" />? Next: Better than M&amp;A <NODE id="2380" />STMicroelectronics'<NODE id="2399" /> withdrawal from he set-top-box business and the transfer of engineers to microcontroller and digital automotive work will not stop the adoption of fully-depleted silicon-on-insulator (FDSOI) manufacturing process, according to Jean-Marc Chery, <NODE id="2644" />ST's<NODE id="2648" /> chief operating officer. Set-top box and home gateway are application areas where <NODE id="2731" />STMicroelectronics<NODE id="2749" /> has already designed ICs for implementation in the FDSOI process that it has championed in the industry, albeit with limited take-up so far. However, the news that <NODE id="2914" />ST<NODE id="2916" /> is withdrawing from those markets (see <NODE id="2956" />ST<NODE id="2958" /> exits STB chip business, plans lay-offs ) and will make no further designs for that sector should not be seen as a blow to prospects for FDSOI, Chery told <NODE id="3114" />EE Times Europe<NODE id="3129" />. Indeed Chery says <NODE id="3149" />ST<NODE id="3151" /> is preparing to make microcontrollers on 28nm FDSOI with options on an embedded non-volatile memory still open, but with phase-change memory as a leading contender. Jean-Marc Chery, COO of <NODE id="3341" />ST<NODE id="3343" />. Of the re-organization that eliminated the digital products group that Chery had led, he said: This absolutely does not impact FDSOI. What is important is that, from the first figure of merit, FDSOI can provide processor cores, usually ARM processor cores, at very low operating voltage. The second figure of merit is in RF for communications. Together this makes FDSOI perfect for the Internet of Things. He added that its radiation immunity also makes it well suited for automotive applications as well as for space and defence ICs. It has already been announced that the <NODE id="3919" />EyeQ4<NODE id="3924" /> processor from <NODE id="3940" />Mobileye NV<NODE id="3951" /> will be in FDSOI and <NODE id="3973" />NXP<NODE id="3976" />/<NODE id="3977" />Freescale<NODE id="3986" /> is using FDSOI for ADAS (autonomous driver assistance systems), he said. Chery emphasized that, following the announcement of <NODE id="4113" />ST's<NODE id="4117" /> withdrawal from STB and home gateway markets and of a proposed redeployment of 600 engineers, the <NODE id="4216" />company<NODE id="4223" /> is now focused on automotive and Internet of Things applications and that therefore FDSOI is a core manufacturing process. Indeed it could be argued that moving engineers familiar with FDSOI from the STB group into MCUs and automotive will help to proliferate the technology through the company. Next: MCUs going to 28nm FDSOI The reason for the exit from STB is excessive competition in Asia from the likes of M-Star and also in the US while the R&amp;D costs to serve that market remain high as they demand leading-edge and highly integrated circuits, Chery said. On the microcontroller front Chery said: We have announced our first MCU on 40nm bulk CMOS ramping over the next few quarters. We are developing the next node on FDSOI at 28nm. For flash [non-volatile memory] we have a couple of options. Clearly the best choice is PCM [phase-change memory]. We are looking forward to very ultra low power MCUs. Moving MCUs over to FDSOI at the 28nm node is an approach that is also being considered at NXP Semiconductors NV. It may seem rash to nominate PCM as an embedded memory option when stand-alone PCM has proved problematic for decades and is continuing to cause problems for Intel and Micron in its latest incarnation known as 3D-XPoint memory (see 3D XPoint steps into the light ). We have another option, said Chery but he declined to state whether that was resistive RAM or perpendicular magnetic RAM, two options being considered by NXP (see NXP embraces 28nm FDSOI for MCUs ). But despite such plans for the medium term, the company has hit a downward spiral of declining sales, which could be hard to break. ST announced fourth quarter 2015 sales were 1.67 billion, down 8.8 percent year on year and the outlook for 1Q16 sales is for a 3 percent sequential decline. Although ST outsources much of its high-end digital manufacturing it retains manufacturing capacity for mixed-signal, specialty processes and such things as MEMS. Low utilization of that in-house manufacturing capacity is contributing to pressure on profit margin. Carlo Ferro, ST's chief financial officer, said in an analysts' call to discuss the financial results: We need 1.8 billion per quarter for the manufacturing machine to be comfortable. So where will those increased sales to turn back the tide come from for ST? Next: Better than M&amp;A From all three of <NODE id="6565" />our<NODE id="6568" /> [new] business groups, said Chery. He said that transferring engineers from STB design to MCUs would allow the <NODE id="6680" />company<NODE id="6687" /> to proliferate parts, create more software and development boards and accelerate design wins. The second growth driver is sensors although that is still in transition mode but with good confidence to get back to growth, said Chery (see Updated: <NODE id="6933" />ST<NODE id="6935" /> sees results of MEMS diversity thrust ). The third is specialized imaging sensors; the fourth is BCD manufacturing process and another is digital for automotive. Going back to microcontrollers where <NODE id="7135" />STMicroelectronics<NODE id="7153" /> has been a force, it is noticeable that recent mergers such <NODE id="7214" />NXP<NODE id="7217" />, <NODE id="7219" />Freescale<NODE id="7228" /> and <NODE id="7233" />Microchip<NODE id="7242" />, <NODE id="7244" />Atmel<NODE id="7249" />, will contrive to push <NODE id="7273" />ST<NODE id="7275" /> down the ranking of suppliers. The merger and acquisition spree that the industry has been on has largely passed a pre-occupied <NODE id="7404" />ST<NODE id="7406" /> by. Does <NODE id="7416" />it<NODE id="7418" /> now need to engage with that to regain some critical mass in the automotive, industrial and IoT sectors <NODE id="7523" />it<NODE id="7525" /> wants to pursue? In answer Chery said that <NODE id="7569" />ST<NODE id="7571" /> has looked for and continues to look for M&amp;A opportunities but that transferring 600 engineers into the MCU and digital business unit is a similar yet superior approach. This is much better than a merger. <NODE id="7777" />We<NODE id="7779" /> are moving 600 people in R&amp;D and product support but without the issues of managing corporate culture. Basically <NODE id="7893" />we<NODE id="7895" /> are transferring resources from difficult markets to growth markets. Related links and articles: Previous page | 1 | 2 | 3 | Next page
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/65a5b604-757b-3a10-a086-4247b72d3c9c" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-28T13:19:34Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:13:39.406Z" />
+<feature featureName="uri" featureValue="http://www.electronics-eetimes.com/en/fdsoi-carries-on-despite-st-re-org-says-coo.html?cmp_id=7&amp;news_id=222927296&amp;vID=209&amp;page=1" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="25" endPos="27" type="organization" surface="ST" />
+<Entity id="1" startPos="78" endPos="97" type="organization" surface="STMicroelectronics'" />
+<Entity id="2" startPos="342" endPos="346" type="organization" surface="ST's" />
+<Entity id="3" startPos="413" endPos="416" type="industry" surface="STB" />
+<Entity id="4" startPos="468" endPos="474" type="organization" surface="M-Star" />
+<Entity id="5" startPos="660" endPos="662" type="organization" surface="We" />
+<Entity id="6" startPos="678" endPos="681" type="organization" surface="our" />
+<Entity id="7" startPos="746" endPos="748" type="organization" surface="We" />
+<Entity id="8" startPos="828" endPos="830" type="organization" surface="we" />
+<Entity id="9" startPos="911" endPos="913" type="organization" surface="We" />
+<Entity id="10" startPos="1055" endPos="1076" type="organization" surface="NXP Semiconductors NV" />
+<Entity id="11" startPos="1236" endPos="1241" type="organization" surface="Intel" />
+<Entity id="12" startPos="1246" endPos="1252" type="organization" surface="Micron" />
+<Entity id="13" startPos="1288" endPos="1304" type="product" surface="3D-XPoint memory" />
+<Entity id="14" startPos="1344" endPos="1346" type="organization" surface="We" />
+<Entity id="15" startPos="1498" endPos="1501" type="organization" surface="NXP" />
+<Entity id="16" startPos="1507" endPos="1510" type="organization" surface="NXP" />
+<Entity id="17" startPos="1591" endPos="1598" type="organization" surface="company" />
+<Entity id="18" startPos="1675" endPos="1677" type="organization" surface="ST" />
+<Entity id="19" startPos="1688" endPos="1707" type="duration" surface="fourth quarter 2015" />
+<Entity id="20" startPos="1719" endPos="1731" type="number" surface="1.67 billion" />
+<Entity id="21" startPos="1842" endPos="1844" type="organization" surface="ST" />
+<Entity id="22" startPos="1864" endPos="1867" type="organization" surface="its" />
+<Entity id="23" startPos="1899" endPos="1901" type="organization" surface="it" />
+<Entity id="24" startPos="2111" endPos="2115" type="organization" surface="ST's" />
+<Entity id="25" startPos="2201" endPos="2203" type="organization" surface="We" />
+<Entity id="26" startPos="2354" endPos="2356" type="organization" surface="ST" />
+<Entity id="27" startPos="2380" endPos="2399" type="organization" surface="STMicroelectronics'" />
+<Entity id="28" startPos="2644" endPos="2648" type="organization" surface="ST's" />
+<Entity id="29" startPos="2731" endPos="2749" type="organization" surface="STMicroelectronics" />
+<Entity id="30" startPos="2914" endPos="2916" type="organization" surface="ST" />
+<Entity id="31" startPos="2956" endPos="2958" type="organization" surface="ST" />
+<Entity id="32" startPos="3114" endPos="3129" type="organization" surface="EE Times Europe" />
+<Entity id="33" startPos="3149" endPos="3151" type="organization" surface="ST" />
+<Entity id="34" startPos="3341" endPos="3343" type="organization" surface="ST" />
+<Entity id="35" startPos="3919" endPos="3924" type="product" surface="EyeQ4" />
+<Entity id="36" startPos="3940" endPos="3951" type="organization" surface="Mobileye NV" />
+<Entity id="37" startPos="3973" endPos="3976" type="organization" surface="NXP" />
+<Entity id="38" startPos="3977" endPos="3986" type="organization" surface="Freescale" />
+<Entity id="39" startPos="4113" endPos="4117" type="organization" surface="ST's" />
+<Entity id="40" startPos="4216" endPos="4223" type="organization" surface="company" />
+<Entity id="41" startPos="6565" endPos="6568" type="organization" surface="our" />
+<Entity id="42" startPos="6680" endPos="6687" type="organization" surface="company" />
+<Entity id="43" startPos="6933" endPos="6935" type="organization" surface="ST" />
+<Entity id="44" startPos="7135" endPos="7153" type="organization" surface="STMicroelectronics" />
+<Entity id="45" startPos="7214" endPos="7217" type="organization" surface="NXP" />
+<Entity id="46" startPos="7219" endPos="7228" type="organization" surface="Freescale" />
+<Entity id="47" startPos="7233" endPos="7242" type="organization" surface="Microchip" />
+<Entity id="48" startPos="7244" endPos="7249" type="organization" surface="Atmel" />
+<Entity id="49" startPos="7273" endPos="7275" type="organization" surface="ST" />
+<Entity id="50" startPos="7404" endPos="7406" type="organization" surface="ST" />
+<Entity id="51" startPos="7416" endPos="7418" type="organization" surface="it" />
+<Entity id="52" startPos="7523" endPos="7525" type="organization" surface="it" />
+<Entity id="53" startPos="7569" endPos="7571" type="organization" surface="ST" />
+<Entity id="54" startPos="7777" endPos="7779" type="organization" surface="We" />
+<Entity id="55" startPos="7893" endPos="7895" type="organization" surface="we" /></Entities><Relations>
+<Relation id="56" NAME="CompanyIndustry">
+<Entity id="4" label="company" />
+<Entity id="3" label="industry" />
+</Relation>
+<Relation id="57" NAME="CompanyProvidesProduct">
+<Entity id="13" label="product" />
+<Entity id="11" label="company" />
+</Relation>
+<Relation id="58" NAME="CompanyProvidesProduct">
+<Entity id="13" label="product" />
+<Entity id="12" label="company" />
+</Relation>
+<Relation id="59" NAME="CompanyProvidesProduct">
+<Entity id="35" label="product" />
+<Entity id="36" label="company" />
+</Relation>
+<Relation id="60" NAME="CompanyTurnover">
+<Entity id="19" label="timespan" />
+<Entity id="20" label="turnover" />
+<Entity id="18" label="company" />
+</Relation>
+<Relation id="61" NAME="Identity">
+<Entity id="1" label="source" />
+<Entity id="6" label="target" />
+<Entity id="21" label="target" />
+<Entity id="31" label="target" />
+<Entity id="23" label="target" />
+<Entity id="17" label="target" />
+<Entity id="49" label="target" />
+<Entity id="29" label="target" />
+<Entity id="27" label="target" />
+<Entity id="8" label="target" />
+<Entity id="22" label="target" />
+<Entity id="5" label="target" />
+<Entity id="28" label="target" />
+<Entity id="50" label="target" />
+<Entity id="9" label="target" />
+<Entity id="25" label="target" />
+<Entity id="33" label="target" />
+<Entity id="34" label="target" />
+<Entity id="42" label="target" />
+<Entity id="24" label="target" />
+<Entity id="54" label="target" />
+<Entity id="14" label="target" />
+<Entity id="0" label="target" />
+<Entity id="52" label="target" />
+<Entity id="18" label="target" />
+<Entity id="41" label="target" />
+<Entity id="2" label="target" />
+<Entity id="43" label="target" />
+<Entity id="40" label="target" />
+<Entity id="7" label="target" />
+<Entity id="51" label="target" />
+<Entity id="53" label="target" />
+<Entity id="39" label="target" />
+<Entity id="30" label="target" />
+<Entity id="55" label="target" />
+<Entity id="44" label="target" />
+<Entity id="26" label="target" />
+</Relation>
+<Relation id="62" NAME="Identity">
+<Entity id="10" label="source" />
+<Entity id="15" label="target" />
+<Entity id="45" label="target" />
+<Entity id="38" label="target" />
+<Entity id="37" label="target" />
+<Entity id="16" label="target" />
+</Relation></Relations>
+</Document>

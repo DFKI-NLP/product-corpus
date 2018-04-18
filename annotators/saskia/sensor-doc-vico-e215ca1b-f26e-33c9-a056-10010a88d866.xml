@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>2015 (65) - <NODE id="12" />BMW<NODE id="15" /> <NODE id="16" />4 Series 420d [190] xDrive M Sport 2dr<NODE id="54" /> [Professional Media] £32,995 Loading Images... Date Registered: Dec 2015 Mileage: 30 miles Transmission: Manual Fuel: Diesel Price: £32,995 Colour: Black Body Style: Coupe Vehicle Trim / Variant: M Sport EC Combined (mpg) 60.1 EC Extra Urban (mpg) 67.3 EC Urban (mpg) 50.4  &gt; 60 MPG 30 Insurance Group 190 Performance (BHP) 4 Seats 125 CO2 (g/km) £110 Road Tax History Checked Vehicle Trim / Variant: M Sport Insurance Group 30, 1 Registered Keeper, 3x3 point rear seat belts, ABS(Anti- Lock Brakes), Alarm, Audio remote control, Auxiliary input socket, Bluetooth connection, Body coloured bumpers, Climate control, Cruise control, Curtain airbags, Digital radio, Drivers airbag, DVD, ESP, Front armrest, Front electric windows, Front fog lights, Front head restraints, Front parking sensor, Headlight washers, Heated front seat, Immobiliser, Isofix child seat anchor points, Media storage, Mobile phone App interface, Navigation system, Passenger airbag, Radio/CD, Rear armrest, Rear headrests, Rear parking sensor, Remote central locking, Reverse parking aid, Service indicator, Side airbags, Sports seats, Steering wheel mounted controls, Steering wheel rake adjustment, Steering wheel reach adjustment, Traction control, Trip computer, Tyre pressure monitor Exact specification may vary from the details on this page. Please contact the seller via our email dealer form or on 0141 413 9591 to reconfirm any details before purchasing. See terms &amp; conditions for further info. Review Rating The <NODE id="1552" />BMW<NODE id="1555" /> <NODE id="1556" />4 Series Coupe<NODE id="1570" /> is a replacement for the out-going <NODE id="1606" />3 Series Coupe<NODE id="1620" /> and marks the start of the <NODE id="1648" />firm’s<NODE id="1654" /> new naming structure, which will also see a <NODE id="1699" />2 Series Coupe<NODE id="1713" /> and convertible based on the <NODE id="1743" />1 Series hatchback<NODE id="1761" />. Distinctive styling Efficient engines Driving Experience Will be more expensive than out-going model Review provided by: The following features are fitted on this car... ABS Alarm Audio remote control Bluetooth Connection Climate control Cruise control DAB digital radio DVD Front electric windows Front fog lights Headlight washers Heated front seat Immobiliser Isofix child seat anchor points Navigation system Passenger airbag Radio/CD Remote central locking Reverse parking aid Service indicator Side airbags Sports seats Traction control Trip computer Equipment This equipment listed below is a standard description and may differ from the exact detail for the vehicle displayed. If you require further clarification call us on 0141 413 9591 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Comfort / Convenience 12V sockets in front centre console and passenger footwell 2 speed adjustable intermittent wipers with wash/wipe function 3 spoke leather M multifunction sports steering wheel 4 grab handles ABS/EBD Anthracite headlining Auto dimming rear view mirror Automatic Stability Control (ASC) <NODE id="2935" />BMW<NODE id="2938" /> emergency call <NODE id="2954" />BMW<NODE id="2957" /> teleservices Body colour door mirrors Brake pad wear indicator warning light CBC - (Cornering brake control) Check control system Cruise control with brake function Door/boot open warning Drive Performance Control DSC+ Dual zone climate control Dynamic brake control Dynamic Traction Control - DTC Electric front windows/one touch facility Folding storage compartment with glasses holder + coin tray Front centre armrest with storage compartment Front cupholders x 2 Front head restraints Front sports seats with electric side bolster adjustment Front/rear armrests within door panels Front/rear Parking distance control Full black panel display Glovebox with lid Heat insulating tinted glass Heated front seats Heated windscreen washer jets Hill start assist Integrated rear head restraints ISOFIX child seat preparation+airbag deactivation Lashing eyelets in boot Leather gearknob Leather handbrake grip Lights on warning Oil temperature gauge On board computer Outside temperature display Rain sensor including auto headlights activation Reach + rake adjustable steering column Rear centre armrest Run flat indicator Service interval indicator Stop/start button Storage compartment in rear centre console Toolkit located in luggage compartment Windscreen with grey shadeband Entertainment Auxiliary point for auxiliary devices Bluetooth audio streaming <NODE id="4314" />BMW<NODE id="4317" /> professional radio/CD/MP3 DAB Digital radio Exterior / Styling Body colour bumpers Body colour door handles Body colour roof mouldings Chrome exhaust tailpipe Chrome kidney grille with chrome vertical slats Daytime running lights Door sill finishers Extended lights package - 4 Series Follow me home headlights Front fog lights Headlight washers High gloss shadow line M aerodynamic bodystyling Media pack - Professional - 4 Series Safety / Security 3 point seatbelts on all seats Crash Sensor - activates hazard/interior lighting + unlocks doors Drive away door locking Driver seatbelt warning indicator Driver/Front Passenger airbags Electronic immobiliser Front seatbelt force limiters Front seatbelt pretensioner Front side airbags ITS head airbags for front/rear Remote central locking Remote control Thatcham category 1 alarm Tyre pressure monitor Warning triangle and first aid kit Technical Specifications The technical specifications detailed below may differ from the exact specifications for the vehicle displayed. If you require further clarification call us on 0141 413 9591 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Emissions CO2 (g/km) 125
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/e215ca1b-f26e-33c9-a056-10010a88d866" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-05T11:13:50Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:01:03.034Z" />
+<feature featureName="uri" featureValue="http://www.carmony.co.uk/car-40013162/spw" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="15" type="organization" surface="BMW" />
+<Entity id="1" startPos="12" endPos="54" type="product" surface="BMW 4 Series 420d [190] xDrive M Sport 2dr" />
+<Entity id="2" startPos="16" endPos="54" type="head" surface="4 Series 420d [190] xDrive M Sport 2dr" />
+<Entity id="3" startPos="1552" endPos="1555" type="organization" surface="BMW" />
+<Entity id="4" startPos="1552" endPos="1570" type="product" surface="BMW 4 Series Coupe" />
+<Entity id="5" startPos="1556" endPos="1570" type="head" surface="4 Series Coupe" />
+<Entity id="6" startPos="1606" endPos="1620" type="product" surface="3 Series Coupe" />
+<Entity id="7" startPos="1648" endPos="1654" type="organization" surface="firm’s" />
+<Entity id="8" startPos="1699" endPos="1713" type="product" surface="2 Series Coupe" />
+<Entity id="9" startPos="1743" endPos="1761" type="product" surface="1 Series hatchback" />
+<Entity id="10" startPos="2935" endPos="2938" type="organization" surface="BMW" />
+<Entity id="11" startPos="2954" endPos="2957" type="organization" surface="BMW" />
+<Entity id="12" startPos="4314" endPos="4317" type="organization" surface="BMW" /></Entities><Relations>
+<Relation id="13" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="14" NAME="CompanyProvidesProduct">
+<Entity id="6" label="product" />
+<Entity id="3" label="company" />
+</Relation>
+<Relation id="15" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="3" label="company" />
+</Relation>
+<Relation id="16" NAME="CompanyProvidesProduct">
+<Entity id="8" label="product" />
+<Entity id="7" label="company" />
+</Relation>
+<Relation id="17" NAME="CompanyProvidesProduct">
+<Entity id="9" label="product" />
+<Entity id="7" label="company" />
+</Relation>
+<Relation id="18" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="3" label="target" />
+<Entity id="11" label="target" />
+<Entity id="10" label="target" />
+<Entity id="12" label="target" />
+<Entity id="7" label="target" />
+</Relation>
+<Relation id="19" NAME="entity_head">
+<Entity id="1" label="full_extent" />
+<Entity id="2" label="head" />
+</Relation>
+<Relation id="20" NAME="entity_head">
+<Entity id="4" label="full_extent" />
+<Entity id="5" label="head" />
+</Relation></Relations>
+</Document>

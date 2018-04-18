@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>2011 - <NODE id="7" />Ford<NODE id="11" /> <NODE id="12" />C-MAX 1.6TDCi Titanium 110<NODE id="38" /> 5 door [DPF] £8,900 Loading Images... Date Registered: Sep 2011 Mileage: 42,636 miles Transmission: Manual Fuel: Diesel Price: £8,900 Colour: White Body Style: People Carrier Vehicle Trim / Variant: Titanium EC Combined (mpg) 62.8 EC Extra Urban (mpg) 76.3 EC Urban (mpg) 48.7  &gt; 62 MPG 18 Insurance Group 109 Performance (BHP) 5 Seats 0 CO2 (g/km) History Checked Vehicle Trim / Variant: Titanium Insurance Group 18, 1 Registered Keeper, Remote audio controls on steering wheel, Auxiliary in-line audio connector, Bluetooth + USB, Lights on warning, Electro-hydraulic PAS, Low fuel warning light, Front and rear parking sensors, Cruise control with speed limiter, Heated rear window, Body colour door handles, Body colour bumpers with black rubbing strip, Front fog lamps, Body colour electric/heated door mirrors, Intermittent rear wash/wipe, Radiator grille with chrome surround, Rear bumper scratch pad moulding, Headlamps with delay, Door mirrors with turn signal and puddle lamps, Black scuff plates, Integral rear spoiler, Front wipers with variable intermittent facility, Rear LED lights, Quickclear windscreen, Body coloured bodyside mouldings, Blue tinted glass, Electric front and rear windows with driver's one touch and global close, Heated front seats, Rake/reach adjustable Exact specification may vary from the details on this page. Please contact the seller via our email dealer form or on 0116 214 9136 to reconfirm any details before purchasing. See terms &amp; conditions for further info. Review Rating <NODE id="1559" />Ford<NODE id="1563" /> was a little late in launching a compact people carrier but the <NODE id="1628" />Focus C-MAX<NODE id="1639" /> (rebadged as just the C-MAX in 2007) made a big impact in the market. read more Superb interior build quality, solid feel, neat styling No seven seat option, not as practical or flexible as some people carriers Review provided by: The following features are fitted on this car... ABS Alarm Audio remote control Electric door mirrors Electrically adjustable drivers seat Folding rear seats Front electric windows Front fog lights Heated door mirrors Heated front seat Height adjustable drivers seat Immobiliser Isofix child seat anchor points PAS Passenger airbag Rear electric windows Remote central locking Side airbags Traction control Equipment This equipment listed below is a standard description and may differ from the exact detail for the vehicle displayed. If you require further clarification call us on 0116 214 9136 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Comfort / Convenience ABS+Electronic Brake force Distribution Air recirculation system Aircraft type trays in front seat backrests Aluminium effect interior door handles Aluminium finish on handbrake button Anti submarining seats Blue tinted glass Body colour electric/heated door mirrors Centre armrest with storage box Comfort seats Diagonally sliding outer rear seats Door mirrors with turn signal and puddle lamps Driver sunglasses holder Driver/passenger lumbar adjustment Driver's seat electric height adjustment Electric front and rear windows with driver's one touch and global close Electric parking brake inc premium centre console+centre armrest+storage bin Electro-hydraulic PAS Emergency brake assist ESP Front door storage bins Front seatback pockets Front wipers with variable intermittent facility Fully adjustable front headrests Fully reclining front seats Grab handles Heated front seats Heated rear window Illuminated glovebox Integrated rear sunblinds Intermittent rear wash/wipe Isofix child seat preparation Leather gear knob Leather steering wheel Lights on warning Low fuel warning light Luggage area tonneau cover Passenger seat height adjuster Pollen/active carbon filters Quickclear windscreen Rake/reach adjustable steering wheel Rear power outlet Rear seat underfloor storage Satin aluminium finish to instrument cluster rings Storage box in instrument panel Three adjustable rear head restraints Versatile split folding rear seat - 40/20/40 Entertainment Auxiliary in-line audio connector Remote audio controls on steering wheel Exterior / Styling Black scuff plates Body colour bumpers with black rubbing strip Body colour door handles Body coloured bodyside mouldings Front fog lamps Headlamps with delay Integral rear spoiler Radiator grille with chrome surround Rear bumper scratch pad moulding Rear LED lights Visibility pack - Focus C-Max Safety / Security 5 three point inertia reel seatbelts Anti-theft immobiliser Central locking fuel filler cap Driver and passenger airbags Driver and passenger side airbags Front and rear curtain airbags Height adjustable front seatbelts Lockable bonnet release Remote central double locking Second remote key Side impact door beams Thatcham 1 volume sensing alarm Two tone horn Visible vehicle identification number Technical Specifications The technical specifications detailed below may differ from the exact specifications for the vehicle displayed. If you require further clarification call us on 0116 214 9136 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Emissions CO2 (g/km) 119
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/ada2d99d-7584-349b-b451-f33637d3d505" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-22T22:09:31Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:41:00.99Z" />
+<feature featureName="uri" featureValue="http://www.carmony.co.uk/car-40011779/ds" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="7" endPos="11" type="organization" surface="Ford" />
+<Entity id="1" startPos="7" endPos="38" type="product" surface="Ford C-MAX 1.6TDCi Titanium 110" />
+<Entity id="2" startPos="12" endPos="38" type="head" surface="C-MAX 1.6TDCi Titanium 110" />
+<Entity id="3" startPos="1559" endPos="1563" type="organization" surface="Ford" />
+<Entity id="4" startPos="1628" endPos="1639" type="product" surface="Focus C-MAX" /></Entities><Relations>
+<Relation id="5" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="6" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="3" label="company" />
+</Relation>
+<Relation id="7" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="3" label="target" />
+</Relation>
+<Relation id="8" NAME="entity_head">
+<Entity id="1" label="full_extent" />
+<Entity id="2" label="head" />
+</Relation></Relations>
+</Document>

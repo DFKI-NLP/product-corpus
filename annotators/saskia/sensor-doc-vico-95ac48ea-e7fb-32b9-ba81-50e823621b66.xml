@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Cornerstone Communications, LTD<NODE id="31" /> of Rockville, Maryland Is Awarded <NODE id="66" />Parkifi<NODE id="73" />'s North American Agency Contract Agency selected as a direct result of experience and a clear understanding of <NODE id="185" />Parkifi<NODE id="192" />’s market <NODE id="202" />Parkifi<NODE id="209" /> is changing the way we look at smart cities, big data, the Internet of Things (IoT), and parking operations. Denver, Colorado and Rockville, Maryland (PRWEB) February 04, 2016 <NODE id="386" />Cornerstone Communications, LTD<NODE id="417" /> was selected by <NODE id="434" />Parkifi<NODE id="441" /> as its North American public relations and marketing strategy agency of record. <NODE id="522" />Cornerstone<NODE id="533" /> was awarded the <NODE id="550" />Parkifi<NODE id="557" /> contract because of its significant expertise in the technology, traffic, parking, municipality, and property management verticals. Headquartered in Denver, Colorado, <NODE id="725" />Parkifi<NODE id="732" /> is a fast-growing technology <NODE id="762" />company focused on providing their customers with<NODE id="811" /> <NODE id="812" />real-time parking data<NODE id="834" />. This real-time, spot-level <NODE id="863" />data<NODE id="867" /> enables parking managers to run their operation more efficiently and drivers to find a parking space faster. <NODE id="977" />Parkifi<NODE id="984" /> has <NODE id="989" />their<NODE id="994" /> <NODE id="995" />smart sensors<NODE id="1008" /> installed across the nation and continues to see consistent growth. '<NODE id="1078" />Parkifi<NODE id="1085" /> is changing the way we look at smart cities, big data, the Internet of Things (IoT) and parking operations , said Brooke Greenwald, President, <NODE id="1229" />Cornerstone Communications, LTD<NODE id="1260" />. 'The <NODE id="1267" />data<NODE id="1271" /> and <NODE id="1276" />analytics<NODE id="1285" /> <NODE id="1286" />Parkifi<NODE id="1293" /> <NODE id="1294" />offers its customers<NODE id="1314" /> enables them to better understand how their parking inventory is being utilized on a daily basis, as well as historically. <NODE id="1438" />Parkifi<NODE id="1445" /> was founded on the premise that if technology helps solve the food delivery woes of the world, why can’t it help us solve parking inefficiencies?' <NODE id="1593" />Parkifi<NODE id="1600" /> uses <NODE id="1606" />their<NODE id="1611" /> unique <NODE id="1619" />sensors<NODE id="1626" /> to detect occupancy in individual parking spaces while delivering such <NODE id="1698" />data<NODE id="1702" />, along with weather, event and other valuable <NODE id="1749" />data<NODE id="1753" />, to parking operators in real time. The <NODE id="1794" />sensor<NODE id="1800" />, equipped with Bluetooth connectivity, also communicates with users’ <NODE id="1870" />smartphones<NODE id="1881" /> via a third party <NODE id="1900" />mobile app<NODE id="1910" />, directing them to open parking spaces. 'We are thrilled to be working with <NODE id="1987" />Cornerstone Communications, LTD<NODE id="2018" />,' said Ryan Sullivan, CEO and Co-Founder. 'Our goal is to equip parking operators with tools they’ve never had before, in order to grow their top line, while also creating a far better experience for drivers trying to find parking. <NODE id="2251" />Parkifi<NODE id="2258" /> is more than a <NODE id="2274" />parking sensor<NODE id="2288" /> <NODE id="2289" />company<NODE id="2296" />, we are changing the way cities operate. With our <NODE id="2347" />sensors<NODE id="2354" />, we can reduce city traffic and parking hassles by directing drivers to a parking space, all through our partner <NODE id="2468" />mobile apps<NODE id="2479" /> on their <NODE id="2489" />smartphone<NODE id="2499" />. Our real-time dashboard provides the robust <NODE id="2545" />data<NODE id="2549" /> operators need to solve the pervasive parking problems that make our cities inefficient. We’re looking forward to what working with <NODE id="2682" />Cornerstone<NODE id="2693" /> will mean for <NODE id="2708" />Parkifi<NODE id="2715" />’s national presence.' About <NODE id="2744" />Parkifi<NODE id="2751" /> <NODE id="2752" />Parkifi<NODE id="2759" />, a real-time parking spot occupancy platform, <NODE id="2806" />provides<NODE id="2814" /> <NODE id="2815" />real-time occupancy data<NODE id="2839" /> tailored for parking and property management. <NODE id="2886" />Parkifi<NODE id="2893" /> installs <NODE id="2903" />smart sensors<NODE id="2916" /> in individual parking spaces to monitor occupancy, average parking times, pricing optimization trends and outcomes, violations and more. For more information visit http://www.parkifi.com About <NODE id="3110" />Cornerstone Communications, LTD<NODE id="3141" /> <NODE id="3142" />Cornerstone Communications, LTD<NODE id="3173" /> is a public relations, marketing strategy, and integrated communications agency focusing on the technology, consumer, telecommunications, and business-to-business vertical markets. <NODE id="3355" />Cornerstone<NODE id="3366" /> has extensive experience working with organizations of all sizes, from startup to Fortune 1000. For more information on <NODE id="3487" />Cornerstone<NODE id="3498" />, please contact Brooke Greenwald at brooke(at)cornerstonepr.net or visit http://www.cornerstonepr.net . Share article on social media or email: View article via:
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/95ac48ea-e7fb-32b9-ba81-50e823621b66" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-04T23:26:59Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:31:55.563Z" />
+<feature featureName="uri" featureValue="http://www.prweb.com/releases/2016/02/prweb13196785.htm" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="31" type="organization" surface="Cornerstone Communications, LTD" />
+<Entity id="1" startPos="66" endPos="73" type="organization" surface="Parkifi" />
+<Entity id="2" startPos="185" endPos="192" type="organization" surface="Parkifi" />
+<Entity id="3" startPos="202" endPos="209" type="organization" surface="Parkifi" />
+<Entity id="4" startPos="386" endPos="417" type="organization" surface="Cornerstone Communications, LTD" />
+<Entity id="5" startPos="434" endPos="441" type="organization" surface="Parkifi" />
+<Entity id="6" startPos="522" endPos="533" type="organization" surface="Cornerstone" />
+<Entity id="7" startPos="550" endPos="557" type="organization" surface="Parkifi" />
+<Entity id="8" startPos="725" endPos="732" type="organization" surface="Parkifi" />
+<Entity id="9" startPos="762" endPos="811" type="trigger" surface="company focused on providing their customers with" />
+<Entity id="10" startPos="812" endPos="834" type="product" surface="real-time parking data" />
+<Entity id="11" startPos="863" endPos="867" type="product" surface="data" />
+<Entity id="12" startPos="977" endPos="984" type="organization" surface="Parkifi" />
+<Entity id="13" startPos="989" endPos="994" type="trigger" surface="their" />
+<Entity id="14" startPos="995" endPos="1008" type="product" surface="smart sensors" />
+<Entity id="15" startPos="1078" endPos="1085" type="organization" surface="Parkifi" />
+<Entity id="16" startPos="1229" endPos="1260" type="organization" surface="Cornerstone Communications, LTD" />
+<Entity id="17" startPos="1267" endPos="1271" type="product" surface="data" />
+<Entity id="18" startPos="1276" endPos="1285" type="product" surface="analytics" />
+<Entity id="19" startPos="1286" endPos="1293" type="organization" surface="Parkifi" />
+<Entity id="20" startPos="1294" endPos="1314" type="trigger" surface="offers its customers" />
+<Entity id="21" startPos="1438" endPos="1445" type="organization" surface="Parkifi" />
+<Entity id="22" startPos="1593" endPos="1600" type="organization" surface="Parkifi" />
+<Entity id="23" startPos="1606" endPos="1611" type="trigger" surface="their" />
+<Entity id="24" startPos="1619" endPos="1626" type="product" surface="sensors" />
+<Entity id="25" startPos="1698" endPos="1702" type="product" surface="data" />
+<Entity id="26" startPos="1749" endPos="1753" type="product" surface="data" />
+<Entity id="27" startPos="1794" endPos="1800" type="product" surface="sensor" />
+<Entity id="28" startPos="1870" endPos="1881" type="product" surface="smartphones" />
+<Entity id="29" startPos="1900" endPos="1910" type="product" surface="mobile app" />
+<Entity id="30" startPos="1987" endPos="2018" type="organization" surface="Cornerstone Communications, LTD" />
+<Entity id="31" startPos="2251" endPos="2258" type="organization" surface="Parkifi" />
+<Entity id="32" startPos="2274" endPos="2288" type="product" surface="parking sensor" />
+<Entity id="33" startPos="2289" endPos="2296" type="trigger" surface="company" />
+<Entity id="34" startPos="2347" endPos="2354" type="product" surface="sensors" />
+<Entity id="35" startPos="2468" endPos="2479" type="product" surface="mobile apps" />
+<Entity id="36" startPos="2489" endPos="2499" type="product" surface="smartphone" />
+<Entity id="37" startPos="2545" endPos="2549" type="product" surface="data" />
+<Entity id="38" startPos="2682" endPos="2693" type="organization" surface="Cornerstone" />
+<Entity id="39" startPos="2708" endPos="2715" type="organization" surface="Parkifi" />
+<Entity id="40" startPos="2744" endPos="2751" type="organization" surface="Parkifi" />
+<Entity id="41" startPos="2752" endPos="2759" type="organization" surface="Parkifi" />
+<Entity id="42" startPos="2806" endPos="2814" type="trigger" surface="provides" />
+<Entity id="43" startPos="2815" endPos="2839" type="product" surface="real-time occupancy data" />
+<Entity id="44" startPos="2886" endPos="2893" type="organization" surface="Parkifi" />
+<Entity id="45" startPos="2903" endPos="2916" type="product" surface="smart sensors" />
+<Entity id="46" startPos="3110" endPos="3141" type="organization" surface="Cornerstone Communications, LTD" />
+<Entity id="47" startPos="3142" endPos="3173" type="organization" surface="Cornerstone Communications, LTD" />
+<Entity id="48" startPos="3355" endPos="3366" type="organization" surface="Cornerstone" />
+<Entity id="49" startPos="3487" endPos="3498" type="organization" surface="Cornerstone" /></Entities><Relations>
+<Relation id="50" NAME="company_provides_product">
+<Entity id="10" label="product" />
+<Entity id="9" label="trigger" />
+<Entity id="8" label="company" />
+</Relation>
+<Relation id="51" NAME="company_provides_product">
+<Entity id="14" label="product" />
+<Entity id="13" label="trigger" />
+<Entity id="12" label="company" />
+</Relation>
+<Relation id="52" NAME="company_provides_product">
+<Entity id="17" label="product" />
+<Entity id="18" label="product" />
+<Entity id="20" label="trigger" />
+<Entity id="19" label="company" />
+</Relation>
+<Relation id="53" NAME="company_provides_product">
+<Entity id="24" label="product" />
+<Entity id="23" label="trigger" />
+<Entity id="22" label="company" />
+</Relation>
+<Relation id="54" NAME="company_provides_product">
+<Entity id="32" label="product" />
+<Entity id="33" label="trigger" />
+<Entity id="31" label="company" />
+</Relation>
+<Relation id="55" NAME="company_provides_product">
+<Entity id="43" label="product" />
+<Entity id="42" label="trigger" />
+<Entity id="41" label="company" />
+</Relation></Relations>
+</Document>

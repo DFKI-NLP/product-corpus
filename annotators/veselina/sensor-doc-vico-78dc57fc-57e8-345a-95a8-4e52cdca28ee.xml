@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Thursday, January 21, 2016 Last update: 10:33 AM FreshNews.com - Covering Large &amp; Obscure Tech Companies Since 1996 100V H-bridge MOSFETs from Diodes Incorporated Reduces Footprint with 5mm x 4.5mm Package Submitted by admin on 1/21/2016 @ 7:00 AM Companies mentioned in this article: <NODE id="285" />Diodes Incorporated<NODE id="304" /> <NODE id="305" />PLANO, Texas<NODE id="317" /> -- (BUSINESS WIRE) -- <NODE id="340" />Diodes Incorporated<NODE id="359" /> (Nasdaq: <NODE id="369" />DIOD<NODE id="373" />), a leading global manufacturer and supplier of high-quality application specific standard products within the broad discrete, logic and analog semiconductor markets, today introduced the <NODE id="562" />DMHC10H170SFJ<NODE id="575" />. This 100V full H-bridge incorporates dual N-channel and P-channel MOSFETs into a tiny (5mm x 4.5mm) DFN5045 package. This configuration reduces component count and board space, which is especially important in applications that require multiple devices, such as the array of ultrasonic transducers used for industrial inspection systems or found in marine sonar equipment. Other common applications include driving DC motors in 48V telecom fans and other inductive loads such as the coils in wireless charging pads. The DMHC10H170SFJ has a 100V drain-source breakdown voltage (BVDSS) providing sufficient headroom to support 48V telecom rails and industrial applications, while having a 5V gate voltage to simplify designs with a direct logic level interface to MCUs. An 11A peak pulse current rating also means the device can handle the in-rush current from energizing a coil, which is usually greater than five times the typical operating current of a DC motor. The DMHC10H170SFJ is able to replace four SOT23 or two SO-8 packages, which enables compact arrays of multiple ultrasonic transducers. An example of this is 1024 transducers each needing to be individually driven with an H-bridge, providing steerable and focused beams for phased-array systems. Such systems are used in manufacturing for material flaw inspection or in marine echo-location systems. The DMHC10H170SFJ is supplied in a V-DFN5045-12 package, which provides a uniquely small solution for the market. For further information, visit the Company's website at www.diodes.com . About <NODE id="2133" />Diodes Incorporated<NODE id="2152" /> <NODE id="2153" />Diodes Incorporated<NODE id="2172" /> (Nasdaq: <NODE id="2182" />DIOD<NODE id="2186" />), a Standard and Poor's SmallCap 600 and Russell 3000 Index company, is a <NODE id="2261" />leading global <NODE id="2276" />manufacturer<NODE id="2288" /> and <NODE id="2293" />supplier<NODE id="2301" /> of high-quality application specific standard products within the <NODE id="2368" />broad discrete, logic and analog <NODE id="2401" />semiconductor<NODE id="2414" /> <NODE id="2415" />markets<NODE id="2422" />. <NODE id="2424" />Diodes<NODE id="2430" /> <NODE id="2431" />serves<NODE id="2437" /> the <NODE id="2442" />consumer electronics, computing, communications, industrial, and automotive<NODE id="2517" /> markets<NODE id="2525" />. <NODE id="2527" />Diodes<NODE id="2533" />' <NODE id="2535" />products<NODE id="2543" /> include <NODE id="2552" />diodes<NODE id="2558" />, <NODE id="2560" />rectifiers<NODE id="2570" />, <NODE id="2572" />transistors<NODE id="2583" />, <NODE id="2585" />MOSFETs<NODE id="2592" />, <NODE id="2594" />protection devices<NODE id="2612" />, <NODE id="2614" />functional specific arrays<NODE id="2640" />, <NODE id="2642" />single gate logic<NODE id="2659" />, <NODE id="2661" />amplifiers and comparators<NODE id="2687" />, <NODE id="2689" />Hall-effect and temperature sensors<NODE id="2724" />; <NODE id="2726" />power management devices<NODE id="2750" />, including <NODE id="2762" />LED drivers<NODE id="2773" />, <NODE id="2775" />AC-DC converters and controllers<NODE id="2807" />, <NODE id="2809" />DC-DC switching and linear voltage regulators<NODE id="2854" />, and <NODE id="2860" />voltage references<NODE id="2878" /> along with <NODE id="2890" />special function devices<NODE id="2914" />, such as <NODE id="2924" />USB power switches<NODE id="2942" />, <NODE id="2944" />load switches<NODE id="2957" />, <NODE id="2959" />voltage supervisors<NODE id="2978" />, and <NODE id="2984" />motor controllers<NODE id="3001" />. <NODE id="3003" />Diodes<NODE id="3009" />' <NODE id="3011" />corporate headquarters<NODE id="3033" /> and <NODE id="3038" />Americas' sales office<NODE id="3060" /> are <NODE id="3065" />located<NODE id="3072" /> in <NODE id="3076" />Plano, Texas<NODE id="3088" />. Design, marketing, and engineering centers are located in Plano; San Jose, California; Taipei, Taiwan; Manchester, England; and Neuhaus, Germany. Diodes' wafer fabrication facilities are located in Kansas City, Missouri and Manchester, with two additional facilities located in Shanghai, China. Diodes has assembly and test facilities located in Shanghai and in Chengdu, China, as well as in Neuhaus and in Taipei. Additional engineering, sales, warehouse, and logistics offices are located in Taipei; Hong Kong; Manchester; Shanghai; Shenzhen, China; Seongnam-si, South Korea; and Munich, Germany, with support offices throughout the world. For further information, including SEC filings, visit Diodes' website at www.diodes.com . View source version on businesswire.com: http://www.businesswire.com/news/home/20160121005074/en/ Copyright Business Wire 2016 Contact: Company Contact: Diodes Incorporated Francis Tang VP, Worldwide Discrete Products P: 972-987-3900 E: pressinquiries@diodes.com or Investor Relations Contact: Shelton Group Leanne K. Sievers EVP, Investor Relations P: 949-224-3874 E: lsievers@sheltongroup.com
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/78dc57fc-57e8-345a-95a8-4e52cdca28ee" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-21T20:52:35Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:20:55.856Z" />
+<feature featureName="uri" featureValue="http://www.freshnews.com/news/1177100/100v-h-bridge-mosfets-diodes-incorporated-reduces-footprint-5mm-x-4-5mm-package" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="285" endPos="304" type="organization" surface="Diodes Incorporated" />
+<Entity id="1" startPos="305" endPos="317" type="location" surface="PLANO, Texas" />
+<Entity id="2" startPos="340" endPos="359" type="organization" surface="Diodes Incorporated" />
+<Entity id="3" startPos="369" endPos="373" type="organization" surface="DIOD" />
+<Entity id="4" startPos="562" endPos="575" type="product" surface="DMHC10H170SFJ" />
+<Entity id="5" startPos="2133" endPos="2152" type="organization" surface="Diodes Incorporated" />
+<Entity id="6" startPos="2153" endPos="2172" type="organization" surface="Diodes Incorporated" />
+<Entity id="7" startPos="2182" endPos="2186" type="organization" surface="DIOD" />
+<Entity id="8" startPos="2261" endPos="2301" type="head" surface="leading global manufacturer and supplier" />
+<Entity id="9" startPos="2261" endPos="2422" type="organization" surface="leading global manufacturer and supplier of high-quality application specific standard products within the broad discrete, logic and analog semiconductor markets" />
+<Entity id="10" startPos="2276" endPos="2288" type="provide_type" surface="manufacturer" />
+<Entity id="11" startPos="2276" endPos="2288" type="trigger" surface="manufacturer" />
+<Entity id="12" startPos="2293" endPos="2301" type="provide_type" surface="supplier" />
+<Entity id="13" startPos="2293" endPos="2301" type="trigger" surface="supplier" />
+<Entity id="14" startPos="2368" endPos="2422" type="industry" surface="broad discrete, logic and analog semiconductor markets" />
+<Entity id="15" startPos="2401" endPos="2414" type="head" surface="semiconductor" />
+<Entity id="16" startPos="2415" endPos="2422" type="trigger" surface="markets" />
+<Entity id="17" startPos="2424" endPos="2430" type="organization" surface="Diodes" />
+<Entity id="18" startPos="2431" endPos="2437" type="trigger" surface="serves" />
+<Entity id="19" startPos="2442" endPos="2517" type="head" surface="consumer electronics, computing, communications, industrial, and automotive" />
+<Entity id="20" startPos="2442" endPos="2525" type="industry" surface="consumer electronics, computing, communications, industrial, and automotive markets" />
+<Entity id="21" startPos="2527" endPos="2533" type="organization" surface="Diodes" />
+<Entity id="22" startPos="2535" endPos="2543" type="trigger" surface="products" />
+<Entity id="23" startPos="2552" endPos="2558" type="product" surface="diodes" />
+<Entity id="24" startPos="2560" endPos="2570" type="product" surface="rectifiers" />
+<Entity id="25" startPos="2572" endPos="2583" type="product" surface="transistors" />
+<Entity id="26" startPos="2585" endPos="2592" type="product" surface="MOSFETs" />
+<Entity id="27" startPos="2594" endPos="2612" type="product" surface="protection devices" />
+<Entity id="28" startPos="2614" endPos="2640" type="product" surface="functional specific arrays" />
+<Entity id="29" startPos="2642" endPos="2659" type="product" surface="single gate logic" />
+<Entity id="30" startPos="2661" endPos="2687" type="product" surface="amplifiers and comparators" />
+<Entity id="31" startPos="2689" endPos="2724" type="product" surface="Hall-effect and temperature sensors" />
+<Entity id="32" startPos="2726" endPos="2750" type="product_group" surface="power management devices" />
+<Entity id="33" startPos="2762" endPos="2773" type="product" surface="LED drivers" />
+<Entity id="34" startPos="2775" endPos="2807" type="product" surface="AC-DC converters and controllers" />
+<Entity id="35" startPos="2809" endPos="2854" type="product" surface="DC-DC switching and linear voltage regulators" />
+<Entity id="36" startPos="2860" endPos="2878" type="product" surface="voltage references" />
+<Entity id="37" startPos="2890" endPos="2914" type="product_group" surface="special function devices" />
+<Entity id="38" startPos="2924" endPos="2942" type="product" surface="USB power switches" />
+<Entity id="39" startPos="2944" endPos="2957" type="product" surface="load switches" />
+<Entity id="40" startPos="2959" endPos="2978" type="product" surface="voltage supervisors" />
+<Entity id="41" startPos="2984" endPos="3001" type="product" surface="motor controllers" />
+<Entity id="42" startPos="3003" endPos="3009" type="organization" surface="Diodes" />
+<Entity id="43" startPos="3011" endPos="3033" type="trigger" surface="corporate headquarters" />
+<Entity id="44" startPos="3038" endPos="3060" type="facility-type" surface="Americas' sales office" />
+<Entity id="45" startPos="3065" endPos="3072" type="trigger" surface="located" />
+<Entity id="46" startPos="3076" endPos="3088" type="location" surface="Plano, Texas" /></Entities><Relations>
+<Relation id="47" NAME="company_facility">
+<Entity id="42" label="company" />
+<Entity id="46" label="location" />
+<Entity id="44" label="facility_type" />
+<Entity id="45" label="trigger" />
+</Relation>
+<Relation id="48" NAME="company_headquarters">
+<Entity id="1" label="headquarter" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="49" NAME="company_headquarters">
+<Entity id="46" label="headquarter" />
+<Entity id="42" label="company" />
+<Entity id="43" label="trigger" />
+<Entity id="45" label="trigger" />
+</Relation>
+<Relation id="50" NAME="company_industry">
+<Entity id="9" label="company" />
+<Entity id="14" label="industry" />
+<Entity id="16" label="trigger" />
+</Relation>
+<Relation id="51" NAME="company_industry">
+<Entity id="17" label="company" />
+<Entity id="20" label="industry" />
+<Entity id="18" label="trigger" />
+</Relation>
+<Relation id="52" NAME="company_provides_product">
+<Entity id="4" label="product" />
+<Entity id="2" label="company" />
+</Relation>
+<Relation id="53" NAME="company_provides_product">
+<Entity id="24" label="product" />
+<Entity id="23" label="product" />
+<Entity id="26" label="product" />
+<Entity id="29" label="product" />
+<Entity id="37" label="product" />
+<Entity id="30" label="product" />
+<Entity id="27" label="product" />
+<Entity id="31" label="product" />
+<Entity id="32" label="product" />
+<Entity id="25" label="product" />
+<Entity id="28" label="product" />
+<Entity id="21" label="company" />
+<Entity id="22" label="trigger" />
+</Relation>
+<Relation id="54" NAME="entity_head">
+<Entity id="8" label="head" />
+<Entity id="9" label="full_extent" />
+</Relation>
+<Relation id="55" NAME="entity_head">
+<Entity id="15" label="head" />
+<Entity id="14" label="full_extent" />
+</Relation>
+<Relation id="56" NAME="entity_head">
+<Entity id="19" label="head" />
+<Entity id="20" label="full_extent" />
+</Relation>
+<Relation id="57" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="9" label="target" />
+<Entity id="7" label="target" />
+<Entity id="3" label="target" />
+<Entity id="6" label="target" />
+<Entity id="5" label="target" />
+<Entity id="2" label="target" />
+</Relation>
+<Relation id="58" NAME="member_of_group">
+<Entity id="33" label="member" />
+<Entity id="36" label="member" />
+<Entity id="34" label="member" />
+<Entity id="35" label="member" />
+<Entity id="32" label="group" />
+</Relation>
+<Relation id="59" NAME="member_of_group">
+<Entity id="41" label="member" />
+<Entity id="40" label="member" />
+<Entity id="39" label="member" />
+<Entity id="38" label="member" />
+<Entity id="37" label="group" />
+</Relation></Relations>
+</Document>

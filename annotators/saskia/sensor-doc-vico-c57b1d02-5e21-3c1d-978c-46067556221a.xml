@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Why <NODE id="4" />self-driving cars<NODE id="21" /> should be required to pass driving tests By Jim Gorzelany CTW Features A report suggests states should test and certify future <NODE id="149" />autopilot cars<NODE id="163" />' mettle before turning them loose on the roads Every state in the union requires motorists to pass a battery of tests in order to be licensed to drive, so why not hold tomorrow's <NODE id="343" />autopilot vehicles<NODE id="361" /> to the same standards? That's a notion recently discussed in a white paper written by Michael Sivak and Brandon Schoettle of the <NODE id="491" />University of Michigan<NODE id="513" />'s Transportation Research Institute. Just as with human drivers, whose eyesight, knowledge of the rules of the road, psychomotor skills and driving experience will vary from person to person, so too can we expect the performance of <NODE id="746" />autonomous vehicles<NODE id="765" /> to differ from one model to another. Already, the website Autoblog reports that within a few days of being released, the <NODE id="887" />luxury-electric <NODE id="903" />Tesla<NODE id="908" /> Model S sedan<NODE id="922" />'s rudimentary <NODE id="937" />autopilot software<NODE id="955" /> caused its owner to be issued a citation for speeding in Florida for doing a lead-footed 75 mph in a 60- mph zone. While Sivak and Schoettle say <NODE id="1101" />selfdriving vehicles<NODE id="1121" /> should have no problems passing even the strictest visual-acuity test, they argue that <NODE id="1209" />autopilot vehicles<NODE id="1227" /> could be expected to perform differently depending on the quality of their <NODE id="1303" />sensing hardware<NODE id="1319" />, special maps and software algorithms. Just as humans' visual acumen varies, <NODE id="1397" />road-monitoring cameras<NODE id="1420" /> and <NODE id="1425" />sensors<NODE id="1432" /> might perform better or worse under rainy or snowy conditions, depending on the model. Onboard <NODE id="1528" />sensors<NODE id="1535" /> and <NODE id="1540" />cameras<NODE id="1547" /> can easily become mucked up by snow or mud, for example. To that end the report quotes a Google spokesperson as admitting the company doesn't intend to offer a <NODE id="1708" />self-driving car<NODE id="1724" /> to areas where it snows in the near term. (Google continues to extensively test a small fleet of <NODE id="1822" />self-driving cars<NODE id="1839" /> in preparation for introduction in the coming years.) Potential problems could likewise arise regarding the <NODE id="1948" />sensors<NODE id="1955" />' visual pattern recognition, which the authors say is a skill at which human drivers excel, but one that's difficult for <NODE id="2077" />computers<NODE id="2086" /> to master. While we'd like to hope <NODE id="2122" />self-driving cars<NODE id="2139" /> would come fully programmed to obey state and local traffic laws, there's the possibility they might adhere to the regulations a tad too strictly for their own good. For example it would be perilous for a <NODE id="2345" />selfdriving car<NODE id="2360" /> to merge onto a highway while steadfastly adhering to the posted speed limit if prevailing traffic is whizzing by at a much faster pace. <NODE id="2498" />Autopilot cars<NODE id="2512" /> are further likely to face critical ethical dilemmas in emergencies, and may be forced to choose which of several more or less perilous courses to pursue in a split second. An <NODE id="2689" />autonomous car<NODE id="2703" /> might have to decide whether it would it be best to slam on the <NODE id="2768" />brakes<NODE id="2774" /> but ultimately crash into an obstruction and risk injury - or worse - to the <NODE id="2852" />car<NODE id="2855" />'s occupants, swerve in one direction to avoid a collision and possibly veer into oncoming traffic or steer in the other direction and perhaps run over a pedestrian standing at curbside. At best, the authors conclude that the technology driving <NODE id="3100" />autopilot cars<NODE id="3114" /> is still not perfect, and one model could be expected to perform differently than others under certain circumstances, whether by design or default. A given <NODE id="3271" />car<NODE id="3274" />'s self-driving acumen could be better or worse during the day or nighttime hours, over smooth or broken pavement or under perfect versus rainy or snowy conditions. Sivak and Schoettle certainly make a strong case for rigorous testing and licensing of <NODE id="3526" />autonomous cars<NODE id="3541" /> - albeit according to a series still-to-be-written standards - and if this does in fact come to pass two things are certain: Like human motorists, <NODE id="3689" />autonomous cars<NODE id="3704" /> will be subject to an intolerably long wait at the local DMV office, and their driver's license pictures will look nothing like them. © CTW Features
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/c57b1d02-5e21-3c1d-978c-46067556221a" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-26T23:20:24Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:50:12.152Z" />
+<feature featureName="uri" featureValue="http://exa.gmnews.com/news/2016-01-28/Business/Why_selfdriving_cars_should_be_required_to_pass_dr.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="21" type="product" surface="self-driving cars" />
+<Entity id="1" startPos="149" endPos="163" type="product" surface="autopilot cars" />
+<Entity id="2" startPos="343" endPos="361" type="product" surface="autopilot vehicles" />
+<Entity id="3" startPos="491" endPos="513" type="organization" surface="University of Michigan" />
+<Entity id="4" startPos="746" endPos="765" type="product" surface="autonomous vehicles" />
+<Entity id="5" startPos="887" endPos="922" type="product" surface="luxury-electric Tesla Model S sedan" />
+<Entity id="6" startPos="903" endPos="908" type="organization" surface="Tesla" />
+<Entity id="7" startPos="937" endPos="955" type="product" surface="autopilot software" />
+<Entity id="8" startPos="1101" endPos="1121" type="product" surface="selfdriving vehicles" />
+<Entity id="9" startPos="1209" endPos="1227" type="product" surface="autopilot vehicles" />
+<Entity id="10" startPos="1303" endPos="1319" type="product" surface="sensing hardware" />
+<Entity id="11" startPos="1397" endPos="1420" type="product" surface="road-monitoring cameras" />
+<Entity id="12" startPos="1425" endPos="1432" type="product" surface="sensors" />
+<Entity id="13" startPos="1528" endPos="1535" type="product" surface="sensors" />
+<Entity id="14" startPos="1540" endPos="1547" type="product" surface="cameras" />
+<Entity id="15" startPos="1708" endPos="1724" type="product" surface="self-driving car" />
+<Entity id="16" startPos="1822" endPos="1839" type="product" surface="self-driving cars" />
+<Entity id="17" startPos="1948" endPos="1955" type="product" surface="sensors" />
+<Entity id="18" startPos="2077" endPos="2086" type="product" surface="computers" />
+<Entity id="19" startPos="2122" endPos="2139" type="product" surface="self-driving cars" />
+<Entity id="20" startPos="2345" endPos="2360" type="product" surface="selfdriving car" />
+<Entity id="21" startPos="2498" endPos="2512" type="product" surface="Autopilot cars" />
+<Entity id="22" startPos="2689" endPos="2703" type="product" surface="autonomous car" />
+<Entity id="23" startPos="2768" endPos="2774" type="product" surface="brakes" />
+<Entity id="24" startPos="2852" endPos="2855" type="product" surface="car" />
+<Entity id="25" startPos="3100" endPos="3114" type="product" surface="autopilot cars" />
+<Entity id="26" startPos="3271" endPos="3274" type="product" surface="car" />
+<Entity id="27" startPos="3526" endPos="3541" type="product" surface="autonomous cars" />
+<Entity id="28" startPos="3689" endPos="3704" type="product" surface="autonomous cars" /></Entities><Relations>
+<Relation id="29" NAME="company_provides_product">
+<Entity id="5" label="product" />
+<Entity id="6" label="company" />
+</Relation></Relations>
+</Document>

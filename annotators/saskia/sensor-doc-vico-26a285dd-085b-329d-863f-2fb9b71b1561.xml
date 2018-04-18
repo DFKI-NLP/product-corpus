@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>This article was published free of charge. Are you the owner of this article?, Turn it PREMIUM with your LOGO instead - and make it 3rd party Ads-Free! within the next hour! <NODE id="174" />Rambus<NODE id="180" /> Announces <NODE id="191" />R+™ 28G Serial Link PHY<NODE id="214" /> on <NODE id="218" />Samsung<NODE id="225" /> <NODE id="226" />14nm LPP Process<NODE id="242" /> <NODE id="243" />PRZOOM<NODE id="249" /> - /newswire/ - Sunnyvale, CA, United States, 2016/01/19 - Comprehensive IP solution enables high performance for networking and data center applications - Rambus.com. NASDAQ: <NODE id="425" />RMBS<NODE id="429" /> Your Banner Ad Here instead - Showing along with ALL Articles covering <NODE id="501" />Electronics<NODE id="512" />/Instrumentation/RFID Announcements Replace these Affiliate Programs at ANYTIME! Your banner here within the next hour. Learn How! <NODE id="643" />Rambus, Inc.<NODE id="655" /> today announced the availability of a <NODE id="694" />28Gbps multi-modal serial link PHY<NODE id="728" /> on <NODE id="732" />Samsung<NODE id="739" />’s<NODE id="741" /> leading-edge <NODE id="755" />14nm Low Power Plus (LPP) process<NODE id="788" />. The <NODE id="794" />R+ 28G Serial Link PHY<NODE id="816" /> is a 100 Gigabit Ethernet solution that is optimized for power and area efficiency in long-reach channels. It enhances the <NODE id="940" />Rambus<NODE id="946" /> <NODE id="947" />suite of<NODE id="955" /> <NODE id="956" />high-speed memory<NODE id="973" /> and <NODE id="978" />serial link interfaces<NODE id="1000" />. 'The increasing demand for more data at increasing speeds continues to drive the bandwidth requirements in enterprise applications,' said Luc Seraphin, senior vice president and general manager of the <NODE id="1203" />Rambus<NODE id="1209" /> Memory and Interfaces division<NODE id="1240" />. 'We are pleased <NODE id="1258" />Samsung<NODE id="1265" /> has selected us to work in <NODE id="1293" />their<NODE id="1298" /> advanced <NODE id="1308" />14nm LPP process<NODE id="1324" />, enabling our solutions to achieve the tremendous speeds and power efficiencies required by today’s high-performance systems.' The <NODE id="1456" />Rambus<NODE id="1462" /> R+ 28G Multi-protocol Serial Links PHY<NODE id="1501" /> delivers enterprise-class performance across the challenging signaling environments typical of networking and server systems with features including: • High-performance and multi-protocol compatibility with support for data rates from 1.25Gbps to 28.1Gbps across copper and backplane channels with up to 30dB loss in a wide range of industry-standard interconnect protocols. • Application-specific optimization enabled by an efficient and scalable architecture with adaptive and programmable receive equalization, and support for transmit FIR adaptation. • Ease-of-integration and bring-up featuring built-in-self-test (BIST) with PRBS generator and checker, in-situ real-time monitoring and support for <NODE id="2206" />LabStation™ Validation Platform<NODE id="2237" />. <NODE id="2239" />Rambus<NODE id="2245" />’<NODE id="2246" /> <NODE id="2247" />R+<NODE id="2249" /> industry-standard <NODE id="2268" />interface solutions<NODE id="2287" /> are high-quality, complete <NODE id="2315" />PHY solutions<NODE id="2328" /> designed with a system-oriented approach, maximizing flexibility in today’s most challenging system environments. For additional information, please visit rambus.com/seriallinks. About <NODE id="2514" />Rambus<NODE id="2520" /> Memory and Interfaces Division<NODE id="2551" /> (<NODE id="2553" />MID<NODE id="2556" />) The <NODE id="2562" />Rambus<NODE id="2568" /> Memory and Interfaces Division<NODE id="2599" /> develops products and services that solve the power, performance, and capacity challenges of the mobile, connected device, and cloud computing markets. <NODE id="2752" />Rambus<NODE id="2758" /> enhanced standards-compatible and custom memory and serial link solutions include <NODE id="2841" />chips<NODE id="2846" />, <NODE id="2848" />architectures<NODE id="2861" />, <NODE id="2863" />memory and chip-to-chip interfaces<NODE id="2897" />, <NODE id="2899" />DRAM<NODE id="2903" />, <NODE id="2905" />IP validation tools<NODE id="2924" />, and <NODE id="2930" />system and IC design services<NODE id="2959" />. Developed through our system-aware design methodology, <NODE id="3016" />Rambus<NODE id="3022" /> products deliver improved time-to-market and first-time-right quality. About <NODE id="3100" />Rambus, Inc.<NODE id="3112" /> <NODE id="3113" />Rambus<NODE id="3119" /> (rambus.com) <NODE id="3133" />creates<NODE id="3140" /> cutting-edge <NODE id="3154" />semiconductor and IP products<NODE id="3183" />, spanning <NODE id="3194" />memory<NODE id="3200" /> and <NODE id="3205" />interfaces<NODE id="3215" /> to security, <NODE id="3229" />smart sensors<NODE id="3242" /> and lighting. Our <NODE id="3261" />chips<NODE id="3266" />, customizable <NODE id="3281" />IP cores<NODE id="3289" />, architecture licenses, <NODE id="3314" />tools<NODE id="3319" />, services, training and innovations improve the competitive advantage of our customers. We collaborate with the industry, partnering with leading <NODE id="3466" />ASIC<NODE id="3470" /> and <NODE id="3475" />SoC<NODE id="3478" /> designers, foundries, IP developers, EDA companies and validation labs. Our products are integrated into tens of billions of devices and systems, powering and securing diverse applications, including Big Data, Internet of Things (IoT), mobile, consumer and media platforms. At <NODE id="3756" />Rambus<NODE id="3762" />, we are makers of better. Your Banner Ad Here instead - Showing along with ALL Articles covering <NODE id="3860" />Electronics<NODE id="3871" />/Instrumentation/RFID Announcements Replace these Affiliate Programs at ANYTIME! Your banner here within the next hour. Learn How! Agency / Source: <NODE id="4019" />Rambus, Inc<NODE id="4030" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/26a285dd-085b-329d-863f-2fb9b71b1561" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-21T00:08:18Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:49:52.158Z" />
+<feature featureName="uri" featureValue="http://www.przoom.com/news/156724/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="174" endPos="180" type="organization" surface="Rambus" />
+<Entity id="1" startPos="191" endPos="214" type="product" surface="R+™ 28G Serial Link PHY" />
+<Entity id="2" startPos="218" endPos="225" type="organization" surface="Samsung" />
+<Entity id="3" startPos="218" endPos="242" type="product" surface="Samsung 14nm LPP Process" />
+<Entity id="4" startPos="226" endPos="242" type="head" surface="14nm LPP Process" />
+<Entity id="5" startPos="243" endPos="249" type="organization" surface="PRZOOM" />
+<Entity id="6" startPos="425" endPos="429" type="organization" surface="RMBS" />
+<Entity id="7" startPos="501" endPos="512" type="product" surface="Electronics" />
+<Entity id="8" startPos="643" endPos="655" type="organization" surface="Rambus, Inc." />
+<Entity id="9" startPos="694" endPos="728" type="product" surface="28Gbps multi-modal serial link PHY" />
+<Entity id="10" startPos="732" endPos="739" type="organization" surface="Samsung" />
+<Entity id="11" startPos="739" endPos="741" type="trigger" surface="’s" />
+<Entity id="12" startPos="755" endPos="788" type="product" surface="14nm Low Power Plus (LPP) process" />
+<Entity id="13" startPos="794" endPos="816" type="product" surface="R+ 28G Serial Link PHY" />
+<Entity id="14" startPos="940" endPos="946" type="organization" surface="Rambus" />
+<Entity id="15" startPos="947" endPos="955" type="trigger" surface="suite of" />
+<Entity id="16" startPos="956" endPos="973" type="product" surface="high-speed memory" />
+<Entity id="17" startPos="978" endPos="1000" type="product" surface="serial link interfaces" />
+<Entity id="18" startPos="1203" endPos="1209" type="organization" surface="Rambus" />
+<Entity id="19" startPos="1203" endPos="1240" type="organization" surface="Rambus Memory and Interfaces division" />
+<Entity id="20" startPos="1258" endPos="1265" type="organization" surface="Samsung" />
+<Entity id="21" startPos="1293" endPos="1298" type="trigger" surface="their" />
+<Entity id="22" startPos="1308" endPos="1324" type="product" surface="14nm LPP process" />
+<Entity id="23" startPos="1456" endPos="1462" type="organization" surface="Rambus" />
+<Entity id="24" startPos="1456" endPos="1501" type="product" surface="Rambus R+ 28G Multi-protocol Serial Links PHY" />
+<Entity id="25" startPos="2206" endPos="2237" type="product" surface="LabStation™ Validation Platform" />
+<Entity id="26" startPos="2239" endPos="2245" type="organization" surface="Rambus" />
+<Entity id="27" startPos="2245" endPos="2246" type="trigger" surface="’" />
+<Entity id="28" startPos="2247" endPos="2249" type="product" surface="R+" />
+<Entity id="29" startPos="2268" endPos="2287" type="product" surface="interface solutions" />
+<Entity id="30" startPos="2315" endPos="2328" type="product" surface="PHY solutions" />
+<Entity id="31" startPos="2514" endPos="2520" type="organization" surface="Rambus" />
+<Entity id="32" startPos="2514" endPos="2551" type="organization" surface="Rambus Memory and Interfaces Division" />
+<Entity id="33" startPos="2553" endPos="2556" type="organization" surface="MID" />
+<Entity id="34" startPos="2562" endPos="2568" type="organization" surface="Rambus" />
+<Entity id="35" startPos="2562" endPos="2599" type="organization" surface="Rambus Memory and Interfaces Division" />
+<Entity id="36" startPos="2752" endPos="2758" type="organization" surface="Rambus" />
+<Entity id="37" startPos="2841" endPos="2846" type="product" surface="chips" />
+<Entity id="38" startPos="2848" endPos="2861" type="product" surface="architectures" />
+<Entity id="39" startPos="2863" endPos="2897" type="product" surface="memory and chip-to-chip interfaces" />
+<Entity id="40" startPos="2899" endPos="2903" type="product" surface="DRAM" />
+<Entity id="41" startPos="2905" endPos="2924" type="product" surface="IP validation tools" />
+<Entity id="42" startPos="2930" endPos="2959" type="product" surface="system and IC design services" />
+<Entity id="43" startPos="3016" endPos="3022" type="organization" surface="Rambus" />
+<Entity id="44" startPos="3100" endPos="3112" type="organization" surface="Rambus, Inc." />
+<Entity id="45" startPos="3113" endPos="3119" type="organization" surface="Rambus" />
+<Entity id="46" startPos="3133" endPos="3140" type="provide_type" surface="creates" />
+<Entity id="47" startPos="3133" endPos="3140" type="trigger" surface="creates" />
+<Entity id="48" startPos="3154" endPos="3183" type="product" surface="semiconductor and IP products" />
+<Entity id="49" startPos="3194" endPos="3200" type="product" surface="memory" />
+<Entity id="50" startPos="3205" endPos="3215" type="product" surface="interfaces" />
+<Entity id="51" startPos="3229" endPos="3242" type="product" surface="smart sensors" />
+<Entity id="52" startPos="3261" endPos="3266" type="product" surface="chips" />
+<Entity id="53" startPos="3281" endPos="3289" type="product" surface="IP cores" />
+<Entity id="54" startPos="3314" endPos="3319" type="product" surface="tools" />
+<Entity id="55" startPos="3466" endPos="3470" type="product" surface="ASIC" />
+<Entity id="56" startPos="3475" endPos="3478" type="product" surface="SoC" />
+<Entity id="57" startPos="3756" endPos="3762" type="organization" surface="Rambus" />
+<Entity id="58" startPos="3860" endPos="3871" type="product" surface="Electronics" />
+<Entity id="59" startPos="4019" endPos="4030" type="organization" surface="Rambus, Inc" /></Entities><Relations>
+<Relation id="60" NAME="company_provides_product">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="61" NAME="company_provides_product">
+<Entity id="3" label="product" />
+<Entity id="2" label="company" />
+</Relation>
+<Relation id="62" NAME="company_provides_product">
+<Entity id="9" label="product" />
+<Entity id="8" label="ceremony" />
+</Relation>
+<Relation id="63" NAME="company_provides_product">
+<Entity id="12" label="product" />
+<Entity id="11" label="trigger" />
+<Entity id="10" label="company" />
+</Relation>
+<Relation id="64" NAME="company_provides_product">
+<Entity id="16" label="product" />
+<Entity id="17" label="product" />
+<Entity id="15" label="trigger" />
+<Entity id="14" label="company" />
+</Relation>
+<Relation id="65" NAME="company_provides_product">
+<Entity id="22" label="product" />
+<Entity id="21" label="trigger" />
+<Entity id="20" label="company" />
+</Relation>
+<Relation id="66" NAME="company_provides_product">
+<Entity id="24" label="product" />
+<Entity id="23" label="company" />
+</Relation>
+<Relation id="67" NAME="company_provides_product">
+<Entity id="28" label="product" />
+<Entity id="27" label="trigger" />
+<Entity id="26" label="company" />
+</Relation>
+<Relation id="68" NAME="company_provides_product">
+<Entity id="38" label="product" />
+<Entity id="41" label="product" />
+<Entity id="42" label="product" />
+<Entity id="37" label="product" />
+<Entity id="39" label="product" />
+<Entity id="40" label="product" />
+<Entity id="36" label="company" />
+</Relation>
+<Relation id="69" NAME="company_provides_product">
+<Entity id="50" label="product" />
+<Entity id="48" label="product" />
+<Entity id="51" label="product" />
+<Entity id="49" label="product" />
+<Entity id="46" label="provide_type" />
+<Entity id="47" label="trigger" />
+<Entity id="45" label="company" />
+</Relation></Relations>
+</Document>

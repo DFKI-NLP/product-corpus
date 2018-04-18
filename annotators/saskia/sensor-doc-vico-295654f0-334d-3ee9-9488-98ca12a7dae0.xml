@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>2015 (65) - <NODE id="12" />BMW<NODE id="15" /> <NODE id="16" />X3<NODE id="18" /> Auto 5-Door £35,461 Loading Images... Date Registered: Dec 2015 Mileage: 103 miles Transmission: Automatic Fuel: Diesel Price: £35,461 Colour: White Body Style: 4 X 4 Vehicle Trim / Variant: M Sport EC Combined (mpg) 54.3 EC Extra Urban (mpg) 57.6 EC Urban (mpg) 50.4  &gt; 54 MPG 31 Insurance Group 190 Performance (BHP) 5 Seats 136 CO2 (g/km) £130 Road Tax History Checked Vehicle Trim / Variant: M Sport Insurance Group 31, 19 Alloys, M Sport Pack, Media Pack <NODE id="479" />BMW<NODE id="482" /> Professional, Auto Start-Stop, Brake Energy Regeneration, Tyre Pressure Monitoring Sensor (TPMS), Sport Suspension, Multi Function Steering Wheel, Run Flat Tyres, Bootlid Operation Powered, Sun Protection Glass, Front Sport Seats, Heated Front Seats, Headlamp Wash, Parking Distance Control, Front Foglights, Automatic Rain Sensing Wipers, Xenon Lights, Automatic Air Conditioning, Cruise Control, Extended Interior Light Package, Bluetooth Telephone Preparation, Navigation System Professional, DAB Digital Radio, M Sport Steering Wheel, M-Aerodynamic Bodystyling, ''We Can Guarantee The Future Value Of This Car Exact specification may vary from the details on this page. Please contact the seller via our email dealer form or on 01482 272140 to reconfirm any details before purchasing. See terms &amp; conditions for further info. Review Rating <NODE id="1327" />BMW<NODE id="1330" /> has built a reputation for building <NODE id="1367" />cars<NODE id="1371" /> that are engaging to drive and that even extends to its off-road models. read more Decent handling both on and off-road Strong resale values Spacious interior Plenty of standard safety kit Long waiting lists Servicing can be expensive Review provided by: The following features are fitted on this car... ABS Air conditioning Alarm Audio remote control Cruise control DAB digital radio Electric door mirrors Front electric windows Heated door mirrors Heated front seat Height adjustable drivers seat Immobiliser Isofix child seat anchor points Leather seat trim Passenger airbag Radio/CD Rear electric windows Remote central locking Reverse parking aid Side airbags Sports seats Traction control Trip computer Equipment This equipment listed below is a standard description and may differ from the exact detail for the vehicle displayed. If you require further clarification call us on 01482 272140 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Comfort / Convenience 12V socket in centre console and luggage area 4 lashing points to secure luggage ABS/EBD Anthracite headlining Auto dimming rear view mirror Automatic Stability Control (ASC) Automatic tailgate operation BMW emergency call <NODE id="2633" />BMW<NODE id="2636" /> teleservices Body colour electric adjust heated aspherical door mirrors CBC - (Cornering brake control) Centre console storage tray Centre instrument panel in high gloss black Cruise control with brake function Cupholders in centre console DSC-Dynamic Stability Control Dual zone automatic air conditioning Dynamic brake control Dynamic Traction Control - DTC Electromechanical parking brake Engine start/stop button Fingertip control / anti-trap function on electric window Folding grab handles with rear coat hooks Front and rear electric windows Front centre armrest with storage compartment Front sports seats Front/rear Parking distance control Heated front seats Heated windscreen washer jets Height adjustable front seats Height adjustable front/rear head restraints Hill descent control Hill start assist iDrive Controller and Display w/6.5 monitor Illuminated glovebox with lock Isofix rear child seat preparation Luggage area underfloor compartment M leather gearknob M leather multifunction steering wheel Nevada leather upholstery On board computer Performance Control Rain sensor including auto headlights activation Rake/reach adjustable steering wheel Rear armrest Rear wiper Removable / retractable luggage cover Steering wheel gearshift paddles Storage pockets - front doors Entertainment Auxiliary socket for external MP3 player <NODE id="3984" />BMW<NODE id="3987" /> professional radio/CD/MP3 DAB Digital radio Exterior / Styling Body colour door handles Body coloured bumpers Chrome exhaust tailpipe Chrome kidney grille with black verticle slats Follow me home headlights Height adjustable headlamps M aerodynamic bodystyling Run flat tyres Safety / Security 3 rear 3 point seatbelts Child locks on rear doors Crash Sensor - activates hazard/interior lighting + unlocks doors Driver/front passenger airbag Driver/front passenger side airbags Engine immobiliser Front and rear head airbags Front passenger airbag deactivation Inertia reel front seatbelts+pretensioners Locking wheel nuts Remote central locking Remote control Thatcham category 1 alarm Tyre pressure monitoring system Warning triangle and first aid kit Technical Specifications The technical specifications detailed below may differ from the exact specifications for the vehicle displayed. If you require further clarification call us on 01482 272140 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Emissions CO2 (g/km) 136
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/295654f0-334d-3ee9-9488-98ca12a7dae0" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-24T05:17:01Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:50:53.92Z" />
+<feature featureName="uri" featureValue="http://www.carmony.co.uk/car-39910633/sp" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="15" type="organization" surface="BMW" />
+<Entity id="1" startPos="12" endPos="18" type="product" surface="BMW X3" />
+<Entity id="2" startPos="16" endPos="18" type="head" surface="X3" />
+<Entity id="3" startPos="479" endPos="482" type="organization" surface="BMW" />
+<Entity id="4" startPos="1327" endPos="1330" type="organization" surface="BMW" />
+<Entity id="5" startPos="1367" endPos="1371" type="industry" surface="cars" />
+<Entity id="6" startPos="2633" endPos="2636" type="organization" surface="BMW" />
+<Entity id="7" startPos="3984" endPos="3987" type="organization" surface="BMW" /></Entities><Relations>
+<Relation id="8" NAME="CompanyIndustry">
+<Entity id="4" label="company" />
+<Entity id="5" label="industry" />
+</Relation>
+<Relation id="9" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="10" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="4" label="target" />
+<Entity id="6" label="target" />
+<Entity id="7" label="target" />
+<Entity id="3" label="target" />
+</Relation>
+<Relation id="11" NAME="entity_head">
+<Entity id="1" label="full_extent" />
+<Entity id="2" label="head" />
+</Relation></Relations>
+</Document>

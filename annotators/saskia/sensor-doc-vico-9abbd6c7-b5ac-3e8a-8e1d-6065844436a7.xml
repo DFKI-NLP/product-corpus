@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Product News: Mounting &amp; Attaching Products, Sensors, Monitors &amp; Transducers Topics Mounting &amp; Attaching Products, Sensors, Monitors &amp; Transducers Retractable Sensor Assemblies eliminate process interruption. Press Release Summary: February 4, 2016 - With Cleanfit CPA875 and CPA871 sensor assemblies, pH, ORP, oxygen, and NIR sensors can be installed or removed during operation. By moving sensor from measuring position to service position, retractable assemblies allow sensor to be cleaned, calibrated, or replaced without interrupting process. Cleanfit CPA875 is intended for use in food, pharmaceutical, life sciences, and specialty chemical applications, while CPA871 is suited for water/wastewater and general chemical industries. Original Press Release <NODE id="761" />Endress+Hauser<NODE id="775" /> Introduces <NODE id="787" />Cleanfit<NODE id="795" /> <NODE id="796" />Retractable Sensor Assemblies<NODE id="825" /> Press release date: January 30, 2016 Assemblies allow pH, ORP, oxygen and NIR sensors to be installed or removed without any process operation interruption for cleaning, calibration and maintenance. <NODE id="1025" />Endress+Hauser<NODE id="1039" /> introduces <NODE id="1051" />Cleanfit CPA875<NODE id="1066" /> and <NODE id="1071" />CPA871<NODE id="1077" /> <NODE id="1078" />sensor assemblies<NODE id="1095" /> that allow pH, ORP, oxygen and NIR sensors to be installed or removed during operation. By moving the sensor from the measuring position to a service position, these retractable assemblies allow the sensor to be cleaned, calibrated or replaced without interrupting the process. The Cleanfit CPA875 is ideal in applications in the pharmaceutical and food and beverage industry where sensors must be removed for cleaning, calibration or maintenance on a regular basis, while the CPA871 sensor is ideal for applications in the water and wastewater and chemical industries.bThe retractable assemblies permit removal and installation, while protecting both the process and operating personnel. In hygienic or sterile processes, the CPA875 assemblies are protected against contamination in accordance with international standards including EHEDG, ASME BPE, FDA, ATEX Directive 94/9/EC, CE/PED, EC VO 1935/2004 and Biological Reactivity (USP Class VI). In pneumatic operating mode, the CPA871 meets ATEX and CE/PED standards. The CPA875 assemblies, along with their service chambers and process adapters, are certified by EHEDG for cleanability and sterilizability. This certifies that residual media is not only destroyed, but is also removed completely from the service chamber and the sealing surface. The service chamber and sealing surface thus remain free from product residue and microorganisms. The design of the service chamber allows liquid media to drain freely and completely. The alignment of the inlet and outlet, as well as the flow configuration, ensures that solid built-up deposits are loosened and removed when cleaning. It is also possible to clean and sterilize the seals' contact surfaces. This ensures the sensor is free from contamination when it is reinserted into the process. The CPA875 assemblies are available with single or dual service chambers. The front chamber in the double-chamber system can also be used as a protective barrier to the process. This chamber can be continually rinsed with water for injection, which ensures the cleaning solution cannot enter the process, even if the process seal is damaged. At the same time, this front chamber can be used to isolate the service chamber temperature from the process. The sensor can therefore be checked, replaced, calibrated, adjusted and cleaned with hot water or sterilized, all without influencing the process. The Cleanfit CPA875 assembly has seals, process connections and couplings that make it suitable for use in food, pharmaceutical, life sciences and specialty chemical applications, while the CPA871 has similar options for the water/wastewater and general chemical industries. Materials in contact with the process medium are all stainless steel, while seals can be EDPM/FMP or Viton/FFKM, depending on the application. The immersion tube, process connection and service chamber can be stainless steel, titanium, Alloy C22, PEEK or PVDF, again depending on the application. Both sensor assemblies are available with a manual or an automatic drive. The manual drive has a self-retaining thread to hold the sensor in any intermediate position, and can be used for process pressures up to 116 psi. The pneumatic drive can be used for process pressures up to 232 psi. In assemblies with a pneumatic drive, the service and measuring positions of the sensor are detected and reported to connected monitoring and control systems. For more detailed technical information on the Cleanfit CPA875 for food, pharmaceutical, life sciences and specialty chemical industries, please go to the product page at: www.us.endress.com/CPA875 For more detailed technical information on the Cleanfit CPA871 for the water and wastewater and general chemical industries, please go to the product page at: www.us.endress.com/CPA871 About <NODE id="4901" />Endress+Hauser<NODE id="4915" /> <NODE id="4916" />Endress+Hauser<NODE id="4930" /> is a global leader in <NODE id="4953" />measurement instrumentation, services and solutions for industrial process engineering<NODE id="5039" />. The <NODE id="5045" />Group<NODE id="5050" /> employs 12,000 personnel across the globe, generating net sales of approximately <NODE id="5132" />$2.2 billion<NODE id="5144" /> in <NODE id="5148" />2014<NODE id="5152" />. <NODE id="5154" />Endress+Hauser<NODE id="5168" /> supplies <NODE id="5178" />sensors, devices, systems and services for level, flow, pressure and temperature measurement as well as liquid analysis and measured value recording<NODE id="5326" />. The <NODE id="5332" />company<NODE id="5339" /> supports its customers with <NODE id="5368" />automation, logistical and IT services and solutions<NODE id="5420" />. Contact: Crystal Hunt Senior Public Relations Manager Endress+Hauser, Inc. Phone: 317-535-1306 (office) 317-439-6426 (mobile) Fax: 317-535-2171 crystal.hunt@us.endress.com www.us.endress.com
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/9abbd6c7-b5ac-3e8a-8e1d-6065844436a7" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-05T06:18:43Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:33:50.132Z" />
+<feature featureName="uri" featureValue="http://news.thomasnet.com/fullstory/retractable-sensor-assemblies-eliminate-process-interruption-20053642" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="761" endPos="775" type="organization" surface="Endress+Hauser" />
+<Entity id="1" startPos="787" endPos="795" type="product" surface="Cleanfit" />
+<Entity id="2" startPos="796" endPos="825" type="industry" surface="Retractable Sensor Assemblies" />
+<Entity id="3" startPos="1025" endPos="1039" type="organization" surface="Endress+Hauser" />
+<Entity id="4" startPos="1051" endPos="1066" type="product" surface="Cleanfit CPA875" />
+<Entity id="5" startPos="1071" endPos="1077" type="product" surface="CPA871" />
+<Entity id="6" startPos="1078" endPos="1095" type="industry" surface="sensor assemblies" />
+<Entity id="7" startPos="4901" endPos="4915" type="organization" surface="Endress+Hauser" />
+<Entity id="8" startPos="4916" endPos="4930" type="organization" surface="Endress+Hauser" />
+<Entity id="9" startPos="4953" endPos="5039" type="industry" surface="measurement instrumentation, services and solutions for industrial process engineering" />
+<Entity id="10" startPos="5045" endPos="5050" type="organization" surface="Group" />
+<Entity id="11" startPos="5132" endPos="5144" type="number" surface="$2.2 billion" />
+<Entity id="12" startPos="5148" endPos="5152" type="date" surface="2014" />
+<Entity id="13" startPos="5154" endPos="5168" type="organization" surface="Endress+Hauser" />
+<Entity id="14" startPos="5178" endPos="5326" type="industry" surface="sensors, devices, systems and services for level, flow, pressure and temperature measurement as well as liquid analysis and measured value recording" />
+<Entity id="15" startPos="5332" endPos="5339" type="organization" surface="company" />
+<Entity id="16" startPos="5368" endPos="5420" type="industry" surface="automation, logistical and IT services and solutions" /></Entities><Relations>
+<Relation id="17" NAME="CompanyIndustry">
+<Entity id="0" label="company" />
+<Entity id="2" label="industry" />
+</Relation>
+<Relation id="18" NAME="CompanyIndustry">
+<Entity id="3" label="company" />
+<Entity id="6" label="industry" />
+</Relation>
+<Relation id="19" NAME="CompanyIndustry">
+<Entity id="8" label="company" />
+<Entity id="9" label="industry" />
+</Relation>
+<Relation id="20" NAME="CompanyIndustry">
+<Entity id="13" label="company" />
+<Entity id="14" label="industry" />
+</Relation>
+<Relation id="21" NAME="CompanyIndustry">
+<Entity id="15" label="company" />
+<Entity id="16" label="industry" />
+</Relation>
+<Relation id="22" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="23" NAME="CompanyProvidesProduct">
+<Entity id="5" label="product" />
+<Entity id="4" label="product" />
+<Entity id="3" label="company" />
+</Relation>
+<Relation id="24" NAME="CompanyTurnover">
+<Entity id="12" label="timespan" />
+<Entity id="11" label="turnover" />
+<Entity id="10" label="company" />
+</Relation>
+<Relation id="25" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="3" label="target" />
+<Entity id="15" label="target" />
+<Entity id="8" label="target" />
+<Entity id="7" label="target" />
+<Entity id="10" label="target" />
+<Entity id="13" label="target" />
+</Relation></Relations>
+</Document>

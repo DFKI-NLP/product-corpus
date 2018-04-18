@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>January 2016 News Release AutomatedBuildings.com Buy HVAC parts online and get smart, personalized support. alpscontrols.com (Click Message to Learn More) <NODE id="155" />Distech Controls<NODE id="171" /> and <NODE id="176" />Assystem<NODE id="184" /> to <NODE id="188" />outfit<NODE id="194" /> the new <NODE id="203" />Tribunal de Grande Instance<NODE id="230" /> in Paris The Building will feature the award-winning <NODE id="284" />Smart Room Control solution<NODE id="311" /> <NODE id="312" />Distech Controls<NODE id="328" />, an <NODE id="333" />innovation leader<NODE id="350" /> in <NODE id="354" />energy management solutions<NODE id="381" />, has signed a contract for the <NODE id="413" />supply<NODE id="419" /> of the <NODE id="427" />HVAC system<NODE id="438" /> in the new <NODE id="450" />Tribunal de Grande Instance<NODE id="477" /> in Paris. Surrounded by its integration partner <NODE id="526" />Assystem<NODE id="534" /> and other project stakeholders at the Centre Culturel Canadien in Paris, the signing event symbolised the synergies between <NODE id="659" />Assystem<NODE id="667" />'s expertise and <NODE id="684" />Distech Controls<NODE id="700" />' innovative solutions. The design of the <NODE id="742" />court<NODE id="747" /> house was executed by <NODE id="770" />Renzo Piano Building Workshop<NODE id="799" />. The main building is 40 storeys high, and is divided into three distinct levels of 160 meters in height, while a second building is eight storeys tall. The court house will be equipped with 5 500 m2 in waiting rooms, 90 courtrooms and 30 000 m2 of office space. It will feature an exceptional architectural design, as well as cutting edge products and solutions to deliver energy savings and occupant comfort To best meet the requirements of the project, <NODE id="1256" />Distech Controls<NODE id="1272" />' <NODE id="1274" />Smart Room Control solution<NODE id="1301" />, a unified system for the control of HVAC room terminal equipment, lighting, and shades/sunblind, will be installed throughout the building. It enables the highest levels of comfort for occupants while increasing operating cost savings, from installation time and wiring/material requirements to energy consumption. One of the unique features of this solution is that it can easily adapt, or be adjusted by, users. Room occupancy is detected by the EC-Multi-Sensor, which combines a motion detector, a light sensor, a temperature sensor, and an infrared receiver in a single compact device. The EC-Smart-Vue, part of the Allure™ series of communicating sensors, provides advanced control through integrated temperature, humidity, CO2and motion sensors. It also features the ECO-Vue leaf pattern, indicating energy consumption in real time on an LCD display. The new court house will set the standard for energy effiency in tall buildings, with low energy consumption of 70 kWhep/m²/year. With more than 25 years of experience in the building automation industry, the <NODE id="2369" />Assystem<NODE id="2377" /> teams have built up strong knowledge of design, conception and system integration to offer an intelligent, global solution for the new <NODE id="2513" />court<NODE id="2518" /> house in Paris. List of <NODE id="2543" />Distech Controls<NODE id="2559" />' <NODE id="2561" />product<NODE id="2568" /> installed: - <NODE id="2582" />1500 ECL-PTU-208<NODE id="2598" /> - <NODE id="2601" />1500 ECx-Light-4<NODE id="2617" /> - <NODE id="2620" />1500 ECx-Blind-4<NODE id="2636" /> - <NODE id="2639" />3000 EC-Multi-Sensor<NODE id="2659" /> - <NODE id="2662" />3000 EC-Smart-Vue communicating sensors<NODE id="2701" /> - <NODE id="2704" />60 EC-BOS<NODE id="2713" /> - <NODE id="2716" />600 I/O modules<NODE id="2731" /> About <NODE id="2738" />Distech Controls<NODE id="2754" /> An <NODE id="2758" />innovation leader<NODE id="2775" /> in <NODE id="2779" />energy management solutions<NODE id="2806" />, <NODE id="2808" />Distech Controls<NODE id="2824" /> provides unique building management technologies and services that optimize energy efficiency and comfort in buildings, while reducing operating costs. <NODE id="2977" />We<NODE id="2979" /> <NODE id="2980" />deliver<NODE id="2987" /> <NODE id="2988" />Innovative Solutions for Greener Buildings™<NODE id="3031" /> through our passion for innovation, quality, customer satisfaction, and sustainability. The company serves multiple market segments through its worldwide business divisions, service offices and a superior network of Authorized Partners. <NODE id="3269" />Distech Controls, Inc.<NODE id="3291" /> is a <NODE id="3297" />subsidiary<NODE id="3307" /> of <NODE id="3311" />Acuity Brands Lighting, Inc.<NODE id="3339" /> For more information visit www.distech-controls.com About <NODE id="3398" />Assystem<NODE id="3406" /> <NODE id="3407" />Assystem<NODE id="3415" /> is an international <NODE id="3436" />Engineering and Innovation Consultancy<NODE id="3474" />. As a key participant in the industry for 50 years, <NODE id="3527" />Assystem<NODE id="3535" /> supports its customers in developing their products and managing their capital expenditure throughout the product life cycle. <NODE id="3662" />Assystem<NODE id="3670" /> <NODE id="3671" />employs<NODE id="3678" /> nearly <NODE id="3686" />12,000 people<NODE id="3699" /> worldwide and reports around <NODE id="3729" />€900 million<NODE id="3741" /> in <NODE id="3745" />revenue<NODE id="3752" />. The Company is listed on Euronext Paris. For more information: www.assystem.com
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/8fb601e8-d884-3cd1-b341-a6d31de228bb" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-31T08:39:07Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:29:39.483Z" />
+<feature featureName="uri" featureValue="http://automatedbuildings.com/releases/jan16/160130101202distech.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="155" endPos="171" type="organization" surface="Distech Controls" />
+<Entity id="1" startPos="176" endPos="184" type="organization" surface="Assystem" />
+<Entity id="2" startPos="188" endPos="194" type="trigger" surface="outfit" />
+<Entity id="3" startPos="203" endPos="230" type="organization" surface="Tribunal de Grande Instance" />
+<Entity id="4" startPos="284" endPos="311" type="product" surface="Smart Room Control solution" />
+<Entity id="5" startPos="284" endPos="328" type="organization" surface="Smart Room Control solution Distech Controls" />
+<Entity id="6" startPos="312" endPos="328" type="head" surface="Distech Controls" />
+<Entity id="7" startPos="333" endPos="350" type="head" surface="innovation leader" />
+<Entity id="8" startPos="333" endPos="381" type="organization" surface="innovation leader in energy management solutions" />
+<Entity id="9" startPos="354" endPos="381" type="industry" surface="energy management solutions" />
+<Entity id="10" startPos="413" endPos="419" type="trigger" surface="supply" />
+<Entity id="11" startPos="427" endPos="438" type="product" surface="HVAC system" />
+<Entity id="12" startPos="450" endPos="477" type="organization" surface="Tribunal de Grande Instance" />
+<Entity id="13" startPos="526" endPos="534" type="organization" surface="Assystem" />
+<Entity id="14" startPos="659" endPos="667" type="organization" surface="Assystem" />
+<Entity id="15" startPos="684" endPos="700" type="organization" surface="Distech Controls" />
+<Entity id="16" startPos="742" endPos="747" type="organization" surface="court" />
+<Entity id="17" startPos="770" endPos="799" type="organization" surface="Renzo Piano Building Workshop" />
+<Entity id="18" startPos="1256" endPos="1272" type="organization" surface="Distech Controls" />
+<Entity id="19" startPos="1256" endPos="1301" type="product" surface="Distech Controls' Smart Room Control solution" />
+<Entity id="20" startPos="1274" endPos="1301" type="head" surface="Smart Room Control solution" />
+<Entity id="21" startPos="2369" endPos="2377" type="organization" surface="Assystem" />
+<Entity id="22" startPos="2513" endPos="2518" type="organization" surface="court" />
+<Entity id="23" startPos="2543" endPos="2559" type="organization" surface="Distech Controls" />
+<Entity id="24" startPos="2561" endPos="2568" type="trigger" surface="product" />
+<Entity id="25" startPos="2582" endPos="2598" type="product" surface="1500 ECL-PTU-208" />
+<Entity id="26" startPos="2601" endPos="2617" type="product" surface="1500 ECx-Light-4" />
+<Entity id="27" startPos="2620" endPos="2636" type="product" surface="1500 ECx-Blind-4" />
+<Entity id="28" startPos="2639" endPos="2659" type="product" surface="3000 EC-Multi-Sensor" />
+<Entity id="29" startPos="2662" endPos="2701" type="product" surface="3000 EC-Smart-Vue communicating sensors" />
+<Entity id="30" startPos="2704" endPos="2713" type="product" surface="60 EC-BOS" />
+<Entity id="31" startPos="2716" endPos="2731" type="product" surface="600 I/O modules" />
+<Entity id="32" startPos="2738" endPos="2754" type="organization" surface="Distech Controls" />
+<Entity id="33" startPos="2758" endPos="2775" type="head" surface="innovation leader" />
+<Entity id="34" startPos="2758" endPos="2806" type="organization" surface="innovation leader in energy management solutions" />
+<Entity id="35" startPos="2779" endPos="2806" type="industry" surface="energy management solutions" />
+<Entity id="36" startPos="2808" endPos="2824" type="organization" surface="Distech Controls" />
+<Entity id="37" startPos="2977" endPos="2979" type="organization" surface="We" />
+<Entity id="38" startPos="2980" endPos="2987" type="trigger" surface="deliver" />
+<Entity id="39" startPos="2988" endPos="3031" type="product" surface="Innovative Solutions for Greener Buildings™" />
+<Entity id="40" startPos="3269" endPos="3291" type="organization" surface="Distech Controls, Inc." />
+<Entity id="41" startPos="3297" endPos="3307" type="head" surface="subsidiary" />
+<Entity id="42" startPos="3297" endPos="3307" type="relation_type" surface="subsidiary" />
+<Entity id="43" startPos="3297" endPos="3339" type="organization" surface="subsidiary of Acuity Brands Lighting, Inc." />
+<Entity id="44" startPos="3311" endPos="3339" type="organization" surface="Acuity Brands Lighting, Inc." />
+<Entity id="45" startPos="3398" endPos="3406" type="organization" surface="Assystem" />
+<Entity id="46" startPos="3407" endPos="3415" type="organization" surface="Assystem" />
+<Entity id="47" startPos="3436" endPos="3474" type="industry" surface="Engineering and Innovation Consultancy" />
+<Entity id="48" startPos="3527" endPos="3535" type="organization" surface="Assystem" />
+<Entity id="49" startPos="3662" endPos="3670" type="organization" surface="Assystem" />
+<Entity id="50" startPos="3671" endPos="3678" type="trigger" surface="employs" />
+<Entity id="51" startPos="3686" endPos="3699" type="number" surface="12,000 people" />
+<Entity id="52" startPos="3729" endPos="3741" type="number" surface="€900 million" />
+<Entity id="53" startPos="3745" endPos="3752" type="trigger" surface="revenue" /></Entities><Relations>
+<Relation id="54" NAME="company_business_relationship">
+<Entity id="11" label="product" />
+<Entity id="5" label="vendor" />
+<Entity id="10" label="trigger" />
+<Entity id="12" label="customer" />
+</Relation>
+<Relation id="55" NAME="company_customer">
+<Entity id="1" label="company" />
+<Entity id="0" label="company" />
+<Entity id="2" label="trigger" />
+<Entity id="3" label="customer" />
+</Relation>
+<Relation id="56" NAME="company_customer">
+<Entity id="17" label="company" />
+<Entity id="16" label="customer" />
+</Relation>
+<Relation id="57" NAME="company_customer">
+<Entity id="21" label="company" />
+<Entity id="22" label="customer" />
+</Relation>
+<Relation id="58" NAME="company_industry">
+<Entity id="8" label="company" />
+<Entity id="9" label="industry" />
+</Relation>
+<Relation id="59" NAME="company_industry">
+<Entity id="34" label="company" />
+<Entity id="35" label="industry" />
+</Relation>
+<Relation id="60" NAME="company_industry">
+<Entity id="46" label="company" />
+<Entity id="47" label="industry" />
+</Relation>
+<Relation id="61" NAME="company_num_employees">
+<Entity id="51" label="num_employees" />
+<Entity id="49" label="company" />
+<Entity id="50" label="trigger" />
+</Relation>
+<Relation id="62" NAME="company_provides_product">
+<Entity id="4" label="product" />
+<Entity id="5" label="company" />
+</Relation>
+<Relation id="63" NAME="company_provides_product">
+<Entity id="19" label="product" />
+<Entity id="18" label="company" />
+</Relation>
+<Relation id="64" NAME="company_provides_product">
+<Entity id="19" label="product" />
+<Entity id="18" label="company" />
+</Relation>
+<Relation id="65" NAME="company_provides_product">
+<Entity id="25" label="product" />
+<Entity id="30" label="product" />
+<Entity id="29" label="product" />
+<Entity id="27" label="product" />
+<Entity id="26" label="product" />
+<Entity id="28" label="product" />
+<Entity id="31" label="product" />
+<Entity id="23" label="company" />
+<Entity id="24" label="trigger" />
+</Relation>
+<Relation id="66" NAME="company_provides_product">
+<Entity id="39" label="product" />
+<Entity id="37" label="company" />
+<Entity id="38" label="trigger" />
+</Relation>
+<Relation id="67" NAME="company_relationship">
+<Entity id="44" label="parent" />
+<Entity id="42" label="relation_type" />
+<Entity id="43" label="child" />
+</Relation>
+<Relation id="68" NAME="company_turnover">
+<Entity id="49" label="company" />
+<Entity id="53" label="trigger" />
+<Entity id="52" label="turnover" />
+</Relation>
+<Relation id="69" NAME="entity_head">
+<Entity id="6" label="head" />
+<Entity id="5" label="full_extent" />
+</Relation>
+<Relation id="70" NAME="entity_head">
+<Entity id="7" label="head" />
+<Entity id="8" label="full_extent" />
+</Relation>
+<Relation id="71" NAME="entity_head">
+<Entity id="33" label="head" />
+<Entity id="34" label="full_extent" />
+</Relation>
+<Relation id="72" NAME="entity_head">
+<Entity id="41" label="head" />
+<Entity id="43" label="full_extent" />
+</Relation>
+<Relation id="73" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="32" label="target" />
+<Entity id="34" label="target" />
+<Entity id="18" label="target" />
+<Entity id="43" label="target" />
+<Entity id="23" label="target" />
+<Entity id="36" label="target" />
+<Entity id="5" label="target" />
+<Entity id="37" label="target" />
+<Entity id="8" label="target" />
+<Entity id="15" label="target" />
+<Entity id="40" label="target" />
+</Relation>
+<Relation id="74" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="16" label="target" />
+<Entity id="12" label="target" />
+<Entity id="22" label="target" />
+</Relation>
+<Relation id="75" NAME="identity">
+<Entity id="13" label="source" />
+<Entity id="21" label="target" />
+<Entity id="49" label="target" />
+<Entity id="44" label="target" />
+<Entity id="14" label="target" />
+<Entity id="48" label="target" />
+<Entity id="46" label="target" />
+<Entity id="45" label="target" />
+</Relation></Relations>
+</Document>

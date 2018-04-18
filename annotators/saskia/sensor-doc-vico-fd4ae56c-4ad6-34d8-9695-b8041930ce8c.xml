@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>2013 (13) - <NODE id="12" />BMW<NODE id="15" /> <NODE id="16" />3 Series 316d SE 4dr<NODE id="36" /> £19,621 Loading Images... Date Registered: Mar 2013 Mileage: 15,051 miles Transmission: Manual Fuel: Diesel Price: £19,621 Colour: White Body Style: Saloon Vehicle Trim / Variant: SE EC Combined (mpg) 62.8 EC Extra Urban (mpg) 72.4 EC Urban (mpg) 51.4  &gt; 62 MPG 20 Insurance Group 116 Performance (BHP) 5 Seats 118 CO2 (g/km) £30 Road Tax History Checked Vehicle Trim / Variant: SE Black Dakota Leather, Bluetooth Telephone Preparation, 17 Alloys, Automatic Air Conditioning, Leather Steering Wheel, Run Flat Tyres, Silver Interior Trim, Auto Dim Interior Mirror, Park Distance Control, Front Foglights, Rain Sensor Wipers with Auto Headlight Activation, Cruise Control with Brake Function, DAB Digital Radio, Auto Drive Away Locking System Exact specification may vary from the details on this page. Please contact the seller via our email dealer form or on 0113 333 9614 to reconfirm any details before purchasing. See terms &amp; conditions for further info. Review Rating This is the sixth generation of the <NODE id="1045" />BMW<NODE id="1048" /> <NODE id="1049" />3 Series<NODE id="1057" />. read more Class-leading handling Sizeable boot Economical engines Manual seats are difficult to adjust Servicing costs can be high Review provided by: The following features are fitted on this car... ABS Air conditioning Alarm Audio remote control Cruise control DAB digital radio Electric door mirrors Front electric windows Front fog lights Immobiliser Isofix child seat anchor points Passenger airbag Radio/CD Rear electric windows Remote central locking Service indicator Side airbags Traction control Trip computer Equipment This equipment listed below is a standard description and may differ from the exact detail for the vehicle displayed. If you require further clarification call us on 0113 333 9614 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Comfort / Convenience 12V sockets in front centre console and passenger footwell 2 speed adjustable intermittent wipers with wash/wipe function 2 x folding cupholders in instrument panel above glovebox 3 rear seat head restraints 4 foldable grab handles - rear with clothes hook 4 lashing points to secure luggage ABS Auto dimming rear view mirror Automatic Stability Control (ASC) Body colour electric adjustable door mirrors Brake pad wear indicator warning light CBC - (Cornering brake control) Check control system Cruise control with brake function Digital clock Door/boot open warning light Drive Performance Control DSC+ Dual zone automatic air conditioning Dynamic brake control Dynamic Traction Control - DTC Electric front and rear windows with one touch/convenient open/close function Electronic differential lock Folding front centre armrest + storage Front and rear door armrests Front door storage bins with bottle holder Green tinted heat insulating glass Heated rear window with automatic switch off Heated windscreen washer jets Height adjustable front headrests Hill start assist Isofix system on outer rear seats Leather gear knob Leather gear selector lever handle Leather handbrake grip Lights on warning Lockable glovebox Multi-function controls for steering wheel Oil temperature gauge On board computer On board diagnostics Operation warning of all exterior lights Outside temperature display Push button starter Rain sensor + automatic driving lights control Reach + rake adjustable steering column Rear storage compartment in multifunction centre console with sliding cover Run flat tyre indicator Service interval indicator Storage compartment in rear doors Toolkit located in luggage compartment Entertainment Auxiliary point for auxiliary devices <NODE id="3663" />BMW<NODE id="3666" /> professional radio/CD/MP3 CD Changer preparation DAB Digital radio Exterior / Styling Automatic headlight beam throw control Body colour bumpers Body colour door handles Body colour roof mouldings Brake force display Chrome exhaust tailpipe Clear indicator lenses Daytime running lights Door sill finishers Dynamic brake lights Front fog lights Front ornamental grille with black kidney bars and chrome bezel 'Guide me home' headlamps Low rolling resistance tyres Run-flat tyres Shark fin roof aerial Safety / Security 3 point inertia reel seatbelts + pre-tensioners on outer rear seats Automatic drive away locking facility Central locking fuel filler cap Centre lock switch Crash sensor Driver and passenger airbags Electronic immobiliser Front and rear head airbags Front passenger airbag deactivation Front seat side impact airbags Front seatbelt pretensioners + load limiters Key integrated remote control central locking Rear child proof door locks Remote control alarm Seatbelt warning Three 3 point rear seatbelts Twin horns Warning triangle and first aid kit Technical Specifications The technical specifications detailed below may differ from the exact specifications for the vehicle displayed. If you require further clarification call us on 0113 333 9614 and we will only be too pleased to discuss in greater detail or answer questions you may have regarding this vehicle. Emissions CO2 (g/km) 118
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/fd4ae56c-4ad6-34d8-9695-b8041930ce8c" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-06T11:53:28Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:11:26.108Z" />
+<feature featureName="uri" featureValue="http://www.carmony.co.uk/car-40105769/sp" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="15" type="organization" surface="BMW" />
+<Entity id="1" startPos="12" endPos="36" type="product" surface="BMW 3 Series 316d SE 4dr" />
+<Entity id="2" startPos="16" endPos="36" type="head" surface="3 Series 316d SE 4dr" />
+<Entity id="3" startPos="1045" endPos="1048" type="organization" surface="BMW" />
+<Entity id="4" startPos="1045" endPos="1057" type="product" surface="BMW 3 Series" />
+<Entity id="5" startPos="1049" endPos="1057" type="head" surface="3 Series" />
+<Entity id="6" startPos="3663" endPos="3666" type="organization" surface="BMW" /></Entities><Relations>
+<Relation id="7" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="8" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="3" label="company" />
+</Relation>
+<Relation id="9" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="6" label="target" />
+<Entity id="3" label="target" />
+</Relation>
+<Relation id="10" NAME="entity_head">
+<Entity id="1" label="full_extent" />
+<Entity id="2" label="head" />
+</Relation>
+<Relation id="11" NAME="entity_head">
+<Entity id="4" label="full_extent" />
+<Entity id="5" label="head" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Close (X) Set up related e-mail alerts _ FREE! <NODE id="47" />AutoGrid<NODE id="55" /> Is Named to the 2015 Global Cleantech 100 <NODE id="98" />AutoGrid<NODE id="106" /> Recognized as One of the Top Private Companies in Clean Technology January 25, 2016 8:05 PM EST REDWOOD CITY, CA -- (Marketwired) -- 01/25/16 -- <NODE id="252" />AutoGrid Systems<NODE id="268" /> , a leader in <NODE id="283" />big data analytics<NODE id="301" /> and <NODE id="306" />predictive control software<NODE id="333" /> for the electricity and energy industry, today announced it was named in the prestigious 2015 Global Cleantech 100 , produced by <NODE id="463" />Cleantech Group<NODE id="478" /> . The Global Cleantech 100 represents the most innovative and promising ideas in cleantech. Featuring companies that are best positioned to solve tomorrow's clean technology challenges, Global Cleantech 100 is a comprehensive list of private companies with the highest potential to make the most significant market impact. The global need for more sustainable, more affordable and more reliable energy is transforming the electric grid -- from a rigid, centralized system that just transports electrons into a flexible, distributed system for balancing electricity supply and demand, said Dr. Amit Narayan, CEO of <NODE id="1093" />AutoGrid<NODE id="1101" />. Our inclusion on the 2015 Global Cleantech 100 list demonstrates that <NODE id="1173" />AutoGrid<NODE id="1181" /> continues to be a leader in accelerating this transformation, with a scalable and intelligent <NODE id="1276" />software-as-a-service platform<NODE id="1306" /> that enables our customers to optimize and manage a diverse portfolio of connected energy assets across the Energy Internet. The Global Cleantech 100 is collated by combining proprietary <NODE id="1494" />Cleantech Group<NODE id="1509" /> research data, with weighted qualitative judgments of hundreds of nominations, and specific inputs from a global 100-person Expert Panel. To qualify for the list, companies must be independent, for-profit, cleantech companies that are not listed on any major stock exchange. The 2015 Global Cleantech 100 recognition adds to a long list of accolades for <NODE id="1864" />AutoGrid<NODE id="1872" />. <NODE id="1874" />AutoGrid<NODE id="1882" /> has been named: About <NODE id="1905" />Cleantech Group<NODE id="1920" /> Founded in 2002, <NODE id="1938" />Cleantech Group<NODE id="1953" />'s mission is to accelerate sustainable innovation. Core to this mission is <NODE id="2029" />i3<NODE id="2031" />, an <NODE id="2036" />online platform<NODE id="2051" /> that connects corporates with innovation, at scale, by allowing them to find, vet, and connect with start-ups -- efficiently building an innovation pipeline. The <NODE id="2214" />i3 platform<NODE id="2225" /> comes to life at our global Events, which convene corporates and start-ups, along with other players shaping the future of sustainable innovation. <NODE id="2373" />Cleantech Group<NODE id="2388" /> is headquartered in San Francisco and has offices in London. For more information, visit; www.cleantech.com About <NODE id="2503" />AutoGrid<NODE id="2511" /> <NODE id="2512" />AutoGrid<NODE id="2520" /> transforms data into the cleanest, cheapest source of power. The company's <NODE id="2596" />Energy Data Platform<NODE id="2616" /> (<NODE id="2618" />EDP<NODE id="2621" />) and suite of <NODE id="2636" />Energy Internet<NODE id="2651" /> applications help global utilities, energy service providers and Internet-of-Things (IoT) vendors improve customer engagement, enhance grid reliability, drive resource flexibility and increase profitability. EDP leverages petabytes of <NODE id="2887" />smart meter<NODE id="2898" />, <NODE id="2900" />sensor<NODE id="2906" /> and third party data along with powerful data science algorithms to generate a dynamic, real-time portrait of energy consumption and implement actionable programs across connected assets and residential, commercial and enterprise customers. Utilities such as <NODE id="3166" />E.ON<NODE id="3170" />, <NODE id="3172" />Bonneville Power Administration<NODE id="3203" />, <NODE id="3205" />Florida Power &amp; Light<NODE id="3226" />, <NODE id="3228" />Southern California Edison<NODE id="3254" />, <NODE id="3256" />Eneco<NODE id="3261" />, <NODE id="3263" />Portland General Electric<NODE id="3288" />, and the <NODE id="3298" />City of Palo Alto Utilities<NODE id="3325" /> are using <NODE id="3336" />AutoGrid<NODE id="3344" />'s big data analytics technology to improve the reliability and productivity of their operations. <NODE id="3442" />AutoGrid<NODE id="3450" /> technology is also embedded in <NODE id="3482" />software products<NODE id="3499" /> from leading <NODE id="3513" />vendors, such as<NODE id="3529" /> <NODE id="3530" />Schneider Electric<NODE id="3548" />, <NODE id="3550" />Silver Spring Networks<NODE id="3572" /> and <NODE id="3577" />NTT Data<NODE id="3585" />. <NODE id="3587" />AutoGrid<NODE id="3595" /> was named a World Economic Forum Technology Pioneer for 2015. Source: <NODE id="3666" />AutoGrid Systems<NODE id="3682" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/d299dfe5-6ae7-31f5-a5e6-2bd2146a91a4" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-26T02:58:02Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:55:11.323Z" />
+<feature featureName="uri" featureValue="http://www.streetinsider.com/Press+Releases/AutoGrid+Is+Named+to+the+2015+Global+Cleantech+100/11245033.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="47" endPos="55" type="organization" surface="AutoGrid" />
+<Entity id="1" startPos="98" endPos="106" type="organization" surface="AutoGrid" />
+<Entity id="2" startPos="252" endPos="268" type="organization" surface="AutoGrid Systems" />
+<Entity id="3" startPos="283" endPos="301" type="product" surface="big data analytics" />
+<Entity id="4" startPos="306" endPos="333" type="product" surface="predictive control software" />
+<Entity id="5" startPos="463" endPos="478" type="organization" surface="Cleantech Group" />
+<Entity id="6" startPos="1093" endPos="1101" type="organization" surface="AutoGrid" />
+<Entity id="7" startPos="1173" endPos="1181" type="organization" surface="AutoGrid" />
+<Entity id="8" startPos="1276" endPos="1306" type="product" surface="software-as-a-service platform" />
+<Entity id="9" startPos="1494" endPos="1509" type="organization" surface="Cleantech Group" />
+<Entity id="10" startPos="1864" endPos="1872" type="organization" surface="AutoGrid" />
+<Entity id="11" startPos="1874" endPos="1882" type="organization" surface="AutoGrid" />
+<Entity id="12" startPos="1905" endPos="1920" type="organization" surface="Cleantech Group" />
+<Entity id="13" startPos="1938" endPos="1953" type="organization" surface="Cleantech Group" />
+<Entity id="14" startPos="2029" endPos="2031" type="product" surface="i3" />
+<Entity id="15" startPos="2036" endPos="2051" type="product" surface="online platform" />
+<Entity id="16" startPos="2214" endPos="2225" type="product" surface="i3 platform" />
+<Entity id="17" startPos="2373" endPos="2388" type="organization" surface="Cleantech Group" />
+<Entity id="18" startPos="2503" endPos="2511" type="organization" surface="AutoGrid" />
+<Entity id="19" startPos="2512" endPos="2520" type="organization" surface="AutoGrid" />
+<Entity id="20" startPos="2596" endPos="2616" type="product" surface="Energy Data Platform" />
+<Entity id="21" startPos="2618" endPos="2621" type="product" surface="EDP" />
+<Entity id="22" startPos="2636" endPos="2651" type="product" surface="Energy Internet" />
+<Entity id="23" startPos="2887" endPos="2898" type="product" surface="smart meter" />
+<Entity id="24" startPos="2900" endPos="2906" type="product" surface="sensor" />
+<Entity id="25" startPos="3166" endPos="3170" type="organization" surface="E.ON" />
+<Entity id="26" startPos="3172" endPos="3203" type="organization" surface="Bonneville Power Administration" />
+<Entity id="27" startPos="3205" endPos="3226" type="organization" surface="Florida Power &amp; Light" />
+<Entity id="28" startPos="3228" endPos="3254" type="organization" surface="Southern California Edison" />
+<Entity id="29" startPos="3256" endPos="3261" type="organization" surface="Eneco" />
+<Entity id="30" startPos="3263" endPos="3288" type="organization" surface="Portland General Electric" />
+<Entity id="31" startPos="3298" endPos="3325" type="organization" surface="City of Palo Alto Utilities" />
+<Entity id="32" startPos="3336" endPos="3344" type="organization" surface="AutoGrid" />
+<Entity id="33" startPos="3442" endPos="3450" type="organization" surface="AutoGrid" />
+<Entity id="34" startPos="3482" endPos="3499" type="product" surface="software products" />
+<Entity id="35" startPos="3513" endPos="3529" type="trigger" surface="vendors, such as" />
+<Entity id="36" startPos="3530" endPos="3548" type="organization" surface="Schneider Electric" />
+<Entity id="37" startPos="3550" endPos="3572" type="organization" surface="Silver Spring Networks" />
+<Entity id="38" startPos="3577" endPos="3585" type="organization" surface="NTT Data" />
+<Entity id="39" startPos="3587" endPos="3595" type="organization" surface="AutoGrid" />
+<Entity id="40" startPos="3666" endPos="3682" type="organization" surface="AutoGrid Systems" /></Entities><Relations>
+<Relation id="41" NAME="company_provides_product">
+<Entity id="8" label="product" />
+<Entity id="7" label="company" />
+</Relation>
+<Relation id="42" NAME="company_provides_product">
+<Entity id="34" label="product" />
+<Entity id="35" label="trigger" />
+<Entity id="38" label="company" />
+</Relation>
+<Relation id="43" NAME="company_provides_product">
+<Entity id="34" label="product" />
+<Entity id="35" label="trigger" />
+<Entity id="36" label="company" />
+</Relation>
+<Relation id="44" NAME="company_provides_product">
+<Entity id="34" label="product" />
+<Entity id="35" label="trigger" />
+<Entity id="37" label="company" />
+</Relation></Relations>
+</Document>

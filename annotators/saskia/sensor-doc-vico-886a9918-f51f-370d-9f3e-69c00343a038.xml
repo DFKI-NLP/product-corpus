@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>News <NODE id="5" />Lumo Bodytech<NODE id="18" /> Hires Mark Mastalir as Vice President of Marketing and Partnerships PR Newswire | Tuesday, 09 February 2016 01:10 (EST) PALO ALTO, Calif., Feb. 9, 2016 /PRNewswire/ -- <NODE id="187" />Lumo Bodytech<NODE id="200" />, the creators of<NODE id="217" /> <NODE id="218" />Lumo Run<NODE id="226" /> , today announced the addition of Mark Mastalir to the team as Vice President of Marketing and Partnerships. Mark will lead the company's marketing efforts for the general availability launch of <NODE id="422" />Lumo Run<NODE id="430" />, a sensor technology that coaches you to run more efficiently, improving your performance and reducing the risk of injury. Mark brings to the team a wealth of experience and knowledge in both competitive running and international sports marketing. Logo - http://photos.prnewswire.com/prnh/20160208/330985LOGO Prior to joining <NODE id="757" />Lumo Bodytech<NODE id="770" />, Mark worked for <NODE id="788" />Hoka One One<NODE id="800" />, a division of <NODE id="816" />Deckers Outdoor Corporation<NODE id="843" />, as Vice President of Marketing. Under Mark's leadership, <NODE id="902" />Hoka<NODE id="906" />'s sales increased 300 percent in the last year, making <NODE id="962" />HOKA<NODE id="966" /> the fastest growing <NODE id="987" />running shoe<NODE id="999" /> <NODE id="1000" />brand<NODE id="1005" /> of all time. Mark has also held global leadership positions at <NODE id="1069" />Reebok<NODE id="1075" />, <NODE id="1077" />NIKE<NODE id="1081" />, the <NODE id="1087" />NBA<NODE id="1090" /> and <NODE id="1095" />Wrigley<NODE id="1102" />. In addition to his accomplished background in sports marketing, Mark is also passionate about running. He began competitively running in 1982 and was an All-American at Stanford in the 1500 meters in 1992. He also competed in the 1992 Olympic Trials in the 1500 meters. We're excited to expand the <NODE id="1402" />Lumo<NODE id="1406" /> platform<NODE id="1415" /> to help people be the best runners they can be, said Monisha Perkash, CEO and co-founder of <NODE id="1508" />Lumo Bodytech<NODE id="1521" />. As both a competitive runner and experienced global sports marketer, Mark will be key in helping us to launch <NODE id="1633" />Lumo<NODE id="1637" /> Run<NODE id="1641" /> and access the multi-billion dollar running and <NODE id="1690" />wearables<NODE id="1699" /> market. <NODE id="1708" />Lumo<NODE id="1712" /> Run<NODE id="1716" />, launched for pre-sale in October 2015, incorporates the personal attention of a running coach with the professional data of a lab. It measures running biomechanics like cadence, bounce and pelvic stability to guide your running form, improving your overall efficiency and performance. <NODE id="2003" />Lumo<NODE id="2007" /> Run<NODE id="2011" /> is currently available for pre-order online and is expected to ship spring 2016. Monisha and the team have created a product that allows runners and coaches to easily understand and interpret metrics that improve performance, and there is nothing in the market that provides as much useful information to the runner as <NODE id="2331" />Lumo<NODE id="2335" /> Run<NODE id="2339" />, said Mastalir. As someone who loves to run and compete, I'm proud to be a part of a team pushing the boundaries of the sport. About <NODE id="2473" />Lumo<NODE id="2477" /> <NODE id="2478" />Lumo Bodytech<NODE id="2491" /> <NODE id="2492" />has developed<NODE id="2505" /> a <NODE id="2508" />technology platform<NODE id="2527" /> that leverages <NODE id="2543" />smart sensors<NODE id="2556" /> and <NODE id="2561" />software<NODE id="2569" /> to optimize performance and address human biomechanics through the real-time tracking of body movement. <NODE id="2674" />Lumo<NODE id="2678" />'s products empower you to be the best version of yourself. Current <NODE id="2746" />Lumo Bodytech<NODE id="2759" /> <NODE id="2760" />products include<NODE id="2776" /> the <NODE id="2781" />Lumo<NODE id="2785" /> Lift<NODE id="2790" /> and <NODE id="2795" />Lumo<NODE id="2799" /> Back posture coaches and activity trackers<NODE id="2842" />, as well as the <NODE id="2859" />Lumo<NODE id="2863" /> Run smart running shorts<NODE id="2888" />. <NODE id="2890" />Lumo Bodytech<NODE id="2903" /> is privately-held and headquartered in Palo Alto, CA.  Information on <NODE id="2974" />Lumo Bodytech<NODE id="2987" /> and their products is available at www.lumobodytech.com Contacts <NODE id="3053" />Lumo Bodytech<NODE id="3066" /> Tansy Brook +1 (650) 646-2216 media@lumobodytech.com To view the original version on PR Newswire, visit: http://www.prnewswire.com/news-releases/lumo-bodytech-hires-mark-mastalir-as-vice-president-of-marketing-and-partnerships-300217061.html SOURCE <NODE id="3316" />Lumo Bodytech<NODE id="3329" /> DISCLOSURE: The views and opinions expressed in this article are those of the authors, and do not represent the views of equities.com . Readers should not consider statements made by the author as formal recommendations and should consult their financial advisor before making any investment decisions. To read our full disclosure, please go to: http://www.equities.com/disclaimer You have to be logged in to leave a comment.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/886a9918-f51f-370d-9f3e-69c00343a038" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-09T12:38:03Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:26:53.785Z" />
+<feature featureName="uri" featureValue="https://www.equities.com/news/lumo-bodytech-hires-mark-mastalir-as-vice-president-of-marketing-and-partnerships" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="5" endPos="18" type="organization" surface="Lumo Bodytech" />
+<Entity id="1" startPos="187" endPos="200" type="organization" surface="Lumo Bodytech" />
+<Entity id="2" startPos="200" endPos="217" type="trigger" surface=", the creators of" />
+<Entity id="3" startPos="218" endPos="226" type="product" surface="Lumo Run" />
+<Entity id="4" startPos="422" endPos="430" type="product" surface="Lumo Run" />
+<Entity id="5" startPos="757" endPos="770" type="organization" surface="Lumo Bodytech" />
+<Entity id="6" startPos="788" endPos="800" type="organization" surface="Hoka One One" />
+<Entity id="7" startPos="816" endPos="843" type="organization" surface="Deckers Outdoor Corporation" />
+<Entity id="8" startPos="902" endPos="906" type="organization" surface="Hoka" />
+<Entity id="9" startPos="962" endPos="966" type="organization" surface="HOKA" />
+<Entity id="10" startPos="987" endPos="999" type="product" surface="running shoe" />
+<Entity id="11" startPos="1000" endPos="1005" type="trigger" surface="brand" />
+<Entity id="12" startPos="1069" endPos="1075" type="organization" surface="Reebok" />
+<Entity id="13" startPos="1077" endPos="1081" type="organization" surface="NIKE" />
+<Entity id="14" startPos="1087" endPos="1090" type="organization" surface="NBA" />
+<Entity id="15" startPos="1095" endPos="1102" type="organization" surface="Wrigley" />
+<Entity id="16" startPos="1402" endPos="1406" type="organization" surface="Lumo" />
+<Entity id="17" startPos="1402" endPos="1415" type="product" surface="Lumo platform" />
+<Entity id="18" startPos="1508" endPos="1521" type="organization" surface="Lumo Bodytech" />
+<Entity id="19" startPos="1633" endPos="1637" type="organization" surface="Lumo" />
+<Entity id="20" startPos="1633" endPos="1641" type="product" surface="Lumo Run" />
+<Entity id="21" startPos="1690" endPos="1699" type="product" surface="wearables" />
+<Entity id="22" startPos="1708" endPos="1712" type="organization" surface="Lumo" />
+<Entity id="23" startPos="1708" endPos="1716" type="product" surface="Lumo Run" />
+<Entity id="24" startPos="2003" endPos="2007" type="organization" surface="Lumo" />
+<Entity id="25" startPos="2003" endPos="2011" type="product" surface="Lumo Run" />
+<Entity id="26" startPos="2331" endPos="2335" type="organization" surface="Lumo" />
+<Entity id="27" startPos="2331" endPos="2339" type="product" surface="Lumo Run" />
+<Entity id="28" startPos="2473" endPos="2477" type="organization" surface="Lumo" />
+<Entity id="29" startPos="2478" endPos="2491" type="organization" surface="Lumo Bodytech" />
+<Entity id="30" startPos="2492" endPos="2505" type="trigger" surface="has developed" />
+<Entity id="31" startPos="2508" endPos="2527" type="product" surface="technology platform" />
+<Entity id="32" startPos="2543" endPos="2556" type="product" surface="smart sensors" />
+<Entity id="33" startPos="2561" endPos="2569" type="product" surface="software" />
+<Entity id="34" startPos="2674" endPos="2678" type="organization" surface="Lumo" />
+<Entity id="35" startPos="2746" endPos="2759" type="organization" surface="Lumo Bodytech" />
+<Entity id="36" startPos="2760" endPos="2776" type="trigger" surface="products include" />
+<Entity id="37" startPos="2781" endPos="2785" type="organization" surface="Lumo" />
+<Entity id="38" startPos="2781" endPos="2790" type="product" surface="Lumo Lift" />
+<Entity id="39" startPos="2795" endPos="2799" type="organization" surface="Lumo" />
+<Entity id="40" startPos="2795" endPos="2842" type="product" surface="Lumo Back posture coaches and activity trackers" />
+<Entity id="41" startPos="2859" endPos="2863" type="organization" surface="Lumo" />
+<Entity id="42" startPos="2859" endPos="2888" type="product" surface="Lumo Run smart running shorts" />
+<Entity id="43" startPos="2890" endPos="2903" type="organization" surface="Lumo Bodytech" />
+<Entity id="44" startPos="2974" endPos="2987" type="organization" surface="Lumo Bodytech" />
+<Entity id="45" startPos="3053" endPos="3066" type="organization" surface="Lumo Bodytech" />
+<Entity id="46" startPos="3316" endPos="3329" type="organization" surface="Lumo Bodytech" /></Entities><Relations>
+<Relation id="47" NAME="company_provides_product">
+<Entity id="3" label="product" />
+<Entity id="2" label="trigger" />
+<Entity id="1" label="company" />
+</Relation>
+<Relation id="48" NAME="company_provides_product">
+<Entity id="10" label="product" />
+<Entity id="11" label="trigger" />
+<Entity id="9" label="company" />
+</Relation>
+<Relation id="49" NAME="company_provides_product">
+<Entity id="17" label="product" />
+<Entity id="16" label="company" />
+</Relation>
+<Relation id="50" NAME="company_provides_product">
+<Entity id="20" label="product" />
+<Entity id="19" label="company" />
+</Relation>
+<Relation id="51" NAME="company_provides_product">
+<Entity id="23" label="product" />
+<Entity id="22" label="company" />
+</Relation>
+<Relation id="52" NAME="company_provides_product">
+<Entity id="25" label="product" />
+<Entity id="24" label="company" />
+</Relation>
+<Relation id="53" NAME="company_provides_product">
+<Entity id="27" label="product" />
+<Entity id="26" label="company" />
+</Relation>
+<Relation id="54" NAME="company_provides_product">
+<Entity id="31" label="product" />
+<Entity id="30" label="trigger" />
+<Entity id="29" label="company" />
+</Relation>
+<Relation id="55" NAME="company_provides_product">
+<Entity id="40" label="product" />
+<Entity id="38" label="product" />
+<Entity id="42" label="product" />
+<Entity id="36" label="trigger" />
+<Entity id="35" label="company" />
+</Relation>
+<Relation id="56" NAME="company_provides_product">
+<Entity id="38" label="product" />
+<Entity id="37" label="company" />
+</Relation>
+<Relation id="57" NAME="company_provides_product">
+<Entity id="40" label="product" />
+<Entity id="39" label="company" />
+</Relation>
+<Relation id="58" NAME="company_provides_product">
+<Entity id="42" label="product" />
+<Entity id="41" label="company" />
+</Relation></Relations>
+</Document>

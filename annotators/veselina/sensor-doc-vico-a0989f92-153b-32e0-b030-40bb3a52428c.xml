@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />RunKeeper<NODE id="9" /> CEO: Dedicated trackers are headed the way of the digital camera By Jonah Comstock March 20, 2014 <NODE id="108" />RunKeeper<NODE id="117" /> <NODE id="118" />CEO<NODE id="121" /> <NODE id="122" />Jason Jacobs<NODE id="134" /> More and more fitness devices are flooding the market, but <NODE id="194" />Jason Jacobs<NODE id="206" />, <NODE id="208" />CEO<NODE id="211" /> of <NODE id="215" />RunKeeper<NODE id="224" />, thinks they are on a road to nowhere. In an onstage interview with <NODE id="293" />Xconomy<NODE id="300" /> editor Curt Woodward at the publication's Mobile Madness 2014 event in Cambridge, Massachusetts yesterday, he talked about how he sees the space changing. We built this app for the phone and then we saw all these wearables come out in the early days ... then an obscene amount of them starting coming out, he said. And from an end user standpoint, people weren't using them. Even those that bought them, after a few months they were sitting on the bureau or put through the washing machine and, meanwhile, the phone we were built on kept getting better and better. It had more sensors on it, the battery life was getting longer , it was getting faster, it was getting more durable, the form factor was getting more fitness friendly. Jacobs compared dedicated fitness trackers to cameras and music players -- two devices that seemed like they would have a long life as standalone products, and are now relegated to a niche market in the face of integrated smartphones. What we started to notice was this fitness-specific hardware was on a road to nowhere, because over time it's on a path to commoditization and how can they possibly maintain these margins when there's less and less differentiation and more and more players in the market? he said. So from a focus standpoint, we're squarely focused on being the software that powers the fitness component of phones and, in general, wearables. And while we still plan to integrate with the third party inputs, we don't think the standalone devices that are fitness specific are the vehicle that is going to take this stuff to the mass market. We think it's going to be the phone.  The <NODE id="1936" />Boston<NODE id="1942" />-<NODE id="1943" />based<NODE id="1948" /> <NODE id="1949" />fitness app<NODE id="1960" /> <NODE id="1961" />company<NODE id="1968" /> has recently reached 30 million users, according to Jacobs. Responding to a question about <NODE id="2060" />Apple<NODE id="2065" />'s rumored <NODE id="2076" />Healthbook<NODE id="2086" /> and <NODE id="2091" />Google<NODE id="2097" />'s <NODE id="2100" />Android Wear<NODE id="2112" /> signaling a possible entrance into the space by those companies, Jacobs talked about RunKeeper's history. When we started, people thought our company was a joke, he said. 'Fitness is a niche.' 'You can't build a consumer company in Boston', on and on and on there were all these reasons why we didn't stand any chance of success, and not only did we not stand any probability of success, but the category we were operating in wasn't interesting to anybody. Then it was: 'How are you going to compete with the 50 other people who do run tracking?' Then <NODE id="2665" />Nike<NODE id="2669" /> showed up and it was 'Oh my God, how are you going to compete with <NODE id="2737" />Nike<NODE id="2741" />?' And so now it's <NODE id="2760" />Apple<NODE id="2765" />, <NODE id="2767" />Google<NODE id="2773" />, <NODE id="2775" />Samsung<NODE id="2782" />, everybody's pouring money in, the biggest companies in the world from a technology standpoint are pouring money into this category. As an entrepreneur, while that may be scary, that is immensely validating. If we got scooped every time a big company entered our category over the last 6 years, we'd be dead 52 times by now, and nobody's killed us yet. Jacobs attributes that resilience partly to RunKeeper's strategy of being a motivational tool that sits on top of data collection and feedback tools, rather than hanging its hat on data collection and feedback itself. He also acknowledged that the company has a strong brand, which helps keep the company relevant. We have people who have gone three or four months without using the product, but if you ask them about RunKeeper, they're fierce brand loyalists, he said. So it's kind of a unique category in that way. You stop using Facebook for six months, you're probably sick of Facebook. But 60 percent of people that turn away from RunKeeper are turning away from working out. And as soon as they get back into working out, they run right back to RunKeeper. Finally, Jacobs talked about some of RunKeeper's future plans, which include using more data to keep users motivated. He said the app will eventually combine data about users, aggregate data about similar users, and data about the environment to generate highly personalized, specific action plans. If we know that you're supposed to run 10 miles tomorrow or today and we know your schedule and we know that it's raining outside, we also know when it stops raining, he said. Or we don't today, but we sure could, the technology's there. Right? So what if we pinged you and said 'Hey it stopped raining, might be a good time to get in that 10 miles,' since we know you have 2 hours free in your schedule? It's scary, but it's incredibly powerful if harnessed for good.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/a0989f92-153b-32e0-b030-40bb3a52428c" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-30T14:17:32Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:36:04.087Z" />
+<feature featureName="uri" featureValue="http://mobihealthnews.com/31227/runkeeper-ceo-dedicated-trackers-are-headed-the-way-of-the-digital-camera" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="organization" surface="RunKeeper" />
+<Entity id="1" startPos="108" endPos="117" type="organization" surface="RunKeeper" />
+<Entity id="2" startPos="108" endPos="121" type="position" surface="RunKeeper CEO" />
+<Entity id="3" startPos="108" endPos="134" type="person" surface="RunKeeper CEO Jason Jacobs" />
+<Entity id="4" startPos="118" endPos="121" type="head" surface="CEO" />
+<Entity id="5" startPos="122" endPos="134" type="head" surface="Jason Jacobs" />
+<Entity id="6" startPos="194" endPos="206" type="person" surface="Jason Jacobs" />
+<Entity id="7" startPos="208" endPos="211" type="head" surface="CEO" />
+<Entity id="8" startPos="208" endPos="224" type="position" surface="CEO of RunKeeper" />
+<Entity id="9" startPos="215" endPos="224" type="organization" surface="RunKeeper" />
+<Entity id="10" startPos="293" endPos="300" type="organization" surface="Xconomy" />
+<Entity id="11" startPos="1936" endPos="1942" type="location" surface="Boston" />
+<Entity id="12" startPos="1936" endPos="1968" type="organization" surface="Boston-based fitness app company" />
+<Entity id="13" startPos="1943" endPos="1948" type="trigger" surface="based" />
+<Entity id="14" startPos="1949" endPos="1960" type="product" surface="fitness app" />
+<Entity id="15" startPos="1961" endPos="1968" type="head" surface="company" />
+<Entity id="16" startPos="2060" endPos="2065" type="organization" surface="Apple" />
+<Entity id="17" startPos="2076" endPos="2086" type="product" surface="Healthbook" />
+<Entity id="18" startPos="2091" endPos="2097" type="organization" surface="Google" />
+<Entity id="19" startPos="2100" endPos="2112" type="product" surface="Android Wear" />
+<Entity id="20" startPos="2665" endPos="2669" type="organization" surface="Nike" />
+<Entity id="21" startPos="2737" endPos="2741" type="organization" surface="Nike" />
+<Entity id="22" startPos="2760" endPos="2765" type="organization" surface="Apple" />
+<Entity id="23" startPos="2767" endPos="2773" type="organization" surface="Google" />
+<Entity id="24" startPos="2775" endPos="2782" type="organization" surface="Samsung" /></Entities><Relations>
+<Relation id="25" NAME="company_headquarters">
+<Entity id="11" label="headquarter" />
+<Entity id="12" label="company" />
+<Entity id="13" label="trigger" />
+</Relation>
+<Relation id="26" NAME="company_provides_product">
+<Entity id="14" label="product" />
+<Entity id="12" label="company" />
+</Relation>
+<Relation id="27" NAME="company_provides_product">
+<Entity id="17" label="product" />
+<Entity id="16" label="company" />
+</Relation>
+<Relation id="28" NAME="company_provides_product">
+<Entity id="19" label="product" />
+<Entity id="18" label="company" />
+</Relation>
+<Relation id="29" NAME="entity_head">
+<Entity id="4" label="head" />
+<Entity id="2" label="full_extent" />
+</Relation>
+<Relation id="30" NAME="entity_head">
+<Entity id="5" label="head" />
+<Entity id="3" label="full_extent" />
+</Relation>
+<Relation id="31" NAME="entity_head">
+<Entity id="7" label="head" />
+<Entity id="8" label="full_extent" />
+</Relation>
+<Relation id="32" NAME="entity_head">
+<Entity id="15" label="head" />
+<Entity id="12" label="full_extent" />
+</Relation>
+<Relation id="33" NAME="organization_leadership">
+<Entity id="3" label="person" />
+<Entity id="1" label="organization" />
+<Entity id="2" label="position" />
+</Relation>
+<Relation id="34" NAME="organization_leadership">
+<Entity id="6" label="person" />
+<Entity id="9" label="organization" />
+<Entity id="8" label="position" />
+</Relation></Relations>
+</Document>

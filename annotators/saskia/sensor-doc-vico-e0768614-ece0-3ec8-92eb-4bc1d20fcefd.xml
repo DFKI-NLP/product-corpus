@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Since his days as executive editor at <NODE id="38" />WIRED<NODE id="43" /> <NODE id="44" />magazine<NODE id="52" />, which he led to a dozen National Magazine Awards in as many years, science journalist Thomas Goetz has been driven by a key question: How are industries tipping in the face of information technology? Clearly, few industries have been more transformed by IT these past few years than healthcare, so that's where Goetz has lately been focusing his energies _ whether with his book, The Decision Tree: How to Make Better Choices and Take Control of Your Health, his stint as entrepreneur-in-residence at Robert Wood Johnson Foundation, or his widely-viewed TED Talk, It is Time to Redesign Medical Data. Most recently, Goetz _ who will keynote the CIO Forum at HIMSS16 on Feb. 29_ has been busy as the CEO of <NODE id="760" />Iodine<NODE id="766" />, the San Francisco-based <NODE id="792" />digital health startup<NODE id="814" /> he co-founded with Google alum Matt Mohebbi. <NODE id="860" />Iodine<NODE id="866" />, which has been called <NODE id="890" />Yelp<NODE id="894" /> of Medicine, aims to open data to enable healthcare consumers to make better decisions about the medications they take, tapping into more than 110,000 people who share their own experiences with more than 600 different medications _ from acetaminophen to Zantac _ via the company's online platform. With the release of its new API , <NODE id="1228" />Iodine<NODE id="1234" /> aims to be integrated with patient portals, electronic health records, pharmacy apps and other medical information sites, helping consumers and clinicians alike get a truer picture of the real experience of real people in the real world with these medications, said Goetz. That will be the theme of his HIMSS16 keynote, The Future of Healthcare is Personal, where Goetz will explore how, despite all the excited talk about big data and personalized medicine, actual real-world anecdotal experience tends to get downplayed by clinicians, viewed as messy at best or mere noise at worst. He'll make the argument that personal experience has to be a key component of care delivery, a complement to clinical data that can reveal a wealth of insights about what really works. Story continues below video When Goetz was pursuing his masters in public health at UC Berkeley in the mid-2000s (he attend classes in the morning each day before heading to work at <NODE id="2187" />WIRED<NODE id="2192" />), it was still palpable how much suspicion people in healthcare had about technology. At that point, many health technologies _ screening tools, imaging tech _ seemed to be responsible increased costs, rather than efficiencies, he said. The other suspicion was that emerging technologies such as smartphones were tools for the haves, no the have-nots, so didn't really fit into a public health paradigm. But Goetz's experiences at <NODE id="2624" />WIRED<NODE id="2629" /> had taught him that that's not how tech works _ it starts expensive, but as it reaches scale, costs go down, and it starts to leverage efficiencies. That's what I started to sketch out as a way forward for healthcare, he said. Published in 2011, Goetz' book, The Decision Tree, explores ways consumer technology can help improve care, given them the knowledge and tools to make the most of a system where individuals are too often bit players in their own health decisions. A similar feeling _ I was unsatisfied with my role as an observer and not a participant _ encourage Goetz to set aside journalism and found <NODE id="3244" />Iodine<NODE id="3250" />, which he did in 2013 with Mohebbi, a longtime <NODE id="3298" />Google<NODE id="3304" /> engineer. One help early on was a contract with the <NODE id="3357" />FDA<NODE id="3360" /> to be developers for the openFDA initiative. [Also: OpenFDA app unlocks troves of data ] That has taught us a lot about the power limitations and complexities of data _ but also how useful a good API really is, he said. The hope, in publishing the new <NODE id="3613" />Iodine<NODE id="3619" /> API (free for consumer-centric apps, fee-based for more robust clinical integrations) is to keep people more informed about the medicines they're prescribed. That user-generated feedback _ once these medications are out in the real world, what is happening? _ helps build a different sort of crowdsourced knowledge base, said Goetz. It's different than what exists with randomized clinical trials, different from the data that exists in EHRs, different than claims data. It's this other data set that I believe is as important as those others. It taps into the authentic experience of people in the messiness of life _ kind of the antithesis of randomized clinical trials, which are a highly-controlled environment. The reviews on the site are in three dimensions, he said: We measure perceived efficacies, ask how much of a hassle the drug is _ what are the side-effects, how much does it interfere with day-to-day life _ and we ask for a bottom-line: is it worth it? The idea of the API is to let various industry partners build in this patient experience element, said Goetz. Two early partners are <NODE id="4722" />Gliimpse<NODE id="4730" />, a <NODE id="4734" />patient portal<NODE id="4748" /> that helps patients aggregate their health data from different sources, and <NODE id="4825" />Propeller Health<NODE id="4841" />, which has developed <NODE id="4863" />sensor-based app to help patients keep tabs on asthma and COPD<NODE id="4925" />. See all of our HIMSS16 previews Targeted content and educational material can be very engaging and useful in helping users better understand their disease and treatments, said Chris Hogg, <NODE id="5115" />Propeller Health's<NODE id="5133" /> chief operating officer. <NODE id="5159" />Iodine's<NODE id="5167" /> content is very specific, useful and consumable. The addition of user-generated content further engages our users allowing them to feel part of a larger group who is going through what they're going through, he said. Both those companies are consumer-facing digital health startups, but Goetz wouldn't mind if someday, say the Epics and Cerners of the world decided to partner with <NODE id="5550" />Iodine<NODE id="5556" />, integrating its data sets into their EHRs. We think this would be a powerful thing for physicians as well, he said. The data is parseable by demographic _ age and gender _ and they might be very interested to know that women prefer a certain anti-depressant more than men do, which we've seen in the data, or that there are certain drugs older people tolerate better than younger people. [Like Healthcare IT News on <NODE id="5974" />Facebook<NODE id="5982" /> ] The analytics that could be applied to that data could lead to some population-level gains. You can see which populations are responding to which therapies, which courses of therapies, which sequences might result in a faster, more effective course of treatment than others, said Goetz. There are many predictive patterns that will emerge in the months and years ahead. Thomas Goetz will keynote the HIMSS16 CIO Forum with a keynote titled,  The Future of Healthcare is Personal , slated for Feb. 29, 2016, from 9:30 to 10:30 a.m. in Palzzo D the Sands Expo Convention Center. <NODE id="6562" />Twitter<NODE id="6569" />: @MikeMiliardHITN
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/e0768614-ece0-3ec8-92eb-4bc1d20fcefd" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-03T08:05:32Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:00:27.516Z" />
+<feature featureName="uri" featureValue="http://www.healthcareitnews.com/news/former-wired-editor-thomas-goetz-keynote-himss16-touts-startups-new-drug-data-api" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="38" endPos="43" type="organization" surface="WIRED" />
+<Entity id="1" startPos="44" endPos="52" type="industry" surface="magazine" />
+<Entity id="2" startPos="760" endPos="766" type="organization" surface="Iodine" />
+<Entity id="3" startPos="792" endPos="814" type="industry" surface="digital health startup" />
+<Entity id="4" startPos="860" endPos="866" type="organization" surface="Iodine" />
+<Entity id="5" startPos="890" endPos="894" type="organization" surface="Yelp" />
+<Entity id="6" startPos="1228" endPos="1234" type="organization" surface="Iodine" />
+<Entity id="7" startPos="2187" endPos="2192" type="organization" surface="WIRED" />
+<Entity id="8" startPos="2624" endPos="2629" type="organization" surface="WIRED" />
+<Entity id="9" startPos="3244" endPos="3250" type="organization" surface="Iodine" />
+<Entity id="10" startPos="3298" endPos="3304" type="organization" surface="Google" />
+<Entity id="11" startPos="3357" endPos="3360" type="organization" surface="FDA" />
+<Entity id="12" startPos="3613" endPos="3619" type="organization" surface="Iodine" />
+<Entity id="13" startPos="4722" endPos="4730" type="organization" surface="Gliimpse" />
+<Entity id="14" startPos="4734" endPos="4748" type="industry" surface="patient portal" />
+<Entity id="15" startPos="4825" endPos="4841" type="organization" surface="Propeller Health" />
+<Entity id="16" startPos="4863" endPos="4925" type="industry" surface="sensor-based app to help patients keep tabs on asthma and COPD" />
+<Entity id="17" startPos="5115" endPos="5133" type="organization" surface="Propeller Health's" />
+<Entity id="18" startPos="5159" endPos="5167" type="organization" surface="Iodine's" />
+<Entity id="19" startPos="5550" endPos="5556" type="organization" surface="Iodine" />
+<Entity id="20" startPos="5974" endPos="5982" type="organization" surface="Facebook" />
+<Entity id="21" startPos="6562" endPos="6569" type="organization" surface="Twitter" /></Entities><Relations>
+<Relation id="22" NAME="CompanyIndustry">
+<Entity id="0" label="company" />
+<Entity id="1" label="industry" />
+</Relation>
+<Relation id="23" NAME="CompanyIndustry">
+<Entity id="2" label="company" />
+<Entity id="3" label="industry" />
+</Relation>
+<Relation id="24" NAME="CompanyIndustry">
+<Entity id="13" label="company" />
+<Entity id="14" label="industry" />
+</Relation>
+<Relation id="25" NAME="CompanyIndustry">
+<Entity id="15" label="company" />
+<Entity id="16" label="industry" />
+</Relation>
+<Relation id="26" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="8" label="target" />
+<Entity id="7" label="target" />
+</Relation>
+<Relation id="27" NAME="Identity">
+<Entity id="2" label="source" />
+<Entity id="9" label="target" />
+<Entity id="4" label="target" />
+<Entity id="6" label="target" />
+<Entity id="12" label="target" />
+<Entity id="18" label="target" />
+<Entity id="19" label="target" />
+</Relation>
+<Relation id="28" NAME="Identity">
+<Entity id="15" label="source" />
+<Entity id="17" label="target" />
+</Relation></Relations>
+</Document>
