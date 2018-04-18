@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />IMPress Sensors &amp; Systems<NODE id="25" /> - PRODUCT NEWS <NODE id="41" />Impress Sensors<NODE id="56" /> moves to larger premises due to continued sales growth After more than doubling its annual sales turnover in the last five years, instrumentation specialist <NODE id="214" />Impress Sensors &amp; Systems Ltd<NODE id="243" /> has moved from its 4,000 sq.ft. facility in Aldermaston, Berkshire, to new 10,000 sq.ft. premises in <NODE id="345" />Kingsclere, Berkshire<NODE id="366" />. The new, larger site is needed in order to increase both production capacity and office space, as well as cater for new product lines that are now being developed ready for launch in 2016. Mark Jamson, Managing Director at Impress Sensors &amp; Systems comments: Compared to five years ago, we are selling more products through our global network of distribution partners such as RS, Farnell and DigiKey. In addition, we are manufacturing significantly more products in-house compared to 2010. The ratio of in-house manufactured product to distribution is now 75:25 compared to 60:40 five years ago. The number of employees has also increased by 30% over the same period. The move will also benefit Impress' customers. As well as providing additional capacity for R&amp;D, design, production engineering, manufacturing and testing, the new premises will also provide an opportunity for the company to modernise its production processes and systems where necessary, in order to improve production throughput, product quality and deliveries. Impress is an ISO 9001 accredited company, with more than 25 years' experience in instrumentation design and manufacturing for a diverse range of applications. In addition to its standard range of pressure, level, distance and temperature instrumentation products, Impress offers a customised design service for customers that require non-standard instruments. These services are provided by a dedicated team of highly qualified professional engineers with experience of electronics, software, mechanical engineering and instrument design.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/eb0c9a63-3e2c-3dc8-b4f4-b649b39e48a8" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-07T03:25:59Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:04:30.516Z" />
+<feature featureName="uri" featureValue="http://www.sensorland.com/PRPages/Impress060.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="25" type="organization-company" surface="IMPress Sensors &amp; Systems" />
+<Entity id="1" startPos="41" endPos="56" type="organization-company" surface="Impress Sensors" />
+<Entity id="2" startPos="214" endPos="243" type="organization-company" surface="Impress Sensors &amp; Systems Ltd" />
+<Entity id="3" startPos="345" endPos="366" type="location" surface="Kingsclere, Berkshire" /></Entities><Relations>
+<Relation id="4" NAME="CompanyFacility">
+<Entity id="2" label="company" />
+<Entity id="3" label="location" />
+</Relation>
+<Relation id="5" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="2" label="target" />
+<Entity id="1" label="target" />
+</Relation></Relations>
+</Document>

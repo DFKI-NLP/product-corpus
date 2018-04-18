@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Newest FieldComm Group members: <NODE id="32" />H&amp;B <NODE id="36" />Sensors<NODE id="43" />, CMAM and Smart Network System Institute By Fieldbus Foundation Jan 25, 2016 H&amp;B Sensors, Chengdu Michael Anderson Measuring Co., Ltd. (CMAM) and Smart Network System Institute are the newest additions to FieldComm Group. They join other leading process industry organizations in its worldwide membership. Located in Bognor Regis, UK, H&amp;B Sensors is a leading provider of temperature, level, pressure and flow measurement instrumentation for safe and hazardous area locations. It currently is developing a new line of temperature transmitters and indicators utilizing the HART Communication Protocol. H&amp;B Sensors serves a number of key markets, including: Aerospace Automotive Chemical Defense Food &amp; Beverage Life Sciences Marine Oil &amp; Gas Petrochemical Pharmaceutical Power Generation Water and Wastewater Founded in 2008, Chengdu Michael Anderson Measuring Co., Ltd. is involved in the manufacture and sale of mass flow meters and valve parts. Its product line includes: Coriolis meters Density instruments Immersion-type centrifugal pumps LNG plus liquid guns LNG solenoid air guns Pull-off dispenser valves CNG solenoid valves Quantitative loading control systems Chengdu Michael Anderson Measuring Co. products are distributed in a wide geographical region encompassing China, Singapore, Pakistan, Iran, Myanmar, Bangladesh, Thailand, Malaysia, Russia, Uzbekistan, Kazakhstan and other countries. Based in Taipei, Taiwan, the Smart Network System Institute/Institute for Information Industry (III) aims to develop services inspired by the needs of consumers. It creates innovative services and applications in various fields, ranging from wireless broadband, smart living, energy information and communication technology, to service-oriented mobile network devices and telematics. By offering these integrated technologies, the Smart Network System Institute would like to construct the infrastructure of networks and smart living for the next generation, creating ubiquitous smart living space for life. III researchers in Taipei are now focused on industrial automation communication systems. For a complete list of member companies, visit the FieldComm Group website . More News: All news
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/4f4f5e0a-f28b-3d60-88ee-61ee0192ae78" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-25T19:00:49Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:05:14.092Z" />
+<feature featureName="uri" featureValue="http://www.controlglobal.com/industrynews/2016/fieldcomm-group-members-hbsensors-cmam-sns-institute/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="32" endPos="43" type="organization-company" surface="H&amp;B Sensors" />
+<Entity id="1" startPos="36" endPos="43" type="product-class" surface="Sensors" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

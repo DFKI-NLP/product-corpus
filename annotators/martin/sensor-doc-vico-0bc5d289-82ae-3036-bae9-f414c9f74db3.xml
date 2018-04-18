@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />RIPI<NODE id="4" /> <NODE id="5" />develops<NODE id="13" /> Iran's 1st <NODE id="25" />smart sensor controller<NODE id="48" /> https://t.co/8r0x5UB10D #Iran
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/0bc5d289-82ae-3036-bae9-f414c9f74db3" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-11T13:36:17Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:39:44.659Z" />
+<feature featureName="uri" featureValue="http://twitter.com/MehrnewsCom/statuses/686511946766618624" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="organization" surface="RIPI" />
+<Entity id="1" startPos="5" endPos="13" type="provide-type" surface="develops" />
+<Entity id="2" startPos="25" endPos="48" type="product-class" surface="smart sensor controller" /></Entities><Relations>
+<Relation id="3" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="type" />
+</Relation></Relations>
+</Document>

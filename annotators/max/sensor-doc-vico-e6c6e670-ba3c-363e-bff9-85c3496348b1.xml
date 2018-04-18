@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>LOOK!! <NODE id="7" />Sick<NODE id="11" /> Sensor <NODE id="19" />WTB27-3P2441 Photoelectric Proximity Sensor<NODE id="62" /> Great Used Item!! https://t.co/CrUCZG2DI4 https://t.co/d7T5HkOOtw
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/e6c6e670-ba3c-363e-bff9-85c3496348b1" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-20T00:44:23Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:02:51.95Z" />
+<feature featureName="uri" featureValue="http://twitter.com/mcwhaw/statuses/689579181886328832" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="7" endPos="11" type="organization-company" surface="Sick" />
+<Entity id="1" startPos="19" endPos="62" type="product" surface="WTB27-3P2441 Photoelectric Proximity Sensor" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

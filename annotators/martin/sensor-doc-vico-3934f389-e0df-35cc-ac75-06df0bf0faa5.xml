@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @cnebeker: Personal health data (PHD) captured by wearable sensors not in #EHR can contribute to #bigdata #mHealth #PMINetwork  https://…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/3934f389-e0df-35cc-ac75-06df0bf0faa5" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-11T06:00:35Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:56:53.103Z" />
+<feature featureName="uri" featureValue="http://twitter.com/BigDataTweetBot/statuses/686397267205570561" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities /><Relations />
+</Document>

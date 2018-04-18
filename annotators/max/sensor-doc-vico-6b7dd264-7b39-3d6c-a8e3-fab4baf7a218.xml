@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>'Olds' Merger Should Help IoT, Getting Physical With <NODE id="53" />Sweat Sensors<NODE id="66" />: The headquarters of Johnson Controls in Mi... https://t.co/am1SMYdCLt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/6b7dd264-7b39-3d6c-a8e3-fab4baf7a218" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-01T03:18:37Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:15:50.25Z" />
+<feature featureName="uri" featureValue="http://twitter.com/malikritu86/statuses/693966649339179008" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="53" endPos="66" type="product-class" surface="Sweat Sensors" /></Entities><Relations />
+</Document>

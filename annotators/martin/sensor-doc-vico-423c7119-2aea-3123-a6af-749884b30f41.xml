@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Internet Schneider Electric UK boss has a problem with smart cities on January 12 2016 It was howling a gale in London and Schneider Electric's glass office on Victoria Street was an impressive vantage point from which to view the almost horizontal rain. Less than a mile away Indian Prime Minister Narendra Modi was striking deals with UK Prime Minister David Cameron and visiting the Queen. Among the topics for discussion was an agreement for the UK to provide technology and expertise to help India's mushrooming smart city plans. It's a subject <NODE id="550" />Tanuja Randery<NODE id="564" />, <NODE id="566" />Schneider Electric's<NODE id="586" /> <NODE id="587" />UK president<NODE id="599" /> likes to talk about; that and the environment, so it was a fitting day to meet. Behind her desk she has a map of Britain painted on the wall. It's not to scale. <NODE id="761" />Schneider Electric's<NODE id="781" /> various UK <NODE id="793" />assets<NODE id="799" /> including factories and <NODE id="824" />wind farms<NODE id="834" /> were marked with relevant icons giving some idea of the size of the UK operation - it employs 4,089 employees in the UK. But like many subsidiaries it pulls on the might of its parent. This after all is a €25bn global business born in France in the early 19th century. It has history. Randery though is interested in the future, the Internet of Things (IoT) and the role data analytics can have in driving industrial efficiency. She is also interested in smart cities but struggles with the term. The total label is odd, she says. You can have smart buildings, smart homes, smart hospitals but a smart city? Admittedly, it is a bit of a misnomer. So what is smart? Working smarter means you are able to understand the underlying root cause of what's happening and use that knowledge to take action. Smart is about putting intelligence into normal operations and improving them. We get that of course. The industrial internet has been talked about widely and Schneider Electric has made a big play for it, even going as far as claiming it is central to the company's future. So should smart cities be about super connections to the already connected buildings and businesses? We can overcomplicate things, she replies, tapping the table with her nails. Everyone is getting hyped up about smart cities. If we could just take a local council area and make its district heating a bit more efficient, that to me is a smart council. We can make change happen very quickly today without having to be experimental. We don't need driverless cars to be smart, do we? If they come around, then, great. A history of IoT It's a good point. Maybe the people running cities should be focussing on those easier wins. But there is something about the driverless car that has become a symbol of the future and for smart cities. Randery concedes the point, referencing the claim that by the time of its Olympic Games in 2020, Japan hopes to be running on driverless vehicles. No one would really argue that that isn't smart. So what about the company's plans for the Industrial IoT? A company whitepaper talks about the need for suppliers and users to start adopting IIoT technologies in their products and operations if they wish to remain competitive. So is <NODE id="3076" />Schneider Electric<NODE id="3094" /> using IIoT to be competitive? We've been putting IoT in our products since the 1970s, she says, referring to the Modicon Modbus industrial network automation protocol introduced in 1979. You could argue that this reference is a bit tenuous but the company did up its game in the late 90s and early 2000s putting Ethernet and open architectures into its factory automation technology. It's certainly been consistent in pushing automation and networking control technology into factories. Today Randery believes the company is well placed to lead the push to increased automation, not just in factories but in commercial buildings and even homes (through <NODE id="3748" />its<NODE id="3751" /> <NODE id="3752" />acquisition<NODE id="3763" /> earlier this year of <NODE id="3785" />Invensys<NODE id="3793" /> <NODE id="3794" />subsidiary<NODE id="3804" /> <NODE id="3805" />Drayton Controls<NODE id="3821" />). The utilities are talking a lot about the changes that need to happen to encourage investment in asset modernisation and utilisation rather than new assets, says Randery. There is definitely a shift towards more automation, intelligence and control, a massive push in traditional industries but also in renewables, which are now coming online. So how does she define IoT? She defaults to McKinsey, one of her former employers in the US. IoT is the sensors and actuators that connect to computing systems to drive operational control and efficiency. I quite like that description. Learning lessons And how does this fit with efficiency? Surely there is a temptation to upsell, to get customers tied into a buying pattern. What's the return on investment? Isn't IoT after all a new cash cow for technology companies? She's not buying it. We talked about Modi's visit, his push for smart city deals and above all the Indian approach to re-use, inferring that a lot can be learned from the sub-continent's approach to recycling. On the subject of ROI, she gets even more animated, referencing <NODE id="4913" />Nestle's<NODE id="4921" /> <NODE id="4922" />factory<NODE id="4929" /> in <NODE id="4933" />Staffordshire<NODE id="4946" />, <NODE id="4948" />England<NODE id="4955" />, a building <NODE id="4968" />Schneider Electric<NODE id="4986" /> helped to automate and where lighting management and predictive maintenance is already having an impact. Seventy per cent of all energy consumed in a building is down to HVAC [heating, ventilation and air conditioning] she says. Less than one percent of data is shared or utilised so it's not about collecting data it's about using it. We haven't as an industry connected enough data to computing systems. We use a building management system as an overlay to what exists already in terms of data collection. It's a big value proposition if you can see all the data and know the consumption and then act on that consumption. This will enable businesses to manage buildings in a different way, giving FM managers the information to make informed changes and there is the ROI. She talks about the need to use this data to save energy, to help businesses become more sustainable. She talks about the potential cost savings too from reducing energy by even ten to fifteen per cent. It's the small wins she argues that can add up and make a big difference, maybe to some extent the thinking behind the company's recent launch of micro data centres. She's only been in the job eight months and like the industry in which she now moves and shakes she has had to change quickly. Last year Institutional Investor ranked her at 34 in its Top Tech 50 professionals, while she was still at BT Global Services. Schneider Electric is a different animal and sustainability is a tough sell. Her push to put real numbers to efficiency makes sense and ultimately energy cost savings could drive the uptake of IoT systems. Machines talk to each other and have [done so] for a while, she says, but they're not necessarily talking to IT systems and that's the problem and the opportunity. We are connecting those dots. Related reading Every year, global enterprises suffer application downtime due to failures in software or infrastructure. However you measure it, the cost of appli No organization, industry or region will avoid digital disruption. It can be seen as both a threat and an opportunity, but organizations that sit b
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/423c7119-2aea-3123-a6af-749884b30f41" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-12T08:07:04Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:00:14.895Z" />
+<feature featureName="uri" featureValue="http://www.idgconnect.com/blog-abstract/11623/schneider-electric-uk-boss-smart-cities" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="550" endPos="564" type="person" surface="Tanuja Randery" />
+<Entity id="1" startPos="566" endPos="586" type="organization-company" surface="Schneider Electric's" />
+<Entity id="2" startPos="587" endPos="599" type="org-position" surface="UK president" />
+<Entity id="3" startPos="761" endPos="781" type="organization-company" surface="Schneider Electric's" />
+<Entity id="4" startPos="793" endPos="799" type="trigger" surface="assets" />
+<Entity id="5" startPos="824" endPos="834" type="product-class" surface="wind farms" />
+<Entity id="6" startPos="3076" endPos="3094" type="organization-company" surface="Schneider Electric" />
+<Entity id="7" startPos="3748" endPos="3751" type="organization-company" surface="its" />
+<Entity id="8" startPos="3752" endPos="3763" type="trigger" surface="acquisition" />
+<Entity id="9" startPos="3785" endPos="3793" type="organization-company" surface="Invensys" />
+<Entity id="10" startPos="3794" endPos="3804" type="relation-type" surface="subsidiary" />
+<Entity id="11" startPos="3805" endPos="3821" type="organization-company" surface="Drayton Controls" />
+<Entity id="12" startPos="4913" endPos="4921" type="organization-company" surface="Nestle's" />
+<Entity id="13" startPos="4922" endPos="4929" type="facility-type" surface="factory" />
+<Entity id="14" startPos="4933" endPos="4946" type="location" surface="Staffordshire" />
+<Entity id="15" startPos="4948" endPos="4955" type="location" surface="England" />
+<Entity id="16" startPos="4968" endPos="4986" type="organization-company" surface="Schneider Electric" /></Entities><Relations>
+<Relation id="17" NAME="Acquisition">
+<Entity id="11" label="trigger" />
+<Entity id="8" label="acquired" />
+<Entity id="7" label="buyer" />
+</Relation>
+<Relation id="18" NAME="CompanyFacility">
+<Entity id="12" label="company" />
+<Entity id="15" label="location" />
+<Entity id="14" label="location" />
+<Entity id="13" label="facility" />
+</Relation>
+<Relation id="19" NAME="CompanyProvidesProduct">
+<Entity id="5" label="product" />
+<Entity id="3" label="company" />
+<Entity id="4" label="trigger" />
+</Relation>
+<Relation id="20" NAME="CompanyRelationship">
+<Entity id="9" label="parent" />
+<Entity id="10" label="type" />
+<Entity id="11" label="child" />
+</Relation>
+<Relation id="21" NAME="Identity">
+<Entity id="6" label="source" />
+<Entity id="7" label="target" />
+</Relation>
+<Relation id="22" NAME="OrganizationLeadership">
+<Entity id="0" label="person" />
+<Entity id="1" label="organization" />
+<Entity id="2" label="position" />
+</Relation></Relations>
+</Document>

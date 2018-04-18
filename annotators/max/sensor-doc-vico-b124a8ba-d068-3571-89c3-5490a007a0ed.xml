@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>4 seats embedded with <NODE id="22" />Smart Sensors<NODE id="35" /> to capture a passenger’s vital health information #tech #<NODE id="93" />Kia<NODE id="96" />Telluride<NODE id="105" /> #NAIAS
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/b124a8ba-d068-3571-89c3-5490a007a0ed" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-11T21:38:20Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:42:29.994Z" />
+<feature featureName="uri" featureValue="http://twitter.com/SBellasWays/statuses/686633257203531778" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="22" endPos="35" type="product-class" surface="Smart Sensors" />
+<Entity id="1" startPos="93" endPos="96" type="organization-company" surface="Kia" />
+<Entity id="2" startPos="96" endPos="105" type="product" surface="Telluride" /></Entities><Relations>
+<Relation id="3" NAME="CompanyUsesProduct">
+<Entity id="0" label="product" />
+<Entity id="1" label="company" />
+</Relation></Relations>
+</Document>

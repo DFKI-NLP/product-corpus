@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Asian Utility Week 2016 Asian Utility Week 2016 is a large scale expo dedicated to innovations in the utility technology space with a special focus on customer-facing infrastructure. This includes the ecosystem around AMI, <NODE id="223" />Smart Sensors<NODE id="236" />-IOT, Customer and Enterprise Analytics, Digital Engagement-Experience, Residential Solar + Storage, Community Microgrids, and Next Generation Communication Networks including the Connected Home. The event also includes innovations in Smart Grid Automation, Distributed Generation Integration, Asset Management and Smart Cities to assist utility leaders to realise more value from their Smart Grid investments. Sponsor/exhibitor contact Steve Willis [javascript protected email address]
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/fee70626-3284-3f01-a2e6-6f812b86dfec" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-13T15:25:55Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:12:02.09Z" />
+<feature featureName="uri" featureValue="http://www.eco-business.com/events/asian-utility-week-2016/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="223" endPos="236" type="product-class" surface="Smart Sensors" /></Entities><Relations />
+</Document>

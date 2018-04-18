@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>E-World Energy &amp; Water (Germany). #OPCFoudation in Hall 1 booth 117. See power measurement scenario w/<NODE id="102" />smart sensors<NODE id="115" />: https://t.co/QNuy2hjZZ4
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/1da2b2d5-9833-36d2-a479-7672aecdd1ce" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-28T22:10:59Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:46:30.957Z" />
+<feature featureName="uri" featureValue="http://twitter.com/OPCFoundation/statuses/692802069523226624" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="102" endPos="115" type="product-class" surface="smart sensors" /></Entities><Relations />
+</Document>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />SICK<NODE id="4" /> is launching its first 'plug-and-play' <NODE id="44" />3D vision sensor<NODE id="60" /> in the <NODE id="68" />UK<NODE id="70" />, the <NODE id="76" />TriSpector 1000<NODE id="91" />, delivering real-time 3D quality inspection in a self-contained unit that is simple to install and use. <NODE id="196" />Developed<NODE id="205" /> by <NODE id="209" />SICK<NODE id="213" /> in close cooperation with customers worldwide, the <NODE id="265" />TriSpector 1000<NODE id="280" /> is expected to open up affordable 3D vision sensing for a wide range of processing and packaging operations. It will provide FMCG product pick, placement &amp; packaging operations, contract packers and warehouse operators with true 'out-of-the-box' 3D vision without the complexity or cost of conventional 3D vision systems. Neil Sandhu, SICK (UK) machine vision specialist says: With the TriSpector 1000, engineers can now access reliable entry-level 3D inspection without having to be a vision or software expert. There's no additional programming: Teach in the requirements via the display on the compact, stand-alone unit and the TriSpector will start inspecting and communicate with your factory control communications network! The <NODE id="1015" />SICK TriSpector 1000<NODE id="1035" /> is an entirely self-contained unit that can be set up using <NODE id="1096" />SICK's<NODE id="1102" /> <NODE id="1103" />SOPAS software interface<NODE id="1127" /> without the need to write bespoke programs. Yet it has all the functionality needed for quality control inspection under high-speed industrial conditions. Sandhu continues: The TriSpector 1000 is a versatile performer. Its intelligent sensing can check presence, position, labels, contents and orientation, dimensioning and height, which-side-up and fill levels. It will achieve true 3D vision, even when colour, position and height of the object vary, and can tolerate changes in angle or position of packages on the conveying line. The <NODE id="1666" />TriSpector 3D vision sensors<NODE id="1694" /> adds to <NODE id="1703" />SICK's<NODE id="1709" /> full range of <NODE id="1724" />3D vision systems<NODE id="1741" />, encompassing <NODE id="1756" />3D Smart Cameras<NODE id="1772" /> and <NODE id="1777" />Advanced Colour<NODE id="1792" />, <NODE id="1794" />3D and multiscanning technology<NODE id="1825" /> _ all available to make sure the most suitable 3D technology is applied to deliver robust and reliable products. <NODE id="1939" />SICK's<NODE id="1945" /> <NODE id="1946" />TriSpector<NODE id="1956" /> works through the principle of 3D laser triangulation where a vision camera is angled to capture a series of profiles as the object moves through the laser line projection. A shape profile of the object is built up. Through <NODE id="2181" />SICK's<NODE id="2187" /> <NODE id="2188" />4DPro communications platform<NODE id="2217" />, <NODE id="2219" />TriSpector<NODE id="2229" /> can be integrated seamlessly with factory control and data systems, as well as combined with several other 2D or 3D vision devices to create a full inspection station for QC purposes. The SICK TriSpector 1000 vision sensor range comprises three models, with width ranges of 200mm to 650mm, 100mm to 330mm and 45mm to 75mm, and different fields of view and resolution to match application requirements. The units are supplied in rugged IP67 casings and shatter resistant plastic windows to withstand harsh or food processing environments. With laser scanning, additional lighting is unnecessary, a Micro SD card stores profiles and allows setting to be cloned for easy replacement or on other conveying lines. The largest, TriSpector 1060, has a height range of 800mm, the mid-size TriSpector 1030 has a height range of 400mm, and the smallest, TriSpector 1008, has a height range of 60mm . SICK Trispector 1000 application examples Typical TriSpector 1000 applications include checking the contents, content, number and fill of a container compared with the taught-in 'master' profile. This function is useful for products such as chocolates or biscuits in a compartmented container, so, not only is the absence of an item noted, the insertion of a damaged or wrong item can also be flagged up for QC purposes. The detection ability can be extended to check for underfill levels, such as crackers in a biscuit box, or for levels of cosmetic creams in white glass or plastic tubs, even with light colours. Label orientation on bottles and jars can also be taught in. Overfill levels can be a problem, for example where totes, bags and tubs which must meet a safe carrying weight limit or allow safe stacking, or food products such as meat are over-height and filling would interfere with sealing the plastic film cover correctly. Orientation of products like shampoo bottles prior to shrink wrapping can lead to awkward shaped packing that does not fit into outer cartons, resulting in waste and downtime. TriSpector can detect angular displacement outside set limits and allow wrongly orientated products to be diverted away from the main packing line. With the resolution available on the smallest TriSpector model, even products such as electrical connectors, and plugs can be inspected. TriSpector 1000 can also undertake sensing for pick-and-place functions on linear-fed conveying lines, for a cost-effective combination of quality and automated functionality. For more information on the SICK TriSpector 3D vision sensor series, please visit www.sick.co.uk . Copyright 2006-14 Damte Ltd.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/9e410ef5-7b11-3d70-b4d5-f020ccf754d9" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-10T17:52:42Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:35:10.306Z" />
+<feature featureName="uri" featureValue="http://www.machinebuilding.net/p/p8572.htm" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="organization-company" surface="SICK" />
+<Entity id="1" startPos="44" endPos="60" type="product-class" surface="3D vision sensor" />
+<Entity id="2" startPos="68" endPos="70" type="location" surface="UK" />
+<Entity id="3" startPos="76" endPos="91" type="product" surface="TriSpector 1000" />
+<Entity id="4" startPos="196" endPos="205" type="provide-type" surface="Developed" />
+<Entity id="5" startPos="209" endPos="213" type="organization-company" surface="SICK" />
+<Entity id="6" startPos="265" endPos="280" type="product" surface="TriSpector 1000" />
+<Entity id="7" startPos="1015" endPos="1035" type="product" surface="SICK TriSpector 1000" />
+<Entity id="8" startPos="1096" endPos="1102" type="organization-company" surface="SICK's" />
+<Entity id="9" startPos="1103" endPos="1127" type="product" surface="SOPAS software interface" />
+<Entity id="10" startPos="1666" endPos="1694" type="product" surface="TriSpector 3D vision sensors" />
+<Entity id="11" startPos="1703" endPos="1709" type="organization-company" surface="SICK's" />
+<Entity id="12" startPos="1724" endPos="1741" type="product-class" surface="3D vision systems" />
+<Entity id="13" startPos="1756" endPos="1772" type="product-class" surface="3D Smart Cameras" />
+<Entity id="14" startPos="1777" endPos="1792" type="product-class" surface="Advanced Colour" />
+<Entity id="15" startPos="1794" endPos="1825" type="product-class" surface="3D and multiscanning technology" />
+<Entity id="16" startPos="1939" endPos="1945" type="organization-company" surface="SICK's" />
+<Entity id="17" startPos="1946" endPos="1956" type="product" surface="TriSpector" />
+<Entity id="18" startPos="2181" endPos="2187" type="organization-company" surface="SICK's" />
+<Entity id="19" startPos="2188" endPos="2217" type="product" surface="4DPro communications platform" />
+<Entity id="20" startPos="2219" endPos="2229" type="product" surface="TriSpector" /></Entities><Relations>
+<Relation id="21" NAME="CompanyProvidesProduct">
+<Entity id="3" label="company" />
+<Entity id="1" label="company" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="22" NAME="CompanyProvidesProduct">
+<Entity id="6" label="product" />
+<Entity id="5" label="company" />
+<Entity id="4" label="type" />
+</Relation>
+<Relation id="23" NAME="CompanyProvidesProduct">
+<Entity id="9" label="product" />
+<Entity id="8" label="company" />
+</Relation>
+<Relation id="24" NAME="CompanyProvidesProduct">
+<Entity id="12" label="product" />
+<Entity id="14" label="product" />
+<Entity id="13" label="product" />
+<Entity id="15" label="product" />
+<Entity id="11" label="company" />
+</Relation>
+<Relation id="25" NAME="CompanyProvidesProduct">
+<Entity id="17" label="product" />
+<Entity id="16" label="company" />
+</Relation>
+<Relation id="26" NAME="CompanyProvidesProduct">
+<Entity id="19" label="product" />
+<Entity id="18" label="company" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Just like the title says. I did a Google search for the subject while I was trying to figure it out, and that just led me to either the IACV or a cam sensor. Figured I'd ask before I go back tomorrow and try to figure it out blind. Luckily I live in Japan; because if I didn't, I doubt my car would still be there. Anyways, here's the car info: CR-V K24 with a K20 head Shit ton of N/A mods K-Pro Here's what the car is doing: Stalled out while I was slowing down for a red light Tried to turn it over, but it won't fire up Kicked over once and sounded like it dropped a cylinder and then immediately died Here's what I've tried so far: Had my wife come grab my son, and tried to jump the car while she was there. Car sounded a lot healthier, but still refused to start. Fuel pump is priming The car will back fire every now and then while kicking over so I assume it's getting fuel and spark. Car started once but then immediately died, so I assume it's getting fuel and spark Had a friend pick me up so I could grab the laptop and check out what the K-Pro is saying. Not getting any trouble codes. TPS checks out. MAP is brand new and checks out. The only thing that wasn't reading anything was the cam sensor and that was staying at 0º while cranking over. I'm not sure if it's supposed to read anything because previous datalogs I have show it reading 0º at idle, so I doubt it'd read anything while cranking over. All connectors are connected. All grounds are grounded. All underhood fuses are good. I'll check relays in the morning when I can go to my garage and grab my multimeter. Thoughts? Similar experiences?
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/247bbc99-0f3d-387e-b9ae-f03f7ce2ec73" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-08T09:59:35Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:49:03.532Z" />
+<feature featureName="uri" featureValue="http://forums.clubrsx.com/showthread.php?t=1180177" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities /><Relations />
+</Document>

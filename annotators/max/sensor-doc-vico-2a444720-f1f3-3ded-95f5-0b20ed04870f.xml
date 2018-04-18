@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @program_plc: <NODE id="17" />Keyence<NODE id="24" /> <NODE id="25" />LK G3000<NODE id="33" />, The High-accuracy <NODE id="53" />CCD Laser Displacement Sensor<NODE id="82" /> for measuring distance and… https://t.co/FVtqT71wig
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/2a444720-f1f3-3ded-95f5-0b20ed04870f" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-07T01:00:03Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:51:13.882Z" />
+<feature featureName="uri" featureValue="http://twitter.com/cartiman/statuses/696106108071579649" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="24" type="organization-company" surface="Keyence" />
+<Entity id="1" startPos="25" endPos="33" type="product" surface="LK G3000" />
+<Entity id="2" startPos="53" endPos="82" type="product" surface="CCD Laser Displacement Sensor" /></Entities><Relations>
+<Relation id="3" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

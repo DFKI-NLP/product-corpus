@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @program_plc: Take proper Multiple Choice of <NODE id="48" />Keyence<NODE id="55" /> <NODE id="56" />sensors<NODE id="63" /> products for multi-purpose applications… https://t.co/BVA63WAaaD
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/28335c87-2b7f-3d3a-9889-afbd8b7a907e" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-19T18:15:04Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:50:27.962Z" />
+<feature featureName="uri" featureValue="http://twitter.com/cartiman/statuses/689481209034866688" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="48" endPos="55" type="organization-company" surface="Keyence" />
+<Entity id="1" startPos="56" endPos="63" type="product-class" surface="sensors" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

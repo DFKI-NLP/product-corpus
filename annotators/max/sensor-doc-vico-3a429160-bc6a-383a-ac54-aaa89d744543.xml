@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Automotive Sensors<NODE id="18" /> Market was Valued at $19.69 Billion in 2014 &amp; Expected to Grow at a CAGR of 7.72% - Research and Markets January 29, 2016 09:53 AM Eastern Standard Time DUBLIN--( BUSINESS WIRE )--Research and Markets ( http://www.researchandmarkets.com/research/s3323g/automotive ) has announced the addition of the Automotive Sensors Market - Global Forecast to 2020 report to their offering. The automotive sensors market is expected to grow at a CAGR of 7.72% between 2015 and 2020. Government regulations for safety, efficiency, and driver assistance; increasing vehicle production worldwide; and growing demand for sensors for the convenience and comfort are the major drivers for the automotive sensors market. The market for image sensors is expected to grow at the highest CAGR during the forecast period. The ability of <NODE id="832" />image sensors<NODE id="845" /> to detect and convey the information that constitutes an image has found its application in various safety applications such as collision avoidance systems, lane departure warning systems, lane change assistance, driver drowsiness detection among others and is expected to drive the market. Asia-Pacific accounted for the largest share of the automotive sensors market in 2014 and is expected to grow at the highest CAGR during the forecast period. Increasing automobile production in China, India, and Indonesia is expected to drive the market in the region. Companies Mentioned: Allegro Microsystems, Llc Analog Devices, Inc. Autoliv Inc Continental AG Cts Corporation Delphi Automotive Plc Denso Corporation Elmos Semiconductor AG Freescale Semiconductor, Inc. General Electric Co. Infineon Technologies AG Measurement Specialities, Inc. Robert Bosch GMBH Sensata Technologies, Inc. Stmicroelectronics N.V. Key Topics Covered: 1 Introduction
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/3a429160-bc6a-383a-ac54-aaa89d744543" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-30T06:56:37Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:57:16.646Z" />
+<feature featureName="uri" featureValue="http://www.businesswire.com/news/home/20160129005545/en/Automotive-Sensors-Market-Valued-19.69-Billion-2014" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="18" type="product-class" surface="Automotive Sensors" />
+<Entity id="1" startPos="832" endPos="845" type="product-class" surface="image sensors" /></Entities><Relations />
+</Document>

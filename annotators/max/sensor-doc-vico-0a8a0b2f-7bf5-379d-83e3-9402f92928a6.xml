@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Schneider Electric <NODE id="19" />SLSWPS1500<NODE id="29" /> Wall Mount Occupancy <NODE id="51" />Sensor PIR 1500 SqFt<NODE id="71" /> NEW $169 https://t.co/B7fl77KuKh https://t.co/9OJ7peZkWT
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/0a8a0b2f-7bf5-379d-83e3-9402f92928a6" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-17T20:33:28Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:39:17.196Z" />
+<feature featureName="uri" featureValue="http://twitter.com/ChandlerBrain/statuses/688791259595563013" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="19" type="organization-company" surface="Schneider Electric " />
+<Entity id="1" startPos="19" endPos="29" type="product" surface="SLSWPS1500" />
+<Entity id="2" startPos="51" endPos="71" type="product" surface="Sensor PIR 1500 SqFt" /></Entities><Relations>
+<Relation id="3" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="4" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

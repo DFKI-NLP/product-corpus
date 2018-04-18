@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @SBellasWays: 4 seats embedded with Smart Sensors to capture a passenger’s vital health information #tech #KiaTelluride #NAIAS
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/7fc4f2ed-fe05-3d00-b719-3c297bdef7e5" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-11T21:52:45Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:23:32.748Z" />
+<feature featureName="uri" featureValue="http://twitter.com/SheBuysCars/statuses/686636886010380288" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities /><Relations />
+</Document>

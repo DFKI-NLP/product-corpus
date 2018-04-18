@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>[title] <NODE id="8" />Sensor<NODE id="14" /> Technology for Extremes: from -60 to +450° C <NODE id="60" />wenglor<NODE id="67" /> Builds Upon MEL’s Longtime Experience with <NODE id="111" />Inductive Sensors<NODE id="128" /> in Hot and Cold Zones Inductive Sensors from wenglor and wenglorMEL ensure reliable detection of metallic objects in extreme ... Litre Meter supplies flow meters for industrial robotics UK flowmeter specialist Litre Meter (www.litremeter.com) has supplied a large order of KEM helical screw positive displacement flow meters to a UK-based industrial automation specialist. Litre ... New range of GigE Machine Vision cameras are available from The Imaging Source New range of GigE Machine Vision cameras are available from The Imaging Source The Imaging Source GigE monochrome industrial cameras are best known for their excellent image quality, high speed and ... One giant leap for safety: AZM400 Schmersal presents new solenoid interlock for heavy safety doors at SPS IPC Drives trade fair At the SPS IPC Drives trade fair in November, the Schmersal Group presented an extension of its ... Solutions for industry 4.0 ifm electronic is ahead of the game with <NODE id="1089" />smart sensors<NODE id="1102" /> The fourth industrial revolution is happening already; leading <NODE id="1166" />sensor<NODE id="1172" /> manufacturer <NODE id="1186" />ifm electronic<NODE id="1200" /> has supplied over two million sensors to the ... FP7 economy PLC, ideal for stand-alone systems An improved performance coupled with a smaller design, extensive communication features, and integration of motion control – all of this makes the economy PLC the jack of all trades. Its compact ... Haas HTEC Conference 2015 a great success Haas Automation Europe reports that it conducted a highly successful HTEC (Haas Technical Education Centre) Conference near Stuttgart, Germany on November 3 rd – 4 th 2015. 2012 - 2016 Datateam Business Media Ltd. All rights reserved. Registered in England No: 1771113. Registered Office: 8 - 9 Dryden Street, Covent Garden, London WC2E 9NA.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/0e31c053-054c-33d0-aafe-6d7d0d4a589e" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-21T20:53:27Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:40:38.983Z" />
+<feature featureName="uri" featureValue="http://www.connectingindustry.com/Automation/?olderstories=true&amp;hfTopPageIDs=22776,22775,22736,22734,22733,22707,22706,22703,22673,22662,22623,22607,22539,22502" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="14" type="product" surface="Sensor" />
+<Entity id="1" startPos="60" endPos="67" type="organization-company" surface="wenglor" />
+<Entity id="2" startPos="111" endPos="128" type="product-class" surface="Inductive Sensors" />
+<Entity id="3" startPos="1089" endPos="1102" type="product-class" surface="smart sensors" />
+<Entity id="4" startPos="1166" endPos="1172" type="product-class" surface="sensor" />
+<Entity id="5" startPos="1186" endPos="1200" type="organization-company" surface="ifm electronic" /></Entities><Relations>
+<Relation id="6" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="1" label="company" />
+</Relation>
+<Relation id="7" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="5" label="company" />
+</Relation></Relations>
+</Document>

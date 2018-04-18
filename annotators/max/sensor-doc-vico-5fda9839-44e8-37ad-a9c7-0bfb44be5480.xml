@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@milanofili Check this :ISEN1 <NODE id="30" />Smart Sensor<NODE id="42" /> for #IoT apps: temperature, pressure, humidity &amp;light &gt;&gt;&gt; https://t.co/LV5GGvRy6C :)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/5fda9839-44e8-37ad-a9c7-0bfb44be5480" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-05T23:03:04Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:11:27.476Z" />
+<feature featureName="uri" featureValue="http://twitter.com/Izitron_com/statuses/695714279992004608" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="30" endPos="42" type="product-class" surface="Smart Sensor" /></Entities><Relations />
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>NEW <NODE id="4" />DATALOGIC<NODE id="13" /> <NODE id="14" />VS2-VSM VISION SENSOR MONITOR<NODE id="43" /> VS2VSM https://t.co/aLxpnR1rtR https://t.co/Czhnbi3lKg
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/1f4df8b6-7692-33b5-ad9f-10cc53494d5c" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-18T20:06:46Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:47:07.967Z" />
+<feature featureName="uri" featureValue="http://twitter.com/eneassv/statuses/689146928953733121" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="13" type="organization-company" surface="DATALOGIC" />
+<Entity id="1" startPos="14" endPos="43" type="product" surface="VS2-VSM VISION SENSOR MONITOR" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

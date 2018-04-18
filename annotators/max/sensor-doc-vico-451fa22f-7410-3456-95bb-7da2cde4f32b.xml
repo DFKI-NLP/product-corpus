@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Article Search View Search Criteria Complete this form to search our articles. Article Search (2437 Found) Startup develops palm-vein authentication device Palo Alto-based biometrics startup Noatta is developing a contactless palm-vein based authentication device. 19 Jan 2016 Integrated Biometrics facility achieves ISO 9001 certification Fingerprint scanner firm <NODE id="365" />Integrated Biometrics<NODE id="386" /> has announced that its <NODE id="410" />production facility<NODE id="429" /> in <NODE id="433" />Seoul<NODE id="438" />, South Korea, has successfully achieved International Organization for Standardization (ISO) 9001 certification. 19 Jan 2016 Credit Union association makes Daon a preferred partner The National Association of Federal Credit Union's Services Corporation has selected biometric firm Daon as its preferred partner for biometric authentication technology. 19 Jan 2016 Albuquerque Police Department AFIS to use MorphoBIS in the cloud US biometrics firm Morphotrak has revealed that it will upgrade the Albuquerque Police Department (APD) Automated Fingerprint Identification System (AFIS) with a new biometric identification solution, MorphoBIS. 19 Jan 2016 UK Lords call for ID cards with 'sophisticated biometrics’ Several Lords have called for the UK government to reconsider the introduction of biometric ID cards, saying that the cards could help secure borders while giving citizens access to new services. 19 Jan 2016 Firms reveal 'world’s first’ flexible fingerprint and vein sensors Cambridge-based FlexEnable and Grenoble-based ISORG, specialists in flexible organic electronics and organic photodetectors and large area image sensors, have revealed technology which could enable flexible biometric sensors to be deployed on totally new surfaces. 19 Jan 2016 SITA biometric eGates speed up immigration at Naples Airport Biometric self-service eGates installed by SITA are speeding up the immigration process for EU citizens at Italy's Naples Airport. 19 Jan 2016 Iris ID tech deployed at US-Mexico border crossing Iris biometric technology firm Iris ID has revealed its involvement in a in a US Customs and Border Protection (CBP) project testing a biometric solution to identify certain non-U.S. citizens entering and exiting the country through Mexico. 19 Jan 2016 UNHCR, Cairo Amman Bank and IrisGuard unveil EyeCloud enhancements Iris biometrics firm IrisGuard has revealed enhancements to a refugee welfare disbursement process it has developed in partnership with UNHCR and Cairo Amman Bank. 18 Jan 2016 Emerson Process Management integrates biometrics The operating arm of US factory automation equipment maker Emerson Electric Co, called Emerson Process Management, has integrated a biometric security solution to prevent credential theft. 18 Jan 2016 Ideal Innovations, Inc. (I3) Ideal Innovations, Inc. (I3) is a service disabled veteran-owned company that offers support services, technology development, consulting, and program management services. Our core competencies lie in biometrics and forensics. Twitter Feed Tweets by @Biometric_Man
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/451fa22f-7410-3456-95bb-7da2cde4f32b" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-19T23:24:39Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:01:20.71Z" />
+<feature featureName="uri" featureValue="http://www.planetbiometrics.com/article-search/?g=2&amp;g2=86,84,131,117,127" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="365" endPos="386" type="organization-company" surface="Integrated Biometrics" />
+<Entity id="1" startPos="410" endPos="429" type="facility-type" surface="production facility" />
+<Entity id="2" startPos="433" endPos="438" type="location" surface="Seoul" /></Entities><Relations>
+<Relation id="3" NAME="CompanyFacility">
+<Entity id="0" label="company" />
+<Entity id="2" label="location" />
+<Entity id="1" label="facility_type" />
+</Relation></Relations>
+</Document>

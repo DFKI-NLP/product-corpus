@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT https://t.co/qMoHsCR1u7 .<NODE id="28" />Hubebub<NODE id="35" /> <NODE id="36" />use<NODE id="39" /> #<NODE id="41" />smart sensors<NODE id="54" /> to improve energy efficiency, converting data into actiona… https://t.co/c4lAR4ZE6d
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/b189d565-45f6-3879-9492-2a5a5d7e3088" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-18T18:09:51Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:42:38.96Z" />
+<feature featureName="uri" featureValue="http://twitter.com/danieldarnold2/statuses/689117507974774784" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="28" endPos="35" type="organization-company" surface="Hubebub" />
+<Entity id="1" startPos="36" endPos="39" type="trigger" surface="use" />
+<Entity id="2" startPos="41" endPos="54" type="product-class" surface="smart sensors" /></Entities><Relations>
+<Relation id="3" NAME="CompanyUsesProduct">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

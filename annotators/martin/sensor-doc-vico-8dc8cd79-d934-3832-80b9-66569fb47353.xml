@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @tech2eets: .@LeTV Super Bike displayed at #CES2016 comes with smart sensors throughout the bike.  Costs RMB 6000 in China https://t.co/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/8dc8cd79-d934-3832-80b9-66569fb47353" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-08T07:05:50Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:28:55.298Z" />
+<feature featureName="uri" featureValue="http://twitter.com/kabiradvani/statuses/685326521918095360" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities /><Relations />
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Colour: Black Body Style: Hatchback Description: Insurance Group 11, 2 Registered Keepers, Air recirculation system,Reach + rake adjustable steering column, ABS/ EBD,Second remote key,Oil level indicator,Service interval indicator,2 speed wipers+intermittent wipe,Body coloured bumpers,Follow me home headlights,Driver's footrest,Driver/passenger sunvisors and vanity mirrors,Driver and passenger airbags,Luggage compartment lighting,Auxiliary input socket,Rear wiper,Speed sensitive power steering,Electric front windows,2 rear head restraints,Driver's seat height adjuster,Front head restraints,Isofix child seat preparation,Exterior temperature gauge,Front passenger grab handle,Electrically adjustable door mirrors,Passenger airbag deactivation system,Chrome door handles,Run flat indicator,50/50 split folding rear seats,Easy entry seats,Front and rear cupholders,3 point seatbelts, CBC - (Cornering brake control),Driver/front passenger side airbags,Seatbelt pretensioners,Centre console storage,Brake Fluid Level Warning Light,Storage compartments in doors,Heated rear window with auto timer,<NODE id="1099" />Crash Sensor<NODE id="1111" /> - activates hazard/interior lighting + unlocks doors,Electronic immobiliser,Fuel cut off safety device,Brake pad wear indicator warning light,Push button starter,Green tinted heat insulating glass,Front seat backrest storage nets,Remote control alarm,DSC-Dynamic Stability Control,Front interior light,Anti-theft wheel bolts,Acoustic seat-belt warning,Radio BOOST + single slot CD,Anti trapping/one touch open close front windows,Chrome bezels around rear lights and headlights,Chrome plated trim on bottom edge of window
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/2a889a41-6765-3223-bda1-42a977d766aa" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-03T11:17:17Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:51:19.69Z" />
+<feature featureName="uri" featureValue="http://www.motors.co.uk/VehicleDetails.aspx?carid=40103665&amp;view=print&amp;src=www.newspostleader.co.uk" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1099" endPos="1111" type="product-class" surface="Crash Sensor" /></Entities><Relations />
+</Document>

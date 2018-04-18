@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Exactly what I need! @<NODE id="22" />Withings<NODE id="30" /> <NODE id="31" />Smart Temporal Thermometer<NODE id="57" /> w/ 16 sensors. Being sick at  #CES2016 has some benefit. https://t.co/gUJuaxOkp3
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/0984030e-e8c0-3fc7-a8a4-251136069ddf" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-07T00:32:02Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:38:54.871Z" />
+<feature featureName="uri" featureValue="http://twitter.com/_bethanygordon/statuses/684865031830241280" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="22" endPos="30" type="organization-company" surface="Withings" />
+<Entity id="1" startPos="31" endPos="57" type="product" surface="Smart Temporal Thermometer" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

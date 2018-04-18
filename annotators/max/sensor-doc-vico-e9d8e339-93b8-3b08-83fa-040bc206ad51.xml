@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Startup365World: #entrepreneurship <NODE id="39" />Heptagon<NODE id="47" /> Introduces Next Generation <NODE id="75" />OLIVIA 3DRanger™ Time-of-Flight Smart Sensor<NODE id="119" />: ... https://t.co/F…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/e9d8e339-93b8-3b08-83fa-040bc206ad51" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-09T20:40:30Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:04:03.03Z" />
+<feature featureName="uri" featureValue="http://twitter.com/GreenhouseBD/statuses/685893926620889089" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="39" endPos="47" type="organization-company" surface="Heptagon" />
+<Entity id="1" startPos="75" endPos="119" type="product" surface="OLIVIA 3DRanger™ Time-of-Flight Smart Sensor" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

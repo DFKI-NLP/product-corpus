@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>New Electronic Mini <NODE id="20" />Smart Sensor Wind Speed Gauge Anemometer Meter GM816<NODE id="72" /> https://t.co/kmba5igQr2
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/78a2d6eb-ad88-382d-806a-5973d2f3e86d" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-19T13:33:28Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:20:50.778Z" />
+<feature featureName="uri" featureValue="http://twitter.com/GalaxyShow1/statuses/689410342040928256" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="72" type="product" surface="Smart Sensor Wind Speed Gauge Anemometer Meter GM816" /></Entities><Relations />
+</Document>

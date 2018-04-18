@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @k_katzz10: I'm getting really sick of these <NODE id="48" />motion sensor<NODE id="61" /> lights not realizing that I'm on the top bunk
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/7a409c4b-28dc-3cab-9862-a6cc9333dc14" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-18T05:29:53Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:21:26.916Z" />
+<feature featureName="uri" featureValue="http://twitter.com/ChicoTorres_/statuses/688926255887028224" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="48" endPos="61" type="product-class" surface="motion sensor" /></Entities><Relations />
+</Document>

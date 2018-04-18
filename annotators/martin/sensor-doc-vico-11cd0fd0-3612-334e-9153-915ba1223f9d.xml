@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>atlantidex: Festo: BionicAnts and eMotionButterflies forming an intelligent smart factory hive The main focus of the Bionic Learning Network from Festo are principles from nature that provide inspiration for technical applications and industrial practice. Last year we saw a bionic kangaroo and a flying penguin. And in 2013 a remote-controlled drone that flies and is in the form of a dragonfly. This year they presented at the Hannover Messe 2015 their latest development:BionicANTs as large as guinea pigs and eMotionButterflies (weight: 30 g) which are intended to illustrate how individual systems can be combined into an intelligent hive system for smart factories and industry 4.0 applications. For the BionicANTs, the Festo engineers have not only taken the delicate anatomy of the natural ant as a role model. For the first time, the cooperative behaviour of the creatures has also been transferred to the world of technology using complex control algorithms. “Like their natural role models, the BionicANTs work together under clear rules”, explains Dr.-Ing. Heinrich Frontzek, Head of Corporate Communication and Future Concepts at Festo. “They communicate with each other and coordinate both their actions and movements. Each ant makes its decisions autonomously, but in doing so is always subordinate to the common objective and thereby plays its part towards solving the task at hand.” In an abstract manner, this cooperative behaviour provides interesting approaches for the factory of tomorrow. Future production systems will be founded on intelligent components, which adapt flexibly to different production scenarios and thus take on tasks from a higher control level. While the ants do the hard work, the bionic butterflies supervise the workflow. The <NODE id="1771" />eMotionButterflies<NODE id="1789" /> <NODE id="1790" />developed<NODE id="1799" /> by <NODE id="1803" />Festo<NODE id="1808" /> demonstrate complex issues from the world of future production such as functional integration, ultra-lightweight construction and communication between individual systems that is networked and optimised on a real-time basis. The aesthetically appealing bionic butterflies show the extent to which the virtual and real worlds can grow together. The coordination between the individual flying objects is effected autonomously and safely by means of a well-networked external guidance and monitoring system. The communication and sensor technology used, which constitutes an indoor GPS system, enables the butterflies to exhibit collective behaviour without danger of collision.The combination of integrated electronics and external camera technology with a host computer ensures process stability by means of an intelligent guidance and monitoring system. Last but not least, they have recreated the tongue of a chameleon: “The FlexShapeGripper can pick up, gather and set back down several objects with the widest range of shapes in one procedure – without the need for a manual conversion”.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/11cd0fd0-3612-334e-9153-915ba1223f9d" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-09T09:59:17Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:42:01.284Z" />
+<feature featureName="uri" featureValue="http://trueemergence.tumblr.com/post/136936205871" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1771" endPos="1789" type="product" surface="eMotionButterflies" />
+<Entity id="1" startPos="1790" endPos="1799" type="provide-type" surface="developed" />
+<Entity id="2" startPos="1803" endPos="1808" type="organization-company" surface="Festo" /></Entities><Relations>
+<Relation id="3" NAME="CompanyProvidesProduct">
+<Entity id="0" label="product" />
+<Entity id="2" label="company" />
+<Entity id="1" label="type" />
+</Relation></Relations>
+</Document>

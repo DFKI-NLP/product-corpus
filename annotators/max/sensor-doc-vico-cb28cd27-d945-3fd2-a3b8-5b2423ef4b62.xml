@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Hairong Qi is working on <NODE id="25" />smart sensor<NODE id="37" /> networks that will be able to tell each other what they see and what they think. Her research is a step towards sensors capable of gathering information and identifying potential threats. Smart sensor networks will tell each other what they see and what they think.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/cb28cd27-d945-3fd2-a3b8-5b2423ef4b62" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-14T22:34:42Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:52:21.878Z" />
+<feature featureName="uri" featureValue="http://www.facebook.com/89769773068/posts/10153879844308069#89769773068_10153879844308069" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="25" endPos="37" type="product-class" surface="smart sensor" /></Entities><Relations />
+</Document>

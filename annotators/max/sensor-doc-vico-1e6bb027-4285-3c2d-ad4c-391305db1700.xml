@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Carlo Gavazzi Energy management monitoring system A new line of modular monitoring systems for energy management includes data loggers and aggregators and a software solution. The VMU-C EM data logger system for small to medium projects is a combination of hardware modules whose primary function is to collect data from a network of energy meters and <NODE id="352" />environmental sensors<NODE id="373" /> and make this data available to end users. VMUC-Y EM is a hardware data aggregator for medium to larger projects. Its primary function is aggregating data from a network of VMU-C EM data loggers in applications that require support for more than 32 energy meters. The Em2 Server software solution for large projects is provided as a Virtual Machine software appliance to be hosted in either a customer’s facility or on a remote server. Company Information
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/1e6bb027-4285-3c2d-ad4c-391305db1700" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-02T21:32:17Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:46:48.167Z" />
+<feature featureName="uri" featureValue="http://www.controldesign.com/vendors/products/2016/carlo-gavazzi-energy-management-monitoring-system/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="352" endPos="373" type="product-class" surface="environmental sensors" /></Entities><Relations />
+</Document>

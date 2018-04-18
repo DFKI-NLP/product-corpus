@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />IFM<NODE id="3" /> Electronic Cylinders and <NODE id="29" />Sensors<NODE id="36" /> Cmqwp
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/f9706052-ef91-35a9-9eeb-9cd37c55c23a" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-10T01:05:44Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:09:59.57Z" />
+<feature featureName="uri" featureValue="http://twitter.com/GarrisonJanet1/statuses/685960674829271041" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization-company" surface="IFM" />
+<Entity id="1" startPos="29" endPos="36" type="product-class" surface="Sensors" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />AlerSense<NODE id="9" /> shows off <NODE id="20" />smart sensor<NODE id="32" /> for allergy and asthma alerts https://t.co/RbntV2tM0h via @VentureBeat
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/3a84805a-5fd1-3151-b5f3-78a8f7442ecb" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-19T23:33:15Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:57:22.291Z" />
+<feature featureName="uri" featureValue="http://twitter.com/deantak/statuses/689561279803973632" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="organization-company" surface="AlerSense" />
+<Entity id="1" startPos="20" endPos="32" type="product-class" surface="smart sensor" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

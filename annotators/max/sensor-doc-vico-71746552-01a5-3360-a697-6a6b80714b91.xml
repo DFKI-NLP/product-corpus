@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Amoled display, stock android, sick camera, <NODE id="44" />finger print sensor<NODE id="63" />... What's not to like... Good luck to all!!!﻿
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/71746552-01a5-3360-a697-6a6b80714b91" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-13T02:21:05Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:18:07.111Z" />
+<feature featureName="uri" featureValue="http://www.youtube.com/watch?v=WztqTbC1Dio#z13pgzjyznm2wxocq221wt3jmn3kghiqh04" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="44" endPos="63" type="product-class" surface="finger print sensor" /></Entities><Relations />
+</Document>

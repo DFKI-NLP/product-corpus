@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Smart Sensor<NODE id="12" /> Energy Egg Twin Light Switch - White The Smart Sensor Energy Egg Tw...  https://t.co/6XsynHaZfq https://t.co/R48zcP9Qxr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/7795e8e5-4886-3836-b61c-393a224c47c3" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-14T20:32:52Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:20:27.622Z" />
+<feature featureName="uri" featureValue="http://twitter.com/coolamazon1/statuses/687703946459099136" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="product-class" surface="Smart Sensor" /></Entities><Relations />
+</Document>

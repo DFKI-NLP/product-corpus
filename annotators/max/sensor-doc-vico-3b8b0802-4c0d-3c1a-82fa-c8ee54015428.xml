@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @intel: #ExperienceAmazing now: The Butterfly Dress. Get too close &amp; <NODE id="72" />smart sensors<NODE id="85" /> send swarms soaring. https://t.co/QgtnC30SNr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/3b8b0802-4c0d-3c1a-82fa-c8ee54015428" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-26T00:32:12Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:57:45.387Z" />
+<feature featureName="uri" featureValue="http://twitter.com/brian_monahan97/statuses/691750443995758592" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="72" endPos="85" type="product-class" surface="smart sensors" /></Entities><Relations />
+</Document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Keyence<NODE id="7" /> <NODE id="8" />sensors<NODE id="15" /> are one of products categories provided by Keyence company for multi-purpose applications including presence/absence and part differentiation. In addition, <NODE id="172" />keyence<NODE id="179" /> has offers supporting products categories such as Measurement Systems, <NODE id="251" />Measurement Sensors<NODE id="270" />, Sensors, Process Controls / <NODE id="300" />Process Sensors<NODE id="315" />, Safety. Keyence sensors consist of six items products namely Photoelectric
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/05baa4a3-4e29-3cfd-bb3c-ff24a80a5206" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-16T00:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:37:29.477Z" />
+<feature featureName="uri" featureValue="http://program-plc.blogspot.com/2016/01/take-proper-multiple-choice-of-keyence.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization-company" surface="Keyence" />
+<Entity id="1" startPos="8" endPos="15" type="product-class" surface="sensors" />
+<Entity id="2" startPos="172" endPos="179" type="organization-company" surface="keyence" />
+<Entity id="3" startPos="251" endPos="270" type="product-class" surface="Measurement Sensors" />
+<Entity id="4" startPos="300" endPos="315" type="product-class" surface="Process Sensors" /></Entities><Relations>
+<Relation id="5" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="6" NAME="CompanyProvidesProduct">
+<Entity id="3" label="product" />
+<Entity id="2" label="company" />
+</Relation>
+<Relation id="7" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="2" label="company" />
+</Relation></Relations>
+</Document>

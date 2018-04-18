@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />Oreck<NODE id="6" /> <NODE id="7" />AirInstinct<NODE id="18" /> HEPA Large Room Air Purifier the AirInstinct Large Hepa Air Purifier Combines a <NODE id="99" />Smart Sensor<NODE id="111" />, https://t.co/SFQlQ9YRIG
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/916435e1-eca1-32ac-b288-3588ad3ea893" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-15T04:37:47Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:30:16.105Z" />
+<feature featureName="uri" featureValue="http://twitter.com/houseware_deals/statuses/687825979507527680" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="6" type="organization-company" surface="Oreck" />
+<Entity id="1" startPos="7" endPos="18" type="product" surface="AirInstinct" />
+<Entity id="2" startPos="99" endPos="111" type="product-class" surface="Smart Sensor" /></Entities><Relations>
+<Relation id="3" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

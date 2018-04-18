@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>How #<NODE id="5" />smart sensors<NODE id="18" /> are saving the Energy sector millions. https://t.co/LSoGUNvRLy https://t.co/Cs8ywXIILX
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/1e8f33f1-45d3-3ca1-99f3-521f3eb0e780" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-16T17:30:02Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:46:51.484Z" />
+<feature featureName="uri" featureValue="http://twitter.com/HPE_News/statuses/688382710918832128" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="5" endPos="18" type="product-class" surface="smart sensors" /></Entities><Relations />
+</Document>

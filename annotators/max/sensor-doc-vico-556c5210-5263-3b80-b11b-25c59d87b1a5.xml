@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @UTKnoxville: <NODE id="17" />Smart sensor<NODE id="29" /> networks will tell each other what they see and what they think. #VolResearch https://t.co/PPHnSJz2XG https:/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/556c5210-5263-3b80-b11b-25c59d87b1a5" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-17T05:02:02Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:07:32.605Z" />
+<feature featureName="uri" featureValue="http://twitter.com/utkcfwstem/statuses/688556856894185472" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="29" type="product-class" surface="Smart sensor" /></Entities><Relations />
+</Document>

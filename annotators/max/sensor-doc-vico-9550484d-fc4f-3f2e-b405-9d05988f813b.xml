@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>For More Helpful Review and BIG Discount http://www.amzn.com/exec/obidos/ASIN/B00CBW63QU/avyra.keiko-20 <NODE id="104" />Neato<NODE id="109" /> XV Signature Pro<NODE id="126" /> Pet &amp; Allergy Robot Vacuum Cleaner Advanced laser guided navigation means the XV Signature Pro goes automatically from room to room, cleaning close to edges, in corners, and carefully around furniture. Its Smart Sensor technology automatically detects and avoids stairs, and doesn’t bump into furniture like other robots do. It returns to the charge base and resumes where it left off! No other robot is this smart. with feature : - Works on all different floor types - wood, tile, carpet, vinyl - Easily schedule daily cleanings or just push a button for spot clean or instant multi-room cleaning - Two High-Performance Filters reduce dust and allergens - Blade and brush system offers the best performance on any floor type and picks up tough pet hair - Strongest suction available in a robot vacuum - Easily schedule daily cleanings or just push a button for spot clean or instant multi-room cleaning Other Robotic Vacuum Cleaners * Evolution Robotics Mint Plus Automatic Hard Floor Cleaner, 5200 http://www.amzn.com/exec/obidos/ASIN/B005Z1Z9IM/avyra.keiko-20 * iRobot Braava 380t Floor Mopping Robot http://www.amzn.com/exec/obidos/ASIN/B00DCCYD6U/avyra.keiko-20 * iRobot Roomba 630 Vacuum Cleaning Robot for Pets http://www.amzn.com/exec/obidos/ASIN/B008LX6JWG/avyra.keiko-20 * iRobot Roomba 650 Vacuum Cleaning Robot for Pets http://www.amzn.com/exec/obidos/ASIN/B008LX6OC6/avyra.keiko-20 * iRobot Roomba 770 Vacuum Cleaning Robot for Pets and Allergies http://www.amzn.com/exec/obidos/ASIN/B005GK3IVW/avyra.keiko-20 * iRobot Roomba 880 Vacuum Cleaning Robot For Pets and Allergies http://www.amzn.com/exec/obidos/ASIN/B00IO9PBPS/avyra.keiko-20 * Neato Robotics XV-21 Vacuum Cleaner http://www.amzn.com/exec/obidos/ASIN/B00GOH64IA/avyra.keiko-20 * Neato Robotics XV Signature Robotic Vacuum http://www.amzn.com/exec/obidos/ASIN/B00D5EID84/avyra.keiko-20 * Neato XV-21 Pet &amp; Allergy Automatic Vacuum Cleaner http://www.amzn.com/exec/obidos/ASIN/B007JOJ9QQ/avyra.keiko-20 * Neato XV Signature Pro Pet &amp; Allergy Robot Vacuum Cleaner http://www.amzn.com/exec/obidos/ASIN/B00CBW63QU/avyra.keiko-20 Thank You For Watching My Videos https://youtu.be/sVNYPCCrHXA Please Subscribe https://www.youtube.com/channel/UC9u2PaDNRc8hygub69GRz3A/videos Tags: best robotic vacuum,robotic vacuum cleaner,robotic pool cleaner,neato vacuum,robotic vacuum,neato robotics,best cleaning products,hoover floormate hard floor cleaner,hard floor vacuum,steam cleaning,steam floor cleaners,hard floor cleaner,floor cleaning machines,floor steam cleaner,floor cleaner,cleaning products,best robotic pool cleaner
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/9550484d-fc4f-3f2e-b405-9d05988f813b" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-14T17:54:56Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:31:46.91Z" />
+<feature featureName="uri" featureValue="http://www.youtube.com/watch?v=sVNYPCCrHXA" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="104" endPos="109" type="organization-company" surface="Neato" />
+<Entity id="1" startPos="104" endPos="126" type="product" surface="Neato XV Signature Pro" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

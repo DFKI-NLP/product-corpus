@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Heptagon<NODE id="8" /> <NODE id="9" />Introduces<NODE id="19" /> Next Generation <NODE id="36" />OLIVIA 3DRanger™ Time-of-Flight Smart Sensor<NODE id="80" /> https://t.co/8gMxUDcV7H
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/0424c728-f0f5-30c4-b348-75aae08b427c" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-10T06:15:02Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:36:52.667Z" />
+<feature featureName="uri" featureValue="http://twitter.com/feel_on_/statuses/686038516522856449" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="organization-company" surface="Heptagon" />
+<Entity id="1" startPos="9" endPos="19" type="trigger" surface="Introduces" />
+<Entity id="2" startPos="36" endPos="80" type="product" surface="OLIVIA 3DRanger™ Time-of-Flight Smart Sensor" /></Entities><Relations>
+<Relation id="3" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

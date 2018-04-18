@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>In this video, EandM's Balluff Product Specialist, Lillie Deas, gives an overview of the challenges of measuring liquids in non-metal tanks and explains why <NODE id="157" />Balluff Capacitive sensors<NODE id="183" /> are perfect for the task. (hint: you don't have to drill a hole in your tank!) Tags: Balluff,Capacitive Sensor,Liquid Level Detection,Tank
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/67dd4257-64cb-3792-aa0b-60762ab8ab6e" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-08T23:40:15Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:14:28.959Z" />
+<feature featureName="uri" featureValue="http://www.youtube.com/watch?v=fiJ-odGSUnY" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="157" endPos="183" type="product" surface="Balluff Capacitive sensors" /></Entities><Relations />
+</Document>

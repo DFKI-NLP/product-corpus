@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>SICK TriSpector 1000 delivers real plug-and-play 3D vision sensing Published: 8 January 2016 - Lisa Peake <NODE id="106" />SICK<NODE id="110" /> has <NODE id="115" />launched<NODE id="123" /> its first <NODE id="134" />‘plug-and-play’ 3D vision sensor<NODE id="166" /> in the UK, the <NODE id="182" />TriSpector 1000<NODE id="197" />, delivering real-time 3D quality inspection in a self-contained unit that is simple to install and use. <NODE id="302" />Developed<NODE id="311" /> by <NODE id="315" />SICK<NODE id="319" /> in close cooperation with customers worldwide, the <NODE id="371" />TriSpector 1000<NODE id="386" /> is expected to open up affordable 3D vision sensing for a wide range of processing and packaging operations. It will provide warehouse operators with true ‘out-of-the-box’ 3D vision without the complexity or cost of conventional 3D vision solutions. 'With the TriSpector 1000, engineers can now access reliab le entry-level 3D inspection without having to be a vision or software expert,' says Neil Sandhu SICK (UK) machine vision specialist. 'There’s no additional programming: Teach in the requirements via the display on the compact, stand-alone unit and the TriSpector will start inspecting and communicate with your factory control communications network!' The SICK TriSpector 1000 is an entirely self-contained unit that can be set up using <NODE id="1134" />SICK<NODE id="1138" />’s <NODE id="1141" />SOPAS software interface<NODE id="1165" /> without the need to write bespoke programs. Yet it has all the functionality needed for quality control inspection under high-speed industrial conditions. 'The TriSpector 1000 is a versatile performer,' adds Sandhu. 'Its intelligent sensing can check presence, position, labels, contents and orientation, dimensioning and height, which-side-up and fill levels. It will achieve true 3D vision, even when colour, position and height of the object vary, and can tolerate changes in angle or position of packages on the conveying line.' The <NODE id="1703" />TriSpector 3D vision sensors<NODE id="1731" /> adds to <NODE id="1740" />SICK<NODE id="1744" />’s full range of <NODE id="1761" />3D vision solutions<NODE id="1780" />, encompassing <NODE id="1795" />3D Smart Cameras<NODE id="1811" /> and <NODE id="1816" />Advanced Colour<NODE id="1831" />, <NODE id="1833" />3D<NODE id="1835" /> and <NODE id="1840" />multiscanning technology<NODE id="1864" /> – all available to make sure the most suitable 3D technology is applied to deliver robust and reliable solutions. The SICK TriSpector works through the principle of 3D laser triangulation where a vision camera is angled to capture a series of profiles as the object moves through the laser line projection. A shape profile of the object is built up. Through <NODE id="2223" />SICK<NODE id="2227" />’s <NODE id="2230" />4DPro communications platform<NODE id="2259" />, TriSpector can be integrated seamlessly with factory control and data systems, as well as combined with several other 2D or 3D vision devices to create a full inspection station for QC purposes. The SICK TriSpector 1000 vision sensor range comprises three models, with width ranges of 200mm to 650mm, 100mm to 330mm and 45mm to 75mm, and different fields of view and resolution to match application requirements. The units are supplied in rugged IP67 casings and shatter resistant plastic windows to withstand harsh or food processing environments. With laser scanning, additional lighting is unnecessary, a Micro SD card stores profiles and allows setting to be cloned for easy replacement or on other conveying lines. The largest, TriSpector 1060, has a height range of 800mm, the mid-size TriSpector 1030 has a height range of 400mm, and the smallest, TriSpector 1008, has a height range of 60mm. For more information on the SICK TriSpector 3D vision sensor series, please contact Andrea Hornby on 01727 831121 or email andrea.hornby@sick.co.uk . Source: Irish Manufacturing Industry Connections: SICK (UK) Ltd
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/747cadd6-96bf-3841-a488-acb24d3ac7e2" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-08T17:14:35Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:19:16.474Z" />
+<feature featureName="uri" featureValue="http://www.connectingindustry.com/IrishManufacturing/sick-trispector-1000-delivers-real-plug-and-play-3d-vision-sensing.aspx" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="106" endPos="110" type="organization-company" surface="SICK" />
+<Entity id="1" startPos="115" endPos="123" type="trigger" surface="launched" />
+<Entity id="2" startPos="134" endPos="166" type="product-class" surface="‘plug-and-play’ 3D vision sensor" />
+<Entity id="3" startPos="182" endPos="197" type="product" surface="TriSpector 1000" />
+<Entity id="4" startPos="302" endPos="311" type="provide-type" surface="Developed" />
+<Entity id="5" startPos="315" endPos="319" type="organization-company" surface="SICK" />
+<Entity id="6" startPos="371" endPos="386" type="product" surface="TriSpector 1000" />
+<Entity id="7" startPos="1134" endPos="1138" type="organization-company" surface="SICK" />
+<Entity id="8" startPos="1141" endPos="1165" type="product" surface="SOPAS software interface" />
+<Entity id="9" startPos="1703" endPos="1731" type="product" surface="TriSpector 3D vision sensors" />
+<Entity id="10" startPos="1740" endPos="1744" type="organization-company" surface="SICK" />
+<Entity id="11" startPos="1761" endPos="1780" type="product-class" surface="3D vision solutions" />
+<Entity id="12" startPos="1795" endPos="1811" type="product-class" surface="3D Smart Cameras" />
+<Entity id="13" startPos="1816" endPos="1831" type="product-class" surface="Advanced Colour" />
+<Entity id="14" startPos="1833" endPos="1835" type="product-class" surface="3D" />
+<Entity id="15" startPos="1840" endPos="1864" type="product-class" surface="multiscanning technology" />
+<Entity id="16" startPos="2223" endPos="2227" type="organization-company" surface="SICK" />
+<Entity id="17" startPos="2230" endPos="2259" type="product" surface="4DPro communications platform" /></Entities><Relations>
+<Relation id="18" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="3" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="19" NAME="CompanyProvidesProduct">
+<Entity id="6" label="product" />
+<Entity id="5" label="company" />
+<Entity id="4" label="type" />
+</Relation>
+<Relation id="20" NAME="CompanyProvidesProduct">
+<Entity id="8" label="product" />
+<Entity id="7" label="company" />
+</Relation>
+<Relation id="21" NAME="CompanyProvidesProduct">
+<Entity id="9" label="product" />
+<Entity id="10" label="company" />
+</Relation>
+<Relation id="22" NAME="CompanyProvidesProduct">
+<Entity id="14" label="product" />
+<Entity id="15" label="product" />
+<Entity id="13" label="product" />
+<Entity id="12" label="product" />
+<Entity id="11" label="product" />
+<Entity id="10" label="company" />
+</Relation>
+<Relation id="23" NAME="CompanyProvidesProduct">
+<Entity id="17" label="product" />
+<Entity id="16" label="company" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Market Overview <NODE id="16" />Mitsubishi Electric <NODE id="36" />Develops <NODE id="45" />High-precision Air-quality Sensor for PM2.5 <NODE id="89" />TOKYO--(BUSINESS WIRE)-- <NODE id="114" />Mitsubishi Electric Corporation<NODE id="145" /> (TOKYO:6503) announced today that it has developed a small, <NODE id="206" />high-precision air-quality sensor<NODE id="239" />, the world first to detect all fine particles measuring no more than 2.5 micrometers in diameter, called PM2.5, as well as pollen and dust. It also senses the density of particles precisely. Scattered light from PM2.5 particles is measured with Mitsubishi Electric's unique double-sided mirror design, which collects about 1.8 times more scattered light than conventional single-sided designs. An air flow controller provides stable airflow. Components were optimally designed to achieve a small form factor and were carefully aligned to avoid obstructing the airflow and laser beams. Mitsubishi Electric's original shape-discrimination algorithm distinguishes between pollen and dust based on the respective differences in the optical characteristics of their scattered light, resulting in the world's first sensor capable of detecting all PM2.5, pollen and dust particles. The air-quality sensor prototype consists of a laser diode, aspheric lens, light-collecting mirror, photodetector and airflow controller. The prototype measures 67mm (W) x 49mm (D) x 35mm (H). The minimum size of a detectable particle is just 0.3 micrometer. PM2.5 has posed a serious problem, causing air pollution and health-related issues in countries such as China, India and Japan. The trend has raised public concerns and increased the demand for high-precision air-quality sensors to detect PM2.5. At present, however, <NODE id="1641" />high-precision sensors<NODE id="1663" /> for PM2.5 are large and expensive, limiting their applications to commercial use only. For the full text, please visit: http://www.mitsubishielectric.com/news Patents Pending patents for the technology announced in this news release number five in Japan and one abroad in six countries. View source version on businesswire.com: http://www.businesswire.com/news/home/20160207005063/en/ Mitsubishi Electric Corporation Customer Inquiries Advanced Technology R&amp;D Center Fax: +81-6-6497-7289 www.MitsubishiElectric.com/ssl/contact/company/rd/form www.MitsubishiElectric.com/company/rd/ or Media Inquiries Katsunobu Muroi, +81-3-3218-2346 Public Relations Division prd.gnews@nk.MitsubishiElectric.co.jp www.MitsubishiElectric.com/news/ View Comments and Join the Discussion!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/2b528ecc-0297-31c9-b1b2-950f08618539" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-08T03:34:49Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:51:37.512Z" />
+<feature featureName="uri" featureValue="http://www.benzinga.com/pressreleases/16/02/b6224710/mitsubishi-electric-develops-high-precision-air-quality-sensor-for-pm2-" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="36" type="organization-company" surface="Mitsubishi Electric " />
+<Entity id="1" startPos="45" endPos="89" type="product" surface="High-precision Air-quality Sensor for PM2.5 " />
+<Entity id="2" startPos="114" endPos="145" type="organization-company" surface="Mitsubishi Electric Corporation" />
+<Entity id="3" startPos="206" endPos="239" type="product-class" surface="high-precision air-quality sensor" />
+<Entity id="4" startPos="1641" endPos="1663" type="product-class" surface="high-precision sensors" /></Entities><Relations>
+<Relation id="5" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="6" NAME="CompanyProvidesProduct">
+<Entity id="3" label="product" />
+<Entity id="2" label="company" />
+</Relation></Relations>
+</Document>

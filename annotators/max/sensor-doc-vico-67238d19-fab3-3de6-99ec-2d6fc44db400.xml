@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Emprendedor_365: #emprendedor <NODE id="34" />Heptagon<NODE id="42" /> <NODE id="43" />Introduces<NODE id="53" /> Next Generation <NODE id="70" />OLIVIA 3DRanger<NODE id="85" />™ Time-of-Flight Smart Sensor... https://t.co/22GP2N0E…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/67238d19-fab3-3de6-99ec-2d6fc44db400" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-09T20:34:12Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:14:13.12Z" />
+<feature featureName="uri" featureValue="http://twitter.com/Mundoautonomos/statuses/685892344558829568" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="34" endPos="42" type="organization-company" surface="Heptagon" />
+<Entity id="1" startPos="43" endPos="53" type="trigger" surface="Introduces" />
+<Entity id="2" startPos="70" endPos="85" type="product" surface="OLIVIA 3DRanger" /></Entities><Relations>
+<Relation id="3" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>NEW! <NODE id="5" />SICK<NODE id="9" /> WTB12-3P2411 <NODE id="23" />Photoelectric Proximity Sensor  WTB123P2411<NODE id="66" />   https://t.co/JORt1eChol https://t.co/JsOT0nWHGX
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/539cba82-4364-3df3-9539-9b98a94d8ab4" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-18T12:20:22Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:06:51.636Z" />
+<feature featureName="uri" featureValue="http://twitter.com/BDeanus/statuses/689029555475075072" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="5" endPos="9" type="organization-company" surface="SICK" />
+<Entity id="1" startPos="23" endPos="66" type="product" surface="Photoelectric Proximity Sensor  WTB123P2411" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

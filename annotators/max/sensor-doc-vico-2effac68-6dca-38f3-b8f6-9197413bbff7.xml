@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Endress_Hauser: <NODE id="20" />Endress+Hauser<NODE id="34" /> <NODE id="35" />introduces<NODE id="45" /> <NODE id="46" />Cleanfit retractable sensor<NODE id="73" /> assemblies ~@Energy_Global https://t.co/J2UY1GJ7NQ
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/2effac68-6dca-38f3-b8f6-9197413bbff7" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-03T11:11:33Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:53:01.718Z" />
+<feature featureName="uri" featureValue="http://twitter.com/HazardExShout/statuses/694810445786521600" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="34" type="organization-company" surface="Endress+Hauser" />
+<Entity id="1" startPos="35" endPos="45" type="trigger" surface="introduces" />
+<Entity id="2" startPos="46" endPos="73" type="product-class" surface="Cleanfit retractable sensor" /></Entities><Relations>
+<Relation id="3" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

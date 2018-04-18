@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#business <NODE id="10" />Heptagon<NODE id="18" /> Introduces Next Generation <NODE id="46" />OLIVIA 3DRanger™ Time-of-Flight Smart Sensor<NODE id="90" />: Precision Distance... https://t.co/8DqhcOog5J
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/d6934c2a-c445-352b-923d-a68ec57acefb" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-09T20:18:25Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:56:41.757Z" />
+<feature featureName="uri" featureValue="http://twitter.com/Business365_Fr/statuses/685888369042178048" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="10" endPos="18" type="organization-company" surface="Heptagon" />
+<Entity id="1" startPos="46" endPos="90" type="product" surface="OLIVIA 3DRanger™ Time-of-Flight Smart Sensor" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

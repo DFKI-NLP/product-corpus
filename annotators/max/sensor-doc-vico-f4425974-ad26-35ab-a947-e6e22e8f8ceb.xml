@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Product News: Test &amp; Measuring Instruments Topics Test &amp; Measuring Instruments Portable Emissions Analyzer suits regulatory, maintenance tasks. Press Release Summary: January 19, 2016 - Used for EPA compliance level emissions monitoring and testing, E8500 PLUS features electrochemical sensors for O2, CO, NO, NO2, SO2, and H2S as well as NDIR sensors for CO2, CxHy, and high CO. PID VOC sensor option is available, and internal memory holds up to 2,000 tests. Along with wireless remote printer, this low NOx- and true NOx-capable analyzer comes with low NOx and SO2 sample conditioning system, software with automatic datalogging, and internal thermoelectric chiller. Original Press Release NEW E8500 PLUS Portable Emissions Analyzer Press release date: January 15, 2016 The NEW E8500 PLUS emissions analyzer is a complete portable tool for EPA compliance level emissions monitoring and testing. The E8500 PLUS is ideal for regulatory &amp; maintenance use in boiler, burner, engine, turbine, furnace, and other combustion applications. NEW Features: • Upgraded Software with Automatic Data-Logging • NEW PID VOC Sensor Option • NEW Display Screen &amp; Keypad Design • Easier Filter Replacement &amp; Inspection • Expanded Internal Memory (Up to 2,000 Tests) • New Sample Conditioning System for Low NOx &amp; SO2 Additional Features: • <NODE id="1324" />Electrochemical Sensors<NODE id="1347" /> – <NODE id="1350" />O2<NODE id="1352" />, <NODE id="1354" />CO<NODE id="1356" />, <NODE id="1358" />NO<NODE id="1360" />, <NODE id="1362" />NO2<NODE id="1365" />, <NODE id="1367" />SO2<NODE id="1370" />, <NODE id="1372" />H2S<NODE id="1375" /> • <NODE id="1378" />NDIR Sensors<NODE id="1390" /> – <NODE id="1393" />CO2<NODE id="1396" />, <NODE id="1398" />CxHy<NODE id="1402" />, <NODE id="1404" />High CO<NODE id="1411" /> • Low NOx and True NOx Capable • Real-Time PC Software Package with Bluetooth • Wireless Remote Printer • Internal Thermoelectric Chiller with Automatic Condensate Removal E Instruments International, LLC 402 Middletown Blvd. Suite 216 Langhorne, PA 19047 Phone: 215-750-1212 Fax: 215-750-1399 Email: dkelly@E-Inst.com Website: www.E-Inst.com
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/f4425974-ad26-35ab-a947-e6e22e8f8ceb" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-19T17:12:16Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:08:01.066Z" />
+<feature featureName="uri" featureValue="http://news.thomasnet.com/fullstory/portable-emissions-analyzer-suits-regulatory-maintenance-tasks-20053071" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1324" endPos="1347" type="product-class" surface="Electrochemical Sensors" />
+<Entity id="1" startPos="1350" endPos="1352" type="product" surface="O2" />
+<Entity id="2" startPos="1354" endPos="1356" type="product" surface="CO" />
+<Entity id="3" startPos="1358" endPos="1360" type="product" surface="NO" />
+<Entity id="4" startPos="1362" endPos="1365" type="product" surface="NO2" />
+<Entity id="5" startPos="1367" endPos="1370" type="product" surface="SO2" />
+<Entity id="6" startPos="1372" endPos="1375" type="product" surface="H2S" />
+<Entity id="7" startPos="1378" endPos="1390" type="product-class" surface="NDIR Sensors" />
+<Entity id="8" startPos="1393" endPos="1396" type="product" surface="CO2" />
+<Entity id="9" startPos="1398" endPos="1402" type="product" surface="CxHy" />
+<Entity id="10" startPos="1404" endPos="1411" type="product" surface="High CO" /></Entities><Relations />
+</Document>

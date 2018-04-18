@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Smart Remote Data Acquisition Devices Now Available with Wi-Fi 01.06.2016 Moxa has announced a new data acquisition solution that brings greater versatility for the Industrial Internet of Things (IIoT). The new ioLogik 2542-WL1 and ioLogik 2512-WL1 both feature 802.11a/b/g Wi-Fi connectivity, which will serve the growing number of devices and M2M applications that require wireless communication. The ioLogik 2542-WL1 supports analog I/O connections over Wi-Fi, whereas the ioLogik 2512-WL1 supports digital I/O connections over Wi-Fi. With the addition of these two models, <NODE id="577" />Moxa<NODE id="581" /> now <NODE id="586" />offers<NODE id="592" /> a range of flexible <NODE id="613" />data acquisition solutions for wired Ethernet, Wi-Fi, 2G GPRS and 3G HSPA networks<NODE id="695" />. We want to make it as easy as possible for industrial users to collect and share sensor data in different environments and circumstances, said Wenyuan Niu, Product Marketing Manager. Wi-Fi is becoming a useful and popular mode of communication both on the factory floor and in remote locations. Our new wireless models will help users leverage Wi-Fi for their data acquisition requirements. Both ioLogik units feature automatic tag generation and reporting for connected sensors and devices. This enables operators to monitor a large number of field devices with great efficiency. This function can also work in conjunction with Moxa's MX-AOPC UA Server on the cloud to minimize network bandwidth and latency. Data communication is protected with the highest commercially available security (WPA2/802.11i), which features advanced encryption and authentication. In addition to Wi-Fi, the ioLogik 2542-WL1 and 2512-WL1 both feature a 4-port unmanaged Ethernet switch and two serial ports for a seamless connection to a variety of field devices. The serial ports support data polling from devices using the Modbus RTU protocol. This data can be converted into Modbus TCP or AOPC tag format before sending it out over the Ethernet network. The units also support communication with multiple remote I/O devices under a single IP address. The slave Ethernet port can link up to 8 daisy-chained ioLogik E1200 expansion modules and convert more than 100 channels to one IP address. The other three Ethernet ports can connect to any Ethernet-driven field device. Niu notes that <NODE id="2267" />Moxa's<NODE id="2273" /> <NODE id="2274" />ioLogik line<NODE id="2286" /> has been designed for easy management and configuration. The patented Click&amp;Go Plus logic provides local datalogging and controls using an intuitive IF-THEN-ELSE framework. Custom real-time alerts are easily configured with notification by SMS, email, or SNMP trap. Users can also use Moxa's IOxpress software to create configurations offline and upload the settings to an online device. This greatly reduces the time and cost of deployment and management. The ioLogik 2542-WL1 and 2512-WL1 is engineered for rugged industrial use and can withstand -30° to 70°C (-22° to 158°F) operating temperatures. Both units offer industry-leading EMI protection and rugged, shock-resistant housing. moxa.com Jan 6, 2006
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/2783a904-83f4-3e16-9304-c0d70094b954" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-11T16:20:45Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:50:12.208Z" />
+<feature featureName="uri" featureValue="http://www.softwaremag.com/smart-remote-data-acquisition-devices-now-available-with-wi-fi/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="577" endPos="581" type="organization-company" surface="Moxa" />
+<Entity id="1" startPos="586" endPos="592" type="trigger" surface="offers" />
+<Entity id="2" startPos="613" endPos="695" type="product-class" surface="data acquisition solutions for wired Ethernet, Wi-Fi, 2G GPRS and 3G HSPA networks" />
+<Entity id="3" startPos="2267" endPos="2273" type="organization-company" surface="Moxa's" />
+<Entity id="4" startPos="2274" endPos="2286" type="product" surface="ioLogik line" /></Entities><Relations>
+<Relation id="5" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="6" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="3" label="company" />
+</Relation></Relations>
+</Document>

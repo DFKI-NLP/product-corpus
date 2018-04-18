@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Smart Sensor<NODE id="12" /> Turns Surfers Into Citizen Scientists https://t.co/mb2033jNlZ #mashable #socialmedia #green #climate #environment
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/066143ca-a4e9-3318-bffd-5e015323a332" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-20T01:57:26Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:37:43.914Z" />
+<feature featureName="uri" featureValue="http://twitter.com/michael4h2o/statuses/689597566170894337" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="product-class" surface="Smart Sensor" /></Entities><Relations />
+</Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />CBC<NODE id="3" /> has <NODE id="8" />Proximity Sensors<NODE id="25" /> in Stock, Ready to Ship https://t.co/NgzMc63noM @carlton_bates #<NODE id="90" />industrialsensors<NODE id="107" /> #sensing #sensors
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/2a0d0220-cf8c-3088-be90-e067aa36d60b" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-26T16:47:46Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:51:09.185Z" />
+<feature featureName="uri" featureValue="http://twitter.com/teddyslezak/statuses/691995953738444800" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization-company" surface="CBC" />
+<Entity id="1" startPos="8" endPos="25" type="product-class" surface="Proximity Sensors" />
+<Entity id="2" startPos="90" endPos="107" type="product-class" surface="industrialsensors" /></Entities><Relations>
+<Relation id="3" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

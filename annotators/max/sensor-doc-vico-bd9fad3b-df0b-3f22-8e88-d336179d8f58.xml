@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @GotJenn: <NODE id="13" />Smart Sensors<NODE id="26" /> is out! https://t.co/kGfeATlyeJ Stories via @unsalseyma @posty
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/bd9fad3b-df0b-3f22-8e88-d336179d8f58" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-13T20:00:08Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:47:13.892Z" />
+<feature featureName="uri" featureValue="http://twitter.com/unsalseyma/statuses/687333322784129024" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="13" endPos="26" type="product-class" surface="Smart Sensors" /></Entities><Relations />
+</Document>

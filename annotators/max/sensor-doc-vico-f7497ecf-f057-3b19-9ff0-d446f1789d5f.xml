@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Keyence<NODE id="7" /> <NODE id="8" />LV-N11N<NODE id="15" /> + <NODE id="18" />LV-NH32 Digital Laser Sensor<NODE id="46" /> , New other (No Box) https://t.co/VjWQdFNuoG https://t.co/20sMTpZmZ2
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/f7497ecf-f057-3b19-9ff0-d446f1789d5f" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-08T01:27:23Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:09:11.397Z" />
+<feature featureName="uri" featureValue="http://twitter.com/bidgoodoffers/statuses/685241348086173696" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization-company" surface="Keyence" />
+<Entity id="1" startPos="8" endPos="15" type="product" surface="LV-N11N" />
+<Entity id="2" startPos="18" endPos="46" type="product" surface="LV-NH32 Digital Laser Sensor" /></Entities><Relations>
+<Relation id="3" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="4" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

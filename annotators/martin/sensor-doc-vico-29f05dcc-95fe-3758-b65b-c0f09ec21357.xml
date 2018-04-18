@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>FREE subscription Subscribe for free to receive each issue of Semiconductor Today magazine and weekly news brief. News 17 October 2006 Ultra-wideband for short-range automotive radar sensors <NODE id="191" />M/A-COM<NODE id="198" /> of <NODE id="202" />Lowell<NODE id="208" />, <NODE id="210" />MA<NODE id="212" />, <NODE id="214" />USA<NODE id="217" /> has introduced a new range of <NODE id="248" />24GHz ultra-wideband (UWB) short-range radar sensors<NODE id="300" /> for driver-assistance systems that incorporate GaAs <NODE id="353" />pseudo- morphic high-electron-mobility transistors (pHEMTs)<NODE id="412" /> as well as silicon <NODE id="432" />application-specific integrated circuits (ASIC) chips<NODE id="485" />. The highly integrated 'smart sensor' is designed to improve safety and comfort functions in automotive applications by providing object detection and tracking, and to be resistant to inclement weather and harsh environmental conditions more than other sensing technologies such as infrared devices. The sensors can be customized for the following applications: parking assistance - rear-mounted sensors, with a range of 1.8m, can detect small objects in front of large objects and measure the direction of arrival; pre-crash sensing - the sensors scan out up to 30m to provide advanced warning of an imminent collision to arm airbag, pre-tension seat restraints or other injury mitigation strategies; blind spot detection - short-range sensors detect objects in critical zones; obstacle detection - with up to a 30m operating range, the radar sensor can be used to warn of unseen objects. The UWB technology enables the system to measure objects located within centimeters of the sensor, says M/A-COM. Also, compared to narrow-band sensors, short-range sensors can detect and distinguish between objects as close as 15cm from each other. M/A-COM adds that the radar sensors can also be deployed in security, military and unmanned vehicle operations, as well as mining and industrial sensing applications. Visit: http://www.macom.com 2006 Juno Publishing and Media Solutions Ltd. All rights reserved. Semiconductor Today and the editorial material contained within it and related media is the copyright of Juno Publishing and Media Solutions Ltd. Reproduction in whole or part without permission from Juno Publishing and Media Solutions Ltd is forbidden. In most cases, permission will be granted, if the author, magazine and publisher are acknowledged. Disclaimer: Material published within Semiconductor Today and related media does not necessarily reflect the views of the publisher or staff. Juno Publishing and Media Solutions Ltd and its staff accept no responsibility for opinions expressed, editorial errors and damage/injury to property or persons as a result of material published. Semiconductor Today, Juno Publishing and Media Solutions Ltd, Suite no. 133, 20 Winchcombe Street, Cheltenham, GL52 2LY, UK Web site by No Name No Slogan
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/29f05dcc-95fe-3758-b65b-c0f09ec21357" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-08T16:36:06Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:51:07.068Z" />
+<feature featureName="uri" featureValue="http://www.semiconductor-today.com/news_items/2016/../../news_items/OCT_06/MACOM_171006.htm" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="191" endPos="198" type="organization-company" surface="M/A-COM" />
+<Entity id="1" startPos="202" endPos="208" type="location" surface="Lowell" />
+<Entity id="2" startPos="210" endPos="212" type="location" surface="MA" />
+<Entity id="3" startPos="214" endPos="217" type="location" surface="USA" />
+<Entity id="4" startPos="248" endPos="300" type="product-class" surface="24GHz ultra-wideband (UWB) short-range radar sensors" />
+<Entity id="5" startPos="353" endPos="412" type="product-class" surface="pseudo- morphic high-electron-mobility transistors (pHEMTs)" />
+<Entity id="6" startPos="432" endPos="485" type="product-class" surface="application-specific integrated circuits (ASIC) chips" /></Entities><Relations>
+<Relation id="7" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="5" label="product" />
+<Entity id="6" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT Izitron_com: <NODE id="16" />I-SEN1 Smart Sensor<NODE id="35" /> now on #Kickstarter https://t.co/HtHBocy92m  help us to get funded :)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/1d98835e-9af9-3e1e-a3c2-8a4b63b9b77a" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-06T15:30:04Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:46:30.077Z" />
+<feature featureName="uri" featureValue="http://twitter.com/Kickstartsucces/statuses/695962664237953024" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="35" type="product" surface="I-SEN1 Smart Sensor" /></Entities><Relations />
+</Document>

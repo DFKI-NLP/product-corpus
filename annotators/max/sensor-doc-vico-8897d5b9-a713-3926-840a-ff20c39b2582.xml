@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Simplified <NODE id="11" />Proximity Sensor<NODE id="27" /> Installation <NODE id="41" />Emerson Electric<NODE id="57" /> - Monday, January 18, 2016. Instrumentation and electrical professionals know the challenge in connecting wired devices in the field. These connections must be suitable for the hazardous location classification and environmental conditions. The engineering effort includes not only the selection of the right devices for the application, but also all the fittings, junction boxes, terminals, etc. to make a reliable connection suitable for the environment where the devices will be located. Some of the devices important to many process manufacturers are proximity sensors. These devices are used in applications that require sensing the presence of a metal target. Team shared with me news about the Model <NODE id="765" />7J &amp; 7JM GO<NODE id="776" /> Switches . These proximity sensors combine the sensor with a junction box to simplify engineering and installation. The addition of an integrated terminal block to the rugged design of the 70 series GO Switch makes this product perfect for both new and maintenance, repair &amp; overhaul applications. Unlike typical proximity sensors, the 7J offers hazardous locations approvals for all world areas. Instead of spending time searching for sensors with the appropriate hazardous location approvals, you can specify the 7J GO Switch. It performs efficiently under demanding conditions and provides higher reliability, overall cost savings and less down time–outperforming reed or mechanical switches. The complete specifications are available in the GO Switch 7J and 7JM data sheet . Some markets where these GO Switch proximity sensors are used are oil &amp; gas, chemical &amp; petrochemical, power generation, pulp &amp; paper, mining, and food &amp; beverage. Coal and Crushing plant. Source: Eddie Bristow [ CC BY-SA 2.0 ], via Wikimedia Commons Some applications include end of travel indication on control valves, knife-gate valves, hoppers, gates, confined spaces, and hydraulic and pneumatic cylinders. Outside of the process manufacturing industries, applications include open/close indication on military vehicles doors, amusement park ride safety restraint indication, and position indication of railroad drawbridges. The GO Switch can also be connected to a Rosemount 702 wireless discrete transmitter . Together, these wired and wireless options satisfy a wide range of applications for process manufacturers and producers. One example is Emerson's Wireless Safety Shower and Eyewash Monitor solution. It combines the reliability and versatility of the GO Switch with the capabilities of the Rosemount 702 wireless discrete transmitter to give process manufacturers and producers dependable safety shower activation notification. You can connect and interact with other discrete valve and position sensor experts in the Valves group in the Emerson Exchange 365 community or by emailing Emerson's TopWorx brand team. The post Simplified Proximity Sensor Installation appeared first on the Emerson Process Experts blog. About <NODE id="2994" />Emerson Electric Emerson Electric Co.<NODE id="3031" />, a diversified global <NODE id="3054" />technology<NODE id="3064" /> company, engages in designing and supplying product technology and delivering engineering services to various industrial and commercial, and consumer markets worldwide. The company operates through five segments: Process Management, Industrial Automation, Network Power, Climate Technologies, and Appliance and Tools. Emerson Electric was founded in 1890 and is based in St. Louis, Missouri. More about Emerson Electric
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/8897d5b9-a713-3926-840a-ff20c39b2582" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-19T05:38:12Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:26:57.74Z" />
+<feature featureName="uri" featureValue="http://prsync.com/emerson-electric/simplified-proximity-sensorinstallation-839606/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="11" endPos="27" type="product-class" surface="Proximity Sensor" />
+<Entity id="1" startPos="41" endPos="57" type="organization-company" surface="Emerson Electric" />
+<Entity id="2" startPos="765" endPos="776" type="product" surface="7J &amp; 7JM GO" />
+<Entity id="3" startPos="2994" endPos="3031" type="organization-company" surface="Emerson Electric Emerson Electric Co." />
+<Entity id="4" startPos="3054" endPos="3064" type="industry" surface="technology" /></Entities><Relations>
+<Relation id="5" NAME="CompanyIndustry">
+<Entity id="3" label="company" />
+<Entity id="4" label="industry" />
+</Relation>
+<Relation id="6" NAME="CompanyProvidesProduct">
+<Entity id="0" label="product" />
+<Entity id="1" label="company" />
+</Relation>
+<Relation id="7" NAME="Identity">
+<Entity id="1" label="source" />
+<Entity id="3" label="target" />
+</Relation></Relations>
+</Document>

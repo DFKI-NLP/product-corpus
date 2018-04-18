@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Smart Sensor<NODE id="12" /> Turns Surfers Into Citizen Scientists https://t.co/4FoWuYjo95 #mashable #socialmedia #green #climate #environment
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/3cfc9c78-c2ef-3d8d-879a-ba1238e3249d" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-26T22:57:40Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:58:18.337Z" />
+<feature featureName="uri" featureValue="http://twitter.com/waterlovers4h2o/statuses/692089041479671809" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="product-class" surface="Smart Sensor" /></Entities><Relations />
+</Document>

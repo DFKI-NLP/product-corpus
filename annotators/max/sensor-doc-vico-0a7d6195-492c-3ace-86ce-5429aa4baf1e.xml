@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Mergers continue in 2016, Johnson controls and Tyco tie up By The Associated Press Posted: 5:11 a.m. top NEW YORK (AP) - Johnson Controls and Tyco will join in a $3.9 billion deal as the unprecedented pace of buyouts and mergers from last year rolls over into 2016. Shareholders of Johnson Controls Inc., which makes ventilation systems, auto seating and car batteries, will own about 56 percent of the new company, which would have a combined value of about $36 billon. The companies said the merger will speed innovation in fast-growing smart technology that has emerged in devices, <NODE id="585" />sensors<NODE id="592" />, data analytics and controls. Tyco makes fire suppression systems. Johnson Controls is based in Milwaukee. Tyco International Plc is based in Ireland and has its U.S. headquarters in Princeton, N.J. The shares of both companies have been under pressure over concerns about growth potential.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/0a7d6195-492c-3ace-86ce-5429aa4baf1e" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-25T16:45:40Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:39:15.987Z" />
+<feature featureName="uri" featureValue="http://www.kpbj.com/news/national/366406291.xhtml" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="585" endPos="592" type="product-class" surface="sensors" /></Entities><Relations />
+</Document>

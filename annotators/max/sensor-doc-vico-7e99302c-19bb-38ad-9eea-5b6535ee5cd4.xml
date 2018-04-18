@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />AlerSense<NODE id="9" /> shows off <NODE id="20" />smart sensor<NODE id="32" /> for allergy and asthma alerts | VentureBeat | Business | by Dean Takahashi https://t.co/FNbo52eukG
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/7e99302c-19bb-38ad-9eea-5b6535ee5cd4" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-20T00:03:23Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:23:05.346Z" />
+<feature featureName="uri" featureValue="http://twitter.com/ibcdelaware/statuses/689568862388510720" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="organization-company" surface="AlerSense" />
+<Entity id="1" startPos="20" endPos="32" type="product-class" surface="smart sensor" /></Entities><Relations>
+<Relation id="2" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation></Relations>
+</Document>
