@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Read more …
+<NODE id="12" />FKT Faßbender GmbH<NODE id="30" />
+Pipes made of glass fibre reinforced plastics (GRP) are applicable in several industrial branches and power plants. Because of its compound of glass fibre and artificial resins GRP is one of the most solid materials of plastics engineering. Accordingly GRP pipe systems or components are long-lasting and corrosion-resistant.
+In the areas of power plant construction, e.g. FGD plants, general plant construction or shipbuilding GRP pipes are used for cooling water and waste water systems or spraying pipes. Other GRP components for instance can be used in the form of special components or modules for water treatment.
+As a <NODE id="656" />manufacturer<NODE id="668" /> the <NODE id="673" />FKT Faßbender GmbH<NODE id="691" /> <NODE id="692" />supplies<NODE id="700" /> <NODE id="701" />GRP pipelines<NODE id="714" />, <NODE id="716" />fittings<NODE id="724" />, <NODE id="726" />containers<NODE id="736" /> and other <NODE id="747" />special components<NODE id="765" /> in nominal diameters from DN 25 to DN 4000 in various pressure ratings from in-house production. <NODE id="863" />Planning<NODE id="871" />, <NODE id="873" />engineering<NODE id="884" />, <NODE id="886" />primary<NODE id="893" /> and <NODE id="898" />secondary pipeline supports<NODE id="925" />, <NODE id="927" />prefabrication<NODE id="941" /> and <NODE id="946" />assembly<NODE id="954" /> complete <NODE id="964" />our<NODE id="967" /> range of <NODE id="977" />services<NODE id="985" />. Therefore it is possible to offer <NODE id="1021" />our<NODE id="1024" /> customers full service for national and international projects in <NODE id="1091" />pipeline construction<NODE id="1112" /> and <NODE id="1117" />industrial construction<NODE id="1140" />.
+
+</TEXT>
+<Meta>
+<feature featureName="Author" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/56" />
+<feature featureName="uri" featureValue="http://fkt-gmbh.de/?lang=en" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="30" type="organization" surface="FKT Faßbender GmbH" />
+<Entity id="1" startPos="656" endPos="668" type="organization" surface="manufacturer" />
+<Entity id="2" startPos="673" endPos="691" type="organization" surface="FKT Faßbender GmbH" />
+<Entity id="3" startPos="692" endPos="700" type="trigger" surface="supplies" />
+<Entity id="4" startPos="701" endPos="714" type="product" surface="GRP pipelines" />
+<Entity id="5" startPos="716" endPos="724" type="product" surface="fittings" />
+<Entity id="6" startPos="726" endPos="736" type="product" surface="containers" />
+<Entity id="7" startPos="747" endPos="765" type="product" surface="special components" />
+<Entity id="8" startPos="863" endPos="871" type="product" surface="Planning" />
+<Entity id="9" startPos="873" endPos="884" type="product" surface="engineering" />
+<Entity id="10" startPos="886" endPos="893" type="product" surface="primary" />
+<Entity id="11" startPos="898" endPos="925" type="product" surface="secondary pipeline supports" />
+<Entity id="12" startPos="927" endPos="941" type="product" surface="prefabrication" />
+<Entity id="13" startPos="946" endPos="954" type="product" surface="assembly" />
+<Entity id="14" startPos="964" endPos="967" type="organization" surface="our" />
+<Entity id="15" startPos="977" endPos="985" type="trigger" surface="services" />
+<Entity id="16" startPos="1021" endPos="1024" type="organization" surface="our" />
+<Entity id="17" startPos="1091" endPos="1112" type="product" surface="pipeline construction" />
+<Entity id="18" startPos="1117" endPos="1140" type="product" surface="industrial construction" /></Entities><Relations>
+<Relation id="19" NAME="company_provides_product">
+<Entity id="5" label="product" />
+<Entity id="4" label="product" />
+<Entity id="6" label="product" />
+<Entity id="7" label="product" />
+<Entity id="2" label="company" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="20" NAME="company_provides_product">
+<Entity id="9" label="product" />
+<Entity id="13" label="product" />
+<Entity id="12" label="product" />
+<Entity id="8" label="product" />
+<Entity id="10" label="product" />
+<Entity id="11" label="product" />
+<Entity id="14" label="company" />
+<Entity id="15" label="trigger" />
+</Relation>
+<Relation id="21" NAME="company_provides_product">
+<Entity id="18" label="product" />
+<Entity id="17" label="product" />
+<Entity id="16" label="company" />
+</Relation>
+<Relation id="22" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="2" label="target" />
+<Entity id="16" label="target" />
+<Entity id="14" label="target" />
+<Entity id="1" label="target" />
+</Relation></Relations>
+</Document>

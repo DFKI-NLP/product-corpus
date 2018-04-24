@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ventilation &amp; Air conditioning
+From tunnel technology to the top of a mast – <NODE id="77" />Caverion<NODE id="85" /> C-News<NODE id="92" /> showcases <NODE id="103" />our<NODE id="106" /> expertise
+The latest issue of <NODE id="137" />C-News<NODE id="143" />, a short <NODE id="153" />video news<NODE id="163" /> <NODE id="164" />by<NODE id="166" /> <NODE id="167" />Caverion<NODE id="175" />, is now available in caverion.com and in YouTube . See more about <NODE id="242" />ServiFlex+<NODE id="252" />, <NODE id="254" />Farriseidet<NODE id="265" /> tunnel <NODE id="273" />project<NODE id="280" />, <NODE id="282" />Caverion<NODE id="290" /> extreme in Lithuania and Energy efficiency.
+Also the new <NODE id="348" />C-People<NODE id="356" />, <NODE id="358" />magazine<NODE id="366" /> for <NODE id="371" />our<NODE id="374" /> employees and all stakeholders, is now published and available.
+ 
+<NODE id="441" />Caverion<NODE id="449" /> <NODE id="450" />implements<NODE id="460" /> <NODE id="461" />Total Technical Solutions<NODE id="486" />, including <NODE id="498" />solar power systems<NODE id="517" />, for office building in Helsinki, Finland
+<NODE id="560" />Caverion<NODE id="568" /> <NODE id="569" />implements<NODE id="579" /> <NODE id="580" />building systems<NODE id="596" /> for the rehabilitation of an office building known as “the big workshop” occupied by the <NODE id="686" />Finnish Broadcasting Company<NODE id="714" /> (<NODE id="716" />YLE<NODE id="719" />) in the Pasila district in Helsinki. The client in the project is the <NODE id="790" />main contractor<NODE id="805" /> <NODE id="806" />FIRA Oy<NODE id="813" />, and the value of the contract is EUR 11.7 million. The <NODE id="870" />developer<NODE id="879" /> is <NODE id="883" />YLE<NODE id="886" /> Pension Fund<NODE id="899" />.
+
+</TEXT>
+<Meta>
+<feature featureName="Publication" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/50" />
+<feature featureName="uri" featureValue="http://www.caverion.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="77" endPos="85" type="organization" surface="Caverion" />
+<Entity id="1" startPos="85" endPos="92" type="product" surface=" C-News" />
+<Entity id="2" startPos="103" endPos="106" type="organization" surface="our" />
+<Entity id="3" startPos="137" endPos="143" type="product" surface="C-News" />
+<Entity id="4" startPos="153" endPos="163" type="product" surface="video news" />
+<Entity id="5" startPos="164" endPos="166" type="trigger" surface="by" />
+<Entity id="6" startPos="167" endPos="175" type="organization" surface="Caverion" />
+<Entity id="7" startPos="242" endPos="252" type="product" surface="ServiFlex+" />
+<Entity id="8" startPos="254" endPos="265" type="organization" surface="Farriseidet" />
+<Entity id="9" startPos="273" endPos="280" type="product" surface="project" />
+<Entity id="10" startPos="282" endPos="290" type="organization" surface="Caverion" />
+<Entity id="11" startPos="348" endPos="356" type="product" surface="C-People" />
+<Entity id="12" startPos="358" endPos="366" type="product" surface="magazine" />
+<Entity id="13" startPos="371" endPos="374" type="organization" surface="our" />
+<Entity id="14" startPos="441" endPos="449" type="organization" surface="Caverion" />
+<Entity id="15" startPos="450" endPos="460" type="trigger" surface="implements" />
+<Entity id="16" startPos="461" endPos="486" type="product" surface="Total Technical Solutions" />
+<Entity id="17" startPos="498" endPos="517" type="product" surface="solar power systems" />
+<Entity id="18" startPos="560" endPos="568" type="organization" surface="Caverion" />
+<Entity id="19" startPos="569" endPos="579" type="trigger" surface="implements" />
+<Entity id="20" startPos="580" endPos="596" type="product" surface="building systems" />
+<Entity id="21" startPos="686" endPos="714" type="organization" surface="Finnish Broadcasting Company" />
+<Entity id="22" startPos="716" endPos="719" type="organization" surface="YLE" />
+<Entity id="23" startPos="790" endPos="805" type="organization" surface="main contractor" />
+<Entity id="24" startPos="806" endPos="813" type="organization" surface="FIRA Oy" />
+<Entity id="25" startPos="870" endPos="879" type="organization" surface="developer" />
+<Entity id="26" startPos="883" endPos="886" type="organization" surface="YLE" />
+<Entity id="27" startPos="883" endPos="899" type="organization" surface="YLE Pension Fund" /></Entities><Relations>
+<Relation id="28" NAME="company_provides_product">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="29" NAME="company_provides_product">
+<Entity id="4" label="product" />
+<Entity id="6" label="company" />
+<Entity id="5" label="trigger" />
+</Relation>
+<Relation id="30" NAME="company_provides_product">
+<Entity id="16" label="product" />
+<Entity id="17" label="product" />
+<Entity id="14" label="company" />
+<Entity id="15" label="trigger" />
+</Relation>
+<Relation id="31" NAME="company_provides_product">
+<Entity id="20" label="product" />
+<Entity id="18" label="company" />
+<Entity id="19" label="trigger" />
+</Relation>
+<Relation id="32" NAME="company_provides_product">
+<Entity id="20" label="product" />
+<Entity id="18" label="company" />
+<Entity id="19" label="trigger" />
+</Relation>
+<Relation id="33" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="13" label="target" />
+<Entity id="14" label="target" />
+<Entity id="6" label="target" />
+<Entity id="10" label="target" />
+<Entity id="18" label="target" />
+</Relation>
+<Relation id="34" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="4" label="target" />
+<Entity id="3" label="target" />
+</Relation>
+<Relation id="35" NAME="identity">
+<Entity id="7" label="source" />
+<Entity id="9" label="target" />
+</Relation>
+<Relation id="36" NAME="identity">
+<Entity id="11" label="source" />
+<Entity id="12" label="target" />
+</Relation>
+<Relation id="37" NAME="identity">
+<Entity id="21" label="source" />
+<Entity id="26" label="target" />
+<Entity id="22" label="target" />
+</Relation>
+<Relation id="38" NAME="identity">
+<Entity id="23" label="source" />
+<Entity id="24" label="target" />
+</Relation>
+<Relation id="39" NAME="identity">
+<Entity id="25" label="source" />
+<Entity id="27" label="target" />
+</Relation>
+<Relation id="40" NAME="member_of_group">
+<Entity id="27" label="member" />
+<Entity id="26" label="group" />
+</Relation></Relations>
+</Document>

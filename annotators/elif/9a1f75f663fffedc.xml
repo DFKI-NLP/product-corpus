@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Read Article
+In our rivers, through our skies, across our oceans... there's a change happening. A change in the way we think about energy. Leading the way is <NODE id="158" />Nalcor Energy<NODE id="171" />.
+From oil and gas to industrial fabrication to wind and hydroelectric power, <NODE id="249" />we<NODE id="251" />’re focused on sustainable growth with a wide portfolio of projects.
+view <NODE id="325" />Nalcor<NODE id="331" /> energy brand video
+The number one priority at <NODE id="378" />Nalcor Energy<NODE id="391" /> is safety.
+As <NODE id="406" />we<NODE id="408" /> continue to drive our business to the next level, <NODE id="459" />we<NODE id="461" /> are committed to achieving excellence in safety performance. Recently, <NODE id="533" />Nalcor<NODE id="539" />’s subsidary company <NODE id="560" />Newfoundland<NODE id="572" /> and <NODE id="577" />Labrador Hydro<NODE id="591" /> <NODE id="592" />launched<NODE id="600" /> a <NODE id="603" />safety campaign<NODE id="618" /> called <NODE id="626" />Back it Up<NODE id="636" />. Visit  HydroSafety.ca for tips, videos and contests that will help you learn more about how to stay safe every day.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/100" />
+<feature featureName="uri" featureValue="http://www.ccfe.ac.uk/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="158" endPos="171" type="organization" surface="Nalcor Energy" />
+<Entity id="1" startPos="249" endPos="251" type="organization" surface="we" />
+<Entity id="2" startPos="325" endPos="331" type="organization" surface="Nalcor" />
+<Entity id="3" startPos="378" endPos="391" type="organization" surface="Nalcor Energy" />
+<Entity id="4" startPos="406" endPos="408" type="organization" surface="we" />
+<Entity id="5" startPos="459" endPos="461" type="organization" surface="we" />
+<Entity id="6" startPos="533" endPos="539" type="organization" surface="Nalcor" />
+<Entity id="7" startPos="560" endPos="572" type="organization" surface="Newfoundland" />
+<Entity id="8" startPos="577" endPos="591" type="organization" surface="Labrador Hydro" />
+<Entity id="9" startPos="592" endPos="600" type="trigger" surface="launched" />
+<Entity id="10" startPos="603" endPos="618" type="product" surface="safety campaign" />
+<Entity id="11" startPos="626" endPos="636" type="product" surface="Back it Up" /></Entities><Relations>
+<Relation id="12" NAME="company_provides_product">
+<Entity id="10" label="product" />
+<Entity id="7" label="company" />
+<Entity id="9" label="trigger" />
+</Relation>
+<Relation id="13" NAME="company_provides_product">
+<Entity id="10" label="product" />
+<Entity id="8" label="company" />
+<Entity id="9" label="trigger" />
+</Relation>
+<Relation id="14" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="4" label="target" />
+<Entity id="6" label="target" />
+<Entity id="3" label="target" />
+<Entity id="5" label="target" />
+<Entity id="2" label="target" />
+<Entity id="1" label="target" />
+</Relation>
+<Relation id="15" NAME="identity">
+<Entity id="10" label="source" />
+<Entity id="11" label="target" />
+</Relation></Relations>
+</Document>

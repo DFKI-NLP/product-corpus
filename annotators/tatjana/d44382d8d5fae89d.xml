@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Transgender student sues over locker room access at Palatine school district.
+
+Angie Leventis Lourgos Contact Reporter Chicago Tribune
+A second transgender student is fighting for locker room access at the same suburban <NODE id="220" />school<NODE id="226" /> district where a lengthy and historic battle over transgender rights set national precedence a few years ago.
+Eighteen-year-old Nova Maday filed a lawsuit in <NODE id="385" />Cook County Circuit Court<NODE id="410" /> on Thursday claiming that <NODE id="437" />Palatine-based Township High School<NODE id="472" /> District 211 has in the past denied her use of the girls’ locker room during physical education class, hurting her grade as well as her mental health.
+More recently, the district allowed the <NODE id="664" />Palatine High School<NODE id="684" /> senior to change in facilities matching her gender identity but only if she agreed to dress in an “unspecified private changing area within the locker room,” which the lawsuit says is not required of other students.
+District 211 Superintendent Dan Cates, in a prepared statement release later Thursday, said the “allegations in the lawsuit misrepresent the accommodations extended to this student and District 211’s approach to working with and supporting transgender students.”
+But the suit contends the district has treated Maday differently than other female students, which it asserts is in violation of the Illinois Human Rights Act.
+“I just want to be treated like every other girl in our <NODE id="1380" />school<NODE id="1386" />,” Maday said in a written statement.
+The lawsuit says Maday has presented as female since October 2014, consistently dressing as a girl and using a female name and pronouns.
+“Nova’s ability to live as a girl in all aspects of her life has been essential for treating her gender dysphoria,” says the lawsuit, which was filed on the student’s behalf by the <NODE id="1742" />American Civil Liberties Union<NODE id="1772" /> of Illinois and the <NODE id="1793" />Chicago law firm<NODE id="1809" /> <NODE id="1810" />Mandell Menkes LLC<NODE id="1828" />. “Before treatment, Nova had severe depression. Since her treatment began, Nova’s depression has improved, her grades have gotten better in all of her classes besides P.E., and she has become more social.”
+<NODE id="2035" />School<NODE id="2041" /> officials had required her to change in a nurse’s office or in a separate locked, single-user locker room that had to be opened by faculty, making her repeatedly late for class, according to the lawsuit. While she would prefer to take physical education with her peers, Maday had agreed to take a waiver.
+“Under the District’s policy … Nova must be conspicuously separated from her fellow students and singled out for differential treatment by being required to dress separately from them, either in a separate facility or in a separate area within the locker room,” the lawsuit says. “The District’s actions signal to Nova that she is not really a girl and should feel ashamed of who she is and about her body, in particular.”
+The northwest suburban district had made national headlines when another transgender student —  identified publicly as Student A — filed a complaint with federal authorities in 2013 seeking access to the girls’ locker room. An investigation by federal education officials found the district violated federal law, the first time a school was found to be in conflict with Title IX based on gender identity.
+Administrators agreed to give Student A access the girls’ locker room while installing privacy walls, but a group of parents who opposed such accommodations then sued the <NODE id="3346" />district<NODE id="3354" /> and <NODE id="3359" />federal government<NODE id="3377" /> in<NODE id="3380" /> federal court<NODE id="3394" />, arguing that this violated the constitutional right to privacy and created a hostile environment for other students. That lawsuit is ongoing.
+In response to Maday’s lawsuit, a spokeswoman for that group of parents said students should be separated by biological sex and that an “open-air locker room” is not a solution.
+“The student is a biological male, and we separate these students by biology and anatomy for good reason,” said Vicki Wilson of D211 Parents for Privacy. “Schools have a duty to protect the well-being and dignity of all students.”
+Maday’s mother had previously asked school officials if accommodations for Student A would apply to Maday as well. A school official told the mother that “the settlement only applied to Student A and would not extend to any other student in the district,” according to the lawsuit.
+The superintendent’s statement Thursday, however, said district “has provided caring and responsive supports for transgender students for years, including multiple transgender students who daily use bathrooms and locker rooms of their gender identity in multiple schools.
+“Every transgender student in District 211 who has requested use of the locker room of their identified gender has been offered such access, along with other supports within an individual support plan,” the statement said.
+“We will vigorously defend and protect compassionate, fair and equitable support for all students, and, at the same time, we continue to defend our supports for transgender students at the federal level,” Cates added.
+Despite this, Maday’s lawsuit is asking for the <NODE id="4990" />court<NODE id="4995" /> to order District 211 to allow all students access to facilities matching their gender identity, as well as damages for emotional distress and loss suffered by Maday.
+Palatine has become one of the main battlegrounds for transgender rights in schools amid a larger, ongoing fight for access based on gender identity nationwide.
+In 2016, a directive from then-President <NODE id="5365" />Barack Obama’s administration<NODE id="5394" /> declared that schools must accommodate transgender students, including allowing access to locker rooms or other facilities based on gender identity. But in February the <NODE id="5564" />Trump administration<NODE id="5584" /> rolled back those protections, saying decisions on access were best made at a local level.
+eleventis@chicagotribune.com
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.chicagotribune.com/ct-met-palatine-transgender-student-sues-20171130-story.html@2017-11-30T23:40:00.000+01:00" />
+<feature featureName="uri" featureValue="http://www.chicagotribune.com/ct-met-palatine-transgender-student-sues-20171130-story.html" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="220" endPos="226" type="organization" surface="school" />
+<Entity id="1" startPos="385" endPos="410" type="organization" surface="Cook County Circuit Court" />
+<Entity id="2" startPos="437" endPos="472" type="organization" surface="Palatine-based Township High School" />
+<Entity id="3" startPos="664" endPos="684" type="organization" surface="Palatine High School" />
+<Entity id="4" startPos="1380" endPos="1386" type="organization" surface="school" />
+<Entity id="5" startPos="1742" endPos="1772" type="organization" surface="American Civil Liberties Union" />
+<Entity id="6" startPos="1793" endPos="1809" type="organization" surface="Chicago law firm" />
+<Entity id="7" startPos="1810" endPos="1828" type="organization" surface="Mandell Menkes LLC" />
+<Entity id="8" startPos="2035" endPos="2041" type="organization" surface="School" />
+<Entity id="9" startPos="3346" endPos="3354" type="organization" surface="district" />
+<Entity id="10" startPos="3359" endPos="3377" type="organization" surface="federal government" />
+<Entity id="11" startPos="3380" endPos="3394" type="organization" surface=" federal court" />
+<Entity id="12" startPos="4990" endPos="4995" type="organization" surface="court" />
+<Entity id="13" startPos="5365" endPos="5394" type="organization" surface="Barack Obama’s administration" />
+<Entity id="14" startPos="5564" endPos="5584" type="organization" surface="Trump administration" /></Entities><Relations>
+<Relation id="15" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="2" label="target" />
+<Entity id="3" label="target" />
+<Entity id="4" label="target" />
+</Relation>
+<Relation id="16" NAME="identity">
+<Entity id="6" label="source" />
+<Entity id="7" label="target" />
+</Relation>
+<Relation id="17" NAME="identity">
+<Entity id="11" label="source" />
+<Entity id="12" label="target" />
+</Relation></Relations>
+</Document>

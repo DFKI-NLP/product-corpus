@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Shenhua Group<NODE id="13" /> Global Recruitment of Pres... Read More
+[2010-12-13]
+<NODE id="67" />China Shenhua<NODE id="80" /> won the Diamond Award of 2... Read More
+[2010-12-13]
+<NODE id="134" />China Shenhua <NODE id="148" />won the Diamond Award of 2... Read More
+[2010-12-02]
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/31" />
+<feature featureName="uri" featureValue="http://www.csec.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="organization" surface="Shenhua Group" />
+<Entity id="1" startPos="67" endPos="80" type="organization" surface="China Shenhua" />
+<Entity id="2" startPos="134" endPos="148" type="organization" surface="China Shenhua " /></Entities><Relations>
+<Relation id="3" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="2" label="target" />
+</Relation>
+<Relation id="4" NAME="member_of_group">
+<Entity id="1" label="member" />
+<Entity id="0" label="group" />
+</Relation></Relations>
+</Document>

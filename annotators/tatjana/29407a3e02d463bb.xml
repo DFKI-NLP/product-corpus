@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Gas Technology
+The Experts in Energy Supply
+<NODE id="44" />HEAT<NODE id="48" /> Gas Technology<NODE id="63" /> is one of the leading <NODE id="86" />manufactorer of<NODE id="101" /> components, systems and services in <NODE id="138" />natural gas production<NODE id="160" />, <NODE id="162" />processing<NODE id="172" /> and <NODE id="177" />distribution<NODE id="189" /> sector. The <NODE id="202" />company<NODE id="209" /> <NODE id="210" />focuses on<NODE id="220" /> the areas  <NODE id="232" />apparatus<NODE id="241" />, <NODE id="243" />natural gas reducing stations<NODE id="272" />,<NODE id="273" /> regulators for gas<NODE id="292" /> , <NODE id="295" />safety devices<NODE id="309" /> and <NODE id="314" />gas drying systems<NODE id="332" />.
+Environmental Technology
+Ammonia supply for SCR and SNCR systems
+"With <NODE id="405" />HEAT<NODE id="409" /> in safe hands!"<NODE id="425" /> <NODE id="426" />HEAT<NODE id="430" /> Environmental Technology<NODE id="455" /> <NODE id="456" />builds<NODE id="462" /> for more than 25 years successfully <NODE id="499" />ammonia supply systems<NODE id="521" /> for DeNOx systems. About 100 plants worldwide in various customized designs are evidence of <NODE id="614" />our<NODE id="617" /> expertise. As an engineering oriented contractor the offer range  starts with design, turn-key construction of the ammonia supply system to commissioning and regular maintenance.
+Bioenergy
+Energy for the future
+<NODE id="829" />HEAT<NODE id="833" /> Bioenergy<NODE id="843" /> is specialist in the <NODE id="865" />development<NODE id="876" />, <NODE id="878" />planning<NODE id="886" /> and <NODE id="891" />construction of<NODE id="906" /> <NODE id="907" />biogas plants<NODE id="920" />. With the efficient use of bio-waste and renewable resources <NODE id="982" />HEAT<NODE id="986" /> Bioenergy<NODE id="996" /> not only has <NODE id="1010" />developed<NODE id="1019" />  <NODE id="1021" />renewable energy<NODE id="1037" /> (heat and / or energy), but also implemented the fermentation processes environmentally sustainable.  
+Products &amp; Solutions
+Oil and Gas Industry
+Years of experience, excellent  international relations and high-quality products, as well as responsible, dynamic staff and the constant proximity to customers are the basis for <NODE id="1362" />our<NODE id="1365" /> long-term customer and supplier partnership philosophy.The products for the oil and gas industry are designed to support the efforts of <NODE id="1502" />our<NODE id="1505" /> clients towards the increase in productivity, cost reduction, service life optimisation and the extension of service intervals.
+Industrial Construction
+Experience is <NODE id="1672" />our<NODE id="1675" /> strength
+<NODE id="1685" />R+I Rohr- und Industrienanlagen<NODE id="1716" /> is a renowned and internationally active industrial construction <NODE id="1782" />company<NODE id="1789" />. With consistency and decades of experience, <NODE id="1835" />R+I<NODE id="1838" /> has been <NODE id="1848" />established<NODE id="1859" /> in a variety of <NODE id="1876" />applications<NODE id="1888" />. In addition to the construction of complete plants, the P &amp; pipe and industrial facilities also sees as an industry partner, especially when it comes to maintenance and optimization tasks.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/82" />
+<feature featureName="uri" featureValue="http://heatgroup.at/en/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="44" endPos="48" type="organization" surface="HEAT" />
+<Entity id="1" startPos="44" endPos="63" type="organization" surface="HEAT Gas Technology" />
+<Entity id="2" startPos="86" endPos="101" type="trigger" surface="manufactorer of" />
+<Entity id="3" startPos="138" endPos="160" type="product" surface="natural gas production" />
+<Entity id="4" startPos="162" endPos="172" type="product" surface="processing" />
+<Entity id="5" startPos="177" endPos="189" type="product" surface="distribution" />
+<Entity id="6" startPos="202" endPos="209" type="organization" surface="company" />
+<Entity id="7" startPos="210" endPos="220" type="trigger" surface="focuses on" />
+<Entity id="8" startPos="232" endPos="241" type="product" surface="apparatus" />
+<Entity id="9" startPos="243" endPos="272" type="product" surface="natural gas reducing stations" />
+<Entity id="10" startPos="273" endPos="292" type="product" surface=" regulators for gas" />
+<Entity id="11" startPos="295" endPos="309" type="product" surface="safety devices" />
+<Entity id="12" startPos="314" endPos="332" type="product" surface="gas drying systems" />
+<Entity id="13" startPos="405" endPos="409" type="organization" surface="HEAT" />
+<Entity id="14" startPos="425" endPos="455" type="organization" surface=" HEAT Environmental Technology" />
+<Entity id="15" startPos="426" endPos="430" type="organization" surface="HEAT" />
+<Entity id="16" startPos="456" endPos="462" type="trigger" surface="builds" />
+<Entity id="17" startPos="499" endPos="521" type="product" surface="ammonia supply systems" />
+<Entity id="18" startPos="614" endPos="617" type="organization" surface="our" />
+<Entity id="19" startPos="829" endPos="833" type="organization" surface="HEAT" />
+<Entity id="20" startPos="829" endPos="843" type="organization" surface="HEAT Bioenergy" />
+<Entity id="21" startPos="865" endPos="876" type="trigger" surface="development" />
+<Entity id="22" startPos="878" endPos="886" type="trigger" surface="planning" />
+<Entity id="23" startPos="891" endPos="907" type="trigger" surface="construction of " />
+<Entity id="24" startPos="906" endPos="920" type="product" surface=" biogas plants" />
+<Entity id="25" startPos="982" endPos="986" type="organization" surface="HEAT" />
+<Entity id="26" startPos="982" endPos="996" type="organization" surface="HEAT Bioenergy" />
+<Entity id="27" startPos="1010" endPos="1019" type="trigger" surface="developed" />
+<Entity id="28" startPos="1021" endPos="1037" type="product" surface="renewable energy" />
+<Entity id="29" startPos="1362" endPos="1365" type="organization" surface="our" />
+<Entity id="30" startPos="1502" endPos="1505" type="organization" surface="our" />
+<Entity id="31" startPos="1672" endPos="1675" type="organization" surface="our" />
+<Entity id="32" startPos="1685" endPos="1716" type="organization" surface="R+I Rohr- und Industrienanlagen" />
+<Entity id="33" startPos="1782" endPos="1789" type="organization" surface="company" />
+<Entity id="34" startPos="1835" endPos="1838" type="organization" surface="R+I" />
+<Entity id="35" startPos="1848" endPos="1859" type="trigger" surface="established" />
+<Entity id="36" startPos="1876" endPos="1888" type="product" surface="applications" /></Entities><Relations>
+<Relation id="37" NAME="company_provides_product">
+<Entity id="4" label="product" />
+<Entity id="3" label="product" />
+<Entity id="5" label="product" />
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="38" NAME="company_provides_product">
+<Entity id="11" label="product" />
+<Entity id="12" label="product" />
+<Entity id="9" label="product" />
+<Entity id="10" label="product" />
+<Entity id="8" label="product" />
+<Entity id="6" label="company" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="39" NAME="company_provides_product">
+<Entity id="17" label="product" />
+<Entity id="14" label="company" />
+<Entity id="16" label="trigger" />
+</Relation>
+<Relation id="40" NAME="company_provides_product">
+<Entity id="24" label="product" />
+<Entity id="20" label="company" />
+<Entity id="22" label="trigger" />
+<Entity id="23" label="trigger" />
+<Entity id="21" label="trigger" />
+</Relation>
+<Relation id="41" NAME="company_provides_product">
+<Entity id="28" label="product" />
+<Entity id="26" label="company" />
+<Entity id="27" label="trigger" />
+</Relation>
+<Relation id="42" NAME="company_provides_product">
+<Entity id="36" label="product" />
+<Entity id="34" label="company" />
+<Entity id="35" label="trigger" />
+</Relation>
+<Relation id="43" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="6" label="target" />
+</Relation>
+<Relation id="44" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="29" label="target" />
+<Entity id="30" label="target" />
+<Entity id="31" label="target" />
+<Entity id="19" label="target" />
+<Entity id="13" label="target" />
+<Entity id="18" label="target" />
+<Entity id="25" label="target" />
+<Entity id="15" label="target" />
+</Relation>
+<Relation id="45" NAME="identity">
+<Entity id="20" label="source" />
+<Entity id="26" label="target" />
+</Relation>
+<Relation id="46" NAME="identity">
+<Entity id="32" label="source" />
+<Entity id="34" label="target" />
+<Entity id="31" label="target" />
+<Entity id="33" label="target" />
+</Relation>
+<Relation id="47" NAME="member_of_group">
+<Entity id="1" label="member" />
+<Entity id="0" label="group" />
+</Relation>
+<Relation id="48" NAME="member_of_group">
+<Entity id="14" label="member" />
+<Entity id="15" label="group" />
+</Relation>
+<Relation id="49" NAME="member_of_group">
+<Entity id="20" label="member" />
+<Entity id="19" label="group" />
+</Relation>
+<Relation id="50" NAME="member_of_group">
+<Entity id="26" label="member" />
+<Entity id="25" label="group" />
+</Relation></Relations>
+</Document>

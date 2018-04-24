@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ex-North Carolina Gov. McCrory now co-hosting radio show.
+
+Ex-North Carolina Gov. McCrory now co-hosting radio show
+<NODE id="116" />The Associated Press<NODE id="136" />
+November 30, 2017 05:14 PM
+UPDATED 8 MINUTES AGO
+CHARLOTTE, N.C.
+Former North Carolina Gov. Pat McCrory is taking an expanded role on Charlotte's airwaves after a radio station manager says his recent daily segments got an "extraordinary" response.
+The former Republican governor and <NODE id="421" />WBT<NODE id="424" /> radio personality Bo Thompson are now co-hosting a one-hour show weekday mornings. McCrory started doing early-morning spots on Thompson's other program in September, talking about the city's mayoral race and other current events.
+<NODE id="656" />WBT<NODE id="659" /> general manager Matt Hanlon tells <NODE id="694" />The Charlotte Observer<NODE id="716" /> that appearances by the ex-Charlotte mayor helped boost ratings and provided lots of feedback. The newspaper says McCrory agreed after the November election to the new time slot for at least a couple of months.
+McCrory narrowly lost to Democrat Roy Cooper last year. He hasn't ruled out running again for governor in 2020.
+Never miss a local story.
+Sign up today for unlimited digital access to our website, apps, the digital newspaper and more.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.heraldonline.com/entertainment/article187399063.html@2017-11-30T23:14:35.000+01:00" />
+<feature featureName="uri" featureValue="http://www.heraldonline.com/entertainment/article187399063.html" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="116" endPos="136" type="organization-company" surface="The Associated Press" />
+<Entity id="1" startPos="421" endPos="424" type="organization-company" surface="WBT" />
+<Entity id="2" startPos="656" endPos="659" type="organization-company" surface="WBT" />
+<Entity id="3" startPos="694" endPos="716" type="organization-company" surface="The Charlotte Observer" /></Entities><Relations />
+</Document>

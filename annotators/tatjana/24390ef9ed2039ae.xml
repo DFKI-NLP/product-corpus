@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>SERVICES
+In 2015, the <NODE id="22" />Aarding<NODE id="29" /> and <NODE id="34" />Peerless<NODE id="42" /> brands combined to form a new global leader in <NODE id="90" />custom emissions management solutions<NODE id="127" /> for natural gas power and petrochemical processing plants: <NODE id="187" />Peerless-Aarding<NODE id="203" />.
+<NODE id="205" />Peerless-Aarding<NODE id="221" />’s customized solutions are based on a proven track record in the <NODE id="287" />design<NODE id="293" />, <NODE id="295" />engineering<NODE id="306" /> and <NODE id="311" />manufacturing of<NODE id="327" /> <NODE id="328" />Gas Turbine Exhaust Systems<NODE id="355" />, <NODE id="357" />De-NOx solutions<NODE id="373" /> such as <NODE id="382" />Selective Catalytic Reduction<NODE id="411" /> (<NODE id="413" />SCR<NODE id="416" />) for the reduction of air pollution, <NODE id="454" />Dampers<NODE id="461" />, and <NODE id="467" />Expansion Joints<NODE id="483" />. This operating history dates back to 1933.
+<NODE id="528" />Our<NODE id="531" /> customers are gas turbine manufacturers (OEM), boiler suppliers, power producers, EPC contractors, and end users. Whether a problem can be solved from <NODE id="683" />our<NODE id="686" /> standard products line or requires a custom solution, <NODE id="741" />we<NODE id="743" /> take control from design to installation, even for complex turn-key retrofit projects. 
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/2" />
+<feature featureName="uri" featureValue="https://www.cecoenviro.com/peerless-aarding" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="22" endPos="29" type="organization" surface="Aarding" />
+<Entity id="1" startPos="34" endPos="42" type="organization" surface="Peerless" />
+<Entity id="2" startPos="90" endPos="127" type="product" surface="custom emissions management solutions" />
+<Entity id="3" startPos="187" endPos="203" type="organization" surface="Peerless-Aarding" />
+<Entity id="4" startPos="205" endPos="221" type="organization" surface="Peerless-Aarding" />
+<Entity id="5" startPos="287" endPos="293" type="trigger" surface="design" />
+<Entity id="6" startPos="295" endPos="306" type="trigger" surface="engineering" />
+<Entity id="7" startPos="311" endPos="327" type="trigger" surface="manufacturing of" />
+<Entity id="8" startPos="328" endPos="355" type="product" surface="Gas Turbine Exhaust Systems" />
+<Entity id="9" startPos="357" endPos="373" type="product" surface="De-NOx solutions" />
+<Entity id="10" startPos="382" endPos="411" type="product" surface="Selective Catalytic Reduction" />
+<Entity id="11" startPos="413" endPos="416" type="product" surface="SCR" />
+<Entity id="12" startPos="454" endPos="461" type="product" surface="Dampers" />
+<Entity id="13" startPos="467" endPos="483" type="product" surface="Expansion Joints" />
+<Entity id="14" startPos="528" endPos="531" type="organization" surface="Our" />
+<Entity id="15" startPos="683" endPos="686" type="organization" surface="our" />
+<Entity id="16" startPos="741" endPos="743" type="organization" surface="we" /></Entities><Relations>
+<Relation id="17" NAME="company_provides_product">
+<Entity id="2" label="product" />
+<Entity id="3" label="company" />
+</Relation>
+<Relation id="18" NAME="company_provides_product">
+<Entity id="8" label="product" />
+<Entity id="12" label="product" />
+<Entity id="13" label="product" />
+<Entity id="9" label="product" />
+<Entity id="10" label="product" />
+<Entity id="4" label="company" />
+<Entity id="6" label="trigger" />
+<Entity id="5" label="trigger" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="19" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="14" label="target" />
+<Entity id="4" label="target" />
+<Entity id="16" label="target" />
+<Entity id="15" label="target" />
+</Relation>
+<Relation id="20" NAME="identity">
+<Entity id="10" label="source" />
+<Entity id="11" label="target" />
+</Relation>
+<Relation id="21" NAME="member_of_group">
+<Entity id="1" label="member" />
+<Entity id="0" label="member" />
+<Entity id="3" label="group" />
+</Relation></Relations>
+</Document>

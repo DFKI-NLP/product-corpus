@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Kaepernick Released His Own Version Of The Bill Of Rights.
+
+America Divided
+(Conservative Tribune) – It is a fairly safe assumption to make that the bulk of the readers of this website are familiar with the Bill of Rights, the first ten amendments to the U.S. Constitution.
+Unfortunately, the same can’t be said for the rest of the American citizenry, particularly those on the left who either despise or are ignorant of our nation’s founding documents and the principles they are built on.
+For example, take ex-San Francisco 49ers quarterback Colin Kaepernick, whose decision to “take a knee” in protest during the playing of the national anthem prior to <NODE id="656" />NFL<NODE id="659" /> games in the 2016 season started a protest movement that has continued into the current season, to the detriment of the <NODE id="780" />league<NODE id="786" />.
+Kaepernick walked away from his contract with San Francisco following last season and no team has signed him thus far, but the former quarterback hasn’t been sitting around doing nothing this year instead of playing. Rather, he has hit the road as a social justice warrior, using his own money to start up the <NODE id="1098" />Colin Kaepernick Foundation<NODE id="1125" />, <NODE id="1127" />which<NODE id="1132" /> is committed to a mission to “fight oppression globally, through education and social activism.”
+One method by which the ex-<NODE id="1257" />NFL<NODE id="1260" /> player has worked to achieve that goal is through funding, hosting and organizing day-long workshops in various cities that are dubbed the “<NODE id="1401" />Know Your Rights Camp<NODE id="1422" />.”
+The <NODE id="1429" />camp<NODE id="1433" /> is described as “a <NODE id="1453" />free campaign<NODE id="1466" /> for youth fully funded by Colin Kaepernick to raise awareness on higher education, self empowerment, and instruction to properly interact with law enforcement in various scenarios.”
+For a look inside one of Kaepernick’s camps, check out this gushing run-down of the day’s events in May on the south side of Chicago by the ultra-progressive The <NODE id="1811" />Nation<NODE id="1817" /> … if you can stomach the over-the-top leftism.
+An integral part of the event is teaching the “black, brown, and economically disadvantaged youth” — in attendance by invitation-only — about their rights, but not the Constitutional Bill of Rights we all are familiar with.
+Instead, these 10 “rights” are specifically derived from the “political legacy” of the <NODE id="2176" />Black Panthers<NODE id="2190" />, a radical racial leftist <NODE id="2217" />political organization<NODE id="2239" />.
+The “rights” that Kaepernick is teaching urban youth about are:
+1) You have the right to be free.
+2) You have the right to be healthy.
+3) You have the right to be brilliant.
+4) You have the right to be safe.
+5) You have the right to be loved.
+6) You have the right to be courageous.
+7) You have the right to be alive.
+8) You have the right to be trusted.
+9) You have the right to be educated.
+10) You have the right to know your rights.
+By our count, only three of the “rights” mentioned on the list are actual rights as laid out by our nation’s founders, namely the right to be free, safe and alive.
+All of the rest are vague generalizations of an optimal lifestyle that can be obtained through hard work and sacrifice, or earned, as in the case of being loved and trusted.
+As for the part of Kaepernick’s camp that addresses dealing with law enforcement, that pretty much consisted of teaching the kids to initially ask “Am I free to go?” followed by a refusal to consent to any searches, followed by an admonition to remain silent until an attorney can be contacted.
+The one good thing we can say about this is that Kaepernick has actually put his own money where his mouth is, and while we don’t agree with his message, we certainly don’t deny his right to spread it, misguided as it may be.
+Please share this on <NODE id="3558" />Facebook<NODE id="3566" /> and <NODE id="3571" />Twitter<NODE id="3578" /> in case anybody wants to know what Colin Kaepernick has been doing with his spare time this year.
+conservativetribune.com/kaepernick-version-bill-of-rights/
+
+</TEXT>
+<Meta>
+<feature featureName="Category" featureValue="" />
+<feature featureName="Publication" featureValue="" />
+<feature featureName="id" featureValue="https://www.teaparty.org/kaepernick-released-version-bill-rights-279433/@2017-11-29T17:40:00.000+01:00" />
+<feature featureName="uri" featureValue="https://www.teaparty.org/kaepernick-released-version-bill-rights-279433/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="656" endPos="659" type="organization" surface="NFL" />
+<Entity id="1" startPos="780" endPos="786" type="organization" surface="league" />
+<Entity id="2" startPos="1098" endPos="1125" type="organization" surface="Colin Kaepernick Foundation" />
+<Entity id="3" startPos="1127" endPos="1132" type="organization" surface="which" />
+<Entity id="4" startPos="1257" endPos="1260" type="organization" surface="NFL" />
+<Entity id="5" startPos="1401" endPos="1422" type="product" surface="Know Your Rights Camp" />
+<Entity id="6" startPos="1429" endPos="1433" type="product" surface="camp" />
+<Entity id="7" startPos="1453" endPos="1466" type="product" surface="free campaign" />
+<Entity id="8" startPos="1811" endPos="1817" type="organization" surface="Nation" />
+<Entity id="9" startPos="2176" endPos="2190" type="organization" surface="Black Panthers" />
+<Entity id="10" startPos="2217" endPos="2239" type="organization" surface="political organization" />
+<Entity id="11" startPos="3558" endPos="3566" type="product" surface="Facebook" />
+<Entity id="12" startPos="3571" endPos="3578" type="product" surface="Twitter" /></Entities><Relations>
+<Relation id="13" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="4" label="target" />
+<Entity id="1" label="target" />
+</Relation>
+<Relation id="14" NAME="identity">
+<Entity id="2" label="source" />
+<Entity id="3" label="target" />
+</Relation>
+<Relation id="15" NAME="identity">
+<Entity id="5" label="source" />
+<Entity id="6" label="target" />
+<Entity id="7" label="target" />
+</Relation>
+<Relation id="16" NAME="identity">
+<Entity id="9" label="source" />
+<Entity id="10" label="target" />
+</Relation></Relations>
+</Document>

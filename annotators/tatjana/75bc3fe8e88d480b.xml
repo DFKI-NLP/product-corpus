@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> 
+ 
+            <NODE id="16" />Maharashtra State Electricity Transmission Company limited<NODE id="74" />, a wholly owned <NODE id="91" />corporate entity<NODE id="107" /> under the <NODE id="118" />Maharashtra Government<NODE id="140" />, was incorporated under the Companies Act, in June, 2005 after restructuring the erstwhile <NODE id="232" />Maharashtra State Electricity Board<NODE id="267" /> to transmit electricity from its point of Generation to its point of Distribution.
+ 
+            <NODE id="365" />It<NODE id="367" /> owns and operates most of Maharashtra’s Electric Power Transmission System. <NODE id="444" />MSETCL<NODE id="450" /> <NODE id="451" />operates<NODE id="459" /> a <NODE id="462" />transmission network<NODE id="482" /> of 43059 Circuit KM of transmission lines and 619 EHV Substations with 107369 MVA transformation capacity. This infrastructure constitutes most of the inter regional as well as intra-regional electric power transmission system in the State. Today, <NODE id="731" />MSETCL<NODE id="737" /> is the largest state <NODE id="759" />transmission utility<NODE id="779" /> in the country.
+ 
+            The <NODE id="814" />company<NODE id="821" /> also has the distinction of being the only <NODE id="865" />power utility<NODE id="878" /> in the state sector to own HVDC lines. The <NODE id="922" />Company<NODE id="929" /> operates a 1504 CKM long, 3582 MVA, 500 KV bi-polar HVDC line from Chandrapur to Padghe. This has been marked as a major success as electric power is generated in east Maharashtra, due to easy availability of coal, whereas the bulk use of power is in the western part of Maharashtra in and around cities such as Mumbai, Pune and Nashik. The power losses are very low in the HVDC line. As a result, the power received at Padghe is practically the same as what is injected at Chandrapur.
+ 
+            The load dispatch center is the nerve centre for the operation, monitoring and control of the power system. The <NODE id="1542" />SLDC<NODE id="1546" /> Kalwa near Mumbai is fully computerized and has ultra-modern facilities. <NODE id="1620" />Mahatransco<NODE id="1631" /> also has a <NODE id="1643" />Load Dispatch center<NODE id="1663" /> at Ambazari near Nagpur. To keep up with the increase in Power generation in the next 5 years, <NODE id="1759" />Mahatransco<NODE id="1770" /> also has planned to establish a robust transmission network. <NODE id="1832" />It<NODE id="1834" /> is implementing an ambitious expansion plan over the period 2011-12 to 2015-16, to meet the evacuation and grid strengthening needs of the future. The adoption of predictive maintenance practices has helped the <NODE id="2046" />company<NODE id="2053" /> to reduce interruptions and improve the network’s availability to 99.73% (HVAC) &amp; 99.30% (HVDC).
+ 
+            At <NODE id="2168" />MSETCL<NODE id="2174" />, thrust is given on innovation for value creation and cost optimization. <NODE id="2248" />It<NODE id="2250" /> has installed ABT metering at 530 Sub-stations for energy accounting purposes and implementation of FBSM. The ERP system is fully integrated and being put into use, where functions of key departments are on line. To set up a comprehensive communication network by utilizing existing infrastructure, an Optic Fiber communication system of about 2801 Km is being installed. <NODE id="2623" />It<NODE id="2625" /> has also experimented with unmanned remotely controlled substations at two locations and GIS substations at Bhandup and Hinjewadi. To raise funds from the market for equity capital/ capex schemes and to reduce <NODE id="2836" />its<NODE id="2839" /> interest burden, <NODE id="2857" />MSETCL<NODE id="2863" /> is readying <NODE id="2876" />itself<NODE id="2882" /> for the launch of an IPO. <NODE id="2909" />It<NODE id="2911" /> has undertaken an ambitious task of establishment of a 765 KV substation at Aurangabad. The <NODE id="3004" />State Load Dispatch Centre<NODE id="3030" /> (<NODE id="3032" />SLDC<NODE id="3036" />) at Kalwa and Ambazari are being renovated and modernized with 140 Nos. of SCADA – RTU.
+ 
+            Besides continual technical up-gradation, the <NODE id="3185" />company<NODE id="3192" /> lays emphasis on imbibing required skills in its people and therefore it has invested in creating training infrastructure. The <NODE id="3320" />Company<NODE id="3327" /> has adopted the National Training Policy and has established fully equipped Training Centers at 7 different locations which are attached to respective Zonal offices. These centers impart training on Technical, Safety and Soft skills which are guided and monitored by the HR/Training Department. It has recently established a Technical Training Centre - the Power System Learning Centre - at Aurangabad where employees are trained on various power system protection and equipment testing. Recently the <NODE id="3829" />Company<NODE id="3836" /> has bagged “Special Commendation National Award 2011” for Innovative Training Practices from the <NODE id="3934" />Indian Society for Training and Development<NODE id="3977" />, New Delhi.
+ 
+            <NODE id="4004" />We<NODE id="4006" /> at <NODE id="4010" />MSETCL<NODE id="4016" /> are committed to do <NODE id="4037" />our<NODE id="4040" /> best to achieve the national goal of power to all.
+ 
+Rajeev Kumar Mital, IAS,CMD
+Mission &amp; Vision
+To establish <NODE id="4152" />ourselves<NODE id="4161" /> as a model STU and transmission licensee with respect to planning, project implementation, operational capabilities, performance with emphasis on cost and quality consciousness, human resources development and corporate social responsibility
+What's New
+
+</TEXT>
+<Meta>
+<feature featureName="Author" featureValue="" />
+<feature featureName="Category" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/58" />
+<feature featureName="uri" featureValue="http://www.mahatransco.in/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="74" type="organization" surface="Maharashtra State Electricity Transmission Company limited" />
+<Entity id="1" startPos="91" endPos="107" type="organization" surface="corporate entity" />
+<Entity id="2" startPos="118" endPos="140" type="organization" surface="Maharashtra Government" />
+<Entity id="3" startPos="232" endPos="267" type="organization" surface="Maharashtra State Electricity Board" />
+<Entity id="4" startPos="365" endPos="367" type="organization" surface="It" />
+<Entity id="5" startPos="444" endPos="450" type="organization" surface="MSETCL" />
+<Entity id="6" startPos="451" endPos="459" type="trigger" surface="operates" />
+<Entity id="7" startPos="462" endPos="482" type="product" surface="transmission network" />
+<Entity id="8" startPos="731" endPos="737" type="organization" surface="MSETCL" />
+<Entity id="9" startPos="759" endPos="779" type="organization" surface="transmission utility" />
+<Entity id="10" startPos="814" endPos="821" type="organization" surface="company" />
+<Entity id="11" startPos="865" endPos="878" type="organization" surface="power utility" />
+<Entity id="12" startPos="922" endPos="929" type="organization" surface="Company" />
+<Entity id="13" startPos="1542" endPos="1546" type="organization" surface="SLDC" />
+<Entity id="14" startPos="1620" endPos="1631" type="organization" surface="Mahatransco" />
+<Entity id="15" startPos="1643" endPos="1663" type="organization" surface="Load Dispatch center" />
+<Entity id="16" startPos="1759" endPos="1770" type="organization" surface="Mahatransco" />
+<Entity id="17" startPos="1832" endPos="1834" type="organization" surface="It" />
+<Entity id="18" startPos="2046" endPos="2053" type="organization" surface="company" />
+<Entity id="19" startPos="2168" endPos="2174" type="organization" surface="MSETCL" />
+<Entity id="20" startPos="2248" endPos="2250" type="organization" surface="It" />
+<Entity id="21" startPos="2623" endPos="2625" type="organization" surface="It" />
+<Entity id="22" startPos="2836" endPos="2839" type="organization" surface="its" />
+<Entity id="23" startPos="2857" endPos="2863" type="organization" surface="MSETCL" />
+<Entity id="24" startPos="2876" endPos="2882" type="organization" surface="itself" />
+<Entity id="25" startPos="2909" endPos="2911" type="organization" surface="It" />
+<Entity id="26" startPos="3004" endPos="3030" type="organization" surface="State Load Dispatch Centre" />
+<Entity id="27" startPos="3032" endPos="3036" type="organization" surface="SLDC" />
+<Entity id="28" startPos="3185" endPos="3192" type="organization" surface="company" />
+<Entity id="29" startPos="3320" endPos="3327" type="organization" surface="Company" />
+<Entity id="30" startPos="3829" endPos="3836" type="organization" surface="Company" />
+<Entity id="31" startPos="3934" endPos="3977" type="organization" surface="Indian Society for Training and Development" />
+<Entity id="32" startPos="4004" endPos="4006" type="organization" surface="We" />
+<Entity id="33" startPos="4010" endPos="4016" type="organization" surface="MSETCL" />
+<Entity id="34" startPos="4037" endPos="4040" type="organization" surface="our" />
+<Entity id="35" startPos="4152" endPos="4161" type="organization" surface="ourselves" /></Entities><Relations>
+<Relation id="36" NAME="company_provides_product">
+<Entity id="7" label="product" />
+<Entity id="5" label="company" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="37" NAME="identity">
+<Entity id="4" label="company" />
+<Entity id="0" label="source" />
+<Entity id="30" label="target" />
+<Entity id="5" label="target" />
+<Entity id="18" label="target" />
+<Entity id="28" label="target" />
+<Entity id="25" label="target" />
+<Entity id="9" label="target" />
+<Entity id="24" label="target" />
+<Entity id="10" label="target" />
+<Entity id="14" label="target" />
+<Entity id="29" label="target" />
+<Entity id="35" label="target" />
+<Entity id="33" label="target" />
+<Entity id="16" label="target" />
+<Entity id="34" label="target" />
+<Entity id="32" label="target" />
+<Entity id="17" label="target" />
+<Entity id="20" label="target" />
+<Entity id="22" label="target" />
+<Entity id="1" label="target" />
+<Entity id="19" label="target" />
+<Entity id="23" label="target" />
+<Entity id="21" label="target" />
+<Entity id="12" label="target" />
+<Entity id="8" label="target" />
+</Relation>
+<Relation id="38" NAME="identity">
+<Entity id="13" label="source" />
+<Entity id="26" label="target" />
+<Entity id="27" label="target" />
+</Relation>
+<Relation id="39" NAME="member_of_group">
+<Entity id="3" label="member" />
+<Entity id="2" label="group" />
+</Relation></Relations>
+</Document>

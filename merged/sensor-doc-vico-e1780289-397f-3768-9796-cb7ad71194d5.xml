@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />IDT<NODE id="3" /> <NODE id="4" />Introduces<NODE id="14" /> Energy-Efficient <NODE id="32" />Sensor Signal Conditioner<NODE id="57" /> for Consumer Barometric Pressure and Thermopile Sensors The 24-Bit High-Performance <NODE id="142" />IC<NODE id="144" /> Enables Designs for High-Precision Measurement Systems SAN JOSE, Calif., Jan. 26, 2016 /<NODE id="233" />PRNewswire<NODE id="243" />/ -- <NODE id="248" />Integrated Device Technology, Inc.®<NODE id="283" /> ( <NODE id="286" />IDT ®<NODE id="291" />) ( <NODE id="295" />IDTI<NODE id="299" /> )  today <NODE id="309" />introduced<NODE id="319" /> an energy-efficient <NODE id="340" />24-bit sensor signal conditioner (SSC) IC<NODE id="381" /> designed for consumer barometric pressure and thermopile sensors. With an integrated 26-bit digital signal processor (DSP) for linearization and calibration functions, the <NODE id="554" />ZSSC3224<NODE id="562" /> is optimized for high-resolution consumer, industrial, white goods and medical applications, and can also benefit mobile products such as phones and tablets. Developed at recently acquired <NODE id="752" />Zentrum Mikroelektronik Dresden AG<NODE id="786" /> ( <NODE id="789" />ZMDI ®<NODE id="795" />), the <NODE id="802" />ZSSC3224<NODE id="810" /> expands a family of <NODE id="831" />SSCs<NODE id="835" /> for high-end sensor modules. Offering both accuracy and high resolution, the new <NODE id="917" />sensor interface<NODE id="933" /> delivers high-accuracy amplification and a 24-bit precision full-featured analog-to-digital converter. With a 24-bit output signal, the <NODE id="1070" />ZSSC3224<NODE id="1078" /> is ideal for high-precision measurement systems, including barometric altitude measurement for portable navigation or emergency call systems; altitude measurement for car navigation; pressure measurements inside hard disks; and weather forecasting equipment. The <NODE id="1342" />device<NODE id="1348" />—available in die and wafer form—can also adapt thermopile sensors to enable contactless temperature measurements of objects or human body temperature. <NODE id="1500" />We<NODE id="1502" /> designed the <NODE id="1516" />ZSSC3224<NODE id="1524" /> to provide <NODE id="1536" />our<NODE id="1539" /> customers with the high resolution and miniaturized form factor needed for their next-generation products, said Michael Georgi, product marketing manager at <NODE id="1697" />IDT<NODE id="1700" />. The <NODE id="1706" />device<NODE id="1712" /> is designed for use with resistive pressure sensors as well as absolute voltage sensors such as thermopiles. A stacked die assembly, combined with a dedicated MEMS sensor element, can provide the lowest form factor on the market for MEMS-based sensors. The <NODE id="1970" />ZSSC3224<NODE id="1978" /> offers features targeting battery-driven, low-power devices, such as 1 mA typical overall current consumption, ultra-low 20 nA typical sleep mode current, and a 1.68 V to 3.6 V power supply range. Featuring an intelligent power-save scheme to help ensure the lowest overall current consumption, the <NODE id="2278" />device<NODE id="2284" /> also offers internal filter options for low noise output signals and intelligent alarm and interrupt capabilities. The <NODE id="2404" />ZSSC3224<NODE id="2412" /> eliminates the need for an external buffer capacitor and it provides a superior power supply rejection ratio (PSRR) of up to 90dB at 2 V, making <NODE id="2558" />it<NODE id="2560" /> attractive for applications in harsh environments. Digital compensation of signal offset, sensitivity, temperature and non-linearity is accomplished via an internal correction algorithm with coefficients stored on-chip in a highly reliable, nonvolatile, programmable memory. Additional features of the <NODE id="2863" />ZSSC3224<NODE id="2871" /> include: Quadratic form factor, optimized for stacked die assembly Operating temperature range:-40°C to 85°C Easy programming via software provided in evaluation kit Accuracy better than + 0.10% full-scale output Internal temperature measurement and signal processing Fully corrected digital output signal simplifying the system design Availability and Pricing The <NODE id="3237" />ZSSC3224<NODE id="3245" /> is available in production quantities. Customers can order die, wafers, samples and evaluation boards by contacting <NODE id="3362" />IDT<NODE id="3365" /> directly via its regional <NODE id="3392" />ZMDI<NODE id="3396" /> offices ( http://zmdi.com/zmdi-offices ) or via product@zmdi.com . About <NODE id="3470" />IDT<NODE id="3473" /> <NODE id="3474" />Integrated Device Technology, Inc.<NODE id="3508" /> develops system-level solutions that optimize its customers' applications. <NODE id="3584" />IDT<NODE id="3587" />'s<NODE id="3589" /> market-leading <NODE id="3605" />products<NODE id="3613" /> in <NODE id="3617" />timing<NODE id="3623" />, <NODE id="3625" />wireless power transfer<NODE id="3648" />, <NODE id="3650" />serial switching<NODE id="3666" /> and <NODE id="3671" />interfaces<NODE id="3681" /> are among the <NODE id="3696" />company<NODE id="3703" />'s<NODE id="3705" /> broad array of complete <NODE id="3730" />mixed-signal solutions<NODE id="3752" /> for the communications, computing, consumer, automotive and industrial segments. Headquartered in San Jose, Calif., <NODE id="3869" />IDT<NODE id="3872" /> has design, manufacturing, sales facilities and distribution partners throughout the world. <NODE id="3965" />IDT<NODE id="3968" /> stock is traded on the <NODE id="3992" />NASDAQ<NODE id="3998" /> Global Select Stock Market® under the symbol <NODE id="4044" />IDTI<NODE id="4048" />. Additional information about <NODE id="4079" />IDT<NODE id="4082" /> is accessible at www.IDT.com . Follow <NODE id="4121" />IDT<NODE id="4124" /> on . © 2016, <NODE id="4138" />IDT<NODE id="4141" />. <NODE id="4143" />IDT<NODE id="4146" />, the <NODE id="4152" />IDT<NODE id="4155" /> logo and <NODE id="4165" />ZMDI<NODE id="4169" /> are trademarks or registered trademarks of <NODE id="4213" />Integrated Device Technology, Inc.<NODE id="4247" />, or its wholly-owned subsidiaries around the world. All other brands, product names and marks are or may be trademarks or registered trademarks used to identify products or services of their respective owners. <NODE id="4458" />IDT<NODE id="4461" /> Press Contact: Dean Solov Public Relations Manager Phone: (408) 284-2608 E-mail: dean.solov@idt.com   To view the original version on <NODE id="4596" />PR Newswire<NODE id="4607" />, visit: http://www.prnewswire.com/news-releases/idt-introduces-energy-efficient-sensor-signal-conditioner-for-consumer-barometric-pressure-and-thermopile-sensors-300209493.html Professional Services <NODE id="4807" />Singapore International News<NODE id="4835" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/e1780289-397f-3768-9796-cb7ad71194d5" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-26T18:54:45Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:00:49.011Z" />
+<feature featureName="uri" featureValue="http://finance.yahoo.com/news/idt-introduces-energy-efficient-sensor-113300779.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization" surface="IDT" />
+<Entity id="1" startPos="4" endPos="14" type="trigger" surface="Introduces" />
+<Entity id="2" startPos="32" endPos="57" type="product" surface="Sensor Signal Conditioner" />
+<Entity id="3" startPos="142" endPos="144" type="product" surface="IC" />
+<Entity id="4" startPos="233" endPos="243" type="organization" surface="PRNewswire" />
+<Entity id="5" startPos="248" endPos="283" type="organization" surface="Integrated Device Technology, Inc.®" />
+<Entity id="6" startPos="286" endPos="291" type="organization" surface="IDT ®" />
+<Entity id="7" startPos="295" endPos="299" type="organization" surface="IDTI" />
+<Entity id="8" startPos="309" endPos="319" type="trigger" surface="introduced" />
+<Entity id="9" startPos="340" endPos="381" type="product" surface="24-bit sensor signal conditioner (SSC) IC" />
+<Entity id="10" startPos="554" endPos="562" type="product" surface="ZSSC3224" />
+<Entity id="11" startPos="752" endPos="786" type="organization" surface="Zentrum Mikroelektronik Dresden AG" />
+<Entity id="12" startPos="789" endPos="795" type="organization" surface="ZMDI ®" />
+<Entity id="13" startPos="802" endPos="810" type="product" surface="ZSSC3224" />
+<Entity id="14" startPos="831" endPos="835" type="product" surface="SSCs" />
+<Entity id="15" startPos="917" endPos="933" type="product" surface="sensor interface" />
+<Entity id="16" startPos="1070" endPos="1078" type="product" surface="ZSSC3224" />
+<Entity id="17" startPos="1342" endPos="1348" type="product" surface="device" />
+<Entity id="18" startPos="1500" endPos="1502" type="organization" surface="We" />
+<Entity id="19" startPos="1516" endPos="1524" type="product" surface="ZSSC3224" />
+<Entity id="20" startPos="1536" endPos="1539" type="organization" surface="our" />
+<Entity id="21" startPos="1697" endPos="1700" type="organization" surface="IDT" />
+<Entity id="22" startPos="1706" endPos="1712" type="product" surface="device" />
+<Entity id="23" startPos="1970" endPos="1978" type="product" surface="ZSSC3224" />
+<Entity id="24" startPos="2278" endPos="2284" type="product" surface="device" />
+<Entity id="25" startPos="2404" endPos="2412" type="product" surface="ZSSC3224" />
+<Entity id="26" startPos="2558" endPos="2560" type="product" surface="it" />
+<Entity id="27" startPos="2863" endPos="2871" type="product" surface="ZSSC3224" />
+<Entity id="28" startPos="3237" endPos="3245" type="product" surface="ZSSC3224" />
+<Entity id="29" startPos="3362" endPos="3365" type="organization" surface="IDT" />
+<Entity id="30" startPos="3392" endPos="3396" type="organization" surface="ZMDI" />
+<Entity id="31" startPos="3470" endPos="3473" type="organization" surface="IDT" />
+<Entity id="32" startPos="3474" endPos="3508" type="organization" surface="Integrated Device Technology, Inc." />
+<Entity id="33" startPos="3584" endPos="3587" type="organization" surface="IDT" />
+<Entity id="34" startPos="3587" endPos="3589" type="trigger" surface="'s" />
+<Entity id="35" startPos="3605" endPos="3613" type="trigger" surface="products" />
+<Entity id="36" startPos="3617" endPos="3623" type="product" surface="timing" />
+<Entity id="37" startPos="3625" endPos="3648" type="product" surface="wireless power transfer" />
+<Entity id="38" startPos="3650" endPos="3666" type="product" surface="serial switching" />
+<Entity id="39" startPos="3671" endPos="3681" type="product" surface="interfaces" />
+<Entity id="40" startPos="3696" endPos="3703" type="organization" surface="company" />
+<Entity id="41" startPos="3703" endPos="3705" type="trigger" surface="'s" />
+<Entity id="42" startPos="3730" endPos="3752" type="product" surface="mixed-signal solutions" />
+<Entity id="43" startPos="3869" endPos="3872" type="organization" surface="IDT" />
+<Entity id="44" startPos="3965" endPos="3968" type="organization" surface="IDT" />
+<Entity id="45" startPos="3992" endPos="3998" type="organization" surface="NASDAQ" />
+<Entity id="46" startPos="4044" endPos="4048" type="organization" surface="IDTI" />
+<Entity id="47" startPos="4079" endPos="4082" type="organization" surface="IDT" />
+<Entity id="48" startPos="4121" endPos="4124" type="organization" surface="IDT" />
+<Entity id="49" startPos="4138" endPos="4141" type="organization" surface="IDT" />
+<Entity id="50" startPos="4143" endPos="4146" type="organization" surface="IDT" />
+<Entity id="51" startPos="4152" endPos="4155" type="organization" surface="IDT" />
+<Entity id="52" startPos="4165" endPos="4169" type="organization" surface="ZMDI" />
+<Entity id="53" startPos="4213" endPos="4247" type="organization" surface="Integrated Device Technology, Inc." />
+<Entity id="54" startPos="4458" endPos="4461" type="organization" surface="IDT" />
+<Entity id="55" startPos="4596" endPos="4607" type="organization" surface="PR Newswire" />
+<Entity id="56" startPos="4807" endPos="4835" type="organization" surface="Singapore International News" /></Entities><Relations>
+<Relation id="57" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="58" NAME="CompanyProvidesProduct">
+<Entity id="9" label="product" />
+<Entity id="5" label="company" />
+<Entity id="8" label="trigger" />
+</Relation>
+<Relation id="59" NAME="CompanyProvidesProduct">
+<Entity id="36" label="product" />
+<Entity id="37" label="product" />
+<Entity id="38" label="product" />
+<Entity id="39" label="product" />
+<Entity id="33" label="company" />
+<Entity id="34" label="trigger" />
+<Entity id="35" label="trigger" />
+</Relation>
+<Relation id="60" NAME="CompanyProvidesProduct">
+<Entity id="42" label="product" />
+<Entity id="40" label="company" />
+<Entity id="41" label="trigger" />
+</Relation>
+<Relation id="61" NAME="Identity">
+<Entity id="5" label="source" />
+<Entity id="46" label="target" />
+<Entity id="47" label="target" />
+<Entity id="51" label="target" />
+<Entity id="54" label="target" />
+<Entity id="40" label="target" />
+<Entity id="0" label="target" />
+<Entity id="21" label="target" />
+<Entity id="31" label="target" />
+<Entity id="48" label="target" />
+<Entity id="29" label="target" />
+<Entity id="43" label="target" />
+<Entity id="50" label="target" />
+<Entity id="18" label="target" />
+<Entity id="32" label="target" />
+<Entity id="49" label="target" />
+<Entity id="6" label="target" />
+<Entity id="20" label="target" />
+<Entity id="44" label="target" />
+<Entity id="7" label="target" />
+<Entity id="33" label="target" />
+<Entity id="53" label="target" />
+</Relation>
+<Relation id="62" NAME="Identity">
+<Entity id="10" label="source" />
+<Entity id="16" label="target" />
+<Entity id="23" label="target" />
+<Entity id="9" label="target" />
+<Entity id="25" label="target" />
+<Entity id="3" label="target" />
+<Entity id="15" label="target" />
+<Entity id="22" label="target" />
+<Entity id="24" label="target" />
+<Entity id="28" label="target" />
+<Entity id="19" label="target" />
+<Entity id="13" label="target" />
+<Entity id="17" label="target" />
+<Entity id="2" label="target" />
+<Entity id="27" label="target" />
+</Relation>
+<Relation id="63" NAME="Identity">
+<Entity id="4" label="source" />
+<Entity id="55" label="target" />
+</Relation>
+<Relation id="64" NAME="Identity">
+<Entity id="11" label="source" />
+<Entity id="52" label="target" />
+<Entity id="30" label="target" />
+<Entity id="12" label="target" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Contact <NODE id="8" />Us<NODE id="10" />
+Welcome to <NODE id="22" />AFC Energy<NODE id="32" />
+The <NODE id="37" />AFC<NODE id="40" /> <NODE id="41" />fuel cell<NODE id="50" /> has the potential to be the catalyst, which transforms the way in which industries of today produce energy for tomorrow.
+About the <NODE id="182" />company<NODE id="189" />
+<NODE id="190" />We<NODE id="192" /> are <NODE id="197" />AFC Energy<NODE id="207" />
+Hydrogen is the most abundant element in the universe, and is also number one in the industrial gas world based on number of molecules produced.
+The future is here!
+Hydrogen <NODE id="382" />fuel cell<NODE id="391" /> technology is no longer considered a future technology but is here today providing a wide range of power needs.
+<NODE id="504" />AFC Energy<NODE id="514" /> is an industrial <NODE id="532" />fuel cell power<NODE id="547" /> <NODE id="548" />company<NODE id="555" /> focused on large-scale stationary <NODE id="590" />fuel cell<NODE id="599" /> applications.
+<NODE id="614" />AFC Energy<NODE id="624" />’s<NODE id="626" /> <NODE id="627" />POWER-UP project<NODE id="643" /> demonstrated the world’s largest operational <NODE id="689" />alkaline fuel cell<NODE id="707" /> system at <NODE id="718" />Air Products<NODE id="730" />’ industrial gas plant in Stade, Germany.
+<NODE id="772" />AFC Energy<NODE id="782" /> is now offering scalable solutions <NODE id="818" />providing<NODE id="827" /> <NODE id="828" />clean electricity<NODE id="845" /> on-demand across different market segments.
+<NODE id="890" />AFC<NODE id="893" /> is listed in London (Ticker: <NODE id="923" />AFC<NODE id="926" />).
+Technology
+Find out more
+Markets
+<NODE id="962" />AFC Energy<NODE id="972" /> is focused on regions that offer attractive long-term market conditions for electricity that is generated from <NODE id="1084" />fuel cells<NODE id="1094" />.
+Projects
+<NODE id="1105" />AFC Energy<NODE id="1115" />’s business model is to <NODE id="1139" />install<NODE id="1146" />, <NODE id="1148" />own<NODE id="1151" />, <NODE id="1153" />operate<NODE id="1160" /> and <NODE id="1165" />maintain<NODE id="1173" /> <NODE id="1174" />alkaline fuel cell power projects<NODE id="1207" />.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/7" />
+<feature featureName="uri" featureValue="http://www.afcenergy.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="10" type="organization" surface="Us" />
+<Entity id="1" startPos="22" endPos="32" type="organization" surface="AFC Energy" />
+<Entity id="2" startPos="37" endPos="40" type="organization" surface="AFC" />
+<Entity id="3" startPos="41" endPos="50" type="product" surface="fuel cell" />
+<Entity id="4" startPos="182" endPos="189" type="organization" surface="company" />
+<Entity id="5" startPos="190" endPos="192" type="organization" surface="We" />
+<Entity id="6" startPos="197" endPos="207" type="organization" surface="AFC Energy" />
+<Entity id="7" startPos="382" endPos="391" type="product" surface="fuel cell" />
+<Entity id="8" startPos="504" endPos="514" type="organization" surface="AFC Energy" />
+<Entity id="9" startPos="532" endPos="547" type="product" surface="fuel cell power" />
+<Entity id="10" startPos="548" endPos="555" type="trigger" surface="company" />
+<Entity id="11" startPos="590" endPos="599" type="product" surface="fuel cell" />
+<Entity id="12" startPos="614" endPos="624" type="organization" surface="AFC Energy" />
+<Entity id="13" startPos="624" endPos="626" type="trigger" surface="’s" />
+<Entity id="14" startPos="627" endPos="643" type="product" surface="POWER-UP project" />
+<Entity id="15" startPos="689" endPos="707" type="product" surface="alkaline fuel cell" />
+<Entity id="16" startPos="718" endPos="730" type="organization" surface="Air Products" />
+<Entity id="17" startPos="772" endPos="782" type="organization" surface="AFC Energy" />
+<Entity id="18" startPos="818" endPos="827" type="trigger" surface="providing" />
+<Entity id="19" startPos="828" endPos="845" type="product" surface="clean electricity" />
+<Entity id="20" startPos="890" endPos="893" type="organization" surface="AFC" />
+<Entity id="21" startPos="923" endPos="926" type="organization" surface="AFC" />
+<Entity id="22" startPos="962" endPos="972" type="organization" surface="AFC Energy" />
+<Entity id="23" startPos="1084" endPos="1094" type="product" surface="fuel cells" />
+<Entity id="24" startPos="1105" endPos="1115" type="organization" surface="AFC Energy" />
+<Entity id="25" startPos="1139" endPos="1146" type="trigger" surface="install" />
+<Entity id="26" startPos="1148" endPos="1151" type="trigger" surface="own" />
+<Entity id="27" startPos="1153" endPos="1160" type="trigger" surface="operate" />
+<Entity id="28" startPos="1165" endPos="1173" type="trigger" surface="maintain" />
+<Entity id="29" startPos="1174" endPos="1207" type="product" surface="alkaline fuel cell power projects" /></Entities><Relations>
+<Relation id="30" NAME="company_provides_product">
+<Entity id="3" label="product" />
+<Entity id="2" label="company" />
+</Relation>
+<Relation id="31" NAME="company_provides_product">
+<Entity id="9" label="product" />
+<Entity id="8" label="company" />
+<Entity id="10" label="trigger" />
+</Relation>
+<Relation id="32" NAME="company_provides_product">
+<Entity id="15" label="product" />
+<Entity id="14" label="product" />
+<Entity id="12" label="company" />
+<Entity id="13" label="trigger" />
+</Relation>
+<Relation id="33" NAME="company_provides_product">
+<Entity id="19" label="product" />
+<Entity id="17" label="company" />
+<Entity id="18" label="trigger" />
+</Relation>
+<Relation id="34" NAME="company_provides_product">
+<Entity id="29" label="product" />
+<Entity id="27" label="targettarget" />
+<Entity id="24" label="company" />
+<Entity id="28" label="trigger" />
+<Entity id="26" label="trigger" />
+<Entity id="25" label="trigger" />
+</Relation>
+<Relation id="35" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="5" label="target" />
+<Entity id="6" label="target" />
+<Entity id="2" label="target" />
+<Entity id="12" label="target" />
+<Entity id="8" label="target" />
+<Entity id="17" label="target" />
+<Entity id="21" label="target" />
+<Entity id="0" label="target" />
+<Entity id="20" label="target" />
+<Entity id="24" label="target" />
+<Entity id="4" label="target" />
+<Entity id="22" label="target" />
+</Relation>
+<Relation id="36" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="7" label="target" />
+<Entity id="23" label="target" />
+<Entity id="15" label="target" />
+<Entity id="9" label="target" />
+<Entity id="11" label="target" />
+<Entity id="29" label="target" />
+<Entity id="19" label="target" />
+</Relation></Relations>
+</Document>

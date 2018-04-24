@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Pack With Me - Carry On Only For Panama.
+
+16
+Views
+So, I've set a really big goal for myself. I'm trying to pack carry-on only for a 10 night Panama Canal cruise! I'll tell you my packing plan, and show you what I've got, but first help us thank our sponsor, and visit https://cruiseline.com?utm_source=youtube&amp;utm_campaign=cttv
+So, I've got my new backpack, and my little <NODE id="373" />Roxy<NODE id="377" /> <NODE id="378" />carry-on suitcase<NODE id="395" />, and lots of stuff I want to pack for my cruise, but I'll be flying to port.  I don't like waiting for my luggage, so I thought this might be a good opportunity to try a carry-on only packing challenge. I've got some colorful packing cubes, ziplock, and mesh bags, now the the challenge is to get all the necessary stuff packed into them.  The trick here is planning. I want only necessities, and I want clothing that can be mixed, matched and dual purposed. Find out if I can actually do it, and please pass on any tips you may have in the comments below.
+Here are some of the items I used in the packing challenge:
+<NODE id="1013" />Basics<NODE id="1019" /> <NODE id="1020" />Packing Cubes<NODE id="1033" />: http://amzn.to/2yTh29s
+<NODE id="1058" />Oricsson<NODE id="1066" /> <NODE id="1067" />Water Resistant Backpack<NODE id="1091" />: http://amzn.to/2yUx1E7
+<NODE id="1116" />RFID Blocking Neck Wallet<NODE id="1141" />: http://amzn.to/2zdwNME
+<NODE id="1166" />Mesh Bags<NODE id="1175" />: http://amzn.to/2ir3lbh
+
+</TEXT>
+<Meta>
+<feature featureName="Author" featureValue="" />
+<feature featureName="id" featureValue="http://www.tourist.mobi/watch.php?vid=43e83f708@2017-11-30T22:30:06.000+01:00" />
+<feature featureName="uri" featureValue="http://www.tourist.mobi/watch.php?vid=43e83f708" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="373" endPos="377" type="organization" surface="Roxy" />
+<Entity id="1" startPos="378" endPos="395" type="product" surface="carry-on suitcase" />
+<Entity id="2" startPos="1013" endPos="1019" type="organization" surface="Basics" />
+<Entity id="3" startPos="1020" endPos="1033" type="product" surface="Packing Cubes" />
+<Entity id="4" startPos="1058" endPos="1066" type="organization" surface="Oricsson" />
+<Entity id="5" startPos="1067" endPos="1091" type="product" surface="Water Resistant Backpack" />
+<Entity id="6" startPos="1116" endPos="1141" type="product" surface="RFID Blocking Neck Wallet" />
+<Entity id="7" startPos="1166" endPos="1175" type="product" surface="Mesh Bags" /></Entities><Relations>
+<Relation id="8" NAME="company_provides_product">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="9" NAME="company_provides_product">
+<Entity id="3" label="product" />
+<Entity id="2" label="company" />
+</Relation>
+<Relation id="10" NAME="company_provides_product">
+<Entity id="5" label="product" />
+<Entity id="4" label="company" />
+</Relation></Relations>
+</Document>

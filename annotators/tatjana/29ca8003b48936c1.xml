@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> 
+It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+ 
+Method for Assessment of indemnity/insurance
+Method for Assessment of indemnity/insurance of Petroleum Authorisation Holders
+25/06/2017 23:00:00
+Mineral Exploration Prospecting Licence Competition
+Mineral Exploration Quarterly Licence Competition for Licences newly available.
+28/04/2017 17:30:00
+ 
+It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+ 
+http://www.dccae.gov.ie/en-ie/climate-action/consultations/Pages/National-Mitigation-Plan-.aspx
+National Mitigation Plan to tackle greenhouse gas emissions
+The development of Ireland's first statutory National Mitigation Plan represents a hugely important first step in enabling transition to a low carbon, climate-resilient and environmentally sustainable economy by 2050.
+30/03/2017 23:00:00
+http://www.dccae.gov.ie/en-ie/environment/consultations/Pages/National-Clean-Air-Strategy-Consultation.aspx
+<NODE id="1011" />National Clean Air Strategy Consultation<NODE id="1051" /> <NODE id="1052" />promoting<NODE id="1061" /> <NODE id="1062" />clean air policies<NODE id="1080" />
+We are developing a national <NODE id="1110" />Clean Air Strategy<NODE id="1128" /> with the aim of promoting clean air.  The <NODE id="1171" />Strategy<NODE id="1179" /> will provide strategic policies necessary to identify and promote integrated measures across government that are required to reduce air pollution
+30/03/2017 11:00:00
+ 
+It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+ 
+Naughten announces Household Waste Collection Charging Arrangements
+Minister Denis Naughten announces Household Waste Collection Charging Arrangements
+27/06/2017 15:40:00
+Naughten announces appointments to the Boards of <NODE id="1672" />An Post<NODE id="1679" /> and <NODE id="1684" />EirGrid<NODE id="1691" />
+Minister Naughten announces recent appointments to the Boards of <NODE id="1757" />An Post<NODE id="1764" /> and <NODE id="1769" />EirGrid<NODE id="1776" />
+23/06/2017 14:10:00
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/85" />
+<feature featureName="uri" featureValue="http://www.dccae.gov.ie/en-ie/Pages/default.aspx" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="1011" endPos="1051" type="organization" surface="National Clean Air Strategy Consultation" />
+<Entity id="1" startPos="1052" endPos="1061" type="trigger" surface="promoting" />
+<Entity id="2" startPos="1062" endPos="1080" type="product" surface="clean air policies" />
+<Entity id="3" startPos="1110" endPos="1128" type="product" surface="Clean Air Strategy" />
+<Entity id="4" startPos="1171" endPos="1179" type="product" surface="Strategy" />
+<Entity id="5" startPos="1672" endPos="1679" type="organization" surface="An Post" />
+<Entity id="6" startPos="1684" endPos="1691" type="organization" surface="EirGrid" />
+<Entity id="7" startPos="1757" endPos="1764" type="organization" surface="An Post" />
+<Entity id="8" startPos="1769" endPos="1776" type="organization" surface="EirGrid" /></Entities><Relations>
+<Relation id="9" NAME="company_provides_product">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="10" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="4" label="target" />
+<Entity id="3" label="target" />
+</Relation>
+<Relation id="11" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="4" label="target" />
+</Relation>
+<Relation id="12" NAME="identity">
+<Entity id="5" label="source" />
+<Entity id="7" label="target" />
+</Relation>
+<Relation id="13" NAME="identity">
+<Entity id="6" label="source" />
+<Entity id="8" label="target" />
+</Relation></Relations>
+</Document>

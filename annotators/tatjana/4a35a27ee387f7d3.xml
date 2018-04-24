@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Copyright © 1975 - 2017  <NODE id="25" />Actco General Contracting Company L.L.C<NODE id="64" />
+Site designed and powered by <NODE id="94" />IT Department<NODE id="107" />, <NODE id="109" />Actco<NODE id="114" />. 
+
+</TEXT>
+<Meta>
+<feature featureName="Category" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/4" />
+<feature featureName="uri" featureValue="http://www.actco.ae/m/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="25" endPos="64" type="organization" surface="Actco General Contracting Company L.L.C" />
+<Entity id="1" startPos="94" endPos="107" type="organization" surface="IT Department" />
+<Entity id="2" startPos="109" endPos="114" type="organization" surface="Actco" /></Entities><Relations>
+<Relation id="3" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="2" label="target" />
+</Relation>
+<Relation id="4" NAME="member_of_group">
+<Entity id="1" label="member" />
+<Entity id="2" label="group" />
+</Relation></Relations>
+</Document>

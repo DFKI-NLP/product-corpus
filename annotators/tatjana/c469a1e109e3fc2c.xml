@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />C-BORD<NODE id="6" /> helping customs to inspect containerised freight
+Efficient <NODE id="66" />non-intrusive inspection<NODE id="90" /> (<NODE id="92" />NII<NODE id="95" />) of containerised freight is critical for customs, as freight containers are potential means of smuggling, illegal immigration or even trafficking nuclear material and chemical warfare agents. A single <NODE id="298" />NII<NODE id="301" /> technology cannot cope with all of these different threats. The<NODE id="365" /> C-BORD project<NODE id="380" />’s objective is to address them all and enable customs to deploy comprehensive cost-effective solutions for the <NODE id="492" />NII<NODE id="495" /> of containers in order to protect EU sea and land borders.
+19 June 2017
+From Venoms to innovative Drugs with <NODE id="605" />VENOMICS<NODE id="613" />
+Based on the study of two hundred poisonous animals, the European<NODE id="679" /> project VENOMICS<NODE id="696" /> managed to reproduce a bank of 3,616 “natural” toxins compatible with high throughput screening. <NODE id="794" />VENOMICS<NODE id="802" /> demonstrated that animal toxins are hundred times more effective in identifying drug candidates than the usual banks of artificial molecules.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/47" />
+<feature featureName="uri" featureValue="http://www.cea.fr/english" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="product" surface="C-BORD" />
+<Entity id="1" startPos="66" endPos="90" type="product" surface="non-intrusive inspection" />
+<Entity id="2" startPos="92" endPos="95" type="product" surface="NII" />
+<Entity id="3" startPos="298" endPos="301" type="product" surface="NII" />
+<Entity id="4" startPos="365" endPos="380" type="product" surface=" C-BORD project" />
+<Entity id="5" startPos="492" endPos="495" type="product" surface="NII" />
+<Entity id="6" startPos="605" endPos="613" type="product" surface="VENOMICS" />
+<Entity id="7" startPos="679" endPos="696" type="product" surface=" project VENOMICS" />
+<Entity id="8" startPos="794" endPos="802" type="product" surface="VENOMICS" /></Entities><Relations>
+<Relation id="9" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="4" label="target" />
+</Relation>
+<Relation id="10" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="2" label="target" />
+<Entity id="5" label="target" />
+<Entity id="3" label="target" />
+</Relation>
+<Relation id="11" NAME="identity">
+<Entity id="6" label="source" />
+<Entity id="7" label="target" />
+<Entity id="8" label="target" />
+</Relation></Relations>
+</Document>

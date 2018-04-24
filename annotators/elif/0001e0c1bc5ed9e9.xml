@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Refresh
+<NODE id="8" />We<NODE id="10" /> believe the past is not simply a record of results, but rather a formula for the future.
+Success can be defined in many ways. Double-digit returns. Prudent capital management. Profit growth. Multiples on investment. Consistent distributions to your Limited Partners. An experienced management team. At <NODE id="313" />Merit<NODE id="318" />, <NODE id="320" />we<NODE id="322" /> define success as the combination of all of these. With distributions to <NODE id="396" />our<NODE id="399" /> Limited Partners of over $9.6 billion, returns averaging over 20 percent, and acquisitions totaling $8.2 billion, <NODE id="514" />we<NODE id="516" /> have 28 years of experience being successful. Due to <NODE id="570" />our<NODE id="573" /> obsession with results and <NODE id="601" />our<NODE id="604" /> focus on risk management, <NODE id="631" />Merit Energy<NODE id="643" /> has branded <NODE id="656" />itself<NODE id="662" /> as one of the leading <NODE id="685" />oil<NODE id="688" /> and <NODE id="693" />gas<NODE id="696" /> <NODE id="697" />companies<NODE id="706" /> in the industry.
+ 
+Learn More
+These three words describe the essence of <NODE id="779" />our<NODE id="782" /> operating strategy.
+It takes deep knowledge of an asset to understand how to generate the best results from each of <NODE id="899" />our<NODE id="902" /> fields. Applying that knowledge by executing improvement projects across <NODE id="976" />our<NODE id="979" /> asset base is core to <NODE id="1002" />our<NODE id="1005" /> daily success. Finally, a commitment to generating long-term results is essential to maintaining a culture of continuous improvement.
+Learn More
+<NODE id="1151" />Merit<NODE id="1156" /> employees are <NODE id="1171" />our<NODE id="1174" /> most valuable resources. Let <NODE id="1204" />us<NODE id="1206" /> invest in you.
+<NODE id="1222" />Merit<NODE id="1227" /> has nearly 3 decades of developing <NODE id="1263" />our<NODE id="1266" /> assets and <NODE id="1278" />our<NODE id="1281" /> employees. <NODE id="1293" />We<NODE id="1295" /> are dedicated to making <NODE id="1320" />Merit<NODE id="1325" /> one of the best places to work.
+At <NODE id="1361" />Merit<NODE id="1366" />, <NODE id="1368" />we<NODE id="1370" /> provide tools and training to allow employees to take ownership of their careers. <NODE id="1453" />Our<NODE id="1456" /> employees are given the unique opportunity of learning the business and understanding how each position works within the company, which strengthens their knowledge of the industry. <NODE id="1638" />We<NODE id="1640" /> continually strive to find the very best talent in the market and to provide employees a long-term, successful and rewarding career.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/80" />
+<feature featureName="uri" featureValue="https://www.meritenergy.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="10" type="organization" surface="We" />
+<Entity id="1" startPos="313" endPos="318" type="organization" surface="Merit" />
+<Entity id="2" startPos="320" endPos="322" type="organization" surface="we" />
+<Entity id="3" startPos="396" endPos="399" type="organization" surface="our" />
+<Entity id="4" startPos="514" endPos="516" type="organization" surface="we" />
+<Entity id="5" startPos="570" endPos="573" type="organization" surface="our" />
+<Entity id="6" startPos="601" endPos="604" type="organization" surface="our" />
+<Entity id="7" startPos="631" endPos="643" type="organization" surface="Merit Energy" />
+<Entity id="8" startPos="656" endPos="662" type="organization" surface="itself" />
+<Entity id="9" startPos="685" endPos="688" type="product" surface="oil" />
+<Entity id="10" startPos="693" endPos="696" type="product" surface="gas" />
+<Entity id="11" startPos="697" endPos="706" type="trigger" surface="companies" />
+<Entity id="12" startPos="779" endPos="782" type="organization" surface="our" />
+<Entity id="13" startPos="899" endPos="902" type="organization" surface="our" />
+<Entity id="14" startPos="976" endPos="979" type="organization" surface="our" />
+<Entity id="15" startPos="1002" endPos="1005" type="organization" surface="our" />
+<Entity id="16" startPos="1151" endPos="1156" type="organization" surface="Merit" />
+<Entity id="17" startPos="1171" endPos="1174" type="organization" surface="our" />
+<Entity id="18" startPos="1204" endPos="1206" type="organization" surface="us" />
+<Entity id="19" startPos="1222" endPos="1227" type="organization" surface="Merit" />
+<Entity id="20" startPos="1263" endPos="1266" type="organization" surface="our" />
+<Entity id="21" startPos="1278" endPos="1281" type="organization" surface="our" />
+<Entity id="22" startPos="1293" endPos="1295" type="organization" surface="We" />
+<Entity id="23" startPos="1320" endPos="1325" type="organization" surface="Merit" />
+<Entity id="24" startPos="1361" endPos="1366" type="organization" surface="Merit" />
+<Entity id="25" startPos="1368" endPos="1370" type="organization" surface="we" />
+<Entity id="26" startPos="1453" endPos="1456" type="organization" surface="Our" />
+<Entity id="27" startPos="1638" endPos="1640" type="organization" surface="We" /></Entities><Relations>
+<Relation id="28" NAME="company_provides_product">
+<Entity id="9" label="product" />
+<Entity id="10" label="product" />
+<Entity id="7" label="company" />
+<Entity id="11" label="trigger" />
+</Relation>
+<Relation id="29" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="14" label="target" />
+<Entity id="7" label="target" />
+<Entity id="26" label="target" />
+<Entity id="17" label="target" />
+<Entity id="12" label="target" />
+<Entity id="6" label="target" />
+<Entity id="22" label="target" />
+<Entity id="18" label="target" />
+<Entity id="21" label="target" />
+<Entity id="3" label="target" />
+<Entity id="8" label="target" />
+<Entity id="13" label="target" />
+<Entity id="20" label="target" />
+<Entity id="27" label="target" />
+<Entity id="25" label="target" />
+<Entity id="24" label="target" />
+<Entity id="19" label="target" />
+<Entity id="1" label="target" />
+<Entity id="2" label="target" />
+<Entity id="5" label="target" />
+<Entity id="23" label="target" />
+<Entity id="16" label="target" />
+<Entity id="4" label="target" />
+<Entity id="0" label="target" />
+</Relation></Relations>
+</Document>

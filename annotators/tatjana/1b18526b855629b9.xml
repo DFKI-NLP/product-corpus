@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>This website will be best viewed in resolution of 1024*768.
+Copyright 2005 Reserved, <NODE id="85" />Atomic Energy Council<NODE id="106" />, <NODE id="108" />Executive Yuan<NODE id="122" />.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/27" />
+<feature featureName="uri" featureValue="http://www.aec.gov.tw/english/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="85" endPos="106" type="organization" surface="Atomic Energy Council" />
+<Entity id="1" startPos="108" endPos="122" type="organization" surface="Executive Yuan" /></Entities><Relations>
+<Relation id="2" NAME="member_of_group">
+<Entity id="0" label="member" />
+<Entity id="1" label="group" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Privacy Policy   |  Terms and Conditions   |  Blog Policy  
+These materials are provided by <NODE id="92" />Constellation NewEnergy, Inc.<NODE id="121" />, <NODE id="123" />Constellation Energy Power Choice, LLC<NODE id="161" />, <NODE id="163" />Constellation Energy Gas Choice, LLC<NODE id="199" />, <NODE id="201" />Constellation Energy Services, Inc.<NODE id="236" />, <NODE id="238" />Constellation Energy Services<NODE id="267" /> – <NODE id="270" />Natural Gas, LLC<NODE id="286" /> or <NODE id="290" />BGE Home Products &amp; Services, LLC<NODE id="323" /> (d/b/a <NODE id="331" />BGE Home<NODE id="339" />, Constellation Electric and <NODE id="368" />Constellation Home<NODE id="386" /> in Maryland and d/b/a <NODE id="409" />Constellation Home<NODE id="427" /> in Pennsylvania and Texas), each a subsidiary of <NODE id="477" />Exelon Corporation<NODE id="495" />. <NODE id="497" />Exelon Corporation<NODE id="515" /> also owns <NODE id="526" />Atlantic City Electric<NODE id="548" /> (<NODE id="550" />ACE<NODE id="553" />), <NODE id="556" />Baltimore Gas and Electric Company<NODE id="590" /> (<NODE id="592" />BGE<NODE id="595" />), <NODE id="598" />ComEd<NODE id="603" />, <NODE id="605" />Delmarva Power<NODE id="619" />, <NODE id="621" />PECO<NODE id="625" /> and <NODE id="630" />Pepco energy<NODE id="642" /> companies. <NODE id="654" />BGE Home Products &amp; Services, LLC<NODE id="687" />, is not the same <NODE id="705" />company<NODE id="712" /> as <NODE id="716" />BGE<NODE id="719" />, the regulated <NODE id="735" />utility<NODE id="742" />. The prices of <NODE id="758" />Constellation<NODE id="771" /> are not regulated by any state <NODE id="803" />Public Utility Commission<NODE id="828" />. You do not have to buy <NODE id="853" />Constellation<NODE id="866" /> <NODE id="867" />electricity<NODE id="878" />, <NODE id="880" />natural gas<NODE id="891" /> or any other products to receive the same quality regulated service from your local utility. Brand names and product names are trademarks or service marks of their respective holders. All rights reserved. Errors and omissions excepted.
+Electricity or Gas Supplier License #s: CT DPUC Docket No.99-11-14 07-03-08, 06-02-17; GA PSC License Docket #: 22253, GM-33; IL #s 11-0394, 10-0540, 02-0489; 10-0129, 07-0279, MD License #s IR-228, IR-1853, IR-311, IR-327, IR-500; MA License #CS-045; MI Case #U-14066, U-13660; NJ License #ESL-0016, ESL-0066; GSL-0074; OH #s 00-003E(7); 02-021G(6); PA#s A-125050, A-110036, A-110186; Washington D.C. Supplier License Docket EA01-5, EA-06-5-4, #GA-2012-12, GA-11-5
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/57" />
+<feature featureName="uri" featureValue="https://www.constellation.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="92" endPos="121" type="organization" surface="Constellation NewEnergy, Inc." />
+<Entity id="1" startPos="123" endPos="161" type="organization" surface="Constellation Energy Power Choice, LLC" />
+<Entity id="2" startPos="163" endPos="199" type="organization" surface="Constellation Energy Gas Choice, LLC" />
+<Entity id="3" startPos="201" endPos="236" type="organization" surface="Constellation Energy Services, Inc." />
+<Entity id="4" startPos="238" endPos="267" type="organization" surface="Constellation Energy Services" />
+<Entity id="5" startPos="270" endPos="286" type="organization" surface="Natural Gas, LLC" />
+<Entity id="6" startPos="290" endPos="323" type="organization" surface="BGE Home Products &amp; Services, LLC" />
+<Entity id="7" startPos="331" endPos="339" type="organization" surface="BGE Home" />
+<Entity id="8" startPos="368" endPos="386" type="organization" surface="Constellation Home" />
+<Entity id="9" startPos="409" endPos="427" type="organization" surface="Constellation Home" />
+<Entity id="10" startPos="477" endPos="495" type="organization" surface="Exelon Corporation" />
+<Entity id="11" startPos="497" endPos="515" type="organization" surface="Exelon Corporation" />
+<Entity id="12" startPos="526" endPos="548" type="organization" surface="Atlantic City Electric" />
+<Entity id="13" startPos="550" endPos="553" type="organization" surface="ACE" />
+<Entity id="14" startPos="556" endPos="590" type="organization" surface="Baltimore Gas and Electric Company" />
+<Entity id="15" startPos="592" endPos="595" type="organization" surface="BGE" />
+<Entity id="16" startPos="598" endPos="603" type="organization" surface="ComEd" />
+<Entity id="17" startPos="605" endPos="619" type="organization" surface="Delmarva Power" />
+<Entity id="18" startPos="621" endPos="625" type="organization" surface="PECO" />
+<Entity id="19" startPos="630" endPos="642" type="organization" surface="Pepco energy" />
+<Entity id="20" startPos="654" endPos="687" type="organization" surface="BGE Home Products &amp; Services, LLC" />
+<Entity id="21" startPos="705" endPos="712" type="organization" surface="company" />
+<Entity id="22" startPos="716" endPos="719" type="organization" surface="BGE" />
+<Entity id="23" startPos="735" endPos="742" type="organization" surface="utility" />
+<Entity id="24" startPos="758" endPos="771" type="organization" surface="Constellation" />
+<Entity id="25" startPos="803" endPos="828" type="organization" surface="Public Utility Commission" />
+<Entity id="26" startPos="853" endPos="866" type="organization" surface="Constellation" />
+<Entity id="27" startPos="867" endPos="878" type="product" surface="electricity" />
+<Entity id="28" startPos="880" endPos="891" type="product" surface="natural gas" /></Entities><Relations>
+<Relation id="29" NAME="company_provides_product">
+<Entity id="27" label="product" />
+<Entity id="28" label="product" />
+<Entity id="26" label="company" />
+</Relation>
+<Relation id="30" NAME="identity">
+<Entity id="10" label="source" />
+<Entity id="11" label="target" />
+</Relation>
+<Relation id="31" NAME="identity">
+<Entity id="12" label="source" />
+<Entity id="13" label="target" />
+</Relation>
+<Relation id="32" NAME="identity">
+<Entity id="14" label="source" />
+<Entity id="15" label="target" />
+</Relation>
+<Relation id="33" NAME="identity">
+<Entity id="24" label="source" />
+<Entity id="26" label="target" />
+</Relation>
+<Relation id="34" NAME="member_of_group">
+<Entity id="4" label="member" />
+<Entity id="17" label="member" />
+<Entity id="8" label="member" />
+<Entity id="1" label="member" />
+<Entity id="0" label="member" />
+<Entity id="18" label="member" />
+<Entity id="5" label="member" />
+<Entity id="6" label="member" />
+<Entity id="14" label="member" />
+<Entity id="2" label="member" />
+<Entity id="19" label="member" />
+<Entity id="12" label="member" />
+<Entity id="3" label="member" />
+<Entity id="7" label="member" />
+<Entity id="16" label="member" />
+<Entity id="11" label="group" />
+</Relation></Relations>
+</Document>

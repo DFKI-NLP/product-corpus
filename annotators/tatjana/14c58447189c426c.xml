@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />FPSO Cidade de Saquarema<NODE id="24" /> - Niteroi, Rio de Janeiro, Brazil
+Right Here. Right Now.
+<NODE id="82" />We<NODE id="84" />'re operating in many different markets, on all continents and in all of the world's timezones. Find out where <NODE id="195" />we<NODE id="197" /> are right now and what <NODE id="221" />we<NODE id="223" /> are doing there.
+
+</TEXT>
+<Meta>
+<feature featureName="Category" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/62" />
+<feature featureName="uri" featureValue="http://www.mammoet.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="24" type="organization" surface="FPSO Cidade de Saquarema" />
+<Entity id="1" startPos="82" endPos="84" type="organization" surface="We" />
+<Entity id="2" startPos="195" endPos="197" type="organization" surface="we" />
+<Entity id="3" startPos="221" endPos="223" type="organization" surface="we" /></Entities><Relations>
+<Relation id="4" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="3" label="target" />
+<Entity id="1" label="target" />
+<Entity id="2" label="target" />
+</Relation></Relations>
+</Document>

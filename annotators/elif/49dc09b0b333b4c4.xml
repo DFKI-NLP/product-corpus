@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Dutch firm invests $53 million in <NODE id="34" />Estonia biocoal plant<NODE id="55" />.
+
+By Anna Simet | November 30, 2017
+A subsidiary of Dutch private equity investment firm <NODE id="145" />Momentum Capital<NODE id="161" /> has made a conditional investment of EUR 45 million ($53 million) in the development of a <NODE id="252" />biocoal plant<NODE id="265" /> to be built in Vägari, Estonia.
+<NODE id="298" />Baltania OÜ<NODE id="309" />’s facility will utilize technology from <NODE id="350" />Clean Electricity Generation BV<NODE id="381" />, which, according to the <NODE id="407" />company<NODE id="414" />, has developed a “proprietary, turn-key, plug-and-play torrefaction system that generates up to 15,000 metric tons of bio coal product per module per year, and simultaneously <NODE id="590" />generates<NODE id="599" /> up to 1.1 MWe of <NODE id="617" />green electricity<NODE id="634" /> per module.”
+A full-scale demonstration plant that utilizes the technology is located in Derby, in central England’s East Midlands, according to <NODE id="780" />CEG<NODE id="783" />.
+<NODE id="785" />Baltania OÜ<NODE id="796" /> indicated <NODE id="807" />its<NODE id="810" /> focus will be on <NODE id="828" />production<NODE id="838" /> of <NODE id="842" />biocoal pellets<NODE id="857" />, and that <NODE id="868" />its<NODE id="871" /> main customer base will consist of utility companies in the Nordic countries and central Europe. The planned output capacity of the <NODE id="1004" />plant<NODE id="1009" /> will be approximately 160,000 metric tons annually.
+The project, to be carried out in cooperation with the Estonian Ministry of the Environment, will be funded by <NODE id="1173" />Momentum Capital<NODE id="1189" /> and other investors and financial institutions, as well as a European Union NER300 grant of EUR 25 million.
+Engineering and consulting company <NODE id="1333" />Pöyry<NODE id="1338" /> will carry out a torrefaction project feasibility study on behalf of <NODE id="1408" />Baltania OÜ<NODE id="1419" />.
+<NODE id="1421" />Momentum<NODE id="1429" /> made a similar announcement of plans to invest in a Mikkeli, Finland, plant utilizing <NODE id="1516" />CEG<NODE id="1519" />’s technology in late 2016, with plans to begin construction in late 2017. Mika Hassinen, asset management director of <NODE id="1638" />Momentum Capital<NODE id="1654" />, said that plans are moving forward with the Finland plant, though slower than originally planned. “This is due to fact that not all conditions set for the investment have yet been met,” he said. “We anticipate these conditions to be fulfilled during spring 2018.”
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://biomassmagazine.com/articles/14876/dutch-firm-invests-53-million-in-estonia-biocoal-plant@2017-11-30T23:10:18.000+01:00" />
+<feature featureName="uri" featureValue="http://biomassmagazine.com/articles/14876/dutch-firm-invests-53-million-in-estonia-biocoal-plant" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="34" endPos="55" type="organization" surface="Estonia biocoal plant" />
+<Entity id="1" startPos="145" endPos="161" type="organization" surface="Momentum Capital" />
+<Entity id="2" startPos="252" endPos="265" type="organization" surface="biocoal plant" />
+<Entity id="3" startPos="298" endPos="309" type="organization" surface="Baltania OÜ" />
+<Entity id="4" startPos="350" endPos="381" type="organization" surface="Clean Electricity Generation BV" />
+<Entity id="5" startPos="407" endPos="414" type="organization" surface="company" />
+<Entity id="6" startPos="590" endPos="599" type="trigger" surface="generates" />
+<Entity id="7" startPos="617" endPos="634" type="product" surface="green electricity" />
+<Entity id="8" startPos="780" endPos="783" type="organization" surface="CEG" />
+<Entity id="9" startPos="785" endPos="796" type="organization" surface="Baltania OÜ" />
+<Entity id="10" startPos="807" endPos="810" type="organization" surface="its" />
+<Entity id="11" startPos="828" endPos="838" type="trigger" surface="production" />
+<Entity id="12" startPos="842" endPos="857" type="product" surface="biocoal pellets" />
+<Entity id="13" startPos="868" endPos="871" type="organization" surface="its" />
+<Entity id="14" startPos="1004" endPos="1009" type="organization" surface="plant" />
+<Entity id="15" startPos="1173" endPos="1189" type="organization" surface="Momentum Capital" />
+<Entity id="16" startPos="1333" endPos="1338" type="organization" surface="Pöyry" />
+<Entity id="17" startPos="1408" endPos="1419" type="organization" surface="Baltania OÜ" />
+<Entity id="18" startPos="1421" endPos="1429" type="organization" surface="Momentum" />
+<Entity id="19" startPos="1516" endPos="1519" type="organization" surface="CEG" />
+<Entity id="20" startPos="1638" endPos="1654" type="organization" surface="Momentum Capital" /></Entities><Relations>
+<Relation id="21" NAME="company_provides_product">
+<Entity id="7" label="product" />
+<Entity id="4" label="company" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="22" NAME="company_provides_product">
+<Entity id="12" label="product" />
+<Entity id="9" label="company" />
+<Entity id="11" label="trigger" />
+</Relation>
+<Relation id="23" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="17" label="target" />
+<Entity id="2" label="target" />
+<Entity id="13" label="target" />
+<Entity id="5" label="target" />
+<Entity id="9" label="target" />
+<Entity id="10" label="target" />
+<Entity id="14" label="target" />
+<Entity id="0" label="target" />
+</Relation>
+<Relation id="24" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="18" label="target" />
+<Entity id="15" label="target" />
+<Entity id="20" label="target" />
+</Relation>
+<Relation id="25" NAME="identity">
+<Entity id="4" label="source" />
+<Entity id="19" label="target" />
+<Entity id="8" label="target" />
+</Relation></Relations>
+</Document>

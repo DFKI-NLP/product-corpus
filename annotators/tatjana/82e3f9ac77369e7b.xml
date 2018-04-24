@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Calculate the profitability of <NODE id="31" />MWM<NODE id="34" /> <NODE id="35" />cogeneration power plants<NODE id="60" /> and <NODE id="65" />gas engines<NODE id="76" />.
+<NODE id="78" />MWM<NODE id="81" /> <NODE id="82" />gas engines<NODE id="93" />, <NODE id="95" />gensets<NODE id="102" />, <NODE id="104" />cogeneration<NODE id="116" />, <NODE id="118" />chp plant<NODE id="127" />, <NODE id="129" />combined heat<NODE id="142" /> and <NODE id="147" />power<NODE id="152" />
+<NODE id="153" />MWM<NODE id="156" /> is one of the world's leading brands in the market segment of highly efficient, eco-friendly <NODE id="250" />cogeneration plants<NODE id="269" /> for decentralized energy generation with combined heat and power (CHP) .  Operating under the name<NODE id="368" /> Caterpillar Energy Solutions<NODE id="397" />, the  Mannheim-based <NODE id="419" />company<NODE id="426" /> founded 1871 by Carl Benz looks back on <NODE id="467" />its<NODE id="470" /> <NODE id="471" />MWM<NODE id="474" /> brand  with more than 140 years of experience in the <NODE id="528" />development<NODE id="539" /> and  <NODE id="545" />optimization of<NODE id="560" /> <NODE id="561" />gas engines<NODE id="572" /> and <NODE id="577" />power generators<NODE id="593" /> for natural gas, biogas  and other special gases.
+
+</TEXT>
+<Meta>
+<feature featureName="Publication" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/49" />
+<feature featureName="uri" featureValue="https://www.mwm.net/mwm-chp-gas-engines-gensets-cogeneration/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="31" endPos="34" type="organization" surface="MWM" />
+<Entity id="1" startPos="35" endPos="60" type="product" surface="cogeneration power plants" />
+<Entity id="2" startPos="65" endPos="76" type="product" surface="gas engines" />
+<Entity id="3" startPos="78" endPos="81" type="organization" surface="MWM" />
+<Entity id="4" startPos="82" endPos="93" type="product" surface="gas engines" />
+<Entity id="5" startPos="95" endPos="102" type="product" surface="gensets" />
+<Entity id="6" startPos="104" endPos="116" type="product" surface="cogeneration" />
+<Entity id="7" startPos="118" endPos="127" type="product" surface="chp plant" />
+<Entity id="8" startPos="129" endPos="142" type="product" surface="combined heat" />
+<Entity id="9" startPos="147" endPos="152" type="product" surface="power" />
+<Entity id="10" startPos="153" endPos="156" type="organization" surface="MWM" />
+<Entity id="11" startPos="250" endPos="269" type="product" surface="cogeneration plants" />
+<Entity id="12" startPos="368" endPos="397" type="organization" surface=" Caterpillar Energy Solutions" />
+<Entity id="13" startPos="419" endPos="426" type="organization" surface="company" />
+<Entity id="14" startPos="467" endPos="470" type="organization" surface="its" />
+<Entity id="15" startPos="471" endPos="474" type="organization" surface="MWM" />
+<Entity id="16" startPos="528" endPos="539" type="trigger" surface="development" />
+<Entity id="17" startPos="545" endPos="560" type="trigger" surface="optimization of" />
+<Entity id="18" startPos="561" endPos="572" type="product" surface="gas engines" />
+<Entity id="19" startPos="577" endPos="593" type="product" surface="power generators" /></Entities><Relations>
+<Relation id="20" NAME="company_provides_product">
+<Entity id="9" label="product" />
+<Entity id="4" label="product" />
+<Entity id="5" label="product" />
+<Entity id="8" label="product" />
+<Entity id="6" label="product" />
+<Entity id="7" label="product" />
+<Entity id="3" label="company" />
+</Relation>
+<Relation id="21" NAME="company_provides_product">
+<Entity id="19" label="product" />
+<Entity id="18" label="product" />
+<Entity id="15" label="company" />
+<Entity id="17" label="trigger" />
+<Entity id="16" label="trigger" />
+</Relation>
+<Relation id="22" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="12" label="target" />
+<Entity id="3" label="target" />
+<Entity id="13" label="target" />
+<Entity id="15" label="target" />
+<Entity id="10" label="target" />
+<Entity id="14" label="target" />
+</Relation>
+<Relation id="23" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="11" label="target" />
+<Entity id="6" label="target" />
+</Relation>
+<Relation id="24" NAME="identity">
+<Entity id="2" label="source" />
+<Entity id="4" label="target" />
+<Entity id="18" label="target" />
+</Relation></Relations>
+</Document>

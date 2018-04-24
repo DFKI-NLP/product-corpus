@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Enter the terms you wish to search for.
+Search
+<NODE id="47" />We<NODE id="49" /> are at the heart of electrifying tomorrows energy.
+Customer insights
+<NODE id="119" />GE Energy Connections<NODE id="140" /> will <NODE id="146" />deliver<NODE id="153" /> Europe’s first <NODE id="169" />MVDC link<NODE id="178" /> as part of <NODE id="190" />Scottish Power Energy Network<NODE id="219" />’s<NODE id="221" /> <NODE id="222" />Angle-DC project<NODE id="238" />
+The <NODE id="243" />Angle-DC project<NODE id="259" />, being the first of its kind, will hopefully demonstrate that using <NODE id="328" />Medium-voltage direct current<NODE id="357" /> (<NODE id="359" />MVDC<NODE id="363" />) on existing assets can be a more innovative alternative to simply building more substations along with the connecting underground cables and overhead lines. <NODE id="522" />We<NODE id="524" /> are pleased to have engaged with <NODE id="558" />GE<NODE id="560" /> who are playing a key part in the successful delivery of this important <NODE id="633" />MVDC<NODE id="637" /> trial project.
+Kevin Smith, <NODE id="666" />Future Networks<NODE id="681" /> Lead Engineer
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/67" />
+<feature featureName="uri" featureValue="http://www.gepowerconversion.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="47" endPos="49" type="organization" surface="We" />
+<Entity id="1" startPos="119" endPos="140" type="organization" surface="GE Energy Connections" />
+<Entity id="2" startPos="146" endPos="153" type="trigger" surface="deliver" />
+<Entity id="3" startPos="169" endPos="178" type="product" surface="MVDC link" />
+<Entity id="4" startPos="190" endPos="219" type="organization" surface="Scottish Power Energy Network" />
+<Entity id="5" startPos="219" endPos="221" type="trigger" surface="’s" />
+<Entity id="6" startPos="222" endPos="238" type="product" surface="Angle-DC project" />
+<Entity id="7" startPos="243" endPos="259" type="product" surface="Angle-DC project" />
+<Entity id="8" startPos="328" endPos="357" type="product" surface="Medium-voltage direct current" />
+<Entity id="9" startPos="359" endPos="363" type="product" surface="MVDC" />
+<Entity id="10" startPos="522" endPos="524" type="organization" surface="We" />
+<Entity id="11" startPos="558" endPos="560" type="organization" surface="GE" />
+<Entity id="12" startPos="633" endPos="637" type="product" surface="MVDC" />
+<Entity id="13" startPos="666" endPos="681" type="organization" surface="Future Networks" /></Entities><Relations>
+<Relation id="14" NAME="company_provides_product">
+<Entity id="3" label="product" />
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="15" NAME="company_provides_product">
+<Entity id="6" label="product" />
+<Entity id="4" label="company" />
+<Entity id="5" label="trigger" />
+</Relation>
+<Relation id="16" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="0" label="target" />
+<Entity id="11" label="target" />
+</Relation>
+<Relation id="17" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="12" label="target" />
+<Entity id="8" label="target" />
+<Entity id="9" label="target" />
+</Relation>
+<Relation id="18" NAME="identity">
+<Entity id="6" label="source" />
+<Entity id="7" label="target" />
+</Relation>
+<Relation id="19" NAME="identity">
+<Entity id="13" label="source" />
+<Entity id="10" label="target" />
+</Relation></Relations>
+</Document>

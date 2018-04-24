@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>More than 150 Years in business
+2015 marked the 150th Anniversary of the<NODE id="72" /> Bertling Group<NODE id="87" />. This video was taken during the celebrations
+in the head office in Hamburg on 15 June 2015, the <NODE id="185" />company<NODE id="192" />’s foundation day. This was great fun.
+Watch the movie
+Case Studies - <NODE id="262" />Bertling<NODE id="270" />'s expertise
+Looking for a vessel from China and Africa, the best route through the Amazon Jungle or the most effective way to track your cargo? To fully understand what <NODE id="440" />we<NODE id="442" /> could do for you, see what <NODE id="470" />we<NODE id="472" /> have done for others.
+
+</TEXT>
+<Meta>
+<feature featureName="Category" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/53" />
+<feature featureName="uri" featureValue="http://www.bertling.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="72" endPos="87" type="organization" surface=" Bertling Group" />
+<Entity id="1" startPos="185" endPos="192" type="organization" surface="company" />
+<Entity id="2" startPos="262" endPos="270" type="organization" surface="Bertling" />
+<Entity id="3" startPos="440" endPos="442" type="organization" surface="we" />
+<Entity id="4" startPos="470" endPos="472" type="organization" surface="we" /></Entities><Relations>
+<Relation id="5" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+<Entity id="3" label="target" />
+<Entity id="2" label="target" />
+<Entity id="4" label="target" />
+</Relation>
+<Relation id="6" NAME="identity">
+<Entity id="2" label="target" />
+</Relation></Relations>
+</Document>

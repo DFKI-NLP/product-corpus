@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Copyright © 1975 - 2017  <NODE id="25" />Actco General Contracting Company L.L.C<NODE id="64" />
+<NODE id="65" />Site<NODE id="69" /> <NODE id="70" />designed<NODE id="78" /> and <NODE id="83" />powered<NODE id="90" /> by <NODE id="94" />IT Department<NODE id="107" />, <NODE id="109" />Actco<NODE id="114" />. 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/4" />
+<feature featureName="uri" featureValue="http://www.actco.ae/m/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="25" endPos="64" type="organization" surface="Actco General Contracting Company L.L.C" />
+<Entity id="1" startPos="65" endPos="69" type="product" surface="Site" />
+<Entity id="2" startPos="70" endPos="78" type="trigger" surface="designed" />
+<Entity id="3" startPos="83" endPos="90" type="trigger" surface="powered" />
+<Entity id="4" startPos="94" endPos="107" type="organization" surface="IT Department" />
+<Entity id="5" startPos="109" endPos="114" type="organization" surface="Actco" /></Entities><Relations>
+<Relation id="6" NAME="company_provides_product">
+<Entity id="1" label="product" />
+<Entity id="4" label="company" />
+<Entity id="3" label="trigger" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="7" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="5" label="target" />
+</Relation></Relations>
+</Document>

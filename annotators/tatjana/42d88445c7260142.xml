@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Web ERP<NODE id="7" />
+<NODE id="8" />Arabian International Company<NODE id="37" />
+     Welcome to the <NODE id="58" />AIC<NODE id="61" /> Website. <NODE id="71" />AIC<NODE id="74" />, <NODE id="76" />Arabian International Company<NODE id="105" />, corporate headquarter is based in Jeddah, Saudi Arabia. <NODE id="163" />We<NODE id="165" /> are a leading <NODE id="180" />designer<NODE id="188" />, <NODE id="190" />fabricator<NODE id="200" /> and          <NODE id="214" />erector of<NODE id="224" /> <NODE id="225" />Structural Steel<NODE id="241" />, <NODE id="243" />Process Equipment<NODE id="260" />, <NODE id="262" />Plate Work<NODE id="272" />, <NODE id="274" />Storage Tanks<NODE id="287" />, <NODE id="289" />Pipe Spools<NODE id="300" /> and <NODE id="305" />Towers<NODE id="311" /> with state of the art fabrication facilities in Saudi Arabia,          United Arab Emirates, United Kingdom and China in addition to two dedicated engineering offices in Egypt &amp; Jordan. <NODE id="498" />AIC<NODE id="501" /> is also a part of the <NODE id="524" />Attieh Group<NODE id="536" /> based          in Saudi Arabia, <NODE id="569" />which<NODE id="574" /> was founded in 1956.
+      <NODE id="602" />AIC<NODE id="605" /> is managed by dedicated and qualified professionals, who are committed to               understanding and serving the needs of <NODE id="733" />our<NODE id="736" /> clients. <NODE id="746" />AIC<NODE id="749" /> is known for the               quality of <NODE id="792" />its<NODE id="795" /> <NODE id="796" />products<NODE id="804" /> and <NODE id="809" />services<NODE id="817" /> and for <NODE id="826" />its<NODE id="829" /> attention to <NODE id="843" />safety<NODE id="849" /> and <NODE id="854" />we<NODE id="856" /> are determined to maintain <NODE id="884" />our<NODE id="887" /> high standards through continuous improvement               of processes and procedures. <NODE id="977" />Our<NODE id="980" /> organization and plants are quality certified ( ISO 9001, ISO14001 &amp; OHSAS18001 ) and operate and certified according to               best business practices ( <NODE id="1142" />AISC<NODE id="1146" />, FCP to AWS1.1, AWS1.8 &amp; BS5950, <NODE id="1180" />ASME<NODE id="1184" /> A/ U/ S/ PP).
+     <NODE id="1204" />AIC<NODE id="1207" /> has been serving the needs of the Oil and Gas, Refining, Petrochemical, Power, Smelting, Steel,               Cement, Desalination and other industrial and commercial projects since 1994 supported by more than 5,700 employees and a large fleet of Equipment.               The <NODE id="1484" />Company<NODE id="1491" /> is structured into five main divisions: <NODE id="1532" />Structural Steel<NODE id="1548" />, <NODE id="1550" />Tower<NODE id="1555" /> &amp; <NODE id="1558" />Galvanizing<NODE id="1569" />, <NODE id="1571" />Construction<NODE id="1583" />, <NODE id="1585" />Transport<NODE id="1594" /> &amp; <NODE id="1597" />Heavy Equipment<NODE id="1612" />, and <NODE id="1618" />Platework<NODE id="1627" /> &amp; <NODE id="1630" />Piping<NODE id="1636" />.
+       High quality, timely delivery and satisfied customers have been the key to <NODE id="1720" />our<NODE id="1723" /> success.              <NODE id="1746" />We<NODE id="1748" /> have worked hard to establish a long-term business relationship with <NODE id="1818" />our<NODE id="1821" /> customers who have responded by coming back repeatedly for             their project requirements. If you are one of these customers, welcome back. If you have not previously worked with <NODE id="2009" />AIC<NODE id="2012" /> , <NODE id="2015" />we<NODE id="2017" /> would be delighted to             hear from you and look forward to serving you.
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="Category" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/22" />
+<feature featureName="uri" featureValue="http://www.aicsteel.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="product" surface="Web ERP" />
+<Entity id="1" startPos="8" endPos="37" type="organization" surface="Arabian International Company" />
+<Entity id="2" startPos="58" endPos="61" type="organization" surface="AIC" />
+<Entity id="3" startPos="71" endPos="74" type="organization" surface="AIC" />
+<Entity id="4" startPos="76" endPos="105" type="organization" surface="Arabian International Company" />
+<Entity id="5" startPos="163" endPos="165" type="organization" surface="We" />
+<Entity id="6" startPos="180" endPos="188" type="trigger" surface="designer" />
+<Entity id="7" startPos="190" endPos="200" type="trigger" surface="fabricator" />
+<Entity id="8" startPos="214" endPos="224" type="trigger" surface="erector of" />
+<Entity id="9" startPos="225" endPos="241" type="product" surface="Structural Steel" />
+<Entity id="10" startPos="243" endPos="260" type="product" surface="Process Equipment" />
+<Entity id="11" startPos="262" endPos="272" type="product" surface="Plate Work" />
+<Entity id="12" startPos="274" endPos="287" type="product" surface="Storage Tanks" />
+<Entity id="13" startPos="289" endPos="300" type="product" surface="Pipe Spools" />
+<Entity id="14" startPos="305" endPos="311" type="product" surface="Towers" />
+<Entity id="15" startPos="498" endPos="501" type="organization" surface="AIC" />
+<Entity id="16" startPos="524" endPos="536" type="organization" surface="Attieh Group" />
+<Entity id="17" startPos="569" endPos="574" type="organization" surface="which" />
+<Entity id="18" startPos="602" endPos="605" type="organization" surface="AIC" />
+<Entity id="19" startPos="733" endPos="736" type="organization" surface="our" />
+<Entity id="20" startPos="746" endPos="749" type="organization" surface="AIC" />
+<Entity id="21" startPos="792" endPos="795" type="trigger" surface="its" />
+<Entity id="22" startPos="796" endPos="804" type="product" surface="products" />
+<Entity id="23" startPos="809" endPos="817" type="product" surface="services" />
+<Entity id="24" startPos="826" endPos="829" type="trigger" surface="its" />
+<Entity id="25" startPos="843" endPos="849" type="product" surface="safety" />
+<Entity id="26" startPos="854" endPos="856" type="organization" surface="we" />
+<Entity id="27" startPos="884" endPos="887" type="organization" surface="our" />
+<Entity id="28" startPos="977" endPos="980" type="organization" surface="Our" />
+<Entity id="29" startPos="1142" endPos="1146" type="organization" surface="AISC" />
+<Entity id="30" startPos="1180" endPos="1184" type="organization" surface="ASME" />
+<Entity id="31" startPos="1204" endPos="1207" type="organization" surface="AIC" />
+<Entity id="32" startPos="1484" endPos="1491" type="organization" surface="Company" />
+<Entity id="33" startPos="1532" endPos="1548" type="product" surface="Structural Steel" />
+<Entity id="34" startPos="1550" endPos="1555" type="product" surface="Tower" />
+<Entity id="35" startPos="1558" endPos="1569" type="product" surface="Galvanizing" />
+<Entity id="36" startPos="1571" endPos="1583" type="product" surface="Construction" />
+<Entity id="37" startPos="1585" endPos="1594" type="product" surface="Transport" />
+<Entity id="38" startPos="1597" endPos="1612" type="product" surface="Heavy Equipment" />
+<Entity id="39" startPos="1618" endPos="1627" type="product" surface="Platework" />
+<Entity id="40" startPos="1630" endPos="1636" type="product" surface="Piping" />
+<Entity id="41" startPos="1720" endPos="1723" type="organization" surface="our" />
+<Entity id="42" startPos="1746" endPos="1748" type="organization" surface="We" />
+<Entity id="43" startPos="1818" endPos="1821" type="organization" surface="our" />
+<Entity id="44" startPos="2009" endPos="2012" type="organization" surface="AIC" />
+<Entity id="45" startPos="2015" endPos="2017" type="organization" surface="we" /></Entities><Relations>
+<Relation id="46" NAME="company_provides_product">
+<Entity id="13" label="product" />
+<Entity id="9" label="product" />
+<Entity id="12" label="product" />
+<Entity id="11" label="product" />
+<Entity id="10" label="product" />
+<Entity id="14" label="product" />
+<Entity id="5" label="company" />
+<Entity id="7" label="trigger" />
+<Entity id="8" label="trigger" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="47" NAME="company_provides_product">
+<Entity id="23" label="product" />
+<Entity id="22" label="product" />
+<Entity id="25" label="product" />
+<Entity id="20" label="company" />
+<Entity id="24" label="trigger" />
+<Entity id="21" label="trigger" />
+</Relation>
+<Relation id="48" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="4" label="target" />
+<Entity id="32" label="target" />
+<Entity id="2" label="target" />
+<Entity id="21" label="target" />
+<Entity id="41" label="target" />
+<Entity id="20" label="target" />
+<Entity id="31" label="target" />
+<Entity id="3" label="target" />
+<Entity id="5" label="target" />
+<Entity id="28" label="target" />
+<Entity id="24" label="target" />
+<Entity id="43" label="target" />
+<Entity id="45" label="target" />
+<Entity id="42" label="target" />
+<Entity id="44" label="target" />
+<Entity id="26" label="target" />
+<Entity id="15" label="target" />
+<Entity id="18" label="target" />
+</Relation>
+<Relation id="49" NAME="identity">
+<Entity id="16" label="source" />
+<Entity id="17" label="target" />
+</Relation>
+<Relation id="50" NAME="member_of_group">
+<Entity id="15" label="member" />
+<Entity id="16" label="group" />
+</Relation></Relations>
+</Document>

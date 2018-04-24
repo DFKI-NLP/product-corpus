@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />BETO<NODE id="4" /> launches new <NODE id="18" />Feedstock-Conversion Interface Consortium<NODE id="59" />.
+
+<NODE id="62" />BETO<NODE id="66" /> launches new <NODE id="80" />Feedstock-Conversion Interface Consortium<NODE id="121" />
+By <NODE id="125" />U.S. Department of Energy<NODE id="150" />   | November 30, 2017
+The<NODE id="176" /> U.S. Department of Energy<NODE id="202" />’s<NODE id="204" /> <NODE id="205" />Bioenergy Technologies Office<NODE id="234" /> is proud to announce the establishment of the  <NODE id="282" />Feedstock-Conversion Interface Consortium<NODE id="323" /> —a <NODE id="327" />research and development consortium<NODE id="362" /> dedicated to identifying and overcoming technical uncertainty in <NODE id="428" />research<NODE id="436" /> and <NODE id="441" />development<NODE id="452" /> of <NODE id="456" />robust biomass supply<NODE id="477" />, <NODE id="479" />preprocessing<NODE id="492" />, and <NODE id="498" />conversion technologies<NODE id="521" />. 
+The goal of the <NODE id="540" />consortium<NODE id="550" /> is to improve the overall operational reliability of integrated biorefineries (IBRs). <NODE id="637" />BETO<NODE id="641" /> has identified inconsistent feeding, handling, and initial conversion operations at IBRs as limiting factors in the conversion of lignocellulosic biomass to <NODE id="799" />fuels<NODE id="804" /> and <NODE id="809" />chemicals<NODE id="818" />. IBR development and operation have suffered from failure to account for the complexity and variability of feedstock properties and composition and from a lack of fundamental understanding of the physics and chemistry of biomass-derived feedstock preprocessing and subsequent deconstruction, combined with poor equipment design and flawed integration. Solving this significant current challenge is essential for advanced <NODE id="1240" />biofuels<NODE id="1248" /> to fully reach <NODE id="1264" />their<NODE id="1269" /> potential and for the economic benefits of new jobs and improved security of <NODE id="1347" />our<NODE id="1350" /> fuel supply to be realized. 
+<NODE id="1380" />FCIC<NODE id="1384" /> will address the operational reliability challenges that are relevant to industry through a concerted coordination of research efforts among eight national laboratories. This strategic coordination of national laboratory expertise and equipment will increase innovation and accelerate advancements in technology that will be beneficial to the emerging U.S. bioeconomy and to <NODE id="1760" />BETO<NODE id="1764" />’s goals, as shown in the <NODE id="1790" />BETO<NODE id="1794" />  Multi-Year Program Plan . 
+<NODE id="1823" />FCIC<NODE id="1827" /> is led by  <NODE id="1839" />Idaho National Laboratory<NODE id="1864" />  and the  <NODE id="1875" />National Renewable Energy Laboratory <NODE id="1912" />. Other national laboratories included in the consortium are <NODE id="1973" />Argonne National Laboratory<NODE id="2000" />, <NODE id="2002" />Los Alamos National Laboratory<NODE id="2032" />, <NODE id="2034" />Lawrence Berkeley National Laboratory<NODE id="2071" />, <NODE id="2073" />Oak Ridge National Laboratory<NODE id="2102" />, <NODE id="2104" />Pacific Northwest National Laboratory<NODE id="2141" />, and <NODE id="2147" />Sandia National Laboratories<NODE id="2175" />. In addition to a leadership team and a technical advisory board composed of industrial and academic stakeholders, <NODE id="2291" />FCIC<NODE id="2295" /> is made up of the following five technical and analysis teams: (1) Feedstock Variability and Specification Development, (2) Feedstock Physical Performance Modeling, (3) Process Integration, (4) System-Wide Throughput Analysis, and (5) Process Control and Optimization. 
+<NODE id="2566" />FCIC<NODE id="2570" /> will be officially launched with a kickoff meeting on Dec. 11 at <NODE id="2636" />NREL<NODE id="2640" />, where <NODE id="2648" />BETO<NODE id="2652" /> will provide industry and academic stakeholders with a summary of the consortium’s intended research and development efforts, primary focus areas, and target goals. Attendees will also review the <NODE id="2849" />FCIC<NODE id="2853" /> portfolio and research direction and provide valuable inputs and recommendations to ensure the <NODE id="2949" />FCIC<NODE id="2953" /> is focused on solving impactful, industry-relevant problems.
+<NODE id="3015" />FCIC<NODE id="3019" /> is part of <NODE id="3031" />BETO<NODE id="3035" />’s  Feedstock Supply and Logistics Program ,  Conversion Research and Development Program , and  Advanced Development and Optimization Program , which together fund projects to (1) develop economically, environmentally, and socially sustainable feedstocks for conversion to bioenergy; (2) develop technologies for converting lignocellulosic feedstocks into viable biofuels and bioproducts; and (3) reduce bioenergy production technology uncertainties. These efforts will help the United States move toward an affordable and resilient bioeconomy. For more information, visit the  <NODE id="3614" />FCIC<NODE id="3618" /> website .
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="Author" featureValue="" />
+<feature featureName="Category" featureValue="" />
+<feature featureName="Publication" featureValue="" />
+<feature featureName="id" featureValue="http://biomassmagazine.com/articles/14874/beto-launches-new-feedstock-conversion-interface-consortium@2017-11-30T23:04:47.000+01:00" />
+<feature featureName="uri" featureValue="http://biomassmagazine.com/articles/14874/beto-launches-new-feedstock-conversion-interface-consortium" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="organization" surface="BETO" />
+<Entity id="1" startPos="18" endPos="59" type="organization" surface="Feedstock-Conversion Interface Consortium" />
+<Entity id="2" startPos="62" endPos="66" type="organization" surface="BETO" />
+<Entity id="3" startPos="80" endPos="121" type="organization" surface="Feedstock-Conversion Interface Consortium" />
+<Entity id="4" startPos="125" endPos="150" type="organization" surface="U.S. Department of Energy" />
+<Entity id="5" startPos="176" endPos="202" type="organization" surface=" U.S. Department of Energy" />
+<Entity id="6" startPos="202" endPos="204" type="trigger" surface="’s" />
+<Entity id="7" startPos="205" endPos="234" type="organization" surface="Bioenergy Technologies Office" />
+<Entity id="8" startPos="282" endPos="323" type="organization" surface="Feedstock-Conversion Interface Consortium" />
+<Entity id="9" startPos="327" endPos="362" type="organization" surface="research and development consortium" />
+<Entity id="10" startPos="428" endPos="436" type="trigger" surface="research" />
+<Entity id="11" startPos="441" endPos="452" type="trigger" surface="development" />
+<Entity id="12" startPos="456" endPos="477" type="product" surface="robust biomass supply" />
+<Entity id="13" startPos="479" endPos="492" type="product" surface="preprocessing" />
+<Entity id="14" startPos="498" endPos="521" type="product" surface="conversion technologies" />
+<Entity id="15" startPos="540" endPos="550" type="organization" surface="consortium" />
+<Entity id="16" startPos="637" endPos="641" type="organization" surface="BETO" />
+<Entity id="17" startPos="799" endPos="804" type="product" surface="fuels" />
+<Entity id="18" startPos="809" endPos="818" type="product" surface="chemicals" />
+<Entity id="19" startPos="1240" endPos="1248" type="product" surface="biofuels" />
+<Entity id="20" startPos="1264" endPos="1269" type="product" surface="their" />
+<Entity id="21" startPos="1347" endPos="1350" type="organization" surface="our" />
+<Entity id="22" startPos="1380" endPos="1384" type="organization" surface="FCIC" />
+<Entity id="23" startPos="1760" endPos="1764" type="organization" surface="BETO" />
+<Entity id="24" startPos="1790" endPos="1794" type="organization" surface="BETO" />
+<Entity id="25" startPos="1823" endPos="1827" type="organization" surface="FCIC" />
+<Entity id="26" startPos="1839" endPos="1864" type="organization" surface="Idaho National Laboratory" />
+<Entity id="27" startPos="1875" endPos="1912" type="organization" surface="National Renewable Energy Laboratory " />
+<Entity id="28" startPos="1973" endPos="2000" type="organization" surface="Argonne National Laboratory" />
+<Entity id="29" startPos="2002" endPos="2032" type="organization" surface="Los Alamos National Laboratory" />
+<Entity id="30" startPos="2034" endPos="2071" type="organization" surface="Lawrence Berkeley National Laboratory" />
+<Entity id="31" startPos="2073" endPos="2102" type="organization" surface="Oak Ridge National Laboratory" />
+<Entity id="32" startPos="2104" endPos="2141" type="organization" surface="Pacific Northwest National Laboratory" />
+<Entity id="33" startPos="2147" endPos="2175" type="organization" surface="Sandia National Laboratories" />
+<Entity id="34" startPos="2291" endPos="2295" type="organization" surface="FCIC" />
+<Entity id="35" startPos="2566" endPos="2570" type="organization" surface="FCIC" />
+<Entity id="36" startPos="2636" endPos="2640" type="organization" surface="NREL" />
+<Entity id="37" startPos="2648" endPos="2652" type="organization" surface="BETO" />
+<Entity id="38" startPos="2849" endPos="2853" type="organization" surface="FCIC" />
+<Entity id="39" startPos="2949" endPos="2953" type="organization" surface="FCIC" />
+<Entity id="40" startPos="3015" endPos="3019" type="organization" surface="FCIC" />
+<Entity id="41" startPos="3031" endPos="3035" type="organization" surface="BETO" />
+<Entity id="42" startPos="3614" endPos="3618" type="organization" surface="FCIC" /></Entities><Relations>
+<Relation id="43" NAME="company_provides_product">
+<Entity id="13" label="product" />
+<Entity id="12" label="product" />
+<Entity id="14" label="product" />
+<Entity id="8" label="company" />
+<Entity id="11" label="trigger" />
+<Entity id="10" label="trigger" />
+</Relation>
+<Relation id="44" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="37" label="target" />
+<Entity id="23" label="target" />
+<Entity id="41" label="target" />
+<Entity id="24" label="target" />
+<Entity id="16" label="target" />
+<Entity id="2" label="target" />
+</Relation>
+<Relation id="45" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="39" label="target" />
+<Entity id="25" label="target" />
+<Entity id="8" label="target" />
+<Entity id="22" label="target" />
+<Entity id="40" label="target" />
+<Entity id="34" label="target" />
+<Entity id="9" label="target" />
+<Entity id="35" label="target" />
+<Entity id="38" label="target" />
+<Entity id="15" label="target" />
+<Entity id="42" label="target" />
+<Entity id="3" label="target" />
+</Relation>
+<Relation id="46" NAME="identity">
+<Entity id="4" label="source" />
+<Entity id="5" label="target" />
+</Relation>
+<Relation id="47" NAME="identity">
+<Entity id="19" label="source" />
+<Entity id="20" label="target" />
+</Relation>
+<Relation id="48" NAME="identity">
+<Entity id="27" label="source" />
+<Entity id="36" label="target" />
+</Relation>
+<Relation id="49" NAME="member_of_group">
+<Entity id="7" label="member" />
+<Entity id="6" label="trigger" />
+<Entity id="5" label="group" />
+</Relation>
+<Relation id="50" NAME="member_of_group">
+<Entity id="32" label="member" />
+<Entity id="30" label="member" />
+<Entity id="7" label="member" />
+<Entity id="29" label="member" />
+<Entity id="27" label="member" />
+<Entity id="28" label="member" />
+<Entity id="31" label="member" />
+<Entity id="33" label="member" />
+<Entity id="26" label="member" />
+<Entity id="5" label="group" />
+</Relation></Relations>
+</Document>

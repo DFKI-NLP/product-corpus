@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ex-North Carolina Gov. McCrory now co-hosting radio show.
+
+Ex-North Carolina Gov. McCrory now co-hosting radio show
+The <NODE id="120" />Associated Press<NODE id="136" />
+November 30, 2017 05:14 PM
+UPDATED 8 MINUTES AGO
+CHARLOTTE, N.C.
+Former North Carolina Gov. Pat McCrory is taking an expanded role on <NODE id="271" />Charlotte's airwaves<NODE id="291" /> after a <NODE id="300" />radio station<NODE id="313" /> manager says his recent daily segments got an "extraordinary" response.
+The former Republican governor and <NODE id="421" />WBT radio<NODE id="430" /> personality Bo Thompson are now co-hosting a one-hour show weekday mornings. McCrory started doing early-morning spots on Thompson's other program in September, talking about the city's mayoral race and other current events.
+<NODE id="656" />WBT<NODE id="659" /> general manager Matt Hanlon tells The <NODE id="698" />Charlotte Observer<NODE id="716" /> that appearances by the ex-Charlotte mayor helped boost ratings and provided lots of feedback. The <NODE id="816" />newspaper<NODE id="825" /> says McCrory agreed after the November election to the new time slot for at least a couple of months.
+McCrory narrowly lost to Democrat Roy Cooper last year. He hasn't ruled out running again for governor in 2020.
+Never miss a local story.
+Sign up today for unlimited digital access to our website, apps, the digital newspaper and more.
+
+</TEXT>
+<Meta>
+<feature featureName="Category" featureValue="" />
+<feature featureName="id" featureValue="http://www.heraldonline.com/entertainment/article187399063.html@2017-11-30T23:14:35.000+01:00" />
+<feature featureName="uri" featureValue="http://www.heraldonline.com/entertainment/article187399063.html" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="120" endPos="136" type="organization" surface="Associated Press" />
+<Entity id="1" startPos="271" endPos="291" type="organization" surface="Charlotte's airwaves" />
+<Entity id="2" startPos="300" endPos="313" type="organization" surface="radio station" />
+<Entity id="3" startPos="421" endPos="430" type="organization" surface="WBT radio" />
+<Entity id="4" startPos="656" endPos="659" type="organization" surface="WBT" />
+<Entity id="5" startPos="698" endPos="716" type="product" surface="Charlotte Observer" />
+<Entity id="6" startPos="816" endPos="825" type="product" surface="newspaper" /></Entities><Relations>
+<Relation id="7" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="2" label="target" />
+<Entity id="3" label="target" />
+<Entity id="4" label="target" />
+</Relation>
+<Relation id="8" NAME="identity">
+<Entity id="5" label="source" />
+<Entity id="6" label="target" />
+</Relation></Relations>
+</Document>

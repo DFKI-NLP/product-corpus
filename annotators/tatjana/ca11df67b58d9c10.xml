@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Are you interested in developing a renewable energy project to benefit your community but don’t know where to start?
+Are you struggling to find the time to move a project forward?
+<NODE id="180" />We<NODE id="182" /> <NODE id="183" />offer<NODE id="188" /> a unified <NODE id="199" />project management<NODE id="217" /> service to <NODE id="229" />community<NODE id="238" /> groups and members.
+<NODE id="259" />We<NODE id="261" /> have 400 <NODE id="271" />Community<NODE id="280" /> Members across Scotland. Find who's near you by exploring the interactive map .
+
+</TEXT>
+<Meta>
+<feature featureName="Author" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/48" />
+<feature featureName="uri" featureValue="http://www.communityenergyscotland.org.uk/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="180" endPos="182" type="organization" surface="We" />
+<Entity id="1" startPos="183" endPos="188" type="trigger" surface="offer" />
+<Entity id="2" startPos="199" endPos="217" type="product" surface="project management" />
+<Entity id="3" startPos="229" endPos="238" type="organization" surface="community" />
+<Entity id="4" startPos="259" endPos="261" type="organization" surface="We" />
+<Entity id="5" startPos="271" endPos="280" type="organization" surface="Community" /></Entities><Relations>
+<Relation id="6" NAME="company_provides_product">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="7" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="5" label="target" />
+<Entity id="3" label="target" />
+<Entity id="4" label="target" />
+</Relation></Relations>
+</Document>

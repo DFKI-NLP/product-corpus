@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> 
+ 
+<NODE id="4" />IS International Services LLC<NODE id="33" /> (<NODE id="35" />IS<NODE id="37" />)  is a uniquely qualified <NODE id="64" />business<NODE id="72" /> <NODE id="73" />providing<NODE id="82" /> <NODE id="83" />engineering services<NODE id="103" /> and <NODE id="108" />outsourced project support<NODE id="134" /> or <NODE id="138" />personnel support<NODE id="155" />. <NODE id="157" />We<NODE id="159" /> <NODE id="160" />offer<NODE id="165" /> both <NODE id="171" />engineering<NODE id="182" /> and <NODE id="187" />project consulting services<NODE id="214" />.
+On the <NODE id="223" />engineering<NODE id="234" /> front <NODE id="241" />we<NODE id="243" /> <NODE id="244" />provide<NODE id="251" /> <NODE id="252" />control system hardware<NODE id="275" />, <NODE id="277" />software design<NODE id="292" />, along with <NODE id="305" />I&amp;C<NODE id="308" /> and <NODE id="313" />electrical design services<NODE id="339" /> on a T&amp;M or fixed price structure. <NODE id="375" />We<NODE id="377" /> <NODE id="378" />specialize<NODE id="388" /> in <NODE id="392" />system integration including PLC<NODE id="424" /> and <NODE id="429" />DCS programming<NODE id="444" /> with expertise in many different platforms. <NODE id="489" />Our<NODE id="492" /> process <NODE id="501" />experience<NODE id="511" /> ranges from <NODE id="524" />power generation<NODE id="540" />, <NODE id="542" />power transmission<NODE id="560" />, <NODE id="562" />factory automation<NODE id="580" />, to <NODE id="585" />oil<NODE id="588" /> and <NODE id="593" />gas process automation<NODE id="615" />. <NODE id="617" />Our<NODE id="620" /> low overhead structure allows <NODE id="651" />us<NODE id="653" /> to <NODE id="657" />deliver<NODE id="664" /> top notch <NODE id="675" />engineering<NODE id="686" /> at very competitive pricing.
+As a <NODE id="721" />provider<NODE id="729" /> of <NODE id="733" />high<NODE id="737" /> end <NODE id="742" />engineering personnel<NODE id="763" />, <NODE id="765" />we<NODE id="767" /> <NODE id="768" />specialize<NODE id="778" /> in both direct hire <NODE id="799" />talent search<NODE id="812" /> and <NODE id="817" />project consulting services<NODE id="844" />. <NODE id="846" />Our<NODE id="849" /> model is unique in that <NODE id="874" />our<NODE id="877" /> recruiters, account managers, and executive management are all engineers. <NODE id="952" />We<NODE id="954" /> have PMP certified project managers as well. This unique structure allows <NODE id="1029" />us<NODE id="1031" /> to screen candidates to a higher degree of resolution which equates into fewer submissions of candidate to your hiring managers. This ensures you evaluate only qualified candidates instead of piles of resumes. The streamlined process empowers you to focus on your core business rather than searching for talent.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/1" />
+<feature featureName="uri" featureValue="http://www.is-international.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="33" type="organization" surface="IS International Services LLC" />
+<Entity id="1" startPos="35" endPos="37" type="organization" surface="IS" />
+<Entity id="2" startPos="64" endPos="72" type="organization" surface="business" />
+<Entity id="3" startPos="73" endPos="82" type="trigger" surface="providing" />
+<Entity id="4" startPos="83" endPos="103" type="product" surface="engineering services" />
+<Entity id="5" startPos="108" endPos="134" type="product" surface="outsourced project support" />
+<Entity id="6" startPos="138" endPos="155" type="product" surface="personnel support" />
+<Entity id="7" startPos="157" endPos="159" type="organization" surface="We" />
+<Entity id="8" startPos="160" endPos="165" type="trigger" surface="offer" />
+<Entity id="9" startPos="171" endPos="182" type="product" surface="engineering" />
+<Entity id="10" startPos="187" endPos="214" type="product" surface="project consulting services" />
+<Entity id="11" startPos="223" endPos="234" type="product" surface="engineering" />
+<Entity id="12" startPos="241" endPos="243" type="organization" surface="we" />
+<Entity id="13" startPos="244" endPos="251" type="trigger" surface="provide" />
+<Entity id="14" startPos="252" endPos="275" type="product" surface="control system hardware" />
+<Entity id="15" startPos="277" endPos="292" type="product" surface="software design" />
+<Entity id="16" startPos="305" endPos="308" type="product" surface="I&amp;C" />
+<Entity id="17" startPos="313" endPos="339" type="product" surface="electrical design services" />
+<Entity id="18" startPos="375" endPos="377" type="organization" surface="We" />
+<Entity id="19" startPos="378" endPos="388" type="trigger" surface="specialize" />
+<Entity id="20" startPos="392" endPos="424" type="product" surface="system integration including PLC" />
+<Entity id="21" startPos="429" endPos="444" type="product" surface="DCS programming" />
+<Entity id="22" startPos="489" endPos="492" type="organization" surface="Our" />
+<Entity id="23" startPos="501" endPos="511" type="trigger" surface="experience" />
+<Entity id="24" startPos="524" endPos="540" type="product" surface="power generation" />
+<Entity id="25" startPos="542" endPos="560" type="product" surface="power transmission" />
+<Entity id="26" startPos="562" endPos="580" type="product" surface="factory automation" />
+<Entity id="27" startPos="585" endPos="588" type="product" surface="oil" />
+<Entity id="28" startPos="593" endPos="615" type="product" surface="gas process automation" />
+<Entity id="29" startPos="617" endPos="620" type="organization" surface="Our" />
+<Entity id="30" startPos="651" endPos="653" type="organization" surface="us" />
+<Entity id="31" startPos="657" endPos="664" type="trigger" surface="deliver" />
+<Entity id="32" startPos="675" endPos="686" type="product" surface="engineering" />
+<Entity id="33" startPos="721" endPos="729" type="trigger" surface="provider" />
+<Entity id="34" startPos="733" endPos="737" type="product" surface="high" />
+<Entity id="35" startPos="742" endPos="763" type="product" surface="engineering personnel" />
+<Entity id="36" startPos="765" endPos="767" type="organization" surface="we" />
+<Entity id="37" startPos="768" endPos="778" type="trigger" surface="specialize" />
+<Entity id="38" startPos="799" endPos="812" type="product" surface="talent search" />
+<Entity id="39" startPos="817" endPos="844" type="product" surface="project consulting services" />
+<Entity id="40" startPos="846" endPos="849" type="organization" surface="Our" />
+<Entity id="41" startPos="874" endPos="877" type="organization" surface="our" />
+<Entity id="42" startPos="952" endPos="954" type="organization" surface="We" />
+<Entity id="43" startPos="1029" endPos="1031" type="organization" surface="us" /></Entities><Relations>
+<Relation id="44" NAME="company_provides_product">
+<Entity id="5" label="product" />
+<Entity id="6" label="product" />
+<Entity id="4" label="product" />
+<Entity id="2" label="company" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="45" NAME="company_provides_product">
+<Entity id="10" label="product" />
+<Entity id="9" label="product" />
+<Entity id="7" label="company" />
+<Entity id="8" label="trigger" />
+</Relation>
+<Relation id="46" NAME="company_provides_product">
+<Entity id="10" label="product" />
+<Entity id="9" label="product" />
+<Entity id="7" label="company" />
+</Relation>
+<Relation id="47" NAME="company_provides_product">
+<Entity id="14" label="product" />
+<Entity id="16" label="product" />
+<Entity id="17" label="product" />
+<Entity id="15" label="product" />
+<Entity id="12" label="company" />
+<Entity id="13" label="trigger" />
+</Relation>
+<Relation id="48" NAME="company_provides_product">
+<Entity id="20" label="product" />
+<Entity id="21" label="product" />
+<Entity id="18" label="company" />
+<Entity id="19" label="trigger" />
+</Relation>
+<Relation id="49" NAME="company_provides_product">
+<Entity id="24" label="product" />
+<Entity id="26" label="product" />
+<Entity id="27" label="product" />
+<Entity id="28" label="product" />
+<Entity id="25" label="product" />
+<Entity id="22" label="company" />
+<Entity id="23" label="trigger" />
+</Relation>
+<Relation id="50" NAME="company_provides_product">
+<Entity id="32" label="product" />
+<Entity id="30" label="company" />
+<Entity id="31" label="trigger" />
+</Relation>
+<Relation id="51" NAME="company_provides_product">
+<Entity id="34" label="product" />
+<Entity id="35" label="product" />
+<Entity id="36" label="company" />
+<Entity id="33" label="trigger" />
+</Relation>
+<Relation id="52" NAME="company_provides_product">
+<Entity id="38" label="product" />
+<Entity id="39" label="product" />
+<Entity id="36" label="company" />
+<Entity id="37" label="trigger" />
+</Relation>
+<Relation id="53" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="22" label="target" />
+<Entity id="12" label="target" />
+<Entity id="7" label="target" />
+<Entity id="42" label="target" />
+<Entity id="41" label="target" />
+<Entity id="2" label="target" />
+<Entity id="36" label="target" />
+<Entity id="29" label="target" />
+<Entity id="40" label="target" />
+<Entity id="43" label="target" />
+<Entity id="18" label="target" />
+<Entity id="30" label="target" />
+<Entity id="1" label="target" />
+</Relation>
+<Relation id="54" NAME="identity">
+<Entity id="9" label="source" />
+<Entity id="11" label="target" />
+<Entity id="32" label="target" />
+</Relation>
+<Relation id="55" NAME="identity">
+<Entity id="10" label="source" />
+<Entity id="39" label="target" />
+</Relation></Relations>
+</Document>

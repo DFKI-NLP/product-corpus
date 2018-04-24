@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Contents owned and updated by concerned Departments and coordinated  by <NODE id="72" />Information Technology Department<NODE id="105" /> Secretariat,
+Fort St. George, Chennai 600 009, Tamil Nadu, India
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/94" />
+<feature featureName="uri" featureValue="http://www.tn.gov.in/department/7" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="72" endPos="105" type="organization" surface="Information Technology Department" /></Entities><Relations />
+</Document>

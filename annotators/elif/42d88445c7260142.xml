@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Web ERP
+<NODE id="8" />Arabian International Company<NODE id="37" />
+     Welcome to the <NODE id="58" />AIC<NODE id="61" /> Website. <NODE id="71" />AIC<NODE id="74" />, <NODE id="76" />Arabian International Company<NODE id="105" />, corporate headquarter is based in Jeddah, Saudi Arabia. <NODE id="163" />We<NODE id="165" /> are a leading designer, fabricator and          erector of Structural Steel, Process Equipment, Plate Work, Storage Tanks, Pipe Spools and Towers with state of the art fabrication facilities in Saudi Arabia,          United Arab Emirates, United Kingdom and China in addition to two dedicated engineering offices in Egypt &amp; Jordan. <NODE id="498" />AIC<NODE id="501" /> is also a part of the <NODE id="524" />Attieh Group<NODE id="536" /> based          in Saudi Arabia, <NODE id="569" />which<NODE id="574" /> was founded in 1956.
+      <NODE id="602" />AIC<NODE id="605" /> is managed by dedicated and qualified professionals, who are committed to               understanding and serving the needs of <NODE id="733" />our<NODE id="736" /> clients. <NODE id="746" />AIC<NODE id="749" /> is known for the               quality of <NODE id="792" />its<NODE id="795" /> products and services and for <NODE id="826" />its<NODE id="829" /> attention to safety and <NODE id="854" />we<NODE id="856" /> are determined to maintain our high standards through continuous improvement               of processes and procedures. <NODE id="977" />Our organization<NODE id="993" /> and <NODE id="998" />plants<NODE id="1004" /> are quality certified ( ISO 9001, ISO14001 &amp; OHSAS18001 ) and operate and certified according to               best business practices ( AISC, FCP to AWS1.1, AWS1.8 &amp; BS5950, ASME A/ U/ S/ PP).
+     <NODE id="1204" />AIC<NODE id="1207" /> has been serving the needs of the Oil and Gas, Refining, Petrochemical, Power, Smelting, Steel,               Cement, Desalination and other industrial and commercial projects since 1994 supported by more than 5,700 employees and a large fleet of Equipment.               The <NODE id="1484" />Company<NODE id="1491" /> is structured into five main divisions: Structural Steel, Tower &amp; Galvanizing, Construction, Transport &amp; Heavy Equipment, and Platework &amp; Piping.
+       High quality, timely delivery and satisfied customers have been the key to <NODE id="1720" />our<NODE id="1723" /> success.              <NODE id="1746" />We<NODE id="1748" /> have worked hard to establish a long-term business relationship with <NODE id="1818" />our<NODE id="1821" /> customers who have responded by coming back repeatedly for             their project requirements. If you are one of these customers, welcome back. If you have not previously worked with <NODE id="2009" />AIC<NODE id="2012" /> , <NODE id="2015" />we<NODE id="2017" /> would be delighted to             hear from you and look forward to serving you.
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/22" />
+<feature featureName="uri" featureValue="http://www.aicsteel.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="37" type="organization" surface="Arabian International Company" />
+<Entity id="1" startPos="58" endPos="61" type="organization" surface="AIC" />
+<Entity id="2" startPos="71" endPos="74" type="organization" surface="AIC" />
+<Entity id="3" startPos="76" endPos="105" type="organization" surface="Arabian International Company" />
+<Entity id="4" startPos="163" endPos="165" type="organization" surface="We" />
+<Entity id="5" startPos="498" endPos="501" type="organization" surface="AIC" />
+<Entity id="6" startPos="524" endPos="536" type="organization" surface="Attieh Group" />
+<Entity id="7" startPos="569" endPos="574" type="organization" surface="which" />
+<Entity id="8" startPos="602" endPos="605" type="organization" surface="AIC" />
+<Entity id="9" startPos="733" endPos="736" type="organization" surface="our" />
+<Entity id="10" startPos="746" endPos="749" type="organization" surface="AIC" />
+<Entity id="11" startPos="792" endPos="795" type="organization" surface="its" />
+<Entity id="12" startPos="826" endPos="829" type="organization" surface="its" />
+<Entity id="13" startPos="854" endPos="856" type="organization" surface="we" />
+<Entity id="14" startPos="977" endPos="993" type="organization" surface="Our organization" />
+<Entity id="15" startPos="998" endPos="1004" type="organization" surface="plants" />
+<Entity id="16" startPos="1204" endPos="1207" type="organization" surface="AIC" />
+<Entity id="17" startPos="1484" endPos="1491" type="organization" surface="Company" />
+<Entity id="18" startPos="1720" endPos="1723" type="organization" surface="our" />
+<Entity id="19" startPos="1746" endPos="1748" type="organization" surface="We" />
+<Entity id="20" startPos="1818" endPos="1821" type="organization" surface="our" />
+<Entity id="21" startPos="2009" endPos="2012" type="organization" surface="AIC" />
+<Entity id="22" startPos="2015" endPos="2017" type="organization" surface="we" /></Entities><Relations>
+<Relation id="23" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="5" label="target" />
+<Entity id="17" label="target" />
+<Entity id="16" label="target" />
+<Entity id="13" label="target" />
+<Entity id="8" label="target" />
+<Entity id="3" label="target" />
+<Entity id="22" label="target" />
+<Entity id="10" label="target" />
+<Entity id="18" label="target" />
+<Entity id="2" label="target" />
+<Entity id="21" label="target" />
+<Entity id="11" label="target" />
+<Entity id="20" label="target" />
+<Entity id="12" label="target" />
+<Entity id="15" label="target" />
+<Entity id="19" label="target" />
+<Entity id="4" label="target" />
+<Entity id="1" label="target" />
+<Entity id="14" label="target" />
+<Entity id="9" label="target" />
+</Relation>
+<Relation id="24" NAME="identity">
+<Entity id="6" label="source" />
+<Entity id="7" label="target" />
+</Relation></Relations>
+</Document>

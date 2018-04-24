@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Frequently Asked Questions
+About the<NODE id="36" /> Learning Center<NODE id="52" />
+It's important to be an informed consumer for your home and family. The <NODE id="125" />Direct Energy<NODE id="138" /> <NODE id="139" />Learning Center<NODE id="154" /> is your trusted <NODE id="171" />source<NODE id="177" /> for a wide range of <NODE id="198" />home-related topics<NODE id="217" /> to help you make decisions, improve your home, and live brighter.
+Learn More
+The<NODE id="298" /> Live Brighter Blog<NODE id="317" />
+You invited <NODE id="330" />us<NODE id="332" /> into your home - the least <NODE id="360" />we<NODE id="362" /> can do is help make it a comfortable, happy space for you and your family. The <NODE id="442" />Live Brighter blog<NODE id="460" /> opens conversation on home improvement and family life, from household repairs and maintenance, to living green and saving money, to home decor, travel, and more. <NODE id="624" />We<NODE id="626" />'re here to talk about what matters most.
+
+</TEXT>
+<Meta>
+<feature featureName="Publication" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/96" />
+<feature featureName="uri" featureValue="https://www.directenergy.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="36" endPos="52" type="organization" surface=" Learning Center" />
+<Entity id="1" startPos="125" endPos="138" type="organization" surface="Direct Energy" />
+<Entity id="2" startPos="139" endPos="154" type="organization" surface="Learning Center" />
+<Entity id="3" startPos="171" endPos="177" type="trigger" surface="source" />
+<Entity id="4" startPos="198" endPos="217" type="product" surface="home-related topics" />
+<Entity id="5" startPos="298" endPos="317" type="organization" surface=" Live Brighter Blog" />
+<Entity id="6" startPos="330" endPos="332" type="organization" surface="us" />
+<Entity id="7" startPos="360" endPos="362" type="organization" surface="we" />
+<Entity id="8" startPos="442" endPos="460" type="organization" surface="Live Brighter blog" />
+<Entity id="9" startPos="624" endPos="626" type="organization" surface="We" /></Entities><Relations>
+<Relation id="10" NAME="company_provides_product">
+<Entity id="4" label="product" />
+<Entity id="2" label="company" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="11" NAME="identity">
+<Entity id="2" label="source" />
+<Entity id="0" label="target" />
+</Relation>
+<Relation id="12" NAME="identity">
+<Entity id="5" label="source" />
+<Entity id="8" label="target" />
+<Entity id="9" label="target" />
+<Entity id="6" label="target" />
+<Entity id="7" label="target" />
+</Relation>
+<Relation id="13" NAME="member_of_group">
+<Entity id="8" label="member" />
+<Entity id="0" label="member" />
+<Entity id="1" label="group" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Atmos Energy<NODE id="12" /> is engaged in regulated utility operations.
+2017 <NODE id="62" />Atmos Energy Corporation<NODE id="86" />. All Rights Reserved.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/25" />
+<feature featureName="uri" featureValue="https://atmosenergy.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="organization" surface="Atmos Energy" />
+<Entity id="1" startPos="62" endPos="86" type="organization" surface="Atmos Energy Corporation" /></Entities><Relations>
+<Relation id="2" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+</Relation></Relations>
+</Document>

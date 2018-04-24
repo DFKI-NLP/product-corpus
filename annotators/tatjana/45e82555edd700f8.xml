@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Read about <NODE id="11" />Harvey Norman Holdings<NODE id="33" />
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/79" />
+<feature featureName="uri" featureValue="http://www.harveynormanholdings.com.au/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="11" endPos="33" type="organization" surface="Harvey Norman Holdings" /></Entities><Relations />
+</Document>

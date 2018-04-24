@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Close
+<NODE id="6" />ONE BRAND<NODE id="15" />, NEW FOCUS
+Bringing together <NODE id="45" />Mighty River Power<NODE id="63" /> and <NODE id="68" />Mercury Energy<NODE id="82" /> under an exciting new <NODE id="105" />Mercury<NODE id="112" /> brand will allow <NODE id="130" />us<NODE id="132" /> to focus on what matters most – inspiring and rewarding <NODE id="189" />our<NODE id="192" /> customers and owners.
+Curious about <NODE id="229" />our<NODE id="232" /> new look?
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/87" />
+<feature featureName="uri" featureValue="https://www.mercury.co.nz/About" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="15" type="organization" surface="ONE BRAND" />
+<Entity id="1" startPos="45" endPos="63" type="organization" surface="Mighty River Power" />
+<Entity id="2" startPos="68" endPos="82" type="organization" surface="Mercury Energy" />
+<Entity id="3" startPos="105" endPos="112" type="organization" surface="Mercury" />
+<Entity id="4" startPos="130" endPos="132" type="organization" surface="us" />
+<Entity id="5" startPos="189" endPos="192" type="organization" surface="our" />
+<Entity id="6" startPos="229" endPos="232" type="organization" surface="our" /></Entities><Relations>
+<Relation id="7" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="3" label="target" />
+<Entity id="5" label="target" />
+<Entity id="4" label="target" />
+<Entity id="6" label="target" />
+</Relation>
+<Relation id="8" NAME="member_of_group">
+<Entity id="1" label="member" />
+<Entity id="2" label="member" />
+<Entity id="3" label="group" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Dutch firm<NODE id="10" /> invests $53 million in <NODE id="34" />Estonia biocoal plant<NODE id="55" />.
+
+By Anna Simet | November 30, 2017
+A subsidiary of<NODE id="107" /> Dutch private equity investment firm<NODE id="144" /> <NODE id="145" />Momentum Capital<NODE id="161" /> has made a conditional investment of EUR 45 million ($53 million) in the <NODE id="235" />development<NODE id="246" /> of a <NODE id="252" />biocoal plant<NODE id="265" /> to be built in Vägari, Estonia.
+<NODE id="298" />Baltania OÜ<NODE id="309" />’s<NODE id="311" /> <NODE id="312" />facility<NODE id="320" /> will utilize technology from <NODE id="350" />Clean Electricity Generation BV<NODE id="381" />, <NODE id="383" />which<NODE id="388" />, according to the <NODE id="407" />company<NODE id="414" />, has <NODE id="420" />developed<NODE id="429" /> a “proprietary, turn-key, plug-and-play <NODE id="470" />torrefaction system<NODE id="489" /> <NODE id="490" />that<NODE id="494" /> generates up to 15,000 metric tons of bio coal product per module per year, and simultaneously generates up to 1.1 MWe of green electricity per module.”
+A full-scale <NODE id="661" />demonstration plant<NODE id="680" /> that utilizes the technology is located in Derby, in central England’s East Midlands, according to <NODE id="780" />CEG<NODE id="783" />.
+<NODE id="785" />Baltania OÜ<NODE id="796" /> indicated <NODE id="807" />its<NODE id="810" /> focus will be on <NODE id="828" />production<NODE id="838" /> of <NODE id="842" />biocoal pellets<NODE id="857" />, and that <NODE id="868" />its<NODE id="871" /> main customer base will consist of utility companies in the Nordic countries and central Europe. The planned output capacity of the <NODE id="1004" />plant<NODE id="1009" /> will be approximately 160,000 metric tons annually.
+The <NODE id="1066" />project<NODE id="1073" />, to be carried out in cooperation with the <NODE id="1117" />Estonian Ministry of the Environment<NODE id="1153" />, will be funded by <NODE id="1173" />Momentum Capital<NODE id="1189" /> and other investors and financial institutions, as well as a <NODE id="1251" />European Union<NODE id="1265" /> <NODE id="1266" />NER300 grant<NODE id="1278" /> of EUR 25 million.
+<NODE id="1298" />Engineering<NODE id="1309" /> and <NODE id="1314" />consulting<NODE id="1324" /> <NODE id="1325" />company<NODE id="1332" /> <NODE id="1333" />Pöyry<NODE id="1338" /> will carry out a torrefaction project feasibility study on behalf of <NODE id="1408" />Baltania OÜ<NODE id="1419" />.
+<NODE id="1421" />Momentum<NODE id="1429" /> made a similar announcement of plans to invest in a <NODE id="1482" />Mikkeli<NODE id="1489" />, Finland, <NODE id="1500" />plant<NODE id="1505" /> utilizing <NODE id="1516" />CEG<NODE id="1519" />’s technology in late 2016, with plans to begin construction in late 2017. Mika Hassinen, asset management director of <NODE id="1638" />Momentum Capital<NODE id="1654" />, said that plans are moving forward with the <NODE id="1700" />Finland plant<NODE id="1713" />, though slower than originally planned. “This is due to fact that not all conditions set for the investment have yet been met,” he said. “<NODE id="1852" />We<NODE id="1854" /> anticipate these conditions to be fulfilled during spring 2018.”
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="Author" featureValue="" />
+<feature featureName="Category" featureValue="" />
+<feature featureName="id" featureValue="http://biomassmagazine.com/articles/14876/dutch-firm-invests-53-million-in-estonia-biocoal-plant@2017-11-30T23:10:18.000+01:00" />
+<feature featureName="uri" featureValue="http://biomassmagazine.com/articles/14876/dutch-firm-invests-53-million-in-estonia-biocoal-plant" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="organization" surface="Dutch firm" />
+<Entity id="1" startPos="34" endPos="55" type="product" surface="Estonia biocoal plant" />
+<Entity id="2" startPos="107" endPos="144" type="organization" surface=" Dutch private equity investment firm" />
+<Entity id="3" startPos="145" endPos="161" type="organization" surface="Momentum Capital" />
+<Entity id="4" startPos="235" endPos="246" type="trigger" surface="development" />
+<Entity id="5" startPos="252" endPos="265" type="product" surface="biocoal plant" />
+<Entity id="6" startPos="298" endPos="309" type="organization" surface="Baltania OÜ" />
+<Entity id="7" startPos="309" endPos="311" type="trigger" surface="’s" />
+<Entity id="8" startPos="312" endPos="320" type="product" surface="facility" />
+<Entity id="9" startPos="350" endPos="381" type="organization" surface="Clean Electricity Generation BV" />
+<Entity id="10" startPos="383" endPos="388" type="organization" surface="which" />
+<Entity id="11" startPos="407" endPos="414" type="organization" surface="company" />
+<Entity id="12" startPos="420" endPos="429" type="trigger" surface="developed" />
+<Entity id="13" startPos="470" endPos="489" type="product" surface="torrefaction system" />
+<Entity id="14" startPos="490" endPos="494" type="product" surface="that" />
+<Entity id="15" startPos="661" endPos="680" type="product" surface="demonstration plant" />
+<Entity id="16" startPos="780" endPos="783" type="organization" surface="CEG" />
+<Entity id="17" startPos="785" endPos="796" type="organization" surface="Baltania OÜ" />
+<Entity id="18" startPos="807" endPos="810" type="organization" surface="its" />
+<Entity id="19" startPos="828" endPos="838" type="trigger" surface="production" />
+<Entity id="20" startPos="842" endPos="857" type="product" surface="biocoal pellets" />
+<Entity id="21" startPos="868" endPos="871" type="organization" surface="its" />
+<Entity id="22" startPos="1004" endPos="1009" type="product" surface="plant" />
+<Entity id="23" startPos="1066" endPos="1073" type="product" surface="project" />
+<Entity id="24" startPos="1117" endPos="1153" type="organization" surface="Estonian Ministry of the Environment" />
+<Entity id="25" startPos="1173" endPos="1189" type="organization" surface="Momentum Capital" />
+<Entity id="26" startPos="1251" endPos="1265" type="organization" surface="European Union" />
+<Entity id="27" startPos="1266" endPos="1278" type="product" surface="NER300 grant" />
+<Entity id="28" startPos="1298" endPos="1309" type="product" surface="Engineering" />
+<Entity id="29" startPos="1314" endPos="1324" type="product" surface="consulting" />
+<Entity id="30" startPos="1325" endPos="1332" type="organization" surface="company" />
+<Entity id="31" startPos="1333" endPos="1338" type="organization" surface="Pöyry" />
+<Entity id="32" startPos="1408" endPos="1419" type="organization" surface="Baltania OÜ" />
+<Entity id="33" startPos="1421" endPos="1429" type="organization" surface="Momentum" />
+<Entity id="34" startPos="1482" endPos="1489" type="product" surface="Mikkeli" />
+<Entity id="35" startPos="1500" endPos="1505" type="product" surface="plant" />
+<Entity id="36" startPos="1516" endPos="1519" type="organization" surface="CEG" />
+<Entity id="37" startPos="1638" endPos="1654" type="organization" surface="Momentum Capital" />
+<Entity id="38" startPos="1700" endPos="1713" type="product" surface="Finland plant" />
+<Entity id="39" startPos="1852" endPos="1854" type="organization" surface="We" /></Entities><Relations>
+<Relation id="40" NAME="company_provides_product">
+<Entity id="5" label="product" />
+<Entity id="3" label="company" />
+<Entity id="4" label="trigger" />
+</Relation>
+<Relation id="41" NAME="company_provides_product">
+<Entity id="8" label="product" />
+<Entity id="6" label="company" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="42" NAME="company_provides_product">
+<Entity id="13" label="product" />
+<Entity id="11" label="company" />
+<Entity id="12" label="trigger" />
+</Relation>
+<Relation id="43" NAME="company_provides_product">
+<Entity id="20" label="product" />
+<Entity id="17" label="company" />
+<Entity id="19" label="trigger" />
+</Relation>
+<Relation id="44" NAME="company_provides_product">
+<Entity id="27" label="product" />
+<Entity id="26" label="company" />
+</Relation>
+<Relation id="45" NAME="company_provides_product">
+<Entity id="28" label="product" />
+<Entity id="29" label="product" />
+<Entity id="30" label="company" />
+</Relation>
+<Relation id="46" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="25" label="target" />
+<Entity id="2" label="target" />
+<Entity id="33" label="target" />
+<Entity id="37" label="target" />
+<Entity id="3" label="target" />
+<Entity id="39" label="target" />
+</Relation>
+<Relation id="47" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="5" label="target" />
+<Entity id="8" label="target" />
+<Entity id="23" label="target" />
+<Entity id="22" label="target" />
+</Relation>
+<Relation id="48" NAME="identity">
+<Entity id="6" label="source" />
+<Entity id="21" label="target" />
+<Entity id="32" label="target" />
+<Entity id="17" label="target" />
+<Entity id="18" label="target" />
+</Relation>
+<Relation id="49" NAME="identity">
+<Entity id="9" label="source" />
+<Entity id="36" label="target" />
+<Entity id="16" label="target" />
+<Entity id="11" label="target" />
+<Entity id="10" label="target" />
+</Relation>
+<Relation id="50" NAME="identity">
+<Entity id="13" label="source" />
+<Entity id="14" label="target" />
+</Relation>
+<Relation id="51" NAME="identity">
+<Entity id="31" label="source" />
+<Entity id="30" label="target" />
+</Relation>
+<Relation id="52" NAME="identity">
+<Entity id="34" label="source" />
+<Entity id="35" label="target" />
+<Entity id="38" label="target" />
+</Relation>
+<Relation id="53" NAME="member_of_group">
+<Entity id="6" label="member" />
+<Entity id="3" label="group" />
+</Relation></Relations>
+</Document>

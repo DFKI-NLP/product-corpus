@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Frequently Asked Questions
+About the <NODE id="37" />Learning Center<NODE id="52" />
+It's important to be an informed consumer for your home and family. The <NODE id="125" />Direct Energy Learning Center<NODE id="154" /> is your trusted source for a wide range of home-related topics to help you make decisions, improve your home, and live brighter.
+Learn More
+The Live Brighter Blog
+You invited <NODE id="330" />us<NODE id="332" /> into your home - the least we can do is help make it a comfortable, happy space for you and your family. The Live Brighter blog opens conversation on home improvement and family life, from household repairs and maintenance, to living green and saving money, to home decor, travel, and more. <NODE id="624" />We<NODE id="626" />'re here to talk about what matters most.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/96" />
+<feature featureName="uri" featureValue="https://www.directenergy.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="37" endPos="52" type="organization" surface="Learning Center" />
+<Entity id="1" startPos="125" endPos="154" type="organization" surface="Direct Energy Learning Center" />
+<Entity id="2" startPos="330" endPos="332" type="organization" surface="us" />
+<Entity id="3" startPos="624" endPos="626" type="organization" surface="We" /></Entities><Relations>
+<Relation id="4" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="2" label="target" />
+<Entity id="3" label="target" />
+<Entity id="0" label="target" />
+</Relation></Relations>
+</Document>

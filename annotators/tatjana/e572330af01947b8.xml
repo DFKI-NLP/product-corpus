@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>04
+Welcome to <NODE id="14" />Bilfinger Rotring Engineering<NODE id="43" />
+<NODE id="44" />Bilfinger Rotring Engineering GmbH<NODE id="78" /> is a subsidiary of <NODE id="98" />Bilfinger SE<NODE id="110" /> . With its headquarters in Buxtehude, <NODE id="149" />Bilfinger Rotring Engineering<NODE id="178" /> is one of the world's leading <NODE id="209" />providers of<NODE id="221" /> <NODE id="222" />process technology facilities<NODE id="251" /> for fuel processing for oil and gas-fired turbines in power plants. In the scope of supply agreements, <NODE id="355" />Bilfinger Rotring Engineering<NODE id="384" /> is <NODE id="388" />responsible for<NODE id="403" /> client-specific <NODE id="420" />engineering<NODE id="431" /> and <NODE id="436" />purchasing of components<NODE id="460" />, as well as <NODE id="473" />manufacturing<NODE id="486" />, <NODE id="488" />delivery<NODE id="496" />, <NODE id="498" />construction<NODE id="510" /> and <NODE id="515" />commissioning of<NODE id="531" /> <NODE id="532" />fuel processing plants<NODE id="554" />.  
+Starting from a private <NODE id="582" />enterprise<NODE id="592" /> the <NODE id="597" />Bilfinger Rotring Engineering Company<NODE id="634" /> was established in 1952. The full range from basic <NODE id="686" />engineering<NODE id="697" />, <NODE id="699" />design<NODE id="705" /> and <NODE id="710" />manufacturing<NODE id="723" /> to <NODE id="727" />turnkey installation<NODE id="747" />, <NODE id="749" />commissioning<NODE id="762" /> and <NODE id="767" />maintenance<NODE id="778" /> can be <NODE id="786" />provided<NODE id="794" /> from one single <NODE id="811" />source<NODE id="817" /> which guarantees highest quality at competitive costs and interfaces reduced to a minimum. <NODE id="909" />Bilfinger Rotring Engineering<NODE id="938" /> represents more than 60 years of experience in <NODE id="986" />planning<NODE id="994" /> and <NODE id="999" />delivery of<NODE id="1010" /> <NODE id="1011" />process technology<NODE id="1029" /> with<NODE id="1034" /> installation of<NODE id="1050" /> <NODE id="1051" />systems<NODE id="1058" /> in over 50 countries around the world.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/44" />
+<feature featureName="uri" featureValue="http://www.rotring.bilfinger.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="43" type="organization" surface="Bilfinger Rotring Engineering" />
+<Entity id="1" startPos="44" endPos="78" type="organization" surface="Bilfinger Rotring Engineering GmbH" />
+<Entity id="2" startPos="98" endPos="110" type="organization" surface="Bilfinger SE" />
+<Entity id="3" startPos="149" endPos="178" type="organization" surface="Bilfinger Rotring Engineering" />
+<Entity id="4" startPos="209" endPos="221" type="trigger" surface="providers of" />
+<Entity id="5" startPos="222" endPos="251" type="product" surface="process technology facilities" />
+<Entity id="6" startPos="355" endPos="384" type="organization" surface="Bilfinger Rotring Engineering" />
+<Entity id="7" startPos="388" endPos="403" type="trigger" surface="responsible for" />
+<Entity id="8" startPos="420" endPos="431" type="product" surface="engineering" />
+<Entity id="9" startPos="436" endPos="460" type="product" surface="purchasing of components" />
+<Entity id="10" startPos="473" endPos="486" type="trigger" surface="manufacturing" />
+<Entity id="11" startPos="488" endPos="496" type="trigger" surface="delivery" />
+<Entity id="12" startPos="498" endPos="510" type="trigger" surface="construction" />
+<Entity id="13" startPos="515" endPos="531" type="trigger" surface="commissioning of" />
+<Entity id="14" startPos="532" endPos="554" type="product" surface="fuel processing plants" />
+<Entity id="15" startPos="582" endPos="592" type="organization" surface="enterprise" />
+<Entity id="16" startPos="597" endPos="634" type="organization" surface="Bilfinger Rotring Engineering Company" />
+<Entity id="17" startPos="686" endPos="697" type="product" surface="engineering" />
+<Entity id="18" startPos="699" endPos="705" type="product" surface="design" />
+<Entity id="19" startPos="710" endPos="723" type="product" surface="manufacturing" />
+<Entity id="20" startPos="727" endPos="747" type="product" surface="turnkey installation" />
+<Entity id="21" startPos="749" endPos="762" type="product" surface="commissioning" />
+<Entity id="22" startPos="767" endPos="778" type="product" surface="maintenance" />
+<Entity id="23" startPos="786" endPos="794" type="trigger" surface="provided" />
+<Entity id="24" startPos="811" endPos="817" type="organization" surface="source" />
+<Entity id="25" startPos="909" endPos="938" type="organization" surface="Bilfinger Rotring Engineering" />
+<Entity id="26" startPos="986" endPos="994" type="trigger" surface="planning" />
+<Entity id="27" startPos="999" endPos="1010" type="trigger" surface="delivery of" />
+<Entity id="28" startPos="1011" endPos="1029" type="product" surface="process technology" />
+<Entity id="29" startPos="1034" endPos="1050" type="trigger" surface=" installation of" />
+<Entity id="30" startPos="1051" endPos="1058" type="product" surface="systems" /></Entities><Relations>
+<Relation id="31" NAME="company_provides_product">
+<Entity id="5" label="product" />
+<Entity id="3" label="company" />
+<Entity id="4" label="trigger" />
+</Relation>
+<Relation id="32" NAME="company_provides_product">
+<Entity id="8" label="product" />
+<Entity id="9" label="product" />
+<Entity id="14" label="product" />
+<Entity id="6" label="company" />
+<Entity id="11" label="trigger" />
+<Entity id="10" label="trigger" />
+<Entity id="12" label="trigger" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="33" NAME="company_provides_product">
+<Entity id="20" label="product" />
+<Entity id="21" label="product" />
+<Entity id="19" label="product" />
+<Entity id="22" label="product" />
+<Entity id="18" label="product" />
+<Entity id="17" label="product" />
+<Entity id="24" label="company" />
+<Entity id="23" label="trigger" />
+</Relation>
+<Relation id="34" NAME="company_provides_product">
+<Entity id="28" label="product" />
+<Entity id="30" label="product" />
+<Entity id="25" label="company" />
+<Entity id="26" label="trigger" />
+<Entity id="27" label="trigger" />
+<Entity id="29" label="trigger" />
+</Relation>
+<Relation id="35" NAME="company_provides_product">
+<Entity id="26" label="product" />
+<Entity id="28" label="product" />
+<Entity id="30" label="product" />
+<Entity id="25" label="company" />
+</Relation>
+<Relation id="36" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="24" label="target" />
+<Entity id="25" label="target" />
+<Entity id="15" label="target" />
+<Entity id="6" label="target" />
+<Entity id="3" label="target" />
+<Entity id="16" label="target" />
+<Entity id="1" label="target" />
+</Relation>
+<Relation id="37" NAME="identity">
+<Entity id="8" label="source" />
+<Entity id="17" label="target" />
+</Relation>
+<Relation id="38" NAME="member_of_group">
+<Entity id="1" label="member" />
+<Entity id="2" label="group" />
+</Relation></Relations>
+</Document>

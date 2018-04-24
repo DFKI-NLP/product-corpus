@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>The most convenient way to access your <NODE id="39" />Empire<NODE id="45" /> account.
+Report Gas Emergency
+800-406-9220
+Announcements
+As temps rise, so does energy use.  To keep your energy use and bill in check, set your AC to the highest comfortable setting.  You can save 2 to 3 percent for each degree you raise the setting. See <NODE id="302" />our<NODE id="305" /> summer savings tips for more ways to keep your cool this summer.
+
+</TEXT>
+<Meta>
+<feature featureName="Publication" featureValue="" />
+<feature featureName="id" featureValue="vico/iter03/19" />
+<feature featureName="uri" featureValue="https://www.empiredistrict.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="39" endPos="45" type="organization" surface="Empire" />
+<Entity id="1" startPos="302" endPos="305" type="organization" surface="our" /></Entities><Relations>
+<Relation id="2" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+</Relation></Relations>
+</Document>

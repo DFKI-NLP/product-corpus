@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> 
+Company Culture
+<NODE id="18" />MHI<NODE id="21" /> believes company culture is an essential part of company development.The superior company culture could create a good enterprise environment, enhance the employee literacy and morality. And form the internal cohesion, centripetalism and constraint, so as to enhance the Company competitiveness.
+Products Expertise
+<NODE id="336" />MHI<NODE id="339" /> <NODE id="340" />supplies<NODE id="348" /> <NODE id="349" />steel structures<NODE id="365" /> for mining &amp; metal, oil &amp; gas, power plant and commercial buildings projects, as well as gratings. Nowadays, <NODE id="475" />MHI<NODE id="478" /> has presented a modularization tread.
+Production Facilities
+<NODE id="539" />MHI<NODE id="542" /> has advanced production equipment and perfect facilities to ensure the smooth production in all processes. Meanwhile, <NODE id="661" />MHI<NODE id="664" /> constantly brings in new production equipments to meet the different technical requirement.
+Quality Certificates
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/89" />
+<feature featureName="uri" featureValue="http://www.mdhichina.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="21" type="organization" surface="MHI" />
+<Entity id="1" startPos="336" endPos="339" type="organization" surface="MHI" />
+<Entity id="2" startPos="340" endPos="348" type="trigger" surface="supplies" />
+<Entity id="3" startPos="349" endPos="365" type="product" surface="steel structures" />
+<Entity id="4" startPos="475" endPos="478" type="organization" surface="MHI" />
+<Entity id="5" startPos="539" endPos="542" type="organization" surface="MHI" />
+<Entity id="6" startPos="661" endPos="664" type="organization" surface="MHI" /></Entities><Relations>
+<Relation id="7" NAME="company_provides_product">
+<Entity id="3" label="product" />
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="8" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+<Entity id="4" label="target" />
+<Entity id="6" label="target" />
+<Entity id="5" label="target" />
+</Relation></Relations>
+</Document>

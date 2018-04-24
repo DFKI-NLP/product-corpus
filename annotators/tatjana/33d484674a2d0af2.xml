@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Svindal finding his speed with repaired knee on the mend.
+
+Classifieds
+Norway's Aksel Lund Svindal competes during a Men's World Cup downhill skiing training run Thursday, Nov. 30, 2017, in Beaver Creek, Colo. John Locher <NODE id="222" />AP<NODE id="224" /> <NODE id="225" />Photo<NODE id="230" />
+Norway's Aksel Lund Svindal competes during a Men's World Cup downhill skiing training run Thursday, Nov. 30, 2017, in Beaver Creek, Colo. John Locher <NODE id="382" />AP<NODE id="384" /> <NODE id="385" />Photo<NODE id="390" />
+Svindal finding his speed with repaired knee on the mend
+By PAT GRAHAM <NODE id="462" />AP<NODE id="464" /> <NODE id="465" />Sports<NODE id="471" /> Writer
+November 30, 2017 05:11 PM
+UPDATED 3 MINUTES AGO
+BEAVER CREEK, Colo.
+Aksel Lund Svindal serves on the board of four technology startup companies. Where he's truly chairman, though, is on the race hill.
+Even at 34 and coming off another knee surgery, the Norwegian standout remains a racer the skiers are watching closely with the Winter Olympics in South Korea drawing near.
+"He's old, he's just coming back," American downhiller Steven Nyman cracked, "but he's strong. ... The guy's just feisty."
+These days, Svindal is spinning his wheels for the sake of expedited healing. He will ski hard one day, and then jump on a bike the next just to limit the swelling in his knee. That routine keeps him hammering on the slope, no matter how painful it may be on occasion.
+Never miss a local story.
+Sign up today for unlimited digital access to our website, apps, the digital newspaper and more.
+SUBSCRIBE NOW
+"Being older and coming back from multiple injuries, I think you do" have to be smarter, said Svindal , who will be one of the favorites in a World Cup super-G race Friday at the <NODE id="1562" />Birds of Prey<NODE id="1575" />. "It's hurting and gets swollen every once in a while. But it's better than last year. I just have to be happy with progress."
+Svindal has been hit hard by injuries over the last few seasons — a torn Achilles while juggling the soccer ball in October 2014. An ACL tear in January 2016. Then last January, a knee injury that turned out to much more complex than expected. He said the meniscus was ripped off and the surgeons had to drill a new hole into the femur to reattach it.
+"It was like bone on bone," Svindal said. "It was good to get that fixed again."
+Getting back up to speed has become a familiar part of the offseason for Svindal. Not by choice, obviously.
+"I've gotten as used to it as you possibly can be if you're a racer," said Svindal, who finished 12th in a downhill training session Thursday, 1.60 seconds behind leader Matthias Mayer of Austria. "You can never get used to it. You at least can't worry about it."
+His competitors think he looks as good as new ("He's super good," American Bryce Bennett said). His teammates believe that, too, with training partners Aleksander Aamodt Kilde and Kjetil Jansrud having a front-row seat to his recovery.
+"He's always had a way of skiing and a way of handling things that are unique," said Jansrud, who won the super-G in Lake Louise last weekend. "He's been winning so much that he knows what it takes. That's what separates a champion from not a champion."
+This certainly gave Svindal a dose of confidence: Finishing third in the downhill and fifth in the super-G at Lake Louise . It showed he's on the right path.
+Now, he's back at Beaver Creek, a course that always suits his style of skiing. He's captured three World Cup downhill races at this venue, along with a super-G and super-combined event.
+It's also the site of a haunting crash. Svindal broke his nose and cheekbone in a 2007 wipeout along the <NODE id="3448" />Birds of Prey<NODE id="3461" /> course when he lost control on a jump and landed in the safety netting. He also suffered a laceration to his abdominal area.
+He returned to Beaver Creek the next season and won the downhill and super-G races.
+"I've been pretty good here in the past," said Svindal, who turns 35 on Dec. 26.
+As for the rest of his resume, it reads like this: Five world championship titles, two overall crowns and three Olympic medals, including super-G gold, from the 2010 Vancouver Games (he was shut out four years later in Sochi).
+Just don't ask him about the upcoming Pyeongchang Olympics. Still too early.
+"Pretty focused on what's going to happen this week," Svindal said.
+In his downtime — and especially when he's sidelined by injury — Svindal likes to do some investing. More specifically, jump on board of startup companies that are small and "where you can get a seat on the board and learn about the business," he said. "There are like these serial entrepreneurs who keep doing things because they're smart. I try to tag with them if I can."
+Svindal treats working with a company much like competing in a race.
+"You have to be on it," Svindal said, "if you want to be successful."
+
+</TEXT>
+<Meta>
+<feature featureName="Category" featureValue="" />
+<feature featureName="Publication" featureValue="" />
+<feature featureName="id" featureValue="http://www.heraldonline.com/sports/article187398333.html@2017-11-30T23:11:17.000+01:00" />
+<feature featureName="uri" featureValue="http://www.heraldonline.com/sports/article187398333.html" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="222" endPos="224" type="organization" surface="AP" />
+<Entity id="1" startPos="225" endPos="230" type="product" surface="Photo" />
+<Entity id="2" startPos="382" endPos="384" type="organization" surface="AP" />
+<Entity id="3" startPos="385" endPos="390" type="product" surface="Photo" />
+<Entity id="4" startPos="462" endPos="464" type="organization" surface="AP" />
+<Entity id="5" startPos="465" endPos="471" type="product" surface="Sports" />
+<Entity id="6" startPos="1562" endPos="1575" type="product" surface="Birds of Prey" />
+<Entity id="7" startPos="3448" endPos="3461" type="product" surface="Birds of Prey" /></Entities><Relations>
+<Relation id="8" NAME="company_provides_product">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+</Relation>
+<Relation id="9" NAME="company_provides_product">
+<Entity id="3" label="product" />
+<Entity id="2" label="company" />
+</Relation>
+<Relation id="10" NAME="company_provides_product">
+<Entity id="5" label="product" />
+<Entity id="4" label="company" />
+</Relation>
+<Relation id="11" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="4" label="target" />
+<Entity id="2" label="target" />
+</Relation>
+<Relation id="12" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="4" label="target" />
+<Entity id="2" label="target" />
+</Relation>
+<Relation id="13" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="3" label="target" />
+</Relation>
+<Relation id="14" NAME="identity">
+<Entity id="6" label="source" />
+<Entity id="7" label="target" />
+</Relation></Relations>
+</Document>

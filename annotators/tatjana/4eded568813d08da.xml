@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bruce Power<NODE id="11" />, the world's largest operating <NODE id="43" />nuclear facility<NODE id="59" />, has <NODE id="65" />iPad<NODE id="69" /> and <NODE id="74" />iPhone<NODE id="80" /> apps that feature interactive calculators and information about <NODE id="145" />our<NODE id="148" /> site. Download through the App Store.<NODE id="186" /> <NODE id="187" />Bruce Power<NODE id="198" /> App<NODE id="202" />
+Summer bus tour program begins
+Looking for something fun to do with the family this summer? <NODE id="295" />We<NODE id="297" />’ve got you covered at the <NODE id="324" />Bruce Power<NODE id="335" /> Visitors’ Centre.
+As of July 1, the Visitors’ Centre will be open 7 days a week (closed on July 3 and Aug. 7 for statutory holidays) from 9 a.m. to 4 p.m. Along with <NODE id="502" />our<NODE id="505" /> regular exhibits, <NODE id="524" />we<NODE id="526" />’ve got a few special treats for Summer 2017.
+The first is the return of <NODE id="599" />our<NODE id="602" /> site bus tours. If you’ve always wanted to see what <NODE id="655" />our<NODE id="658" /> site looks like up close, this is the tour for you! Tours run twice daily at 1 and 2 p.m. Valid <NODE id="755" />government<NODE id="765" />-issued photo ID is required and an adult must be present to vouch for the identity of children under 18.  Pre-registration for bus tours is required.
+As well, <NODE id="925" />we<NODE id="927" /> will be featuring a live theatre performance throughout the summer!
+On Wednesdays and Fridays at noon, and on selected weekends, the Visitors’ Centre auditorium will be transformed into a theatre for a 20-minute play titled ‘The Quest for the Perfect Science Fair Project,’ which was written by Development Student Cassie Davidson, who also stars in the show with fellow student Robert Colquhoun. The performance will take place July 1, 2, 5, 12, 14, 15, 16, 19, 21, 26 and 28, as well as Aug. 2, 4, 9, 11, 16, 18, 19, 20, 23, 25 and 30
+“<NODE id="1466" />We<NODE id="1468" /> are very excited about opening Sundays and adding more tours and <NODE id="1534" />our<NODE id="1537" /> live theatre performance to the Summer Program at the Visitors’ Centre,” said Chris Mercanti, Section Manager, Community and Indigenous Relations. “<NODE id="1686" />Our<NODE id="1689" /> Development Students have written a fun and educational show about nuclear power, and it complements the interactive displays throughout the Visitors’ Centre and the Bus Tour Program.”
+Use the map below to get directions from where you are to <NODE id="1933" />us<NODE id="1935" />.
+<NODE id="1937" />We<NODE id="1939" /> hope to see you this summer!
+STAY IN TOUCH
+Sign up for <NODE id="1995" />our<NODE id="1998" /> monthly eNewsletter
+* indicates required
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/46" />
+<feature featureName="uri" featureValue="http://www.brucepower.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="organization" surface="Bruce Power" />
+<Entity id="1" startPos="43" endPos="59" type="organization" surface="nuclear facility" />
+<Entity id="2" startPos="65" endPos="69" type="product" surface="iPad" />
+<Entity id="3" startPos="74" endPos="80" type="product" surface="iPhone" />
+<Entity id="4" startPos="145" endPos="148" type="organization" surface="our" />
+<Entity id="5" startPos="186" endPos="202" type="product" surface=" Bruce Power App" />
+<Entity id="6" startPos="187" endPos="198" type="organization" surface="Bruce Power" />
+<Entity id="7" startPos="295" endPos="297" type="organization" surface="We" />
+<Entity id="8" startPos="324" endPos="335" type="organization" surface="Bruce Power" />
+<Entity id="9" startPos="502" endPos="505" type="organization" surface="our" />
+<Entity id="10" startPos="524" endPos="526" type="organization" surface="we" />
+<Entity id="11" startPos="599" endPos="602" type="organization" surface="our" />
+<Entity id="12" startPos="655" endPos="658" type="organization" surface="our" />
+<Entity id="13" startPos="755" endPos="765" type="organization" surface="government" />
+<Entity id="14" startPos="925" endPos="927" type="organization" surface="we" />
+<Entity id="15" startPos="1466" endPos="1468" type="organization" surface="We" />
+<Entity id="16" startPos="1534" endPos="1537" type="organization" surface="our" />
+<Entity id="17" startPos="1686" endPos="1689" type="organization" surface="Our" />
+<Entity id="18" startPos="1933" endPos="1935" type="organization" surface="us" />
+<Entity id="19" startPos="1937" endPos="1939" type="organization" surface="We" />
+<Entity id="20" startPos="1995" endPos="1998" type="organization" surface="our" /></Entities><Relations>
+<Relation id="21" NAME="company_provides_product">
+<Entity id="5" label="product" />
+<Entity id="6" label="company" />
+</Relation>
+<Relation id="22" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="16" label="target" />
+<Entity id="11" label="target" />
+<Entity id="19" label="target" />
+<Entity id="10" label="target" />
+<Entity id="9" label="target" />
+<Entity id="20" label="target" />
+<Entity id="8" label="target" />
+<Entity id="17" label="target" />
+<Entity id="14" label="target" />
+<Entity id="15" label="target" />
+<Entity id="1" label="target" />
+<Entity id="12" label="target" />
+<Entity id="4" label="target" />
+<Entity id="7" label="target" />
+<Entity id="6" label="target" />
+<Entity id="18" label="target" />
+</Relation></Relations>
+</Document>

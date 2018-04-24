@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />AGL<NODE id="3" /> Gas is now in Western Australia
+A new choice in natural gas supply has landed in WA, with 24/7 customer support plus more.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/9" />
+<feature featureName="uri" featureValue="https://www.agl.com.au/residential" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization" surface="AGL" /></Entities><Relations />
+</Document>
