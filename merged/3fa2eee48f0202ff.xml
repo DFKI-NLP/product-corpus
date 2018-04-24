@@ -20,9 +20,9 @@ Overview
 <Entity id="8" startPos="180" endPos="186" type="trigger" surface="create" />
 <Entity id="9" startPos="187" endPos="211" type="product" surface="infrastructure solutions" /></Entities><Relations>
 <Relation id="10" NAME="CompanyProvidesProduct">
-<Entity id="2" label="product" />
-<Entity id="3" label="product" />
 <Entity id="4" label="product" />
+<Entity id="3" label="product" />
+<Entity id="2" label="product" />
 <Entity id="1" label="company" />
 <Entity id="6" label="trigger" />
 </Relation>
@@ -33,8 +33,8 @@ Overview
 </Relation>
 <Relation id="12" NAME="identity">
 <Entity id="1" label="source" />
-<Entity id="0" label="target" />
 <Entity id="5" label="target" />
 <Entity id="7" label="target" />
+<Entity id="0" label="target" />
 </Relation></Relations>
 </Document>

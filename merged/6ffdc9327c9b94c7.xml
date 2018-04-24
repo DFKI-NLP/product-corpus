@@ -69,8 +69,8 @@ Org. nr: NO 976542606 MVA, Faks: +47 63 82 90 50, Faktura: efaktura@akershusener
 <Entity id="23" label="source" />
 <Entity id="16" label="target" />
 <Entity id="4" label="target" />
-<Entity id="14" label="target" />
 <Entity id="1" label="target" />
+<Entity id="14" label="target" />
 <Entity id="6" label="target" />
 <Entity id="0" label="target" />
 <Entity id="21" label="target" />

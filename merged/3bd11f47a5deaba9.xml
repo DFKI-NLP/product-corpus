@@ -45,12 +45,12 @@ Quinn said it has been weird not seeing Manning as the starter, and he said his 
 <Entity id="9" startPos="2145" endPos="2149" type="organization" surface="team" /></Entities><Relations>
 <Relation id="10" NAME="Identity">
 <Entity id="3" label="source" />
-<Entity id="7" label="target" />
-<Entity id="5" label="target" />
-<Entity id="6" label="target" />
 <Entity id="4" label="target" />
 <Entity id="9" label="target" />
 <Entity id="0" label="target" />
+<Entity id="5" label="target" />
 <Entity id="1" label="target" />
+<Entity id="7" label="target" />
+<Entity id="6" label="target" />
 </Relation></Relations>
 </Document>

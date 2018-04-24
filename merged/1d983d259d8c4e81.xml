@@ -118,22 +118,22 @@ Sider på ae.no:
 <Entity id="23" label="target" />
 </Relation>
 <Relation id="57" NAME="identity">
-<Entity id="1" label="source" />
 <Entity id="0" label="source" />
+<Entity id="1" label="source" />
+<Entity id="15" label="target" />
+<Entity id="6" label="target" />
 <Entity id="10" label="target" />
-<Entity id="42" label="target" />
+<Entity id="40" label="target" />
 <Entity id="11" label="target" />
-<Entity id="43" label="target" />
-<Entity id="46" label="target" />
+<Entity id="20" label="target" />
+<Entity id="41" label="target" />
 <Entity id="44" label="target" />
 <Entity id="18" label="target" />
-<Entity id="20" label="target" />
-<Entity id="6" label="target" />
-<Entity id="41" label="target" />
-<Entity id="12" label="target" />
 <Entity id="26" label="target" />
-<Entity id="15" label="target" />
-<Entity id="40" label="target" />
+<Entity id="43" label="target" />
+<Entity id="42" label="target" />
+<Entity id="46" label="target" />
+<Entity id="12" label="target" />
 </Relation>
 <Relation id="58" NAME="identity">
 <Entity id="27" label="source" />
