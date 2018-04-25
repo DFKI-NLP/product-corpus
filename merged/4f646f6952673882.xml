@@ -21,7 +21,7 @@ Looking for a vessel from China and Africa, the best route through the Amazon J
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 <Entity id="4" label="target" />
-<Entity id="2" label="target" />
 <Entity id="3" label="target" />
+<Entity id="2" label="target" />
 </Relation></Relations>
 </Document>
