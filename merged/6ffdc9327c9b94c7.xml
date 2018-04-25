@@ -65,23 +65,23 @@ Org. nr: NO 976542606 MVA, Faks: +47 63 82 90 50, Faktura: efaktura@akershusener
 <Entity id="17" label="trigger" />
 </Relation>
 <Relation id="29" NAME="identity">
-<Entity id="8" label="source" />
 <Entity id="23" label="source" />
-<Entity id="16" label="target" />
-<Entity id="4" label="target" />
-<Entity id="1" label="target" />
+<Entity id="8" label="source" />
 <Entity id="14" label="target" />
+<Entity id="19" label="target" />
+<Entity id="21" label="target" />
+<Entity id="16" label="target" />
 <Entity id="6" label="target" />
 <Entity id="0" label="target" />
-<Entity id="21" label="target" />
 <Entity id="5" label="target" />
-<Entity id="19" label="target" />
+<Entity id="4" label="target" />
+<Entity id="1" label="target" />
 </Relation>
 <Relation id="30" NAME="identity">
 <Entity id="3" label="source" />
 <Entity id="7" label="target" />
-<Entity id="9" label="target" />
 <Entity id="20" label="target" />
+<Entity id="9" label="target" />
 </Relation>
 <Relation id="31" NAME="identity">
 <Entity id="11" label="source" />
