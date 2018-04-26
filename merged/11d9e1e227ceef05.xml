@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Golf Rounds Sink In October.
+
+Posted by <NODE id="40" />SGB Media<NODE id="49" /> | Nov 30, 2017 | Apparel , Footwear , <NODE id="88" />SGB<NODE id="91" /> Updates , Sports/Fitness , Update | 0 |
+According to <NODE id="145" />Golf Datatech<NODE id="158" />, golf rounds played were down 4.1 percent in October 2017 compared to October 2016.
+The biggest declines came in West North Central, 17.0 percent; East North Central, 14.6 percent; South Central, 9.3 percent;  and Mountain 3.0 percent.  Gains were seen in Mid Atlantic, 2.8 percent; South Atlantic, 0.9 percent; New England, 8.7 percent; and Pacific, 7.0 percent.
+For the year-to-date period, golf rounds played are off 2.2 percent.
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://sgbonline.com/golf-rounds-sink-in-october/@2017-11-30T23:14:41.000+01:00" />
+<feature featureName="uri" featureValue="https://sgbonline.com/golf-rounds-sink-in-october/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="40" endPos="49" type="organization" surface="SGB Media" />
+<Entity id="1" startPos="88" endPos="91" type="organization" surface="SGB" />
+<Entity id="2" startPos="145" endPos="158" type="organization" surface="Golf Datatech" /></Entities><Relations>
+<Relation id="3" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+</Relation></Relations>
+</Document>
