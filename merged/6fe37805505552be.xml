@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>water
+<NODE id="6" />APOLLO<NODE id="12" /> is a worldwide operating <NODE id="38" />Manufacturer<NODE id="50" /> of <NODE id="54" />Centrifugal Pumps<NODE id="71" /> and <NODE id="76" />System Equipment<NODE id="92" />.
+With <NODE id="99" />our<NODE id="102" /> Strategy – <NODE id="114" />Provision<NODE id="123" /> of high-grade <NODE id="138" />Process Pumps<NODE id="151" /> in connection with <NODE id="171" />pump specific Plant Systems<NODE id="198" /> – <NODE id="201" />we<NODE id="203" /> supply  complete solutions of high reliability and low operational cost to <NODE id="279" />our<NODE id="282" />  Customers.
+New serie <NODE id="305" />ZMD<NODE id="308" />
+Horizontal <NODE id="320" />ZMD<NODE id="323" />
+In addition to the well established  <NODE id="361" />Apollo<NODE id="367" /> Pump Series ZMK<NODE id="383" /> (<NODE id="385" />API 610<NODE id="392" />, <NODE id="394" />BB1<NODE id="397" />) <NODE id="399" />Apollo<NODE id="405" /> extended <NODE id="415" />its<NODE id="418" /> <NODE id="419" />product range<NODE id="432" /> to the standard design <NODE id="456" />ZMD/V<NODE id="461" /> as a single-stage, axially split pump with bearings on both sides.
+Pumps
+Single-stage Pumps: <NODE id="555" />OH1<NODE id="558" />, <NODE id="560" />OH2<NODE id="563" />, <NODE id="565" />OH3<NODE id="568" />
+Single- and 2-stage Pumps with bearings on both sides: <NODE id="624" />BB2<NODE id="627" />
+Axial split Pumps with bearings on both sides: <NODE id="675" />BB1<NODE id="678" />
+Multistage centrifugal pumps of sectional design: <NODE id="729" />BB4<NODE id="732" />
+Barrel pumps: <NODE id="747" />BB5<NODE id="750" />
+Vertical Pumps: <NODE id="767" />VS1<NODE id="770" />, <NODE id="772" />VS4<NODE id="775" />, <NODE id="777" />VS6<NODE id="780" />
+System Engineering
+Pumping systems for liquid fuels
+Process plants
+Pumping systems for water supply
+Automation systems and electrotechnical      equipment
+ENGINEERING
+Test fields for Pumps and Pumping Systems
+Optimized Process chains
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/21" />
+<feature featureName="uri" featureValue="http://www.apollo-goessnitz.de/index.php?L=1&amp;id=1" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="12" type="organization" surface="APOLLO" />
+<Entity id="1" startPos="38" endPos="50" type="trigger" surface="Manufacturer" />
+<Entity id="2" startPos="54" endPos="71" type="product" surface="Centrifugal Pumps" />
+<Entity id="3" startPos="76" endPos="92" type="product" surface="System Equipment" />
+<Entity id="4" startPos="99" endPos="102" type="organization" surface="our" />
+<Entity id="5" startPos="114" endPos="123" type="trigger" surface="Provision" />
+<Entity id="6" startPos="138" endPos="151" type="product" surface="Process Pumps" />
+<Entity id="7" startPos="171" endPos="198" type="product" surface="pump specific Plant Systems" />
+<Entity id="8" startPos="201" endPos="203" type="organization" surface="we" />
+<Entity id="9" startPos="279" endPos="282" type="organization" surface="our" />
+<Entity id="10" startPos="305" endPos="308" type="product" surface="ZMD" />
+<Entity id="11" startPos="320" endPos="323" type="product" surface="ZMD" />
+<Entity id="12" startPos="361" endPos="367" type="organization" surface="Apollo" />
+<Entity id="13" startPos="361" endPos="383" type="product" surface="Apollo Pump Series ZMK" />
+<Entity id="14" startPos="385" endPos="392" type="product" surface="API 610" />
+<Entity id="15" startPos="394" endPos="397" type="product" surface="BB1" />
+<Entity id="16" startPos="399" endPos="405" type="organization" surface="Apollo" />
+<Entity id="17" startPos="415" endPos="418" type="organization" surface="its" />
+<Entity id="18" startPos="419" endPos="432" type="trigger" surface="product range" />
+<Entity id="19" startPos="456" endPos="461" type="product" surface="ZMD/V" />
+<Entity id="20" startPos="555" endPos="558" type="product" surface="OH1" />
+<Entity id="21" startPos="560" endPos="563" type="product" surface="OH2" />
+<Entity id="22" startPos="565" endPos="568" type="product" surface="OH3" />
+<Entity id="23" startPos="624" endPos="627" type="product" surface="BB2" />
+<Entity id="24" startPos="675" endPos="678" type="product" surface="BB1" />
+<Entity id="25" startPos="729" endPos="732" type="product" surface="BB4" />
+<Entity id="26" startPos="747" endPos="750" type="product" surface="BB5" />
+<Entity id="27" startPos="767" endPos="770" type="product" surface="VS1" />
+<Entity id="28" startPos="772" endPos="775" type="product" surface="VS4" />
+<Entity id="29" startPos="777" endPos="780" type="product" surface="VS6" /></Entities><Relations>
+<Relation id="30" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="3" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="31" NAME="CompanyProvidesProduct">
+<Entity id="7" label="product" />
+<Entity id="6" label="product" />
+<Entity id="4" label="company" />
+<Entity id="5" label="trigger" />
+</Relation>
+<Relation id="32" NAME="CompanyProvidesProduct">
+<Entity id="13" label="product" />
+<Entity id="12" label="company" />
+</Relation>
+<Relation id="33" NAME="CompanyProvidesProduct">
+<Entity id="19" label="product" />
+<Entity id="16" label="company" />
+<Entity id="18" label="trigger" />
+</Relation>
+<Relation id="34" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="16" label="target" />
+<Entity id="9" label="target" />
+<Entity id="4" label="target" />
+<Entity id="8" label="target" />
+<Entity id="12" label="target" />
+<Entity id="17" label="target" />
+</Relation>
+<Relation id="35" NAME="Identity">
+<Entity id="10" label="source" />
+<Entity id="11" label="target" />
+<Entity id="19" label="target" />
+</Relation>
+<Relation id="36" NAME="Identity">
+<Entity id="15" label="source" />
+<Entity id="24" label="target" />
+</Relation></Relations>
+</Document>
