@@ -9,6 +9,14 @@ Deleted Files
 5ea730ca85d3404a.xml -> duplicate of 5d8c516807feddff.xml
 ca11df67b58d9c10.xml -> no content
 bfa2e4b7008ff132.xml -> no content
+fc77b9463ae3655c.xml -> no content
+efa6c37ccffabd30.xml -> no content
+eaee7d30459f2b0b.xml -> car ad
+e8a8e5713b037837.xml -> sports news
+dffc28f00d18152f.xml -> sports news
+d44382d8d5fae89d.xml -> irrelevant content
+d4fd1b64421870b2.xml -> duplicate of 5d64dbade1a460ff.xml
+c469a1e109e3fc2c.xml -> irrelevant content
 sensor-doc-vico-bcec3a88-35b3-305a-a04c-6f0ff7d9dc7b.xml -> Reason: car sale ad
 sensor-doc-vico-be6cc198-be4c-3205-8b99-56fb26ee6d15.xml -> Reason: car sale ad
 sensor-doc-vico-cebf08d8-c867-3c87-a01a-be61a743055e.xml -> Reason: car sale ad

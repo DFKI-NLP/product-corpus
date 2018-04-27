@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>DISCLAIMER
+You are now leaving <NODE id="31" />Devon Energy<NODE id="43" />’s website and are going to a website that is not operated by <NODE id="105" />Devon Energy<NODE id="117" />. <NODE id="119" />We<NODE id="121" /> are not responsible for the content or availability of linked sites.
+ABOUT THIRD PARTY LINKS ON OUR SITE
+<NODE id="227" />Devon Energy<NODE id="239" /> offers links to other third party websites that may be of interest to our website visitors. When you click on these links you will leave <NODE id="377" />Devon Energy<NODE id="389" />’s website and will be redirected to another site. These sites are not under the control of <NODE id="481" />Devon Energy<NODE id="493" />.
+<NODE id="495" />Devon Energy<NODE id="507" /> is not responsible for the content of linked third party websites. <NODE id="575" />We<NODE id="577" /> are not an agent for these third parties nor do <NODE id="626" />we<NODE id="628" /> endorse or guarantee any of their opinions, ideas, products, or content . We make no representation or warranty regarding the accuracy of the information contained in the linked sites. <NODE id="814" />We<NODE id="816" /> suggest that you always verify the information obtained from linked websites before acting upon this information.
+Also, please be aware that that the security and privacy policies on these sites may be different from <NODE id="1034" />Devon Energy<NODE id="1046" />’s policies, so please read third party privacy and security policies closely.
+If you have any questions or concerns about the products and services offered on linked third party websites, please contact the third party directly.
+Click “CONTINUE” to acknowledge this disclosure and view the selected website. If you click “CANCEL”, you are acknowledging this disclosure, but you will not be able to view the information.
+Cancel
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/95" />
+<feature featureName="uri" featureValue="http://www.devonenergy.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="31" endPos="43" type="organization" surface="Devon Energy" />
+<Entity id="1" startPos="105" endPos="117" type="organization" surface="Devon Energy" />
+<Entity id="2" startPos="119" endPos="121" type="organization" surface="We" />
+<Entity id="3" startPos="227" endPos="239" type="organization" surface="Devon Energy" />
+<Entity id="4" startPos="377" endPos="389" type="organization" surface="Devon Energy" />
+<Entity id="5" startPos="481" endPos="493" type="organization" surface="Devon Energy" />
+<Entity id="6" startPos="495" endPos="507" type="organization" surface="Devon Energy" />
+<Entity id="7" startPos="575" endPos="577" type="organization" surface="We" />
+<Entity id="8" startPos="626" endPos="628" type="organization" surface="we" />
+<Entity id="9" startPos="814" endPos="816" type="organization" surface="We" />
+<Entity id="10" startPos="1034" endPos="1046" type="organization" surface="Devon Energy" /></Entities><Relations>
+<Relation id="11" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="2" label="target" />
+<Entity id="8" label="target" />
+<Entity id="10" label="target" />
+<Entity id="3" label="target" />
+<Entity id="6" label="target" />
+<Entity id="9" label="target" />
+<Entity id="4" label="target" />
+<Entity id="5" label="target" />
+<Entity id="7" label="target" />
+<Entity id="1" label="target" />
+</Relation></Relations>
+</Document>
