@@ -26,8 +26,8 @@ In addition, as part of the vote, the <NODE id="1015" />agency<NODE id="1021" />
 </Relation>
 <Relation id="7" NAME="Identity">
 <Entity id="2" label="source" />
-<Entity id="3" label="target" />
 <Entity id="5" label="target" />
+<Entity id="3" label="target" />
 <Entity id="4" label="target" />
 </Relation></Relations>
 </Document>

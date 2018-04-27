@@ -17,6 +17,7 @@ dffc28f00d18152f.xml -> sports news
 d44382d8d5fae89d.xml -> irrelevant content
 d4fd1b64421870b2.xml -> duplicate of 5d64dbade1a460ff.xml
 c469a1e109e3fc2c.xml -> irrelevant content
+ac8c61bcd860fde7.xml -> no content
 sensor-doc-vico-bcec3a88-35b3-305a-a04c-6f0ff7d9dc7b.xml -> Reason: car sale ad
 sensor-doc-vico-be6cc198-be4c-3205-8b99-56fb26ee6d15.xml -> Reason: car sale ad
 sensor-doc-vico-cebf08d8-c867-3c87-a01a-be61a743055e.xml -> Reason: car sale ad

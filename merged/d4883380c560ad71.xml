@@ -17,9 +17,9 @@
 <Entity id="6" startPos="197" endPos="230" type="organization" surface="Industrial Steam Generation group" /></Entities><Relations>
 <Relation id="7" NAME="Identity">
 <Entity id="1" label="source" />
-<Entity id="3" label="target" />
-<Entity id="0" label="target" />
 <Entity id="5" label="target" />
+<Entity id="0" label="target" />
 <Entity id="4" label="target" />
+<Entity id="3" label="target" />
 </Relation></Relations>
 </Document>
