@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> 
+Your global project carrier
+Welcome to <NODE id="41" />BBC Chartering<NODE id="55" />, a world leader in the ocean carriage of heavy lift and project cargoes. <NODE id="129" />We<NODE id="131" /> support leading clients with <NODE id="161" />our<NODE id="164" /> fleet of currently 170 multi-purpose and heavy lift vessels. <NODE id="226" />Our global organization<NODE id="249" /> helps charterers to plan and execute transport assignments on tramp, affreightment or liner services around the world.
+The <NODE id="373" />BBC Chartering<NODE id="387" /> fleet portfolio ranges from 3,500 to 37,300dwat and features lifting capacities up to 900mt. Any capacity can be assigned to project requirements and hence guarantees a reliable, efficient, yet flexible transport solution engineered to charterer demands.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/40" />
+<feature featureName="uri" featureValue="https://www.bbc-chartering.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="41" endPos="55" type="organization" surface="BBC Chartering" />
+<Entity id="1" startPos="129" endPos="131" type="organization" surface="We" />
+<Entity id="2" startPos="161" endPos="164" type="organization" surface="our" />
+<Entity id="3" startPos="226" endPos="249" type="organization" surface="Our global organization" />
+<Entity id="4" startPos="373" endPos="387" type="organization" surface="BBC Chartering" /></Entities><Relations>
+<Relation id="5" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="4" label="target" />
+<Entity id="2" label="target" />
+<Entity id="1" label="target" />
+<Entity id="3" label="target" />
+</Relation></Relations>
+</Document>

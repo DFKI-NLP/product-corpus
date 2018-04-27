@@ -7,6 +7,8 @@ Deleted Files
 1ce22cbc82bace92.xml -> sports news
 68a09ac41ca6bad9.xml -> sports news
 5ea730ca85d3404a.xml -> duplicate of 5d8c516807feddff.xml
+ca11df67b58d9c10.xml -> no content
+bfa2e4b7008ff132.xml -> no content
 sensor-doc-vico-bcec3a88-35b3-305a-a04c-6f0ff7d9dc7b.xml -> Reason: car sale ad
 sensor-doc-vico-be6cc198-be4c-3205-8b99-56fb26ee6d15.xml -> Reason: car sale ad
 sensor-doc-vico-cebf08d8-c867-3c87-a01a-be61a743055e.xml -> Reason: car sale ad

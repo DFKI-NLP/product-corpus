@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bahwan Engineering Group<NODE id="24" />
+Oman Dubai Abu Dhabi
+An Omani <NODE id="55" />Company<NODE id="62" /> with international standards and world-class capabilities, spanning the entire value chain. <NODE id="155" />Our<NODE id="158" /> integrated business model comprises full range of Engineering Construction, Product Sales and Facilities Management services delivering single-point solutions for <NODE id="322" />our<NODE id="325" /> prestigious clients.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/36" />
+<feature featureName="uri" featureValue="http://www.bahwanengineering.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="24" type="organization" surface="Bahwan Engineering Group" />
+<Entity id="1" startPos="55" endPos="62" type="organization" surface="Company" />
+<Entity id="2" startPos="155" endPos="158" type="organization" surface="Our" />
+<Entity id="3" startPos="322" endPos="325" type="organization" surface="our" /></Entities><Relations>
+<Relation id="4" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+<Entity id="3" label="target" />
+<Entity id="2" label="target" />
+</Relation></Relations>
+</Document>

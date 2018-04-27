@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Our<NODE id="3" /> plants are spread across 200 Thousand Square Meters
+Having more than 300,000 MT of Shop Fabrication Experience
+More than 185 ASME, EN, PED, IBR, CWB certified welders
+Housing State of the Art  Induction Bending Technology
+Advance Welding Technologies In Place
+World Class In-house Packaging Facility
+<NODE id="304" />PIPING<NODE id="310" /> POSSIBILITIES...
+Who <NODE id="332" />We<NODE id="334" /> Are
+<NODE id="339" />DEE<NODE id="342" /> was incorporated as a modest <NODE id="372" />consultancy firm<NODE id="388" /> in the year 1983. The hard-work and commitment of 33 years &amp; 500+ employees made <NODE id="470" />it<NODE id="472" /> what <NODE id="478" />it<NODE id="480" /> is, a <NODE id="487" />brand name<NODE id="497" /> recognized across the world for <NODE id="530" />its<NODE id="533" /> quality and client promise, <NODE id="562" />DEE<NODE id="565" /> piping systems<NODE id="580" />.
+What <NODE id="587" />We<NODE id="589" /> Do
+<NODE id="593" />DEE<NODE id="596" /> as an organization is responsible for timely <NODE id="642" />delivery<NODE id="650" /> and client satisfaction with shop fabricated <NODE id="696" />pipe spools<NODE id="707" /> being <NODE id="714" />its<NODE id="717" /> forte and catering to various industries. <NODE id="760" />DEE<NODE id="763" /> employs latest technologies such as induction bending and advanced welding techniques to achieve the desired goals.
+Whom <NODE id="885" />We<NODE id="887" /> Serve
+<NODE id="894" />DEE<NODE id="897" /> primarily caters to National and Multinational OEMs of power generation equipment, Engineering, Procurement and Construction (EPC) contractors serving power generation, oil and gas &amp; petrochemicals sector, Marine &amp; Offshore and other process industries.
+CORPORATE VIDEO
+A preview of <NODE id="1181" />our company<NODE id="1192" />’s facilities and technology. What <NODE id="1227" />we<NODE id="1229" /> do and how <NODE id="1241" />we<NODE id="1243" /> do it.
+Close
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/78" />
+<feature featureName="uri" featureValue="http://www.deepiping.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization" surface="Our" />
+<Entity id="1" startPos="304" endPos="310" type="product" surface="PIPING" />
+<Entity id="2" startPos="332" endPos="334" type="organization" surface="We" />
+<Entity id="3" startPos="339" endPos="342" type="organization" surface="DEE" />
+<Entity id="4" startPos="372" endPos="388" type="organization" surface="consultancy firm" />
+<Entity id="5" startPos="470" endPos="472" type="organization" surface="it" />
+<Entity id="6" startPos="478" endPos="480" type="organization" surface="it" />
+<Entity id="7" startPos="487" endPos="497" type="organization" surface="brand name" />
+<Entity id="8" startPos="530" endPos="533" type="organization" surface="its" />
+<Entity id="9" startPos="562" endPos="565" type="organization" surface="DEE" />
+<Entity id="10" startPos="562" endPos="580" type="product" surface="DEE piping systems" />
+<Entity id="11" startPos="587" endPos="589" type="organization" surface="We" />
+<Entity id="12" startPos="593" endPos="596" type="organization" surface="DEE" />
+<Entity id="13" startPos="642" endPos="650" type="trigger" surface="delivery" />
+<Entity id="14" startPos="696" endPos="707" type="product" surface="pipe spools" />
+<Entity id="15" startPos="714" endPos="717" type="organization" surface="its" />
+<Entity id="16" startPos="760" endPos="763" type="organization" surface="DEE" />
+<Entity id="17" startPos="885" endPos="887" type="organization" surface="We" />
+<Entity id="18" startPos="894" endPos="897" type="organization" surface="DEE" />
+<Entity id="19" startPos="1181" endPos="1192" type="organization" surface="our company" />
+<Entity id="20" startPos="1227" endPos="1229" type="organization" surface="we" />
+<Entity id="21" startPos="1241" endPos="1243" type="organization" surface="we" /></Entities><Relations>
+<Relation id="22" NAME="company_provides_product">
+<Entity id="10" label="product" />
+<Entity id="9" label="company" />
+</Relation>
+<Relation id="23" NAME="company_provides_product">
+<Entity id="14" label="product" />
+<Entity id="12" label="company" />
+<Entity id="13" label="trigger" />
+</Relation>
+<Relation id="24" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="8" label="target" />
+<Entity id="16" label="target" />
+<Entity id="12" label="target" />
+<Entity id="19" label="target" />
+<Entity id="4" label="target" />
+<Entity id="5" label="target" />
+<Entity id="15" label="target" />
+<Entity id="9" label="target" />
+<Entity id="20" label="target" />
+<Entity id="11" label="target" />
+<Entity id="0" label="target" />
+<Entity id="17" label="target" />
+<Entity id="21" label="target" />
+<Entity id="2" label="target" />
+<Entity id="18" label="target" />
+<Entity id="7" label="target" />
+<Entity id="6" label="target" />
+</Relation>
+<Relation id="25" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="14" label="target" />
+<Entity id="10" label="target" />
+</Relation></Relations>
+</Document>

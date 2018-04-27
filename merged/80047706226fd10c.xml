@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Terms of Use   /   Copyright - <NODE id="31" />Belize Electricity Limited<NODE id="57" />
+The 'Pay Online' links provided directs you to third party websites. You will be leaving <NODE id="147" />BEL<NODE id="150" />'s website. <NODE id="162" />Belize Electricity Limited<NODE id="188" /> is not responsible for the content of any third party website.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/42" />
+<feature featureName="uri" featureValue="http://www.bel.com.bz/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="31" endPos="57" type="organization" surface="Belize Electricity Limited" />
+<Entity id="1" startPos="147" endPos="150" type="organization" surface="BEL" />
+<Entity id="2" startPos="162" endPos="188" type="organization" surface="Belize Electricity Limited" /></Entities><Relations>
+<Relation id="3" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="2" label="target" />
+<Entity id="1" label="target" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />ADS<NODE id="3" /> is an online utility that can be used to submit drawing requests for the <NODE id="77" />FCO<NODE id="80" /> product line. Enter the design specifications, select the desired output format like PDF, DXF or 3D format, and submit the request... more
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/60" />
+<feature featureName="uri" featureValue="https://www.flowserve.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="product" surface="ADS" />
+<Entity id="1" startPos="77" endPos="80" type="product" surface="FCO" /></Entities><Relations />
+</Document>
