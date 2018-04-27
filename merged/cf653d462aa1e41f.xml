@@ -44,16 +44,16 @@ Close
 <Entity id="19" startPos="1181" endPos="1192" type="organization" surface="our company" />
 <Entity id="20" startPos="1227" endPos="1229" type="organization" surface="we" />
 <Entity id="21" startPos="1241" endPos="1243" type="organization" surface="we" /></Entities><Relations>
-<Relation id="22" NAME="company_provides_product">
+<Relation id="22" NAME="CompanyProvidesProduct">
 <Entity id="10" label="product" />
 <Entity id="9" label="company" />
 </Relation>
-<Relation id="23" NAME="company_provides_product">
+<Relation id="23" NAME="CompanyProvidesProduct">
 <Entity id="14" label="product" />
 <Entity id="12" label="company" />
 <Entity id="13" label="trigger" />
 </Relation>
-<Relation id="24" NAME="identity">
+<Relation id="24" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="8" label="target" />
 <Entity id="16" label="target" />
@@ -73,7 +73,7 @@ Close
 <Entity id="7" label="target" />
 <Entity id="6" label="target" />
 </Relation>
-<Relation id="25" NAME="identity">
+<Relation id="25" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="14" label="target" />
 <Entity id="10" label="target" />

@@ -130,37 +130,37 @@ More about Nancy Davis: “Dividing her time between parenthood, philanthropy, a
 <Entity id="40" label="target" />
 <Entity id="30" label="target" />
 </Relation>
-<Relation id="78" NAME="company_provides_product">
+<Relation id="78" NAME="CompanyProvidesProduct">
 <Entity id="2" label="product" />
 <Entity id="1" label="company" />
 </Relation>
-<Relation id="79" NAME="company_provides_product">
+<Relation id="79" NAME="CompanyProvidesProduct">
 <Entity id="5" label="product" />
 <Entity id="4" label="company" />
 </Relation>
-<Relation id="80" NAME="company_provides_product">
+<Relation id="80" NAME="CompanyProvidesProduct">
 <Entity id="21" label="product" />
 <Entity id="23" label="company" />
 <Entity id="22" label="trigger" />
 </Relation>
-<Relation id="81" NAME="company_provides_product">
+<Relation id="81" NAME="CompanyProvidesProduct">
 <Entity id="27" label="product" />
 <Entity id="26" label="company" />
 </Relation>
-<Relation id="82" NAME="company_provides_product">
+<Relation id="82" NAME="CompanyProvidesProduct">
 <Entity id="32" label="product" />
 <Entity id="34" label="company" />
 <Entity id="33" label="trigger" />
 </Relation>
-<Relation id="83" NAME="company_provides_product">
+<Relation id="83" NAME="CompanyProvidesProduct">
 <Entity id="40" label="product" />
 <Entity id="39" label="company" />
 </Relation>
-<Relation id="84" NAME="company_provides_product">
+<Relation id="84" NAME="CompanyProvidesProduct">
 <Entity id="42" label="product" />
 <Entity id="41" label="company" />
 </Relation>
-<Relation id="85" NAME="company_provides_product">
+<Relation id="85" NAME="CompanyProvidesProduct">
 <Entity id="44" label="product" />
 <Entity id="47" label="product" />
 <Entity id="56" label="product" />
@@ -179,11 +179,11 @@ More about Nancy Davis: “Dividing her time between parenthood, philanthropy, a
 <Entity id="46" label="product" />
 <Entity id="43" label="company" />
 </Relation>
-<Relation id="86" NAME="company_provides_product">
+<Relation id="86" NAME="CompanyProvidesProduct">
 <Entity id="70" label="product" />
 <Entity id="69" label="company" />
 </Relation>
-<Relation id="87" NAME="identity">
+<Relation id="87" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="72" label="target" />
 <Entity id="7" label="target" />
@@ -193,7 +193,7 @@ More about Nancy Davis: “Dividing her time between parenthood, philanthropy, a
 <Entity id="3" label="target" />
 <Entity id="66" label="target" />
 </Relation>
-<Relation id="88" NAME="identity">
+<Relation id="88" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="21" label="target" />
 <Entity id="42" label="target" />
@@ -201,7 +201,7 @@ More about Nancy Davis: “Dividing her time between parenthood, philanthropy, a
 <Entity id="11" label="target" />
 <Entity id="70" label="target" />
 </Relation>
-<Relation id="89" NAME="identity">
+<Relation id="89" NAME="Identity">
 <Entity id="12" label="source" />
 <Entity id="39" label="target" />
 <Entity id="23" label="target" />
@@ -215,7 +215,7 @@ More about Nancy Davis: “Dividing her time between parenthood, philanthropy, a
 <Entity id="26" label="target" />
 <Entity id="60" label="target" />
 </Relation>
-<Relation id="90" NAME="identity">
+<Relation id="90" NAME="Identity">
 <Entity id="14" label="target" />
 <Entity id="17" label="target" />
 <Entity id="9" label="target" />
@@ -226,7 +226,7 @@ More about Nancy Davis: “Dividing her time between parenthood, philanthropy, a
 <Entity id="67" label="target" />
 <Entity id="18" label="target" />
 </Relation>
-<Relation id="91" NAME="identity">
+<Relation id="91" NAME="Identity">
 <Entity id="28" label="source" />
 <Entity id="34" label="target" />
 <Entity id="36" label="target" />

@@ -19,7 +19,7 @@ About <NODE id="15" />us<NODE id="17" />
 <Entity id="1" label="target" />
 <Entity id="0" label="target" />
 </Relation>
-<Relation id="6" NAME="company_provides_product">
+<Relation id="6" NAME="CompanyProvidesProduct">
 <Entity id="4" label="product" />
 <Entity id="2" label="company" />
 <Entity id="3" label="trigger" />

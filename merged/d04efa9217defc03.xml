@@ -34,28 +34,28 @@ REQUEST INFORMATION
 <Entity id="17" startPos="969" endPos="976" type="product" surface="rigging" />
 <Entity id="18" startPos="1015" endPos="1023" type="organization" surface="Barnhart" />
 <Entity id="19" startPos="1107" endPos="1113" type="product" surface="cranes" /></Entities><Relations>
-<Relation id="20" NAME="company_provides_product">
+<Relation id="20" NAME="CompanyProvidesProduct">
 <Entity id="9" label="product" />
 <Entity id="7" label="product" />
 <Entity id="8" label="product" />
 <Entity id="5" label="company" />
 <Entity id="6" label="trigger" />
 </Relation>
-<Relation id="21" NAME="identity">
+<Relation id="21" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="9" label="target" />
 </Relation>
-<Relation id="22" NAME="identity">
+<Relation id="22" NAME="Identity">
 <Entity id="7" label="source" />
 <Entity id="1" label="target" />
 <Entity id="19" label="target" />
 </Relation>
-<Relation id="23" NAME="identity">
+<Relation id="23" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="8" label="target" />
 <Entity id="17" label="target" />
 </Relation>
-<Relation id="24" NAME="identity">
+<Relation id="24" NAME="Identity">
 <Entity id="4" label="source" />
 <Entity id="13" label="target" />
 <Entity id="16" label="target" />

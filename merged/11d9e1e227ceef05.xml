@@ -16,7 +16,7 @@ For the year-to-date period, golf rounds played are off 2.2 percent.
 <Entity id="0" startPos="40" endPos="49" type="organization" surface="SGB Media" />
 <Entity id="1" startPos="88" endPos="91" type="organization" surface="SGB" />
 <Entity id="2" startPos="145" endPos="158" type="organization" surface="Golf Datatech" /></Entities><Relations>
-<Relation id="3" NAME="identity">
+<Relation id="3" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 </Relation></Relations>

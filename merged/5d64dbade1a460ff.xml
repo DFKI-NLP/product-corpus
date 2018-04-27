@@ -62,75 +62,75 @@ Bitte beachten Sie, dass für den Inhalt der hier veröffentlichten Meldung nich
 <Entity id="1" label="source" />
 <Entity id="35" label="target" />
 </Relation>
-<Relation id="37" NAME="company_provides_product">
+<Relation id="37" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="19" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="38" NAME="company_provides_product">
+<Relation id="38" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="14" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="39" NAME="company_provides_product">
+<Relation id="39" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="22" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="40" NAME="company_provides_product">
+<Relation id="40" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="23" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="41" NAME="company_provides_product">
+<Relation id="41" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="16" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="42" NAME="company_provides_product">
+<Relation id="42" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="18" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="43" NAME="company_provides_product">
+<Relation id="43" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="21" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="44" NAME="company_provides_product">
+<Relation id="44" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="23" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="45" NAME="company_provides_product">
+<Relation id="45" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="15" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="46" NAME="company_provides_product">
+<Relation id="46" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="20" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="47" NAME="company_provides_product">
+<Relation id="47" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="17" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="48" NAME="company_provides_product">
+<Relation id="48" NAME="CompanyProvidesProduct">
 <Entity id="27" label="product" />
 <Entity id="28" label="product" />
 <Entity id="25" label="company" />
 <Entity id="29" label="trigger" />
 </Relation>
-<Relation id="49" NAME="company_provides_product">
+<Relation id="49" NAME="CompanyProvidesProduct">
 <Entity id="32" label="product" />
 <Entity id="33" label="product" />
 <Entity id="34" label="product" />
 <Entity id="30" label="company" />
 <Entity id="31" label="trigger" />
 </Relation>
-<Relation id="50" NAME="identity">
+<Relation id="50" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="8" label="target" />
 <Entity id="2" label="target" />
@@ -144,12 +144,12 @@ Bitte beachten Sie, dass für den Inhalt der hier veröffentlichten Meldung nich
 <Entity id="6" label="target" />
 <Entity id="5" label="target" />
 </Relation>
-<Relation id="51" NAME="identity">
+<Relation id="51" NAME="Identity">
 <Entity id="25" label="source" />
 <Entity id="26" label="trigger" />
 <Entity id="30" label="trigger" />
 </Relation>
-<Relation id="52" NAME="identity">
+<Relation id="52" NAME="Identity">
 <Entity id="28" label="source" />
 <Entity id="34" label="target" />
 </Relation></Relations>

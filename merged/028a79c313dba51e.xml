@@ -10,7 +10,7 @@
 <feature featureName="lang" featureValue="en" /></Meta><Entities>
 <Entity id="0" startPos="0" endPos="12" type="organization" surface="Atmos Energy" />
 <Entity id="1" startPos="62" endPos="86" type="organization" surface="Atmos Energy Corporation" /></Entities><Relations>
-<Relation id="2" NAME="identity">
+<Relation id="2" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="0" label="target" />
 </Relation></Relations>

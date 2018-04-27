@@ -35,12 +35,12 @@ The 79th <NODE id="870" />EAGE<NODE id="874" /> Conference &amp; Exhibition is a
 <Entity id="14" label="target" />
 <Entity id="12" label="target" />
 </Relation>
-<Relation id="16" NAME="identity">
+<Relation id="16" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="4" label="target" />
 <Entity id="0" label="target" />
 </Relation>
-<Relation id="17" NAME="identity">
+<Relation id="17" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="9" label="target" />
 <Entity id="7" label="target" />
@@ -48,7 +48,7 @@ The 79th <NODE id="870" />EAGE<NODE id="874" /> Conference &amp; Exhibition is a
 <Entity id="3" label="target" />
 <Entity id="5" label="target" />
 </Relation>
-<Relation id="18" NAME="identity">
+<Relation id="18" NAME="Identity">
 <Entity id="6" label="source" />
 <Entity id="10" label="target" />
 <Entity id="8" label="target" />

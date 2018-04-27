@@ -12,7 +12,7 @@ At <NODE id="44" />MidAmerican Energy<NODE id="62" />, <NODE id="64" />we<NODE i
 <Entity id="0" startPos="44" endPos="62" type="organization" surface="MidAmerican Energy" />
 <Entity id="1" startPos="64" endPos="66" type="organization" surface="we" />
 <Entity id="2" startPos="165" endPos="168" type="organization" surface="our" /></Entities><Relations>
-<Relation id="3" NAME="identity">
+<Relation id="3" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="2" label="target" />
 <Entity id="1" label="target" />

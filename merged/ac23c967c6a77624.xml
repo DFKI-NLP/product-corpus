@@ -45,32 +45,32 @@ As a manufacturer the <NODE id="673" />FKT Faßbender GmbH<NODE id="691" /> <NOD
 <Entity id="18" label="company" />
 <Entity id="19" label="trigger" />
 </Relation>
-<Relation id="25" NAME="company_provides_product">
+<Relation id="25" NAME="CompanyProvidesProduct">
 <Entity id="11" label="product" />
 <Entity id="9" label="product" />
 <Entity id="10" label="product" />
 <Entity id="7" label="company" />
 <Entity id="8" label="trigger" />
 </Relation>
-<Relation id="26" NAME="company_provides_product">
+<Relation id="26" NAME="CompanyProvidesProduct">
 <Entity id="23" label="product" />
 <Entity id="22" label="product" />
 <Entity id="21" label="company" />
 <Entity id="20" label="trigger" />
 </Relation>
-<Relation id="27" NAME="identity">
+<Relation id="27" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="18" label="target" />
 <Entity id="21" label="target" />
 <Entity id="7" label="target" />
 </Relation>
-<Relation id="28" NAME="identity">
+<Relation id="28" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="3" label="target" />
 <Entity id="2" label="target" />
 <Entity id="6" label="target" />
 </Relation>
-<Relation id="29" NAME="identity">
+<Relation id="29" NAME="Identity">
 <Entity id="9" label="source" />
 <Entity id="5" label="target" />
 <Entity id="4" label="target" />

@@ -136,49 +136,49 @@ Today, <NODE id="3785" />Massey<NODE id="3791" /> <NODE id="3792" />produces<NOD
 <Entity id="12" label="target" />
 <Entity id="18" label="target" />
 </Relation>
-<Relation id="89" NAME="company_provides_product">
+<Relation id="89" NAME="CompanyProvidesProduct">
 <Entity id="11" label="product" />
 <Entity id="15" label="product" />
 <Entity id="16" label="product" />
 <Entity id="14" label="trigger" />
 </Relation>
-<Relation id="90" NAME="company_provides_product">
+<Relation id="90" NAME="CompanyProvidesProduct">
 <Entity id="50" label="product" />
 <Entity id="46" label="company" />
 <Entity id="48" label="trigger" />
 <Entity id="49" label="trigger" />
 <Entity id="47" label="trigger" />
 </Relation>
-<Relation id="91" NAME="company_provides_product">
+<Relation id="91" NAME="CompanyProvidesProduct">
 <Entity id="53" label="company" />
 <Entity id="54" label="trigger" />
 <Entity id="55" label="target" />
 </Relation>
-<Relation id="92" NAME="company_provides_product">
+<Relation id="92" NAME="CompanyProvidesProduct">
 <Entity id="62" label="product" />
 <Entity id="60" label="company" />
 <Entity id="61" label="trigger" />
 </Relation>
-<Relation id="93" NAME="company_provides_product">
+<Relation id="93" NAME="CompanyProvidesProduct">
 <Entity id="67" label="product" />
 <Entity id="63" label="company" />
 <Entity id="66" label="trigger" />
 <Entity id="65" label="trigger" />
 </Relation>
-<Relation id="94" NAME="company_provides_product">
+<Relation id="94" NAME="CompanyProvidesProduct">
 <Entity id="67" label="product" />
 <Entity id="64" label="company" />
 <Entity id="66" label="target" />
 <Entity id="65" label="target" />
 </Relation>
-<Relation id="95" NAME="company_provides_product">
+<Relation id="95" NAME="CompanyProvidesProduct">
 <Entity id="82" label="product" />
 <Entity id="78" label="company" />
 <Entity id="81" label="trigger" />
 <Entity id="80" label="trigger" />
 <Entity id="79" label="trigger" />
 </Relation>
-<Relation id="96" NAME="identity">
+<Relation id="96" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="42" label="target" />
 <Entity id="86" label="target" />
@@ -201,25 +201,25 @@ Today, <NODE id="3785" />Massey<NODE id="3791" /> <NODE id="3792" />produces<NOD
 <Entity id="46" label="target" />
 <Entity id="76" label="target" />
 </Relation>
-<Relation id="97" NAME="identity">
+<Relation id="97" NAME="Identity">
 <Entity id="21" label="source" />
 <Entity id="26" label="target" />
 <Entity id="24" label="target" />
 </Relation>
-<Relation id="98" NAME="identity">
+<Relation id="98" NAME="Identity">
 <Entity id="25" label="source" />
 <Entity id="29" label="target" />
 <Entity id="37" label="target" />
 <Entity id="30" label="target" />
 <Entity id="36" label="target" />
 </Relation>
-<Relation id="99" NAME="identity">
+<Relation id="99" NAME="Identity">
 <Entity id="27" label="source" />
 <Entity id="38" label="target" />
 <Entity id="43" label="target" />
 <Entity id="31" label="target" />
 </Relation>
-<Relation id="100" NAME="identity">
+<Relation id="100" NAME="Identity">
 <Entity id="40" label="source" />
 <Entity id="77" label="target" />
 <Entity id="84" label="target" />
@@ -229,11 +229,11 @@ Today, <NODE id="3785" />Massey<NODE id="3791" /> <NODE id="3792" />produces<NOD
 <Entity id="44" label="target" />
 <Entity id="85" label="target" />
 </Relation>
-<Relation id="101" NAME="identity">
+<Relation id="101" NAME="Identity">
 <Entity id="50" label="source" />
 <Entity id="67" label="target" />
 </Relation>
-<Relation id="102" NAME="identity">
+<Relation id="102" NAME="Identity">
 <Entity id="69" label="source" />
 <Entity id="74" label="target" />
 </Relation></Relations>

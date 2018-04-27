@@ -46,7 +46,7 @@ In most of <NODE id="696" />our<NODE id="699" /> businesses <NODE id="711" />we<
 <Entity id="2" label="source" />
 <Entity id="7" label="target" />
 </Relation>
-<Relation id="25" NAME="identity">
+<Relation id="25" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="18" label="target" />
 <Entity id="8" label="target" />

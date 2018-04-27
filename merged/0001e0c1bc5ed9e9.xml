@@ -47,14 +47,14 @@ At <NODE id="1361" />Merit<NODE id="1366" />, <NODE id="1368" />we<NODE id="1370
 <Entity id="27" startPos="1453" endPos="1456" type="organization" surface="Our" />
 <Entity id="28" startPos="1578" endPos="1585" type="organization" surface="company" />
 <Entity id="29" startPos="1638" endPos="1640" type="organization" surface="We" /></Entities><Relations>
-<Relation id="30" NAME="company_provides_product">
+<Relation id="30" NAME="CompanyProvidesProduct">
 <Entity id="10" label="product" />
 <Entity id="11" label="product" />
 <Entity id="7" label="company" />
 <Entity id="9" label="trigger" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="31" NAME="identity">
+<Relation id="31" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="14" label="target" />
 <Entity id="24" label="target" />

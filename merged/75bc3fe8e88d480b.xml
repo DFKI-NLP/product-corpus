@@ -98,12 +98,12 @@ What's New
 <Entity id="48" label="source" />
 <Entity id="47" label="target" />
 </Relation>
-<Relation id="60" NAME="company_provides_product">
+<Relation id="60" NAME="CompanyProvidesProduct">
 <Entity id="5" label="product" />
 <Entity id="0" label="company" />
 <Entity id="4" label="trigger" />
 </Relation>
-<Relation id="61" NAME="identity">
+<Relation id="61" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="35" label="target" />
 <Entity id="27" label="target" />
@@ -134,7 +134,7 @@ What's New
 <Entity id="12" label="target" />
 <Entity id="42" label="target" />
 </Relation>
-<Relation id="62" NAME="identity">
+<Relation id="62" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="54" label="target" />
 <Entity id="20" label="target" />
@@ -150,17 +150,17 @@ What's New
 <Entity id="6" label="target" />
 <Entity id="16" label="target" />
 </Relation>
-<Relation id="63" NAME="identity">
+<Relation id="63" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="7" label="target" />
 <Entity id="6" label="target" />
 </Relation>
-<Relation id="64" NAME="identity">
+<Relation id="64" NAME="Identity">
 <Entity id="24" label="source" />
 <Entity id="37" label="target" />
 <Entity id="38" label="target" />
 </Relation>
-<Relation id="65" NAME="identity">
+<Relation id="65" NAME="Identity">
 <Entity id="43" label="source" />
 <Entity id="44" label="target" />
 </Relation></Relations>

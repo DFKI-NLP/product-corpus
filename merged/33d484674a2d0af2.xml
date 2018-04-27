@@ -44,7 +44,7 @@ Svindal treats working with a company much like competing in a race.
 <Entity id="0" startPos="222" endPos="224" type="organization" surface="AP" />
 <Entity id="1" startPos="382" endPos="384" type="organization" surface="AP" />
 <Entity id="2" startPos="462" endPos="464" type="organization" surface="AP" /></Entities><Relations>
-<Relation id="3" NAME="identity">
+<Relation id="3" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 <Entity id="2" label="target" />

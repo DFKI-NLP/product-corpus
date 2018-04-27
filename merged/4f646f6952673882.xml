@@ -17,7 +17,7 @@ Looking for a vessel from China and Africa, the best route through the Amazon J
 <Entity id="2" startPos="262" endPos="270" type="organization" surface="Bertling" />
 <Entity id="3" startPos="440" endPos="442" type="organization" surface="we" />
 <Entity id="4" startPos="470" endPos="472" type="organization" surface="we" /></Entities><Relations>
-<Relation id="5" NAME="identity">
+<Relation id="5" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 <Entity id="4" label="target" />

@@ -89,13 +89,13 @@ Please call +31 (0)10 – 446 92 22  for any burner and combustion questions.
 <Entity id="24" label="source" />
 <Entity id="11" label="target" />
 </Relation>
-<Relation id="35" NAME="identity">
+<Relation id="35" NAME="Identity">
 <Entity id="25" label="source" />
 <Entity id="16" label="target" />
 <Entity id="12" label="target" />
 <Entity id="14" label="target" />
 </Relation>
-<Relation id="36" NAME="identity">
+<Relation id="36" NAME="Identity">
 <Entity id="19" label="source" />
 <Entity id="21" label="target" />
 </Relation></Relations>

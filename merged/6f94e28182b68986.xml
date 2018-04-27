@@ -104,74 +104,74 @@ NY 10007, United States,
 <Relation id="65" NAME="Identity">
 <Entity id="22" label="source" />
 </Relation>
-<Relation id="66" NAME="company_provides_product">
+<Relation id="66" NAME="CompanyProvidesProduct">
 <Entity id="7" label="product" />
 <Entity id="5" label="company" />
 <Entity id="6" label="trigger" />
 </Relation>
-<Relation id="67" NAME="company_provides_product">
+<Relation id="67" NAME="CompanyProvidesProduct">
 <Entity id="32" label="product" />
 <Entity id="33" label="company" />
 <Entity id="30" label="trigger" />
 <Entity id="31" label="trigger" />
 </Relation>
-<Relation id="68" NAME="company_provides_product">
+<Relation id="68" NAME="CompanyProvidesProduct">
 <Entity id="36" label="product" />
 <Entity id="34" label="company" />
 <Entity id="35" label="trigger" />
 </Relation>
-<Relation id="69" NAME="company_provides_product">
+<Relation id="69" NAME="CompanyProvidesProduct">
 <Entity id="47" label="product" />
 <Entity id="38" label="company" />
 <Entity id="46" label="trigger" />
 </Relation>
-<Relation id="70" NAME="company_provides_product">
+<Relation id="70" NAME="CompanyProvidesProduct">
 <Entity id="47" label="product" />
 <Entity id="39" label="company" />
 <Entity id="46" label="trigger" />
 </Relation>
-<Relation id="71" NAME="company_provides_product">
+<Relation id="71" NAME="CompanyProvidesProduct">
 <Entity id="47" label="product" />
 <Entity id="40" label="company" />
 <Entity id="46" label="trigger" />
 </Relation>
-<Relation id="72" NAME="company_provides_product">
+<Relation id="72" NAME="CompanyProvidesProduct">
 <Entity id="47" label="product" />
 <Entity id="41" label="company" />
 <Entity id="46" label="trigger" />
 </Relation>
-<Relation id="73" NAME="company_provides_product">
+<Relation id="73" NAME="CompanyProvidesProduct">
 <Entity id="47" label="product" />
 <Entity id="42" label="company" />
 <Entity id="46" label="trigger" />
 </Relation>
-<Relation id="74" NAME="company_provides_product">
+<Relation id="74" NAME="CompanyProvidesProduct">
 <Entity id="47" label="product" />
 <Entity id="43" label="company" />
 <Entity id="46" label="trigger" />
 </Relation>
-<Relation id="75" NAME="company_provides_product">
+<Relation id="75" NAME="CompanyProvidesProduct">
 <Entity id="47" label="product" />
 <Entity id="44" label="company" />
 <Entity id="46" label="trigger" />
 </Relation>
-<Relation id="76" NAME="company_provides_product">
+<Relation id="76" NAME="CompanyProvidesProduct">
 <Entity id="47" label="product" />
 <Entity id="45" label="company" />
 <Entity id="46" label="trigger" />
 </Relation>
-<Relation id="77" NAME="company_provides_product">
+<Relation id="77" NAME="CompanyProvidesProduct">
 <Entity id="53" label="product" />
 <Entity id="50" label="company" />
 <Entity id="52" label="trigger" />
 <Entity id="54" label="trigger" />
 </Relation>
-<Relation id="78" NAME="company_provides_product">
+<Relation id="78" NAME="CompanyProvidesProduct">
 <Entity id="62" label="product" />
 <Entity id="60" label="company" />
 <Entity id="61" label="trigger" />
 </Relation>
-<Relation id="79" NAME="identity">
+<Relation id="79" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="10" label="target" />
 <Entity id="11" label="target" />
@@ -192,7 +192,7 @@ NY 10007, United States,
 <Entity id="16" label="target" />
 <Entity id="23" label="target" />
 </Relation>
-<Relation id="80" NAME="identity">
+<Relation id="80" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="63" label="target" />
 <Entity id="57" label="target" />
@@ -204,21 +204,21 @@ NY 10007, United States,
 <Entity id="50" label="target" />
 <Entity id="60" label="target" />
 </Relation>
-<Relation id="81" NAME="identity">
+<Relation id="81" NAME="Identity">
 <Entity id="8" label="source" />
 <Entity id="13" label="target" />
 <Entity id="7" label="target" />
 <Entity id="48" label="target" />
 </Relation>
-<Relation id="82" NAME="identity">
+<Relation id="82" NAME="Identity">
 <Entity id="33" label="source" />
 <Entity id="28" label="target" />
 </Relation>
-<Relation id="83" NAME="identity">
+<Relation id="83" NAME="Identity">
 <Entity id="34" label="source" />
 <Entity id="29" label="target" />
 </Relation>
-<Relation id="84" NAME="identity">
+<Relation id="84" NAME="Identity">
 <Entity id="56" label="target" />
 <Entity id="53" label="target" />
 </Relation></Relations>

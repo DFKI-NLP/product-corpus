@@ -54,7 +54,7 @@
 <Entity id="5" label="trigger" />
 <Entity id="6" label="trigger" />
 </Relation>
-<Relation id="31" NAME="identity">
+<Relation id="31" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="23" label="target" />
 <Entity id="17" label="target" />
@@ -76,7 +76,7 @@
 <Entity id="21" label="target" />
 <Entity id="16" label="target" />
 </Relation>
-<Relation id="32" NAME="identity">
+<Relation id="32" NAME="Identity">
 <Entity id="14" label="source" />
 <Entity id="15" label="target" />
 </Relation></Relations>

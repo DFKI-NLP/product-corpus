@@ -22,13 +22,13 @@ Quality Certificates
 <Entity id="5" startPos="475" endPos="478" type="organization" surface="MHI" />
 <Entity id="6" startPos="539" endPos="542" type="organization" surface="MHI" />
 <Entity id="7" startPos="661" endPos="664" type="organization" surface="MHI" /></Entities><Relations>
-<Relation id="8" NAME="company_provides_product">
+<Relation id="8" NAME="CompanyProvidesProduct">
 <Entity id="4" label="product" />
 <Entity id="3" label="product" />
 <Entity id="1" label="company" />
 <Entity id="2" label="trigger" />
 </Relation>
-<Relation id="9" NAME="identity">
+<Relation id="9" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 <Entity id="5" label="target" />

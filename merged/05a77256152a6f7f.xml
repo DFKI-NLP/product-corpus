@@ -29,18 +29,18 @@ It features <NODE id="813" />CCFE<NODE id="817" /> experts talking about their 
 <Entity id="11" startPos="781" endPos="789" type="product" surface="research" />
 <Entity id="12" startPos="793" endPos="799" type="organization" surface="Culham" />
 <Entity id="13" startPos="813" endPos="817" type="organization" surface="CCFE" /></Entities><Relations>
-<Relation id="14" NAME="company_provides_product">
+<Relation id="14" NAME="CompanyProvidesProduct">
 <Entity id="3" label="product" />
 <Entity id="2" label="company" />
 <Entity id="4" label="trigger" />
 </Relation>
-<Relation id="15" NAME="company_provides_product">
+<Relation id="15" NAME="CompanyProvidesProduct">
 <Entity id="7" label="product" />
 <Entity id="5" label="company" />
 <Entity id="8" label="trigger" />
 <Entity id="6" label="trigger" />
 </Relation>
-<Relation id="16" NAME="identity">
+<Relation id="16" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="9" label="target" />
 <Entity id="5" label="target" />
@@ -49,7 +49,7 @@ It features <NODE id="813" />CCFE<NODE id="817" /> experts talking about their 
 <Entity id="13" label="target" />
 <Entity id="1" label="target" />
 </Relation>
-<Relation id="17" NAME="identity">
+<Relation id="17" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="11" label="target" />
 <Entity id="7" label="target" />

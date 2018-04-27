@@ -31,13 +31,13 @@ Serving These Great Markets, and Expanding Fast
 <Entity id="12" startPos="1090" endPos="1095" type="organization" surface="Ambit" />
 <Entity id="13" startPos="1234" endPos="1239" type="organization" surface="Ambit" />
 <Entity id="14" startPos="1437" endPos="1442" type="organization" surface="Ambit" /></Entities><Relations>
-<Relation id="15" NAME="company_provides_product">
+<Relation id="15" NAME="CompanyProvidesProduct">
 <Entity id="1" label="product" />
 <Entity id="2" label="product" />
 <Entity id="0" label="company" />
 <Entity id="3" label="trigger" />
 </Relation>
-<Relation id="16" NAME="identity">
+<Relation id="16" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="6" label="target" />
 <Entity id="13" label="target" />

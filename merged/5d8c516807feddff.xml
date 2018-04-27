@@ -66,32 +66,32 @@ The prominent <NODE id="3081" />home healthcare service<NODE id="3104" /> <NODE 
 <Entity id="13" label="source" />
 <Entity id="10" label="target" />
 </Relation>
-<Relation id="35" NAME="company_provides_product">
+<Relation id="35" NAME="CompanyProvidesProduct">
 <Entity id="26" label="product" />
 <Entity id="32" label="company" />
 <Entity id="27" label="trigger" />
 </Relation>
-<Relation id="36" NAME="company_provides_product">
+<Relation id="36" NAME="CompanyProvidesProduct">
 <Entity id="26" label="product" />
 <Entity id="30" label="company" />
 <Entity id="27" label="trigger" />
 </Relation>
-<Relation id="37" NAME="company_provides_product">
+<Relation id="37" NAME="CompanyProvidesProduct">
 <Entity id="26" label="product" />
 <Entity id="29" label="company" />
 <Entity id="27" label="trigger" />
 </Relation>
-<Relation id="38" NAME="company_provides_product">
+<Relation id="38" NAME="CompanyProvidesProduct">
 <Entity id="26" label="product" />
 <Entity id="28" label="company" />
 <Entity id="27" label="trigger" />
 </Relation>
-<Relation id="39" NAME="company_provides_product">
+<Relation id="39" NAME="CompanyProvidesProduct">
 <Entity id="26" label="product" />
 <Entity id="31" label="company" />
 <Entity id="27" label="trigger" />
 </Relation>
-<Relation id="40" NAME="identity">
+<Relation id="40" NAME="Identity">
 <Entity id="1" label="product" />
 <Entity id="24" label="target" />
 <Entity id="25" label="target" />

@@ -32,7 +32,7 @@ Name *
 <Entity id="2" startPos="1800" endPos="1804" type="product" surface="GIMP" />
 <Entity id="3" startPos="2329" endPos="2340" type="organization" surface="screene.com" />
 <Entity id="4" startPos="3245" endPos="3256" type="product" surface="xv software" /></Entities><Relations>
-<Relation id="5" NAME="identity">
+<Relation id="5" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="2" label="target" />
 </Relation></Relations>

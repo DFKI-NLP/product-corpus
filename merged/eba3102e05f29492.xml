@@ -88,30 +88,30 @@ At <NODE id="2630" />Chesapeake<NODE id="2640" />, everything <NODE id="2653" />
 <Entity id="16" label="source" />
 <Entity id="17" label="trigger" />
 </Relation>
-<Relation id="48" NAME="company_provides_product">
+<Relation id="48" NAME="CompanyProvidesProduct">
 <Entity id="5" label="product" />
 <Entity id="6" label="product" />
 <Entity id="1" label="company" />
 <Entity id="4" label="trigger" />
 </Relation>
-<Relation id="49" NAME="company_provides_product">
+<Relation id="49" NAME="CompanyProvidesProduct">
 <Entity id="3" label="product" />
 <Entity id="1" label="company" />
 <Entity id="2" label="trigger" />
 </Relation>
-<Relation id="50" NAME="company_provides_product">
+<Relation id="50" NAME="CompanyProvidesProduct">
 <Entity id="35" label="product" />
 <Entity id="34" label="product" />
 <Entity id="33" label="company" />
 <Entity id="36" label="trigger" />
 </Relation>
-<Relation id="51" NAME="company_provides_product">
+<Relation id="51" NAME="CompanyProvidesProduct">
 <Entity id="41" label="product" />
 <Entity id="40" label="product" />
 <Entity id="42" label="company" />
 <Entity id="39" label="trigger" />
 </Relation>
-<Relation id="52" NAME="identity">
+<Relation id="52" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="14" label="target" />
 <Entity id="43" label="target" />
@@ -137,14 +137,14 @@ At <NODE id="2630" />Chesapeake<NODE id="2640" />, everything <NODE id="2653" />
 <Entity id="12" label="target" />
 <Entity id="9" label="target" />
 </Relation>
-<Relation id="53" NAME="identity">
+<Relation id="53" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="13" label="target" />
 <Entity id="41" label="target" />
 <Entity id="35" label="target" />
 <Entity id="10" label="target" />
 </Relation>
-<Relation id="54" NAME="identity">
+<Relation id="54" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="11" label="target" />
 <Entity id="34" label="target" />

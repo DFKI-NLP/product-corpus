@@ -31,7 +31,7 @@ Overview
 <Entity id="7" label="company" />
 <Entity id="8" label="trigger" />
 </Relation>
-<Relation id="12" NAME="identity">
+<Relation id="12" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="5" label="target" />
 <Entity id="7" label="target" />

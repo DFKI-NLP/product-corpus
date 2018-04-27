@@ -54,17 +54,17 @@ Org. nr: NO 976542606 MVA, Faks: +47 63 82 90 50, Faktura: efaktura@akershusener
 <Entity id="13" label="source" />
 <Entity id="12" label="target" />
 </Relation>
-<Relation id="27" NAME="company_provides_product">
+<Relation id="27" NAME="CompanyProvidesProduct">
 <Entity id="3" label="product" />
 <Entity id="0" label="company" />
 <Entity id="2" label="trigger" />
 </Relation>
-<Relation id="28" NAME="company_provides_product">
+<Relation id="28" NAME="CompanyProvidesProduct">
 <Entity id="18" label="product" />
 <Entity id="16" label="company" />
 <Entity id="17" label="trigger" />
 </Relation>
-<Relation id="29" NAME="identity">
+<Relation id="29" NAME="Identity">
 <Entity id="23" label="source" />
 <Entity id="8" label="source" />
 <Entity id="14" label="target" />
@@ -77,17 +77,17 @@ Org. nr: NO 976542606 MVA, Faks: +47 63 82 90 50, Faktura: efaktura@akershusener
 <Entity id="4" label="target" />
 <Entity id="1" label="target" />
 </Relation>
-<Relation id="30" NAME="identity">
+<Relation id="30" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="7" label="target" />
 <Entity id="20" label="target" />
 <Entity id="9" label="target" />
 </Relation>
-<Relation id="31" NAME="identity">
+<Relation id="31" NAME="Identity">
 <Entity id="11" label="source" />
 <Entity id="10" label="target" />
 </Relation>
-<Relation id="32" NAME="identity">
+<Relation id="32" NAME="Identity">
 <Entity id="15" label="source" />
 <Entity id="18" label="target" />
 </Relation></Relations>

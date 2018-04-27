@@ -18,7 +18,7 @@ Fast-Track Project Wins the 2016 Build Ohio Award
 <feature featureName="lang" featureValue="en" /></Meta><Entities>
 <Entity id="0" startPos="606" endPos="625" type="organization" surface="Kokosing Industrial" />
 <Entity id="1" startPos="760" endPos="779" type="organization" surface="Kokosing Industrial" /></Entities><Relations>
-<Relation id="2" NAME="identity">
+<Relation id="2" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 </Relation></Relations>

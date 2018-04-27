@@ -48,7 +48,7 @@ The goal of the <NODE id="540" />consortium<NODE id="550" /> is to improve the o
 <Entity id="28" startPos="3015" endPos="3019" type="organization" surface="FCIC" />
 <Entity id="29" startPos="3031" endPos="3035" type="organization" surface="BETO" />
 <Entity id="30" startPos="3614" endPos="3618" type="organization" surface="FCIC" /></Entities><Relations>
-<Relation id="31" NAME="identity">
+<Relation id="31" NAME="Identity">
 <Entity id="6" label="source" />
 <Entity id="11" label="target" />
 <Entity id="2" label="target" />
@@ -58,7 +58,7 @@ The goal of the <NODE id="540" />consortium<NODE id="550" /> is to improve the o
 <Entity id="0" label="target" />
 <Entity id="25" label="target" />
 </Relation>
-<Relation id="32" NAME="identity">
+<Relation id="32" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="10" label="target" />
 <Entity id="3" label="target" />
@@ -72,7 +72,7 @@ The goal of the <NODE id="540" />consortium<NODE id="550" /> is to improve the o
 <Entity id="26" label="target" />
 <Entity id="23" label="target" />
 </Relation>
-<Relation id="33" NAME="identity">
+<Relation id="33" NAME="Identity">
 <Entity id="13" label="source" />
 <Entity id="17" label="target" />
 <Entity id="21" label="target" />

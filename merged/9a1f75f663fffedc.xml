@@ -23,12 +23,12 @@ As <NODE id="406" />we<NODE id="408" /> continue to drive our business to the ne
 <Entity id="8" startPos="592" endPos="600" type="trigger" surface="launched" />
 <Entity id="9" startPos="603" endPos="618" type="product" surface="safety campaign" />
 <Entity id="10" startPos="626" endPos="636" type="product" surface="Back it Up" /></Entities><Relations>
-<Relation id="11" NAME="company_provides_product">
+<Relation id="11" NAME="CompanyProvidesProduct">
 <Entity id="9" label="product" />
 <Entity id="7" label="company" />
 <Entity id="8" label="trigger" />
 </Relation>
-<Relation id="12" NAME="identity">
+<Relation id="12" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="3" label="target" />
 <Entity id="5" label="target" />
@@ -37,7 +37,7 @@ As <NODE id="406" />we<NODE id="408" /> continue to drive our business to the ne
 <Entity id="2" label="target" />
 <Entity id="6" label="target" />
 </Relation>
-<Relation id="13" NAME="identity">
+<Relation id="13" NAME="Identity">
 <Entity id="9" label="source" />
 <Entity id="10" label="target" />
 </Relation></Relations>

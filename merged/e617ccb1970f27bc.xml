@@ -29,33 +29,33 @@ Kevin Smith, <NODE id="666" />Future Networks<NODE id="681" /> Lead Engineer
 <Entity id="13" startPos="618" endPos="651" type="product" surface="this important MVDC trial project" />
 <Entity id="14" startPos="633" endPos="637" type="product" surface="MVDC" />
 <Entity id="15" startPos="666" endPos="681" type="organization" surface="Future Networks" /></Entities><Relations>
-<Relation id="16" NAME="company_provides_product">
+<Relation id="16" NAME="CompanyProvidesProduct">
 <Entity id="3" label="product" />
 <Entity id="1" label="company" />
 <Entity id="2" label="trigger" />
 </Relation>
-<Relation id="17" NAME="company_provides_product">
+<Relation id="17" NAME="CompanyProvidesProduct">
 <Entity id="6" label="product" />
 <Entity id="4" label="company" />
 <Entity id="5" label="trigger" />
 </Relation>
-<Relation id="18" NAME="identity">
+<Relation id="18" NAME="Identity">
 <Entity id="15" label="source" />
 <Entity id="10" label="target" />
 <Entity id="0" label="target" />
 </Relation>
-<Relation id="19" NAME="identity">
+<Relation id="19" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="11" label="target" />
 <Entity id="12" label="target" />
 </Relation>
-<Relation id="20" NAME="identity">
+<Relation id="20" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="8" label="target" />
 <Entity id="14" label="target" />
 <Entity id="9" label="target" />
 </Relation>
-<Relation id="21" NAME="identity">
+<Relation id="21" NAME="Identity">
 <Entity id="6" label="source" />
 <Entity id="7" label="target" />
 <Entity id="13" label="target" />

@@ -62,21 +62,21 @@ Fax : + 971 4 2858891 / 2861170
 <Entity id="9" label="trigger" />
 <Entity id="6" label="trigger" />
 </Relation>
-<Relation id="29" NAME="company_provides_product">
+<Relation id="29" NAME="CompanyProvidesProduct">
 <Entity id="20" label="product" />
 <Entity id="21" label="product" />
 <Entity id="19" label="company" />
 <Entity id="22" label="trigger" />
 <Entity id="23" label="trigger" />
 </Relation>
-<Relation id="30" NAME="identity">
+<Relation id="30" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 <Entity id="16" label="target" />
 <Entity id="2" label="target" />
 <Entity id="5" label="target" />
 </Relation>
-<Relation id="31" NAME="identity">
+<Relation id="31" NAME="Identity">
 <Entity id="18" label="source" />
 <Entity id="24" label="target" />
 <Entity id="19" label="target" />

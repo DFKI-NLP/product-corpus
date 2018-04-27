@@ -26,12 +26,12 @@
 <Entity id="14" startPos="471" endPos="474" type="organization" surface="MWM" />
 <Entity id="15" startPos="561" endPos="572" type="product" surface="gas engines" />
 <Entity id="16" startPos="577" endPos="593" type="product" surface="power generators" /></Entities><Relations>
-<Relation id="17" NAME="company_provides_product">
+<Relation id="17" NAME="CompanyProvidesProduct">
 <Entity id="2" label="product" />
 <Entity id="1" label="product" />
 <Entity id="0" label="company" />
 </Relation>
-<Relation id="18" NAME="company_provides_product">
+<Relation id="18" NAME="CompanyProvidesProduct">
 <Entity id="5" label="product" />
 <Entity id="7" label="product" />
 <Entity id="4" label="product" />
@@ -39,7 +39,7 @@
 <Entity id="6" label="product" />
 <Entity id="3" label="company" />
 </Relation>
-<Relation id="19" NAME="identity">
+<Relation id="19" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="7" label="target" />
 <Entity id="11" label="target" />
@@ -47,19 +47,19 @@
 <Entity id="12" label="target" />
 <Entity id="8" label="target" />
 </Relation>
-<Relation id="20" NAME="identity">
+<Relation id="20" NAME="Identity">
 <Entity id="13" label="source" />
 <Entity id="3" label="target" />
 <Entity id="14" label="target" />
 <Entity id="9" label="target" />
 <Entity id="0" label="target" />
 </Relation>
-<Relation id="21" NAME="identity">
+<Relation id="21" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="4" label="target" />
 <Entity id="15" label="target" />
 </Relation>
-<Relation id="22" NAME="identity">
+<Relation id="22" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="16" label="target" />
 </Relation></Relations>

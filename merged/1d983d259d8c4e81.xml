@@ -117,7 +117,7 @@ Sider på ae.no:
 <Entity id="21" label="source" />
 <Entity id="23" label="target" />
 </Relation>
-<Relation id="57" NAME="identity">
+<Relation id="57" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="source" />
 <Entity id="15" label="target" />
@@ -135,13 +135,13 @@ Sider på ae.no:
 <Entity id="46" label="target" />
 <Entity id="12" label="target" />
 </Relation>
-<Relation id="58" NAME="identity">
+<Relation id="58" NAME="Identity">
 <Entity id="27" label="source" />
 <Entity id="33" label="target" />
 <Entity id="28" label="target" />
 <Entity id="30" label="target" />
 </Relation>
-<Relation id="59" NAME="identity">
+<Relation id="59" NAME="Identity">
 <Entity id="36" label="source" />
 <Entity id="39" label="target" />
 </Relation></Relations>

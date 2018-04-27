@@ -38,14 +38,14 @@ Sign up for <NODE id="1995" />our<NODE id="1998" /> monthly eNewsletter
 <Entity id="16" startPos="1933" endPos="1935" type="organization" surface="us" />
 <Entity id="17" startPos="1937" endPos="1939" type="organization" surface="We" />
 <Entity id="18" startPos="1995" endPos="1998" type="organization" surface="our" /></Entities><Relations>
-<Relation id="19" NAME="identity">
+<Relation id="19" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="4" label="target" />
 <Entity id="9" label="target" />
 <Entity id="2" label="target" />
 <Entity id="18" label="target" />
 </Relation>
-<Relation id="20" NAME="identity">
+<Relation id="20" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="8" label="target" />
 <Entity id="11" label="target" />
