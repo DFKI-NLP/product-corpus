@@ -56,62 +56,62 @@ The prominent <NODE id="3081" />home healthcare service<NODE id="3104" /> <NODE 
 <Entity id="30" startPos="3179" endPos="3201" type="organization" surface="Fresenius Se &amp; Co KGAa" />
 <Entity id="31" startPos="3213" endPos="3226" type="organization" surface="GE Healthcare" />
 <Entity id="32" startPos="3238" endPos="3259" type="organization" surface="B. Braun Melsungen AG" /></Entities><Relations>
-<Relation id="33" NAME="Identity">
-<Entity id="12" label="source" />
-<Entity id="11" label="target" />
-<Entity id="9" label="target" />
-<Entity id="26" label="target" />
-</Relation>
-<Relation id="34" NAME="Identity">
-<Entity id="13" label="source" />
-<Entity id="10" label="target" />
-</Relation>
-<Relation id="35" NAME="CompanyProvidesProduct">
-<Entity id="26" label="product" />
-<Entity id="32" label="company" />
-<Entity id="27" label="trigger" />
-</Relation>
-<Relation id="36" NAME="CompanyProvidesProduct">
+<Relation id="33" NAME="CompanyProvidesProduct">
 <Entity id="26" label="product" />
 <Entity id="30" label="company" />
 <Entity id="27" label="trigger" />
 </Relation>
-<Relation id="37" NAME="CompanyProvidesProduct">
+<Relation id="34" NAME="CompanyProvidesProduct">
 <Entity id="26" label="product" />
 <Entity id="29" label="company" />
 <Entity id="27" label="trigger" />
 </Relation>
-<Relation id="38" NAME="CompanyProvidesProduct">
+<Relation id="35" NAME="CompanyProvidesProduct">
 <Entity id="26" label="product" />
 <Entity id="28" label="company" />
 <Entity id="27" label="trigger" />
 </Relation>
-<Relation id="39" NAME="CompanyProvidesProduct">
+<Relation id="36" NAME="CompanyProvidesProduct">
+<Entity id="26" label="product" />
+<Entity id="32" label="company" />
+<Entity id="27" label="trigger" />
+</Relation>
+<Relation id="37" NAME="CompanyProvidesProduct">
 <Entity id="26" label="product" />
 <Entity id="31" label="company" />
 <Entity id="27" label="trigger" />
 </Relation>
-<Relation id="40" NAME="Identity">
-<Entity id="1" label="product" />
+<Relation id="38" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="8" label="target" />
+<Entity id="18" label="target" />
+<Entity id="17" label="target" />
+<Entity id="2" label="target" />
+<Entity id="6" label="target" />
+<Entity id="22" label="target" />
+<Entity id="14" label="target" />
+<Entity id="21" label="target" />
 <Entity id="24" label="target" />
 <Entity id="25" label="target" />
-<Entity id="6" label="target" />
-<Entity id="21" label="target" />
-<Entity id="3" label="target" />
-<Entity id="22" label="target" />
-<Entity id="20" label="target" />
-<Entity id="5" label="target" />
 <Entity id="16" label="target" />
-<Entity id="2" label="target" />
-<Entity id="7" label="target" />
+<Entity id="5" label="target" />
 <Entity id="19" label="target" />
-<Entity id="8" label="target" />
-<Entity id="14" label="target" />
-<Entity id="4" label="target" />
-<Entity id="17" label="target" />
-<Entity id="18" label="target" />
-<Entity id="23" label="target" />
-<Entity id="0" label="target" />
+<Entity id="1" label="target" />
+<Entity id="7" label="target" />
+<Entity id="20" label="target" />
 <Entity id="15" label="target" />
+<Entity id="3" label="target" />
+<Entity id="23" label="target" />
+<Entity id="4" label="target" />
+</Relation>
+<Relation id="39" NAME="Identity">
+<Entity id="12" label="source" />
+<Entity id="26" label="target" />
+<Entity id="11" label="target" />
+<Entity id="9" label="target" />
+</Relation>
+<Relation id="40" NAME="Identity">
+<Entity id="13" label="source" />
+<Entity id="10" label="target" />
 </Relation></Relations>
 </Document>

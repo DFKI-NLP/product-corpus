@@ -74,34 +74,34 @@ At <NODE id="2630" />Chesapeake<NODE id="2640" />, everything <NODE id="2653" />
 <Entity id="43" startPos="2967" endPos="2970" type="organization" surface="our" />
 <Entity id="44" startPos="3087" endPos="3089" type="organization" surface="We" /></Entities><Relations>
 <Relation id="45" NAME="CompanyProvidesProduct">
-<Entity id="8" label="product" />
-<Entity id="1" label="company" />
-<Entity id="7" label="trigger" />
-</Relation>
-<Relation id="46" NAME="CompanyProvidesProduct">
-<Entity id="15" label="product" />
-<Entity id="19" label="company" />
-<Entity id="17" label="trigger" />
-</Relation>
-<Relation id="47" NAME="CompanyProvidesProduct">
-<Entity id="20" label="company" />
-<Entity id="16" label="source" />
-<Entity id="17" label="trigger" />
-</Relation>
-<Relation id="48" NAME="CompanyProvidesProduct">
 <Entity id="5" label="product" />
 <Entity id="6" label="product" />
 <Entity id="1" label="company" />
 <Entity id="4" label="trigger" />
 </Relation>
-<Relation id="49" NAME="CompanyProvidesProduct">
+<Relation id="46" NAME="CompanyProvidesProduct">
+<Entity id="8" label="product" />
+<Entity id="1" label="company" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="47" NAME="CompanyProvidesProduct">
 <Entity id="3" label="product" />
 <Entity id="1" label="company" />
 <Entity id="2" label="trigger" />
 </Relation>
+<Relation id="48" NAME="CompanyProvidesProduct">
+<Entity id="15" label="product" />
+<Entity id="19" label="company" />
+<Entity id="17" label="trigger" />
+</Relation>
+<Relation id="49" NAME="CompanyProvidesProduct">
+<Entity id="16" label="product" />
+<Entity id="20" label="company" />
+<Entity id="17" label="trigger" />
+</Relation>
 <Relation id="50" NAME="CompanyProvidesProduct">
-<Entity id="35" label="product" />
 <Entity id="34" label="product" />
+<Entity id="35" label="product" />
 <Entity id="33" label="company" />
 <Entity id="36" label="trigger" />
 </Relation>
@@ -113,41 +113,41 @@ At <NODE id="2630" />Chesapeake<NODE id="2640" />, everything <NODE id="2653" />
 </Relation>
 <Relation id="52" NAME="Identity">
 <Entity id="0" label="source" />
-<Entity id="14" label="target" />
-<Entity id="43" label="target" />
-<Entity id="18" label="target" />
+<Entity id="24" label="target" />
+<Entity id="27" label="target" />
+<Entity id="42" label="target" />
 <Entity id="23" label="target" />
-<Entity id="26" label="target" />
-<Entity id="21" label="target" />
 <Entity id="22" label="target" />
 <Entity id="44" label="target" />
-<Entity id="25" label="target" />
-<Entity id="31" label="target" />
-<Entity id="29" label="target" />
-<Entity id="32" label="target" />
-<Entity id="33" label="target" />
-<Entity id="42" label="target" />
-<Entity id="37" label="target" />
-<Entity id="30" label="target" />
-<Entity id="27" label="target" />
-<Entity id="24" label="target" />
+<Entity id="12" label="target" />
 <Entity id="1" label="target" />
 <Entity id="38" label="target" />
-<Entity id="28" label="target" />
-<Entity id="12" label="target" />
+<Entity id="32" label="target" />
+<Entity id="37" label="target" />
+<Entity id="18" label="target" />
+<Entity id="25" label="target" />
 <Entity id="9" label="target" />
+<Entity id="31" label="target" />
+<Entity id="14" label="target" />
+<Entity id="43" label="target" />
+<Entity id="29" label="target" />
+<Entity id="33" label="target" />
+<Entity id="21" label="target" />
+<Entity id="28" label="target" />
+<Entity id="26" label="target" />
+<Entity id="30" label="target" />
 </Relation>
 <Relation id="53" NAME="Identity">
 <Entity id="3" label="source" />
-<Entity id="13" label="target" />
 <Entity id="41" label="target" />
+<Entity id="13" label="target" />
 <Entity id="35" label="target" />
 <Entity id="10" label="target" />
 </Relation>
 <Relation id="54" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="11" label="target" />
-<Entity id="34" label="target" />
 <Entity id="40" label="target" />
+<Entity id="34" label="target" />
 </Relation></Relations>
 </Document>

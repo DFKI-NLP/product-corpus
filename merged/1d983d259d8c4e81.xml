@@ -69,13 +69,13 @@ Sider på ae.no:
 <Relation id="47" NAME="CompanyProvidesProduct">
 <Entity id="4" label="product" />
 <Entity id="1" label="company" />
-<Entity id="2" label="trigger" />
 <Entity id="5" label="trigger" />
 <Entity id="3" label="trigger" />
+<Entity id="2" label="trigger" />
 </Relation>
 <Relation id="48" NAME="CompanyProvidesProduct">
-<Entity id="9" label="product" />
 <Entity id="8" label="product" />
+<Entity id="9" label="product" />
 <Entity id="6" label="company" />
 <Entity id="7" label="trigger" />
 </Relation>
@@ -114,31 +114,31 @@ Sider på ae.no:
 <Entity id="37" label="trigger" />
 </Relation>
 <Relation id="56" NAME="Identity">
+<Entity id="1" label="source" />
+<Entity id="11" label="target" />
+<Entity id="42" label="target" />
+<Entity id="12" label="target" />
+<Entity id="6" label="target" />
+<Entity id="26" label="target" />
+<Entity id="20" label="target" />
+<Entity id="18" label="target" />
+<Entity id="0" label="target" />
+<Entity id="43" label="target" />
+<Entity id="15" label="target" />
+<Entity id="40" label="target" />
+<Entity id="41" label="target" />
+<Entity id="10" label="target" />
+<Entity id="44" label="target" />
+<Entity id="46" label="target" />
+</Relation>
+<Relation id="57" NAME="Identity">
 <Entity id="21" label="source" />
 <Entity id="23" label="target" />
 </Relation>
-<Relation id="57" NAME="Identity">
-<Entity id="0" label="source" />
-<Entity id="1" label="source" />
-<Entity id="15" label="target" />
-<Entity id="6" label="target" />
-<Entity id="10" label="target" />
-<Entity id="40" label="target" />
-<Entity id="11" label="target" />
-<Entity id="20" label="target" />
-<Entity id="41" label="target" />
-<Entity id="44" label="target" />
-<Entity id="18" label="target" />
-<Entity id="26" label="target" />
-<Entity id="43" label="target" />
-<Entity id="42" label="target" />
-<Entity id="46" label="target" />
-<Entity id="12" label="target" />
-</Relation>
 <Relation id="58" NAME="Identity">
 <Entity id="27" label="source" />
-<Entity id="33" label="target" />
 <Entity id="28" label="target" />
+<Entity id="33" label="target" />
 <Entity id="30" label="target" />
 </Relation>
 <Relation id="59" NAME="Identity">

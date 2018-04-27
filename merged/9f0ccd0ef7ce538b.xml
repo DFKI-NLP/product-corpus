@@ -55,57 +55,57 @@ Projects
 <Entity id="28" startPos="1153" endPos="1160" type="trigger" surface="operate" />
 <Entity id="29" startPos="1165" endPos="1173" type="trigger" surface="maintain" />
 <Entity id="30" startPos="1174" endPos="1207" type="product" surface="alkaline fuel cell power projects" /></Entities><Relations>
-<Relation id="31" NAME="Identity">
-<Entity id="12" label="source" />
-<Entity id="24" label="target" />
-<Entity id="7" label="target" />
-</Relation>
-<Relation id="32" NAME="Identity">
-<Entity id="10" label="source" />
-<Entity id="19" label="target" />
-<Entity id="23" label="target" />
-</Relation>
-<Relation id="33" NAME="CompanyProvidesProduct">
+<Relation id="31" NAME="CompanyProvidesProduct">
 <Entity id="3" label="product" />
 <Entity id="2" label="company" />
 </Relation>
-<Relation id="34" NAME="CompanyProvidesProduct">
+<Relation id="32" NAME="CompanyProvidesProduct">
 <Entity id="10" label="product" />
 <Entity id="8" label="company" />
-<Entity id="9" label="trigger" />
 <Entity id="11" label="trigger" />
+<Entity id="9" label="trigger" />
 </Relation>
-<Relation id="35" NAME="CompanyProvidesProduct">
+<Relation id="33" NAME="CompanyProvidesProduct">
 <Entity id="15" label="product" />
 <Entity id="13" label="company" />
 <Entity id="14" label="trigger" />
 </Relation>
-<Relation id="36" NAME="CompanyProvidesProduct">
+<Relation id="34" NAME="CompanyProvidesProduct">
 <Entity id="19" label="product" />
 <Entity id="17" label="company" />
 <Entity id="18" label="trigger" />
 </Relation>
-<Relation id="37" NAME="CompanyProvidesProduct">
+<Relation id="35" NAME="CompanyProvidesProduct">
 <Entity id="30" label="product" />
-<Entity id="28" label="targettarget" />
 <Entity id="25" label="company" />
-<Entity id="29" label="trigger" />
-<Entity id="27" label="trigger" />
 <Entity id="26" label="trigger" />
+<Entity id="28" label="trigger" />
+<Entity id="27" label="trigger" />
+<Entity id="29" label="trigger" />
+</Relation>
+<Relation id="36" NAME="Identity">
+<Entity id="1" label="source" />
+<Entity id="25" label="target" />
+<Entity id="5" label="target" />
+<Entity id="21" label="target" />
+<Entity id="13" label="target" />
+<Entity id="17" label="target" />
+<Entity id="0" label="target" />
+<Entity id="6" label="target" />
+<Entity id="4" label="target" />
+<Entity id="20" label="target" />
+<Entity id="2" label="target" />
+<Entity id="8" label="target" />
+<Entity id="22" label="target" />
+</Relation>
+<Relation id="37" NAME="Identity">
+<Entity id="7" label="source" />
+<Entity id="12" label="target" />
+<Entity id="24" label="target" />
 </Relation>
 <Relation id="38" NAME="Identity">
-<Entity id="1" label="source" />
-<Entity id="8" label="target" />
-<Entity id="20" label="target" />
-<Entity id="25" label="target" />
-<Entity id="0" label="target" />
-<Entity id="22" label="target" />
-<Entity id="21" label="target" />
-<Entity id="5" label="target" />
-<Entity id="13" label="target" />
-<Entity id="6" label="target" />
-<Entity id="17" label="target" />
-<Entity id="4" label="target" />
-<Entity id="2" label="target" />
+<Entity id="10" label="source" />
+<Entity id="19" label="target" />
+<Entity id="23" label="target" />
 </Relation></Relations>
 </Document>

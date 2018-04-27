@@ -44,23 +44,23 @@ Fax : + 971 4 2858891 / 2861170
 <Entity id="25" startPos="1263" endPos="1275" type="organization" surface="REMA TIP TOP" /></Entities><Relations>
 <Relation id="26" NAME="CompanyProvidesProduct">
 <Entity id="4" label="product" />
-<Entity id="1" label="source" />
+<Entity id="1" label="company" />
 <Entity id="3" label="trigger" />
 </Relation>
 <Relation id="27" NAME="CompanyProvidesProduct">
-<Entity id="13" label="product" />
-<Entity id="14" label="product" />
 <Entity id="11" label="product" />
 <Entity id="12" label="product" />
+<Entity id="13" label="product" />
+<Entity id="14" label="product" />
 <Entity id="5" label="company" />
 <Entity id="10" label="trigger" />
 </Relation>
 <Relation id="28" NAME="CompanyProvidesProduct">
-<Entity id="7" label="product" />
 <Entity id="8" label="product" />
+<Entity id="7" label="product" />
 <Entity id="5" label="company" />
-<Entity id="9" label="trigger" />
 <Entity id="6" label="trigger" />
+<Entity id="9" label="trigger" />
 </Relation>
 <Relation id="29" NAME="CompanyProvidesProduct">
 <Entity id="20" label="product" />
@@ -71,10 +71,10 @@ Fax : + 971 4 2858891 / 2861170
 </Relation>
 <Relation id="30" NAME="Identity">
 <Entity id="0" label="source" />
-<Entity id="1" label="target" />
 <Entity id="16" label="target" />
-<Entity id="2" label="target" />
 <Entity id="5" label="target" />
+<Entity id="2" label="target" />
+<Entity id="1" label="target" />
 </Relation>
 <Relation id="31" NAME="Identity">
 <Entity id="18" label="source" />

@@ -42,50 +42,50 @@ Org. nr: NO 976542606 MVA, Faks: +47 63 82 90 50, Faktura: efaktura@akershusener
 <Entity id="22" startPos="1096" endPos="1103" type="trigger" surface="produce" />
 <Entity id="23" startPos="1142" endPos="1160" type="organization" surface="Akershus Energi AS" /></Entities><Relations>
 <Relation id="24" NAME="CompanyProvidesProduct">
-<Entity id="9" label="product" />
-<Entity id="10" label="company" />
-</Relation>
-<Relation id="25" NAME="CompanyProvidesProduct">
-<Entity id="20" label="product" />
-<Entity id="21" label="company" />
-<Entity id="22" label="trigger" />
-</Relation>
-<Relation id="26" NAME="Identity">
-<Entity id="13" label="source" />
-<Entity id="12" label="target" />
-</Relation>
-<Relation id="27" NAME="CompanyProvidesProduct">
 <Entity id="3" label="product" />
 <Entity id="0" label="company" />
 <Entity id="2" label="trigger" />
 </Relation>
-<Relation id="28" NAME="CompanyProvidesProduct">
+<Relation id="25" NAME="CompanyProvidesProduct">
+<Entity id="9" label="product" />
+<Entity id="10" label="company" />
+</Relation>
+<Relation id="26" NAME="CompanyProvidesProduct">
 <Entity id="18" label="product" />
 <Entity id="16" label="company" />
 <Entity id="17" label="trigger" />
 </Relation>
-<Relation id="29" NAME="Identity">
-<Entity id="23" label="source" />
-<Entity id="8" label="source" />
-<Entity id="14" label="target" />
-<Entity id="19" label="target" />
-<Entity id="21" label="target" />
-<Entity id="16" label="target" />
-<Entity id="6" label="target" />
-<Entity id="0" label="target" />
-<Entity id="5" label="target" />
-<Entity id="4" label="target" />
-<Entity id="1" label="target" />
+<Relation id="27" NAME="CompanyProvidesProduct">
+<Entity id="20" label="product" />
+<Entity id="21" label="company" />
+<Entity id="22" label="trigger" />
 </Relation>
-<Relation id="30" NAME="Identity">
+<Relation id="28" NAME="Identity">
+<Entity id="23" label="source" />
+<Entity id="6" label="target" />
+<Entity id="4" label="target" />
+<Entity id="16" label="target" />
+<Entity id="21" label="target" />
+<Entity id="5" label="target" />
+<Entity id="0" label="target" />
+<Entity id="8" label="target" />
+<Entity id="1" label="target" />
+<Entity id="19" label="target" />
+<Entity id="14" label="target" />
+</Relation>
+<Relation id="29" NAME="Identity">
 <Entity id="3" label="source" />
+<Entity id="9" label="target" />
 <Entity id="7" label="target" />
 <Entity id="20" label="target" />
-<Entity id="9" label="target" />
 </Relation>
-<Relation id="31" NAME="Identity">
+<Relation id="30" NAME="Identity">
 <Entity id="11" label="source" />
 <Entity id="10" label="target" />
+</Relation>
+<Relation id="31" NAME="Identity">
+<Entity id="13" label="source" />
+<Entity id="12" label="target" />
 </Relation>
 <Relation id="32" NAME="Identity">
 <Entity id="15" label="source" />
