@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>ASHLEY PAE / AGGIE UC Davis researchers design device that regulates asthma. In 2015, a team of UC Davis researchers received a four-year grant from the <NODE id="153" />National Institute of Health<NODE id="181" /> (<NODE id="183" />NIH<NODE id="186" />) to <NODE id="191" />develop<NODE id="198" /> a <NODE id="201" />wearable sensor<NODE id="216" /> that measures the lung function of asthma patients in response to environmental triggers. This team has worked collaboratively for almost a decade on studying breath biomarkers to diagnose patients with asthma. '[Breath biomarkers are] small molecules that either represent a product of reactions that go on in the lungs or [a] product of reactions that go on in the body but are carried to the lungs and then breathed out,' said Michael Schivo, assistant professor of pulmonary, critical care and sleep medicine at UC Davis. 'Some biomarkers we do know. We are looking less for a single biomarker and more for a group of biomarkers that will help us determine if someone has a disease or an infection.' For the past three years, the team has been constructing the <NODE id="982" />sensor<NODE id="988" />, hoping to ease the symptoms that come with pediatric asthma. The <NODE id="1055" />device<NODE id="1061" /> could produce groundbreaking data which would help determine the different markers which affect a patient’s asthma. 'Our <NODE id="1183" />device<NODE id="1189" /> can be used to measure pulmonary function, which is something that normally patients have to go to their doctor’s office to get tested [...] but that measurement is usually only taken a couple of times a year,' said Cristina Davis, co-principal investigator of the research and UC Davis professor of mechanical and aeronautical engineering. 'Our new <NODE id="1540" />device<NODE id="1546" /> will allow a patient and their doctor to take measurements as frequently as they need, or as their doctor asks them to.' Davis said that since the <NODE id="1694" />sensor<NODE id="1700" /> allows a user to measure themselves as often as necessary, much more 'fine-tuned' data is generated that gives insight into the daily or weekly problems a patient might be having. In turn, this can help a doctor figure out a way to better address the problem. The <NODE id="1965" />device<NODE id="1971" /> is designed for easy usage and is compact, so that patients have a non-obtrusive way of monitoring their asthma. On top of this, the team is hoping to make the <NODE id="2132" />sensor<NODE id="2138" /> workable through a <NODE id="2158" />mobile phone<NODE id="2170" /> format as well. '[Patients] would be able to breathe into their <NODE id="2235" />device<NODE id="2241" /> and it would measure their lung function on a daily basis and would also pick up some other markers of inflammation and markers of environmental exposure,' said Nicholas Kenyon, co-principal investigator, chief of pulmonary, critical care and sleep medicine at UC Davis and asthma specialist. 'That can be captured and sent automatically to their doctors so that they can make adjustments on their asthma medication.' According to Kenyon, asthma medication doses can fluctuate during the year depending on the patient’s health, but it is most important to pick up asthma attacks early so that medications can be adjusted appropriately. To test the device, the UC Davis team composed a few prototypes which have undergone testing with the goal of making them available to doctors and patients. 'We are so pleased that the <NODE id="3063" />NIH<NODE id="3066" /> is able to support this upcoming four-year effort,' Davis said. 'We plan [to have] not only a pilot trial of our new <NODE id="3184" />device<NODE id="3190" /> with UC Davis patients, but also a prototype that can actually can be used by others.' Once the <NODE id="3287" />tool<NODE id="3291" /> is developed, researchers will be able to study several aspects of the disease, such as how patients experience exposure to allergens and what changes this causes in their asthma. 'With this <NODE id="3483" />device<NODE id="3489" />, researchers will be to collect more data in portable formats and also in real time,' Davis said. 'We think this is going to be a very powerful research and clinical <NODE id="3656" />tool<NODE id="3660" />.' The group is planning to use a group of teenage asthmatic patients for the pilot testing, as these patients are more aware of their condition and are more likely to vocalize any issues they face in using the <NODE id="3871" />device<NODE id="3877" /> or triggers that cause asthmatic reactions. 'In the lung and asthma field, we’ve been looking for ways to have kids and adults to manage their asthma at home rather than come into the emergency room when things are too late,' said Kenyon. 'The technologies that we have used in the past haven’t been effective or they haven’t been used.' Kenyon said that in order to make developments more accessible in developing nations, where there are very few up-to-par <NODE id="4337" />lung function devices<NODE id="4358" />, the team will attempt to make the <NODE id="4394" />device<NODE id="4400" /> <NODE id="4401" />mobile-phone<NODE id="4413" /> friendly to ensure that asthmatics across the world benefit from the <NODE id="4483" />sensor<NODE id="4489" />’s success. 'There are very few <NODE id="4521" />lung function devices<NODE id="4542" /> in poor countries, but there are lots of <NODE id="4584" />phones<NODE id="4590" />,' Kenyon said. 'If we can make a cheap, pen-sized <NODE id="4641" />lung function device<NODE id="4661" /> that can also give some assessment of the environment, it might be able to be employed around the world.' Written by: Amanda Cruz – features@theaggie.org Some Related Posts
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/eca925eb-a6b9-37cd-967d-eeed8d76537e" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-28T21:47:01Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T12:05:08.067Z" />
+<feature featureName="uri" featureValue="https://theaggie.org/2016/01/05/a-step-toward-easier-breathing/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="153" endPos="181" type="organization" surface="National Institute of Health" />
+<Entity id="1" startPos="183" endPos="186" type="organization" surface="NIH" />
+<Entity id="2" startPos="191" endPos="198" type="trigger" surface="develop" />
+<Entity id="3" startPos="201" endPos="216" type="product" surface="wearable sensor" />
+<Entity id="4" startPos="982" endPos="988" type="product" surface="sensor" />
+<Entity id="5" startPos="1055" endPos="1061" type="product" surface="device" />
+<Entity id="6" startPos="1183" endPos="1189" type="product" surface="device" />
+<Entity id="7" startPos="1540" endPos="1546" type="product" surface="device" />
+<Entity id="8" startPos="1694" endPos="1700" type="product" surface="sensor" />
+<Entity id="9" startPos="1965" endPos="1971" type="product" surface="device" />
+<Entity id="10" startPos="2132" endPos="2138" type="product" surface="sensor" />
+<Entity id="11" startPos="2158" endPos="2170" type="product" surface="mobile phone" />
+<Entity id="12" startPos="2235" endPos="2241" type="product" surface="device" />
+<Entity id="13" startPos="3063" endPos="3066" type="organization" surface="NIH" />
+<Entity id="14" startPos="3184" endPos="3190" type="product" surface="device" />
+<Entity id="15" startPos="3287" endPos="3291" type="product" surface="tool" />
+<Entity id="16" startPos="3483" endPos="3489" type="product" surface="device" />
+<Entity id="17" startPos="3656" endPos="3660" type="product" surface="tool" />
+<Entity id="18" startPos="3871" endPos="3877" type="product" surface="device" />
+<Entity id="19" startPos="4337" endPos="4358" type="product" surface="lung function devices" />
+<Entity id="20" startPos="4394" endPos="4400" type="product" surface="device" />
+<Entity id="21" startPos="4401" endPos="4413" type="product" surface="mobile-phone" />
+<Entity id="22" startPos="4483" endPos="4489" type="product" surface="sensor" />
+<Entity id="23" startPos="4521" endPos="4542" type="product" surface="lung function devices" />
+<Entity id="24" startPos="4584" endPos="4590" type="product" surface="phones" />
+<Entity id="25" startPos="4641" endPos="4661" type="product" surface="lung function device" /></Entities><Relations>
+<Relation id="26" NAME="CompanyProvidesProduct">
+<Entity id="3" label="product" />
+<Entity id="0" label="company" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="27" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="13" label="target" />
+<Entity id="1" label="target" />
+</Relation>
+<Relation id="28" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="14" label="target" />
+<Entity id="18" label="target" />
+<Entity id="22" label="target" />
+<Entity id="17" label="target" />
+<Entity id="9" label="target" />
+<Entity id="8" label="target" />
+<Entity id="10" label="target" />
+<Entity id="6" label="target" />
+<Entity id="12" label="target" />
+<Entity id="19" label="target" />
+<Entity id="5" label="target" />
+<Entity id="4" label="target" />
+<Entity id="7" label="target" />
+<Entity id="16" label="target" />
+<Entity id="20" label="target" />
+<Entity id="25" label="target" />
+<Entity id="23" label="target" />
+<Entity id="15" label="target" />
+</Relation>
+<Relation id="29" NAME="identity">
+<Entity id="11" label="source" />
+<Entity id="24" label="target" />
+<Entity id="21" label="target" />
+</Relation></Relations>
+</Document>

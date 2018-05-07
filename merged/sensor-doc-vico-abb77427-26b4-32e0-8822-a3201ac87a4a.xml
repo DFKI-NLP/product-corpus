@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />printer<NODE id="7" /> friendly version An <NODE id="28" />enclosure<NODE id="37" /> for every application February 2016 , <NODE id="76" />Enclosures<NODE id="86" />, Cabling &amp; Connectors <NODE id="109" />Elen <NODE id="114" />Enclosures<NODE id="124" /> is the South African <NODE id="146" />distributor<NODE id="157" /> of <NODE id="161" />Schneider Electric<NODE id="179" /> Universal Enclosures<NODE id="200" /> (<NODE id="202" />SEUE<NODE id="206" />) since 1982 and remains the authorised <NODE id="246" />Schneider Electric<NODE id="264" /> partner today. <NODE id="280" />Schneider Electric<NODE id="298" /> is a <NODE id="304" />leading<NODE id="311" /> name in <NODE id="320" />enclosure<NODE id="329" /> <NODE id="330" />design<NODE id="336" />. Previously known by the <NODE id="362" />Sarel<NODE id="367" /> and <NODE id="372" />Himel<NODE id="377" /> brand names, these <NODE id="397" />enclosures<NODE id="407" /> have been protecting automation and electrical installations for over 50 years around the world. <NODE id="505" />SEUE<NODE id="509" /> is a <NODE id="515" />specialist<NODE id="525" /> in <NODE id="529" />enclosure<NODE id="538" /> <NODE id="539" />design<NODE id="545" /> and <NODE id="550" />manufacture<NODE id="561" /> that conforms to the highest certification standards and is adapted to applications including: • Control and automation. • Electrical distribution. • Data, electronics and network applications. <NODE id="756" />SEUE<NODE id="760" />’s<NODE id="762" /> <NODE id="763" />product<NODE id="770" /> offering comprises several <NODE id="798" />ranges<NODE id="804" /> categorised as follows: • ‘<NODE id="832" />Spacial<NODE id="839" />’: <NODE id="842" />steel<NODE id="847" /> and <NODE id="852" />stainless steel floor standing<NODE id="882" /> and <NODE id="887" />wall mount enclosures<NODE id="908" /> and <NODE id="913" />industrial screw-lid boxes<NODE id="939" />. • ‘<NODE id="944" />Thalassa<NODE id="952" />’: <NODE id="955" />insulating (non-metallic) floor standing<NODE id="995" />, <NODE id="997" />wall-mount enclosures<NODE id="1018" /> (GRP) and <NODE id="1029" />industrial boxes<NODE id="1045" /> (ABS and polycarbonate). • ‘<NODE id="1074" />Climasys<NODE id="1082" />’: efficient <NODE id="1095" />thermal management solutions<NODE id="1123" /> that extend the service life of installed equipment, electrical devices and instruments. <NODE id="1213" />Schneider Electric<NODE id="1231" /> enclosures<NODE id="1242" /> offer three material solutions for the most demanding environments and applications: • <NODE id="1330" />Steel enclosures<NODE id="1346" /> are recommended for indoor harsh and dirty environments, such as machine and manufacturing plants. They can also be used outdoors in applications where there are no corrosive elements in the environment. • <NODE id="1553" />Stainless steel enclosures<NODE id="1579" /> are intended for use in hygienic installations or where resistance to chemicals is required. They are commonly used in the food, beverage and pharmaceutical industries. The material is also used in the oil and gas industry for its chemical resistance, although GRP is more often than not better suited for such applications. • <NODE id="1907" />Plastic and polyester (GRP) enclosures<NODE id="1945" /> provide protection by total electrical insulation for people and devices. They are ideal for outdoor applications and are the number one choice and recommendation for harsh corrosive environments. <NODE id="2143" />Schneider Electric<NODE id="2161" /> and <NODE id="2166" />Elen <NODE id="2171" />Enclosures<NODE id="2181" /> have extensive experience as product <NODE id="2219" />specialists<NODE id="2230" /> in the <NODE id="2238" />enclosure<NODE id="2247" /> <NODE id="2248" />market<NODE id="2254" />. Together, they offer a wide range of <NODE id="2293" />enclosures<NODE id="2303" /> and accessories according to application and supported by digital tools including selection and thermal management calculation software. For more information contact <NODE id="2470" />Elen <NODE id="2475" />Enclosures<NODE id="2485" />, +27 (0)11 472 2220, sales@elen.co.za , www.elen.co.za Further reading: Distributed temperature measurement over <NODE id="2599" />fibre ­optic cable<NODE id="2617" /> September 2015 , <NODE id="2635" />Spero<NODE id="2640" /> Sensors<NODE id="2648" /> &amp; Instrumentation, <NODE id="2668" />Enclosures<NODE id="2678" />, Cabling &amp; Connectors <NODE id="2701" />Sperosens<NODE id="2710" />, in partnership with <NODE id="2732" />AP Sensing<NODE id="2742" />, recently <NODE id="2753" />launched<NODE id="2761" /> <NODE id="2762" />its<NODE id="2765" /> first <NODE id="2772" />fibre optic linear heat detection (LHD) system<NODE id="2818" /> in South Africa.       Principle of operation Distributed temperature sensing (DTS) ... Contact: <NODE id="2916" />Technews Publishing (Pty) Ltd<NODE id="2945" /> 1st Floor, Stabilitas House 265 Kent Ave, Randburg, 2194 South Africa Publications by <NODE id="3032" />Technews<NODE id="3040" /> Dataweek<NODE id="3049" /> Electronics &amp; Communications Technology Electronic Buyers Guide (EBG) Hi-Tech Security Solutions Hi-Tech Security Business Directory Motion Control in Southern Africa Motion Control Buyers’ Guide (MCBG) South African Instrumentation &amp; Control South African Instrumentation &amp; Control Buyers’ Guide (IBG) Other Terms &amp; conditions of use, including privacy policy PAIA Manual classic | mobile Copyright © <NODE id="3452" />Technews Publishing (Pty) Ltd .<NODE id="3483" /> All rights reserved.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/abb77427-26b4-32e0-8822-a3201ac87a4a" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-02T13:59:59Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:40:17.42Z" />
+<feature featureName="uri" featureValue="http://www.instrumentation.co.za/53750n" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="product" surface="printer" />
+<Entity id="1" startPos="28" endPos="37" type="product" surface="enclosure" />
+<Entity id="2" startPos="76" endPos="86" type="product" surface="Enclosures" />
+<Entity id="3" startPos="109" endPos="124" type="organization" surface="Elen Enclosures" />
+<Entity id="4" startPos="114" endPos="124" type="product" surface="Enclosures" />
+<Entity id="5" startPos="146" endPos="157" type="trigger" surface="distributor" />
+<Entity id="6" startPos="161" endPos="179" type="organization" surface="Schneider Electric" />
+<Entity id="7" startPos="161" endPos="200" type="product" surface="Schneider Electric Universal Enclosures" />
+<Entity id="8" startPos="202" endPos="206" type="organization" surface="SEUE" />
+<Entity id="9" startPos="246" endPos="264" type="organization" surface="Schneider Electric" />
+<Entity id="10" startPos="280" endPos="298" type="organization" surface="Schneider Electric" />
+<Entity id="11" startPos="304" endPos="311" type="trigger" surface="leading" />
+<Entity id="12" startPos="320" endPos="329" type="product" surface="enclosure" />
+<Entity id="13" startPos="330" endPos="336" type="trigger" surface="design" />
+<Entity id="14" startPos="362" endPos="367" type="organization" surface="Sarel" />
+<Entity id="15" startPos="372" endPos="377" type="organization" surface="Himel" />
+<Entity id="16" startPos="397" endPos="407" type="product" surface="enclosures" />
+<Entity id="17" startPos="505" endPos="509" type="organization" surface="SEUE" />
+<Entity id="18" startPos="515" endPos="525" type="trigger" surface="specialist" />
+<Entity id="19" startPos="529" endPos="538" type="product" surface="enclosure" />
+<Entity id="20" startPos="539" endPos="545" type="trigger" surface="design" />
+<Entity id="21" startPos="550" endPos="561" type="trigger" surface="manufacture" />
+<Entity id="22" startPos="756" endPos="760" type="organization" surface="SEUE" />
+<Entity id="23" startPos="760" endPos="762" type="trigger" surface="’s" />
+<Entity id="24" startPos="763" endPos="770" type="trigger" surface="product" />
+<Entity id="25" startPos="798" endPos="804" type="trigger" surface="ranges" />
+<Entity id="26" startPos="832" endPos="839" type="product" surface="Spacial" />
+<Entity id="27" startPos="842" endPos="847" type="product" surface="steel" />
+<Entity id="28" startPos="852" endPos="882" type="product" surface="stainless steel floor standing" />
+<Entity id="29" startPos="887" endPos="908" type="product" surface="wall mount enclosures" />
+<Entity id="30" startPos="913" endPos="939" type="product" surface="industrial screw-lid boxes" />
+<Entity id="31" startPos="944" endPos="952" type="product" surface="Thalassa" />
+<Entity id="32" startPos="955" endPos="995" type="product" surface="insulating (non-metallic) floor standing" />
+<Entity id="33" startPos="997" endPos="1018" type="product" surface="wall-mount enclosures" />
+<Entity id="34" startPos="1029" endPos="1045" type="product" surface="industrial boxes" />
+<Entity id="35" startPos="1074" endPos="1082" type="product" surface="Climasys" />
+<Entity id="36" startPos="1095" endPos="1123" type="product" surface="thermal management solutions" />
+<Entity id="37" startPos="1213" endPos="1231" type="organization" surface="Schneider Electric" />
+<Entity id="38" startPos="1213" endPos="1242" type="product" surface="Schneider Electric enclosures" />
+<Entity id="39" startPos="1330" endPos="1346" type="product" surface="Steel enclosures" />
+<Entity id="40" startPos="1553" endPos="1579" type="product" surface="Stainless steel enclosures" />
+<Entity id="41" startPos="1907" endPos="1945" type="product" surface="Plastic and polyester (GRP) enclosures" />
+<Entity id="42" startPos="2143" endPos="2161" type="organization" surface="Schneider Electric" />
+<Entity id="43" startPos="2166" endPos="2181" type="organization" surface="Elen Enclosures" />
+<Entity id="44" startPos="2171" endPos="2181" type="product" surface="Enclosures" />
+<Entity id="45" startPos="2219" endPos="2230" type="trigger" surface="specialists" />
+<Entity id="46" startPos="2238" endPos="2247" type="product" surface="enclosure" />
+<Entity id="47" startPos="2248" endPos="2254" type="trigger" surface="market" />
+<Entity id="48" startPos="2293" endPos="2303" type="product" surface="enclosures" />
+<Entity id="49" startPos="2470" endPos="2485" type="organization" surface="Elen Enclosures" />
+<Entity id="50" startPos="2475" endPos="2485" type="product" surface="Enclosures" />
+<Entity id="51" startPos="2599" endPos="2617" type="product" surface="fibre ­optic cable" />
+<Entity id="52" startPos="2635" endPos="2640" type="organization" surface="Spero" />
+<Entity id="53" startPos="2635" endPos="2648" type="product" surface="Spero Sensors" />
+<Entity id="54" startPos="2668" endPos="2678" type="product" surface="Enclosures" />
+<Entity id="55" startPos="2701" endPos="2710" type="organization" surface="Sperosens" />
+<Entity id="56" startPos="2732" endPos="2742" type="organization" surface="AP Sensing" />
+<Entity id="57" startPos="2753" endPos="2761" type="trigger" surface="launched" />
+<Entity id="58" startPos="2762" endPos="2765" type="organization" surface="its" />
+<Entity id="59" startPos="2772" endPos="2818" type="product" surface="fibre optic linear heat detection (LHD) system" />
+<Entity id="60" startPos="2916" endPos="2945" type="organization" surface="Technews Publishing (Pty) Ltd" />
+<Entity id="61" startPos="3032" endPos="3040" type="organization" surface="Technews" />
+<Entity id="62" startPos="3032" endPos="3049" type="product" surface="Technews Dataweek" />
+<Entity id="63" startPos="3452" endPos="3483" type="organization" surface="Technews Publishing (Pty) Ltd ." /></Entities><Relations>
+<Relation id="64" NAME="CompanyProvidesProduct">
+<Entity id="7" label="product" />
+<Entity id="3" label="company" />
+<Entity id="5" label="trigger" />
+</Relation>
+<Relation id="65" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="3" label="company" />
+</Relation>
+<Relation id="66" NAME="CompanyProvidesProduct">
+<Entity id="7" label="product" />
+<Entity id="6" label="company" />
+</Relation>
+<Relation id="67" NAME="CompanyProvidesProduct">
+<Entity id="12" label="product" />
+<Entity id="10" label="company" />
+<Entity id="13" label="trigger" />
+<Entity id="11" label="trigger" />
+</Relation>
+<Relation id="68" NAME="CompanyProvidesProduct">
+<Entity id="19" label="product" />
+<Entity id="17" label="company" />
+<Entity id="21" label="trigger" />
+<Entity id="18" label="trigger" />
+</Relation>
+<Relation id="69" NAME="CompanyProvidesProduct">
+<Entity id="27" label="product" />
+<Entity id="29" label="product" />
+<Entity id="28" label="product" />
+<Entity id="30" label="product" />
+<Entity id="32" label="product" />
+<Entity id="22" label="company" />
+<Entity id="24" label="trigger" />
+<Entity id="23" label="trigger" />
+<Entity id="25" label="trigger" />
+<Entity id="34" label="target" />
+<Entity id="33" label="target" />
+<Entity id="26" label="target" />
+<Entity id="31" label="target" />
+<Entity id="36" label="target" />
+<Entity id="35" label="target" />
+</Relation>
+<Relation id="70" NAME="CompanyProvidesProduct">
+<Entity id="38" label="product" />
+<Entity id="37" label="company" />
+</Relation>
+<Relation id="71" NAME="CompanyProvidesProduct">
+<Entity id="46" label="product" />
+<Entity id="42" label="company" />
+<Entity id="45" label="trigger" />
+<Entity id="47" label="trigger" />
+</Relation>
+<Relation id="72" NAME="CompanyProvidesProduct">
+<Entity id="44" label="product" />
+<Entity id="43" label="company" />
+</Relation>
+<Relation id="73" NAME="CompanyProvidesProduct">
+<Entity id="46" label="product" />
+<Entity id="43" label="company" />
+<Entity id="45" label="trigger" />
+<Entity id="47" label="trigger" />
+</Relation>
+<Relation id="74" NAME="CompanyProvidesProduct">
+<Entity id="50" label="product" />
+<Entity id="49" label="company" />
+</Relation>
+<Relation id="75" NAME="CompanyProvidesProduct">
+<Entity id="53" label="product" />
+<Entity id="52" label="company" />
+</Relation>
+<Relation id="76" NAME="CompanyProvidesProduct">
+<Entity id="59" label="product" />
+<Entity id="55" label="company" />
+<Entity id="57" label="trigger" />
+</Relation>
+<Relation id="77" NAME="CompanyProvidesProduct">
+<Entity id="62" label="product" />
+<Entity id="61" label="company" />
+</Relation>
+<Relation id="78" NAME="identity">
+<Entity id="1" label="source" />
+<Entity id="41" label="target" />
+<Entity id="39" label="target" />
+<Entity id="54" label="target" />
+<Entity id="33" label="target" />
+<Entity id="19" label="target" />
+<Entity id="46" label="target" />
+<Entity id="16" label="target" />
+<Entity id="2" label="target" />
+<Entity id="44" label="target" />
+<Entity id="12" label="target" />
+<Entity id="29" label="target" />
+<Entity id="4" label="target" />
+<Entity id="38" label="target" />
+<Entity id="50" label="target" />
+<Entity id="7" label="target" />
+<Entity id="48" label="target" />
+<Entity id="40" label="target" />
+</Relation>
+<Relation id="79" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="43" label="target" />
+<Entity id="49" label="target" />
+</Relation>
+<Relation id="80" NAME="identity">
+<Entity id="6" label="source" />
+<Entity id="42" label="target" />
+<Entity id="17" label="target" />
+<Entity id="9" label="target" />
+<Entity id="10" label="target" />
+<Entity id="8" label="target" />
+<Entity id="22" label="target" />
+<Entity id="37" label="target" />
+</Relation>
+<Relation id="81" NAME="identity">
+<Entity id="56" label="source" />
+<Entity id="58" label="target" />
+</Relation>
+<Relation id="82" NAME="identity">
+<Entity id="60" label="source" />
+<Entity id="61" label="target" />
+<Entity id="63" label="target" />
+</Relation></Relations>
+</Document>

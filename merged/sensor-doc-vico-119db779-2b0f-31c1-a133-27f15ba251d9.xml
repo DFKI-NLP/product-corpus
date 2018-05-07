@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Link 51<NODE id="7" /> completes <NODE id="18" />its<NODE id="21" /> latest <NODE id="29" />racking<NODE id="36" /> <NODE id="37" />installation<NODE id="49" /> for <NODE id="54" />DHL<NODE id="57" /> The UK's leading <NODE id="75" />racking<NODE id="82" /> and <NODE id="87" />storage<NODE id="94" /> <NODE id="95" />specialist<NODE id="105" /> <NODE id="106" />Link 51<NODE id="113" /> has completed a further installation for the <NODE id="159" />DHL<NODE id="162" /> organisation in Doncaster. The latest facility, which builds on a number of <NODE id="239" />Link 51<NODE id="246" /> <NODE id="247" />racking<NODE id="254" /> <NODE id="255" />projects<NODE id="263" /> already in operation for the company in the area, is centred on the Harworth site that is dedicated to <NODE id="367" />distribution<NODE id="379" /> of <NODE id="383" />household cleaning products<NODE id="410" /> for <NODE id="415" />Reckitt Benckiser<NODE id="432" />. A total of 54,000 pallet positions have been created in the new warehouse facility spread across twenty-four 120 metre long aisles. Up to nine beam levels are available – making full use of the apex roof line – in a layout which utilises the <NODE id="676" />Link 51<NODE id="683" /> XL <NODE id="687" />racking<NODE id="694" /> system<NODE id="701" /> in both a standard and VNA configuration. The vast majority follows a back-to-back layout but where single depth racking is used, <NODE id="832" />Link 51<NODE id="839" /> has also <NODE id="849" />installed<NODE id="858" /> <NODE id="859" />anti-collapse mesh<NODE id="877" /> at the rear of each bay as an additional safety measure. The very narrow aisle areas allow us to maximise the cube storage capacity and are accessed via a series of <NODE id="1043" />wire-guided man-up order pickers<NODE id="1075" />, comments <NODE id="1086" />DHL<NODE id="1089" /> Support Services Manager, Paul Riley. The wide aisle areas, where both <NODE id="1161" />reach trucks<NODE id="1173" /> and <NODE id="1178" />powered pallet trucks<NODE id="1199" /> operate, are ideal for both individual picking operations and to provide for a degree of growth in capacity in the future. In-bound pallets are either located directly into the bulk racking area via a series of pick and drop locations at the end of each racking level or are broken down for storage in the very narrow aisle picking locations. From here, individual batch loads can be assembled for delivery either to the customer's own distribution centres or direct to stores. Of the <NODE id="1685" />Link 51<NODE id="1692" /> pallet positions now available, some 10,000 are located within a dedicated caged area. This is set aside for the storage of aerosol containers where a number of appropriate safety measures have been taken. These include <NODE id="1913" />in-rack <NODE id="1921" />sprinklers<NODE id="1931" /> at every level, additional <NODE id="1959" />sprinklers<NODE id="1969" /> on the face of each beam as well as a series of <NODE id="2018" />steel baffles<NODE id="2031" /> designed to deflect heat rapidly to the nearest <NODE id="2080" />sprinkler<NODE id="2089" /> sensor<NODE id="2096" />, continues Paul Riley. The work has called for direct liaison between <NODE id="2167" />Link 51<NODE id="2174" /> and the <NODE id="2183" />sprinkler<NODE id="2192" /> system<NODE id="2199" /> suppliers to ensure that the overall <NODE id="2237" />racking<NODE id="2244" /> design met these precise requirements. We believe this is an excellent demonstration of our ability and willingness to work with all the concerned parties to ensure that the customer's needs are fully met, comments Major Accounts Manager at <NODE id="2486" />Link 51<NODE id="2493" />, Chris Patey-Round. The result is a facility which not only meets <NODE id="2560" />DHL<NODE id="2563" />'s immediate and varied requirements but also provides a significant ability to develop the site further in the future. We believe that <NODE id="2699" />DHL<NODE id="2702" />'s decision to appoint <NODE id="2725" />us<NODE id="2727" /> again for this latest project in the area reflects favourably on the suitability of our equipment and <NODE id="2830" />our<NODE id="2833" /> <NODE id="2834" />installation<NODE id="2846" /> <NODE id="2847" />expertise<NODE id="2856" />, he concludes. <NODE id="2872" />Link 51<NODE id="2879" /> is the UK's leading <NODE id="2900" />storage equipment<NODE id="2917" /> <NODE id="2918" />manufacturer<NODE id="2930" /> and is part of <NODE id="2946" />Whittan Storage Systems<NODE id="2969" /> – the UK based, pan-European, storage-focused manufacturing group. Other group companies include <NODE id="3067" />Link Lockers<NODE id="3079" />, <NODE id="3081" />Moresecure<NODE id="3091" />, <NODE id="3093" />N C Brown<NODE id="3102" />, <NODE id="3104" />Polypal<NODE id="3111" /> and <NODE id="3116" />Permar<NODE id="3122" />. <NODE id="3124" />Whittan Storage Systems<NODE id="3147" /> group supplies products and services across the Continent and indeed, further afield, with sales of some £130 million and a workforce of over 1000. Through manufacturing facilities in four countries and sales operations in six, all <NODE id="3380" />Whittan Storage Systems<NODE id="3403" />' customers benefit from <NODE id="3428" />its<NODE id="3431" /> commitment to <NODE id="3446" />its<NODE id="3449" /> core business. 2008-05-01 <NODE id="3476" />MHWmagazine<NODE id="3487" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/119db779-2b0f-31c1-a133-27f15ba251d9" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-24T03:36:40Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T10:41:57.088Z" />
+<feature featureName="uri" featureValue="http://mhwmagazine.co.uk/link-51-completes-its-latest-racking-installation-for-dhl.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization" surface="Link 51" />
+<Entity id="1" startPos="18" endPos="21" type="organization" surface="its" />
+<Entity id="2" startPos="29" endPos="36" type="product" surface="racking" />
+<Entity id="3" startPos="37" endPos="49" type="trigger" surface="installation" />
+<Entity id="4" startPos="54" endPos="57" type="organization" surface="DHL" />
+<Entity id="5" startPos="75" endPos="82" type="product" surface="racking" />
+<Entity id="6" startPos="87" endPos="94" type="product" surface="storage" />
+<Entity id="7" startPos="95" endPos="105" type="trigger" surface="specialist" />
+<Entity id="8" startPos="106" endPos="113" type="organization" surface="Link 51" />
+<Entity id="9" startPos="159" endPos="162" type="organization" surface="DHL" />
+<Entity id="10" startPos="239" endPos="246" type="organization" surface="Link 51" />
+<Entity id="11" startPos="247" endPos="254" type="product" surface="racking" />
+<Entity id="12" startPos="255" endPos="263" type="trigger" surface="projects" />
+<Entity id="13" startPos="367" endPos="379" type="trigger" surface="distribution" />
+<Entity id="14" startPos="383" endPos="410" type="product" surface="household cleaning products" />
+<Entity id="15" startPos="415" endPos="432" type="organization" surface="Reckitt Benckiser" />
+<Entity id="16" startPos="676" endPos="683" type="organization" surface="Link 51" />
+<Entity id="17" startPos="676" endPos="701" type="product" surface="Link 51 XL racking system" />
+<Entity id="18" startPos="687" endPos="694" type="product" surface="racking" />
+<Entity id="19" startPos="832" endPos="839" type="organization" surface="Link 51" />
+<Entity id="20" startPos="849" endPos="858" type="trigger" surface="installed" />
+<Entity id="21" startPos="859" endPos="877" type="product" surface="anti-collapse mesh" />
+<Entity id="22" startPos="1043" endPos="1075" type="product" surface="wire-guided man-up order pickers" />
+<Entity id="23" startPos="1086" endPos="1089" type="organization" surface="DHL" />
+<Entity id="24" startPos="1161" endPos="1173" type="product" surface="reach trucks" />
+<Entity id="25" startPos="1178" endPos="1199" type="product" surface="powered pallet trucks" />
+<Entity id="26" startPos="1685" endPos="1692" type="organization" surface="Link 51" />
+<Entity id="27" startPos="1913" endPos="1931" type="product" surface="in-rack sprinklers" />
+<Entity id="28" startPos="1921" endPos="1931" type="product" surface="sprinklers" />
+<Entity id="29" startPos="1959" endPos="1969" type="product" surface="sprinklers" />
+<Entity id="30" startPos="2018" endPos="2031" type="product" surface="steel baffles" />
+<Entity id="31" startPos="2080" endPos="2089" type="product" surface="sprinkler" />
+<Entity id="32" startPos="2080" endPos="2096" type="product" surface="sprinkler sensor" />
+<Entity id="33" startPos="2167" endPos="2174" type="organization" surface="Link 51" />
+<Entity id="34" startPos="2183" endPos="2192" type="product" surface="sprinkler" />
+<Entity id="35" startPos="2183" endPos="2199" type="product" surface="sprinkler system" />
+<Entity id="36" startPos="2237" endPos="2244" type="product" surface="racking" />
+<Entity id="37" startPos="2486" endPos="2493" type="organization" surface="Link 51" />
+<Entity id="38" startPos="2560" endPos="2563" type="organization" surface="DHL" />
+<Entity id="39" startPos="2699" endPos="2702" type="organization" surface="DHL" />
+<Entity id="40" startPos="2725" endPos="2727" type="organization" surface="us" />
+<Entity id="41" startPos="2830" endPos="2833" type="organization" surface="our" />
+<Entity id="42" startPos="2834" endPos="2846" type="product" surface="installation" />
+<Entity id="43" startPos="2847" endPos="2856" type="trigger" surface="expertise" />
+<Entity id="44" startPos="2872" endPos="2879" type="organization" surface="Link 51" />
+<Entity id="45" startPos="2900" endPos="2917" type="product" surface="storage equipment" />
+<Entity id="46" startPos="2918" endPos="2930" type="trigger" surface="manufacturer" />
+<Entity id="47" startPos="2946" endPos="2969" type="organization" surface="Whittan Storage Systems" />
+<Entity id="48" startPos="3067" endPos="3079" type="organization" surface="Link Lockers" />
+<Entity id="49" startPos="3081" endPos="3091" type="organization" surface="Moresecure" />
+<Entity id="50" startPos="3093" endPos="3102" type="organization" surface="N C Brown" />
+<Entity id="51" startPos="3104" endPos="3111" type="organization" surface="Polypal" />
+<Entity id="52" startPos="3116" endPos="3122" type="organization" surface="Permar" />
+<Entity id="53" startPos="3124" endPos="3147" type="organization" surface="Whittan Storage Systems" />
+<Entity id="54" startPos="3380" endPos="3403" type="organization" surface="Whittan Storage Systems" />
+<Entity id="55" startPos="3428" endPos="3431" type="organization" surface="its" />
+<Entity id="56" startPos="3446" endPos="3449" type="organization" surface="its" />
+<Entity id="57" startPos="3476" endPos="3487" type="organization" surface="MHWmagazine" /></Entities><Relations>
+<Relation id="58" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="0" label="company" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="59" NAME="CompanyProvidesProduct">
+<Entity id="5" label="product" />
+<Entity id="6" label="product" />
+<Entity id="8" label="company" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="60" NAME="CompanyProvidesProduct">
+<Entity id="11" label="product" />
+<Entity id="10" label="company" />
+<Entity id="12" label="trigger" />
+</Relation>
+<Relation id="61" NAME="CompanyProvidesProduct">
+<Entity id="14" label="product" />
+<Entity id="15" label="company" />
+<Entity id="13" label="trigger" />
+</Relation>
+<Relation id="62" NAME="CompanyProvidesProduct">
+<Entity id="17" label="product" />
+<Entity id="16" label="company" />
+</Relation>
+<Relation id="63" NAME="CompanyProvidesProduct">
+<Entity id="21" label="product" />
+<Entity id="19" label="company" />
+<Entity id="20" label="trigger" />
+</Relation>
+<Relation id="64" NAME="CompanyProvidesProduct">
+<Entity id="42" label="product" />
+<Entity id="41" label="company" />
+<Entity id="43" label="trigger" />
+</Relation>
+<Relation id="65" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="19" label="target" />
+<Entity id="41" label="target" />
+<Entity id="37" label="target" />
+<Entity id="44" label="target" />
+<Entity id="10" label="target" />
+<Entity id="26" label="target" />
+<Entity id="16" label="target" />
+<Entity id="40" label="target" />
+<Entity id="1" label="target" />
+<Entity id="8" label="target" />
+<Entity id="33" label="target" />
+</Relation>
+<Relation id="66" NAME="identity">
+<Entity id="2" label="source" />
+<Entity id="18" label="target" />
+<Entity id="36" label="target" />
+<Entity id="11" label="target" />
+</Relation>
+<Relation id="67" NAME="identity">
+<Entity id="4" label="source" />
+<Entity id="9" label="target" />
+<Entity id="23" label="target" />
+<Entity id="38" label="target" />
+<Entity id="39" label="target" />
+</Relation>
+<Relation id="68" NAME="identity">
+<Entity id="28" label="source" />
+<Entity id="29" label="target" />
+<Entity id="34" label="target" />
+<Entity id="31" label="target" />
+</Relation>
+<Relation id="69" NAME="identity">
+<Entity id="47" label="source" />
+<Entity id="54" label="target" />
+<Entity id="56" label="target" />
+<Entity id="55" label="target" />
+<Entity id="53" label="target" />
+</Relation></Relations>
+</Document>

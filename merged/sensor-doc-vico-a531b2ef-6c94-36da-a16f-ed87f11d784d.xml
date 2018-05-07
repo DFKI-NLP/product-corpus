@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Silver Spring Networks<NODE id="22" /> reported Monday that <NODE id="44" />it<NODE id="46" /> swung to profitability in 2015, according to preliminary financial results, and announced a big <NODE id="143" />smart meter<NODE id="154" /> networking win with New York utility <NODE id="192" />Consolidated Edison<NODE id="211" /> to sweeten the news. <NODE id="233" />Silver Spring<NODE id="246" /> projected that <NODE id="262" />it<NODE id="264" /> will earn 8 to 9 cents per share in fiscal year 2015 on revenues of $281 to $282 million on a non-GAAP basis, coming in at the high range of <NODE id="406" />its<NODE id="409" /> previous 2015 estimates. It's the first annual profit for the publicly traded <NODE id="488" />Redwood City<NODE id="500" />, Calif.-based <NODE id="515" />company<NODE id="522" />, and a turnaround from 2014's non-GAAP loss of $24.4 million, or 50 cents per share, on revenue of $276.7 million. <NODE id="638" />Silver Spring<NODE id="651" /> also reported that <NODE id="671" />it<NODE id="673" /> <NODE id="674" />shipped<NODE id="681" /> about 613,000 <NODE id="696" />wirelessly connected devices<NODE id="724" /> in 2015, up 13 percent from the previous year, bringing <NODE id="781" />its<NODE id="784" /> cumulative total to more than 22.9 endpoints. <NODE id="831" />It<NODE id="833" /> also announced that <NODE id="854" />it<NODE id="856" /> has filed a $200 million mixed shelf registration with the <NODE id="916" />U.S Securities and Exchange Commission<NODE id="954" /> for future stock, debt, or warrant offerings to be used for general corporate purposes. These results, released a week ahead of <NODE id="1083" />its<NODE id="1086" /> detailed fourth-quarter and full year 2015 results due on Feb. 16, were accompanied by news of <NODE id="1182" />Silver Spring<NODE id="1195" />'s award of a contract to <NODE id="1221" />deploy<NODE id="1227" /> a combined 5.2 million <NODE id="1251" />smart meters<NODE id="1263" /> <NODE id="1264" />with<NODE id="1268" /> New York utilities <NODE id="1288" />Con Edison<NODE id="1298" /> and <NODE id="1303" />Orange &amp; Rockland Utilities<NODE id="1330" />. That includes about 3.9 million <NODE id="1364" />electric meters<NODE id="1379" /> and 1.3 million <NODE id="1396" />natural gas meters<NODE id="1414" /> for the two regulated operating companies of <NODE id="1460" />Consolidated Edison<NODE id="1479" />, in a deployment that awaits final approval from New York's Public Service Commission before a scheduled start in early 2017. This win is noteworthy, in that it fits in with a much more robust set of capabilities being demanded of utility advanced metering infrastructure (AMI) networks under New York's Reforming the Energy Vision (REV) proceeding, <NODE id="1830" />Silver Spring<NODE id="1843" /> CEO Mike Bell noted in a Monday conference call. That includes 15-minute interval meter reads, as well as real time visibility into grid conditions, and the ability to optimize voltage levels for maximum efficiency and minimal environmental impact, he said. <NODE id="2102" />ConEdison<NODE id="2111" /> also plans to integrate a growing number of distributed energy resources, and to support a variety of <NODE id="2214" />sensors<NODE id="2221" /> and smart city applications. Previous generations of <NODE id="2275" />smart meter<NODE id="2286" /> networks haven't required this kind of multi-application capabilities. But they're part of the suite of services that <NODE id="2405" />Silver Spring<NODE id="2418" /> has been promoting to differentiate <NODE id="2455" />it<NODE id="2457" /> from competitors such as <NODE id="2483" />Itron<NODE id="2488" />, <NODE id="2490" />Landis+Gyr<NODE id="2500" /> and <NODE id="2505" />Elster<NODE id="2511" />. In particular, it's an important proving point for the <NODE id="2568" />company<NODE id="2575" />'s goal of becoming a favored provider of networks to support the Internet of Things, or IoT, Bell said. That's a catch-all term that includes all manner of wirelessly connected endpoints that can deliver data and remote-control capabilities to utilities and cities. <NODE id="2842" />Silver Spring<NODE id="2855" />'s<NODE id="2857" /> main foray into the IoT space has been in <NODE id="2900" />networked streetlights<NODE id="2922" />, boosted by <NODE id="2935" />its<NODE id="2938" /> acquisition of <NODE id="2954" />Streetlight.Vision<NODE id="2972" /> in 2014. The <NODE id="2986" />company<NODE id="2993" /> has deployed pure-play streetlighting networks for the cities of Copenhagen , Paris and Glasgow, among others. <NODE id="3105" />It<NODE id="3107" />'s also put existing <NODE id="3128" />smart meter<NODE id="3139" /> networks to use <NODE id="3156" />connecting streetlights<NODE id="3179" /> for customers including <NODE id="3204" />Florida Power &amp; Light<NODE id="3225" /> in Miami-Dade County, and Chicago's <NODE id="3262" />Commonwealth Edison<NODE id="3281" /> . But these networks are only the starting point for what Bell described as a full-court press into IoT applications for <NODE id="3403" />Silver Spring<NODE id="3416" /> as part of <NODE id="3428" />its<NODE id="3431" /> new <NODE id="3436" />Starfish<NODE id="3444" /> <NODE id="3445" />platform<NODE id="3453" /> -- a robust, scalable and secure IoT networking solution to enable commercial enterprises, cities, utilities, and developers to access a reliable, secure, and scalable IoT network service with service level agreements (SLAs) that meet their needs. This move into IoT applications for <NODE id="3738" />its<NODE id="3741" /> utility and streetlight-centric networks isn't unique to <NODE id="3799" />Silver Spring<NODE id="3812" />. Competitors like <NODE id="3831" />Itron<NODE id="3836" /> have been building increased computing and analytics flexibility into their networks, in hopes of <NODE id="3935" />adding<NODE id="3941" /> <NODE id="3942" />smart thermostats<NODE id="3959" />, <NODE id="3961" />solar inverters<NODE id="3976" />, <NODE id="3978" />distribution grid devices<NODE id="4003" />, <NODE id="4005" />parking meters<NODE id="4019" />, <NODE id="4021" />traffic lights<NODE id="4035" /> and <NODE id="4040" />environmental sensors<NODE id="4061" /> to their roster of connected endpoints. (For a deeper dive into <NODE id="4126" />Starfish<NODE id="4134" /> and <NODE id="4139" />Silver Spring<NODE id="4152" />'s IoT ambitions, check out our upcoming report at <NODE id="4203" />GTM Squared<NODE id="4214" />.) <NODE id="4217" />Silver Spring<NODE id="4230" /> has brought increased bandwidth to <NODE id="4266" />its<NODE id="4269" /> <NODE id="4270" />Gen5 networking technology<NODE id="4296" />, doubling <NODE id="4307" />its<NODE id="4310" /> throughput speed to 2.4 megabits-per-second and achieving a tenfold increase in processing power, compared to previous iterations of the technology announced in Jan. 2015 . <NODE id="4484" />We<NODE id="4486" /> continue to invest in additional applications beyond AMI to capitalize on <NODE id="4561" />our<NODE id="4564" /> growing footprint, and unlock benefits of <NODE id="4607" />our<NODE id="4610" /> multi-application network for <NODE id="4641" />our<NODE id="4644" /> customers, led by <NODE id="4663" />streetlights<NODE id="4675" />, distribution automation, and analytics, Bell said. Reporter covering the green technology space, with a particular focus on smart grid, demand response, energy storage, renewable energy and technology to integrate distributed, intermittent green energy into the grid.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/a531b2ef-6c94-36da-a16f-ed87f11d784d" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-09T17:30:50Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:37:49.468Z" />
+<feature featureName="uri" featureValue="http://www.greentechmedia.com/articles/read/silver-spring-hits-profitability-in-2015-wins-big-smart-meter-deal-with-con" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="22" type="organization" surface="Silver Spring Networks" />
+<Entity id="1" startPos="44" endPos="46" type="organization" surface="it" />
+<Entity id="2" startPos="143" endPos="154" type="product" surface="smart meter" />
+<Entity id="3" startPos="192" endPos="211" type="organization" surface="Consolidated Edison" />
+<Entity id="4" startPos="233" endPos="246" type="organization" surface="Silver Spring" />
+<Entity id="5" startPos="262" endPos="264" type="organization" surface="it" />
+<Entity id="6" startPos="406" endPos="409" type="organization" surface="its" />
+<Entity id="7" startPos="488" endPos="500" type="organization" surface="Redwood City" />
+<Entity id="8" startPos="515" endPos="522" type="organization" surface="company" />
+<Entity id="9" startPos="638" endPos="651" type="organization" surface="Silver Spring" />
+<Entity id="10" startPos="671" endPos="673" type="organization" surface="it" />
+<Entity id="11" startPos="674" endPos="681" type="trigger" surface="shipped" />
+<Entity id="12" startPos="696" endPos="724" type="product" surface="wirelessly connected devices" />
+<Entity id="13" startPos="781" endPos="784" type="organization" surface="its" />
+<Entity id="14" startPos="831" endPos="833" type="organization" surface="It" />
+<Entity id="15" startPos="854" endPos="856" type="organization" surface="it" />
+<Entity id="16" startPos="916" endPos="954" type="organization" surface="U.S Securities and Exchange Commission" />
+<Entity id="17" startPos="1083" endPos="1086" type="organization" surface="its" />
+<Entity id="18" startPos="1182" endPos="1195" type="organization" surface="Silver Spring" />
+<Entity id="19" startPos="1221" endPos="1227" type="trigger" surface="deploy" />
+<Entity id="20" startPos="1251" endPos="1263" type="product" surface="smart meters" />
+<Entity id="21" startPos="1264" endPos="1268" type="trigger" surface="with" />
+<Entity id="22" startPos="1288" endPos="1298" type="organization" surface="Con Edison" />
+<Entity id="23" startPos="1303" endPos="1330" type="organization" surface="Orange &amp; Rockland Utilities" />
+<Entity id="24" startPos="1364" endPos="1379" type="product" surface="electric meters" />
+<Entity id="25" startPos="1396" endPos="1414" type="product" surface="natural gas meters" />
+<Entity id="26" startPos="1460" endPos="1479" type="organization" surface="Consolidated Edison" />
+<Entity id="27" startPos="1830" endPos="1843" type="organization" surface="Silver Spring" />
+<Entity id="28" startPos="2102" endPos="2111" type="organization" surface="ConEdison" />
+<Entity id="29" startPos="2214" endPos="2221" type="product" surface="sensors" />
+<Entity id="30" startPos="2275" endPos="2286" type="product" surface="smart meter" />
+<Entity id="31" startPos="2405" endPos="2418" type="organization" surface="Silver Spring" />
+<Entity id="32" startPos="2455" endPos="2457" type="organization" surface="it" />
+<Entity id="33" startPos="2483" endPos="2488" type="organization" surface="Itron" />
+<Entity id="34" startPos="2490" endPos="2500" type="organization" surface="Landis+Gyr" />
+<Entity id="35" startPos="2505" endPos="2511" type="organization" surface="Elster" />
+<Entity id="36" startPos="2568" endPos="2575" type="organization" surface="company" />
+<Entity id="37" startPos="2842" endPos="2855" type="organization" surface="Silver Spring" />
+<Entity id="38" startPos="2855" endPos="2857" type="trigger" surface="'s" />
+<Entity id="39" startPos="2900" endPos="2922" type="product" surface="networked streetlights" />
+<Entity id="40" startPos="2935" endPos="2938" type="organization" surface="its" />
+<Entity id="41" startPos="2954" endPos="2972" type="organization" surface="Streetlight.Vision" />
+<Entity id="42" startPos="2986" endPos="2993" type="organization" surface="company" />
+<Entity id="43" startPos="3105" endPos="3107" type="organization" surface="It" />
+<Entity id="44" startPos="3128" endPos="3139" type="product" surface="smart meter" />
+<Entity id="45" startPos="3156" endPos="3179" type="product" surface="connecting streetlights" />
+<Entity id="46" startPos="3204" endPos="3225" type="organization" surface="Florida Power &amp; Light" />
+<Entity id="47" startPos="3262" endPos="3281" type="organization" surface="Commonwealth Edison" />
+<Entity id="48" startPos="3403" endPos="3416" type="organization" surface="Silver Spring" />
+<Entity id="49" startPos="3428" endPos="3431" type="organization" surface="its" />
+<Entity id="50" startPos="3436" endPos="3444" type="product" surface="Starfish" />
+<Entity id="51" startPos="3445" endPos="3453" type="trigger" surface="platform" />
+<Entity id="52" startPos="3738" endPos="3741" type="organization" surface="its" />
+<Entity id="53" startPos="3799" endPos="3812" type="organization" surface="Silver Spring" />
+<Entity id="54" startPos="3831" endPos="3836" type="organization" surface="Itron" />
+<Entity id="55" startPos="3935" endPos="3941" type="trigger" surface="adding" />
+<Entity id="56" startPos="3942" endPos="3959" type="product" surface="smart thermostats" />
+<Entity id="57" startPos="3961" endPos="3976" type="product" surface="solar inverters" />
+<Entity id="58" startPos="3978" endPos="4003" type="product" surface="distribution grid devices" />
+<Entity id="59" startPos="4005" endPos="4019" type="product" surface="parking meters" />
+<Entity id="60" startPos="4021" endPos="4035" type="product" surface="traffic lights" />
+<Entity id="61" startPos="4040" endPos="4061" type="product" surface="environmental sensors" />
+<Entity id="62" startPos="4126" endPos="4134" type="product" surface="Starfish" />
+<Entity id="63" startPos="4139" endPos="4152" type="organization" surface="Silver Spring" />
+<Entity id="64" startPos="4203" endPos="4214" type="organization" surface="GTM Squared" />
+<Entity id="65" startPos="4217" endPos="4230" type="organization" surface="Silver Spring" />
+<Entity id="66" startPos="4266" endPos="4269" type="organization" surface="its" />
+<Entity id="67" startPos="4270" endPos="4296" type="product" surface="Gen5 networking technology" />
+<Entity id="68" startPos="4307" endPos="4310" type="organization" surface="its" />
+<Entity id="69" startPos="4484" endPos="4486" type="organization" surface="We" />
+<Entity id="70" startPos="4561" endPos="4564" type="organization" surface="our" />
+<Entity id="71" startPos="4607" endPos="4610" type="organization" surface="our" />
+<Entity id="72" startPos="4641" endPos="4644" type="organization" surface="our" />
+<Entity id="73" startPos="4663" endPos="4675" type="product" surface="streetlights" /></Entities><Relations>
+<Relation id="74" NAME="CompanyProvidesProduct">
+<Entity id="12" label="product" />
+<Entity id="10" label="company" />
+<Entity id="11" label="trigger" />
+</Relation>
+<Relation id="75" NAME="CompanyProvidesProduct">
+<Entity id="20" label="product" />
+<Entity id="18" label="company" />
+<Entity id="19" label="trigger" />
+</Relation>
+<Relation id="76" NAME="CompanyProvidesProduct">
+<Entity id="20" label="product" />
+<Entity id="22" label="company" />
+<Entity id="21" label="trigger" />
+</Relation>
+<Relation id="77" NAME="CompanyProvidesProduct">
+<Entity id="20" label="product" />
+<Entity id="23" label="company" />
+<Entity id="21" label="trigger" />
+</Relation>
+<Relation id="78" NAME="CompanyProvidesProduct">
+<Entity id="39" label="product" />
+<Entity id="37" label="company" />
+<Entity id="38" label="trigger" />
+</Relation>
+<Relation id="79" NAME="CompanyProvidesProduct">
+<Entity id="50" label="product" />
+<Entity id="49" label="company" />
+<Entity id="51" label="trigger" />
+</Relation>
+<Relation id="80" NAME="CompanyProvidesProduct">
+<Entity id="60" label="product" />
+<Entity id="61" label="product" />
+<Entity id="59" label="product" />
+<Entity id="56" label="product" />
+<Entity id="57" label="product" />
+<Entity id="58" label="product" />
+<Entity id="54" label="company" />
+<Entity id="55" label="trigger" />
+</Relation>
+<Relation id="81" NAME="CompanyProvidesProduct">
+<Entity id="67" label="product" />
+<Entity id="66" label="company" />
+</Relation>
+<Relation id="82" NAME="Identity">
+<Entity id="3" label="source" />
+<Entity id="22" label="target" />
+<Entity id="28" label="target" />
+<Entity id="26" label="target" />
+</Relation>
+<Relation id="83" NAME="Identity">
+<Entity id="33" label="source" />
+<Entity id="54" label="target" />
+</Relation>
+<Relation id="84" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="27" label="target" />
+<Entity id="53" label="target" />
+<Entity id="18" label="target" />
+<Entity id="13" label="target" />
+<Entity id="42" label="target" />
+<Entity id="8" label="target" />
+<Entity id="70" label="target" />
+<Entity id="10" label="target" />
+<Entity id="14" label="target" />
+<Entity id="52" label="target" />
+<Entity id="36" label="target" />
+<Entity id="69" label="target" />
+<Entity id="65" label="target" />
+<Entity id="5" label="target" />
+<Entity id="66" label="target" />
+<Entity id="71" label="target" />
+<Entity id="31" label="target" />
+<Entity id="15" label="target" />
+<Entity id="48" label="target" />
+<Entity id="63" label="target" />
+<Entity id="17" label="target" />
+<Entity id="72" label="target" />
+<Entity id="68" label="target" />
+<Entity id="49" label="target" />
+<Entity id="1" label="target" />
+<Entity id="9" label="target" />
+<Entity id="4" label="target" />
+<Entity id="43" label="target" />
+<Entity id="40" label="target" />
+<Entity id="6" label="target" />
+<Entity id="37" label="target" />
+<Entity id="32" label="target" />
+</Relation>
+<Relation id="85" NAME="identity">
+<Entity id="2" label="source" />
+<Entity id="30" label="target" />
+<Entity id="20" label="target" />
+<Entity id="44" label="target" />
+<Entity id="25" label="target" />
+<Entity id="24" label="target" />
+</Relation>
+<Relation id="86" NAME="identity">
+<Entity id="39" label="source" />
+<Entity id="45" label="target" />
+<Entity id="60" label="target" />
+<Entity id="73" label="target" />
+</Relation>
+<Relation id="87" NAME="identity">
+<Entity id="50" label="source" />
+<Entity id="62" label="target" />
+</Relation></Relations>
+</Document>

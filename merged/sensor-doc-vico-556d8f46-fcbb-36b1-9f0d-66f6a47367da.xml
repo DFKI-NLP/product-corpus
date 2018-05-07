@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>News Researchers Submit Patent Application, Battery Thermal Management System Including Thermal Interface Material with Integrated Heater Element, for... Politics &amp; Government Week | Thursday, 04 February 2016 18:30 (EST) Researchers Submit Patent Application, Battery Thermal Management System Including Thermal Interface Material with Integrated Heater Element, for Approval (USPTO 20160020496) By a News Reporter-Staff News Editor at Politics &amp; Government Week -- From Washington, D.C., VerticalNews journalists report that a patent application by the inventors Burrows, Neil Robert 
+(White Lake Twp., MI); Chorian, Steve F. (Canton, MI); Garfinkel, George Albert (Westland, MI); Vejalla, Dhanunjay (Novi, MI); Kuo, Chung-hsing (Ann Arbor, MI), filed on July 21, 2014, was made available 
+online on January 28, 2016. No assignee for this patent application has been made. News editors obtained the following quote from the background information supplied by the inventors: The need to reduce 
+fuel consumption and emissions in <NODE id="1030" />automobiles<NODE id="1041" /> and other <NODE id="1052" />vehicles<NODE id="1060" /> is well known. Therefore, <NODE id="1087" />vehicles<NODE id="1095" /> are being developed that reduce or completely eliminate reliance on an <NODE id="1167" />internal combustion engine<NODE id="1193" />. 
+<NODE id="1196" />Electrified vehicles<NODE id="1216" /> are one type of <NODE id="1233" />vehicle<NODE id="1240" /> currently being developed for this purpose. In general, <NODE id="1297" />electrified vehicles<NODE id="1317" /> differ from conventional <NODE id="1343" />motor vehicles<NODE id="1357" /> in that they are selectively driven by one or 
+more battery powered electric machines. Conventional <NODE id="1458" />motor vehicles<NODE id="1472" />, by contrast, rely exclusively on the <NODE id="1511" />internal combustion engine<NODE id="1537" /> to drive the <NODE id="1551" />vehicle<NODE id="1558" />. <NODE id="1560" />Electrified vehicle<NODE id="1579" /> batteries<NODE id="1589" /> are typically 
+constructed of one or more battery arrays that include a plurality of <NODE id="1675" />battery cells<NODE id="1688" />. It may be necessary to thermally manage the <NODE id="1734" />battery cells<NODE id="1747" />. For example, the <NODE id="1766" />battery cells<NODE id="1779" /> may need to be cooled during some conditions or heated during other conditions. As a supplement to the background information on this patent application, <NODE id="1934" />VerticalNews<NODE id="1946" /> correspondents also obtained the inventors' summary information for this patent application: A battery pack according to an example of the present disclosure includes a <NODE id="2116" />battery cell<NODE id="2128" />, a thermal interface material adjacent the <NODE id="2172" />battery cell<NODE id="2184" /> and a heater element integrated with the thermal interface material. In a further embodiment of any of the foregoing embodiments, the heater element is a <NODE id="2339" />resistive heater wire<NODE id="2360" />. In a further embodiment of any of the foregoing embodiments, the 
+heater element is embedded, bonded, overlaid or printed on the thermal interface material. In a further embodiment of any of the foregoing embodiments, the heater element is contiguous with a top surface 
+or a bottom surface of the thermal interface material. In a further embodiment of any of the foregoing embodiments, the thermal interface material is sandwiched between the <NODE id="2806" />battery cell<NODE id="2818" /> and a second 
+<NODE id="2833" />battery cell<NODE id="2845" />. In a further embodiment of any of the foregoing embodiments, the heater element is sandwiched between a first layer and a second layer of the thermal interface material. In a further embodiment 
+of any of the foregoing embodiments, the heater element is arranged in a grid that includes a plurality of <NODE id="3149" />heating wires<NODE id="3162" /> arranged as a meandering loop. In a further embodiment of any of the foregoing 
+embodiments, the thermal interface material is wrapped around the <NODE id="3309" />battery cell<NODE id="3321" />. In a further embodiment of any of the foregoing embodiments, the thermal interface material contacts a cold plate. A further embodiment of any of the foregoing embodiments includes a control system that monitors at least one temperature condition associated with the <NODE id="3590" />battery cell<NODE id="3602" /> and actuates the heater element if the at least one temperature condition drops below a predefined threshold value. A battery pack according to an example of the present disclosure includes a battery array that includes a plurality of <NODE id="3838" />battery cells<NODE id="3851" />, a tray that 
+supports the battery array, a thermal interface material between the tray and the battery array, and a heater element that heats the plurality of <NODE id="4012" />battery cells<NODE id="4025" /> in response to at least one temperature 
+condition dropping below a predefined threshold value. In a further embodiment of any of the foregoing embodiments, the heater element is integrated with the thermal interface material. A further embodiment 
+of any of the foregoing embodiments includes a second battery array adjacent to the battery array, the thermal interface material positioned between the tray and each of the battery array and the second 
+battery array. A further embodiment of any of the foregoing embodiments includes a control system that includes a first <NODE id="4599" />sensor<NODE id="4605" /> that monitors a first temperature condition, a second <NODE id="4660" />sensor<NODE id="4666" /> that monitors a second temperature condition, and a control module that selectively actuates the heater element based on the first temperature condition and the second temperature condition. A further embodiment of any of the 
+foregoing embodiments includes a cold plate positioned between the thermal interface material and the tray. A method according to an example of the present disclosure includes monitoring at least one 
+temperature condition of a battery pack that includes a <NODE id="5151" />battery cell<NODE id="5163" />, a thermal interface material and a heater element integrated with the thermal interface material, and conditioning the <NODE id="5284" />battery cell<NODE id="5296" /> 
+with the heater element if the at least one temperature condition drops below a predefined threshold value. In a further embodiment of any of the foregoing embodiments, the monitoring step includes sensing a first temperature condition with a first <NODE id="5547" />sensor<NODE id="5553" />, sensing a second temperature condition with a second <NODE id="5608" />sensor<NODE id="5614" /> and comparing at least one of the first temperature condition and the second temperature condition to the 
+predefined threshold value. In a further embodiment of any of the foregoing embodiments, the first temperature condition is an ambient temperature condition and the second temperature condition is a temperature 
+condition of the <NODE id="5951" />battery cell<NODE id="5963" />. A further embodiment of any of the foregoing embodiments includes ending the conditioning step once the at least one temperature condition exceeds the predefined threshold valve. In a 
+further embodiment of any of the foregoing embodiments, the conditioning step is executed based on an estimated departure time selected by a <NODE id="6291" />vehicle<NODE id="6298" /> operator. The embodiments, examples and alternatives of the 
+preceding paragraphs, the claims, or the following description and drawings, including any of their various aspects or respective individual features, may be taken independently or in any combination. Features described 
+in connection with one embodiment are applicable to all embodiments, unless such features are incompatible. The various features and advantages of this disclosure will become apparent to those skilled in the art from 
+the following detailed description. The drawings that accompany the detailed description can be briefly described as follows. BRIEF DESCRIPTION OF THE DRAWINGS FIG. 1 schematically illustrates a powertrain of an <NODE id="7011" />electrified vehicle<NODE id="7030" />. FIG. 2 illustrates a battery pack according to a first embodiment of this disclosure. FIG. 3A illustrates a first configuration of a heater element of a battery thermal management system. 
+FIG. 3B illustrates a second configuration of a heater element of a battery thermal management system. FIG. 3C illustrates a third configuration of a heater element of a battery thermal management 
+system. FIG. 3D illustrates a fourth configuration of a heater element of a battery thermal management system. FIG. 4 illustrates a battery pack according to a second embodiment of this disclosure. FIG. 5 illustrates another battery pack. FIG. 6 illustrates yet another battery pack. FIG. 7 schematically illustrates an exemplary control strategy for operating a battery thermal management system. For additional information on this patent application, see: Burrows, Neil Robert; Chorian, Steve F.; Garfinkel, George Albert; Vejalla, Dhanunjay; Kuo, Chung-hsing. Battery Thermal Management System Including 
+Thermal Interface Material with Integrated Heater Element. Filed July 21, 2014 and posted January 28, 2016. Patent URL: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&amp;r=1313&amp;p=27&amp;f=G&amp;l=50&amp;d=PG01&amp;S1=20160121.PD.&amp;OS=PD/20160121&amp;RS=PD/20160121 Keywords for this news article include: Patents. Our reports deliver fact-based news of research and discoveries from around the world. Copyright 2016, NewsRx LLC DISCLOSURE: The views and opinions expressed in
+ this article are those of the authors, and do not represent the views of equities.com . Readers should not consider statements made by the author as formal recommendations and should consult their financial advisor before making any investment decisions. To read our full disclosure, please go to: http://www.equities.com/disclaimer You have to be logged in to leave a comment.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/556d8f46-fcbb-36b1-9f0d-66f6a47367da" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-05T20:52:05Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:07:32.739Z" />
+<feature featureName="uri" featureValue="https://www.equities.com/news/researchers-submit-patent-application-battery-thermal-management-system-including-thermal-interface-material-with-integrated-heater-element-for" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1030" endPos="1041" type="product" surface="automobiles" />
+<Entity id="1" startPos="1052" endPos="1060" type="product" surface="vehicles" />
+<Entity id="2" startPos="1087" endPos="1095" type="product" surface="vehicles" />
+<Entity id="3" startPos="1167" endPos="1193" type="product" surface="internal combustion engine" />
+<Entity id="4" startPos="1196" endPos="1216" type="product" surface="Electrified vehicles" />
+<Entity id="5" startPos="1233" endPos="1240" type="product" surface="vehicle" />
+<Entity id="6" startPos="1297" endPos="1317" type="product" surface="electrified vehicles" />
+<Entity id="7" startPos="1343" endPos="1357" type="product" surface="motor vehicles" />
+<Entity id="8" startPos="1458" endPos="1472" type="product" surface="motor vehicles" />
+<Entity id="9" startPos="1511" endPos="1537" type="product" surface="internal combustion engine" />
+<Entity id="10" startPos="1551" endPos="1558" type="product" surface="vehicle" />
+<Entity id="11" startPos="1560" endPos="1579" type="product" surface="Electrified vehicle" />
+<Entity id="12" startPos="1560" endPos="1589" type="product" surface="Electrified vehicle batteries" />
+<Entity id="13" startPos="1675" endPos="1688" type="product" surface="battery cells" />
+<Entity id="14" startPos="1734" endPos="1747" type="product" surface="battery cells" />
+<Entity id="15" startPos="1766" endPos="1779" type="product" surface="battery cells" />
+<Entity id="16" startPos="1934" endPos="1946" type="organization" surface="VerticalNews" />
+<Entity id="17" startPos="2116" endPos="2128" type="product" surface="battery cell" />
+<Entity id="18" startPos="2172" endPos="2184" type="product" surface="battery cell" />
+<Entity id="19" startPos="2339" endPos="2360" type="product" surface="resistive heater wire" />
+<Entity id="20" startPos="2806" endPos="2818" type="product" surface="battery cell" />
+<Entity id="21" startPos="2833" endPos="2845" type="product" surface="battery cell" />
+<Entity id="22" startPos="3149" endPos="3162" type="product" surface="heating wires" />
+<Entity id="23" startPos="3309" endPos="3321" type="product" surface="battery cell" />
+<Entity id="24" startPos="3590" endPos="3602" type="product" surface="battery cell" />
+<Entity id="25" startPos="3838" endPos="3851" type="product" surface="battery cells" />
+<Entity id="26" startPos="4012" endPos="4025" type="product" surface="battery cells" />
+<Entity id="27" startPos="4599" endPos="4605" type="product" surface="sensor" />
+<Entity id="28" startPos="4660" endPos="4666" type="product" surface="sensor" />
+<Entity id="29" startPos="5151" endPos="5163" type="product" surface="battery cell" />
+<Entity id="30" startPos="5284" endPos="5296" type="product" surface="battery cell" />
+<Entity id="31" startPos="5547" endPos="5553" type="product" surface="sensor" />
+<Entity id="32" startPos="5608" endPos="5614" type="product" surface="sensor" />
+<Entity id="33" startPos="5951" endPos="5963" type="product" surface="battery cell" />
+<Entity id="34" startPos="6291" endPos="6298" type="product" surface="vehicle" />
+<Entity id="35" startPos="7011" endPos="7030" type="product" surface="electrified vehicle" /></Entities><Relations>
+<Relation id="36" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+<Entity id="5" label="target" />
+<Entity id="7" label="target" />
+<Entity id="8" label="target" />
+<Entity id="10" label="target" />
+<Entity id="2" label="target" />
+</Relation>
+<Relation id="37" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="9" label="target" />
+</Relation>
+<Relation id="38" NAME="identity">
+<Entity id="4" label="source" />
+<Entity id="11" label="target" />
+<Entity id="6" label="target" />
+<Entity id="35" label="target" />
+</Relation>
+<Relation id="39" NAME="identity">
+<Entity id="13" label="source" />
+<Entity id="30" label="target" />
+<Entity id="17" label="target" />
+<Entity id="20" label="target" />
+<Entity id="26" label="target" />
+<Entity id="18" label="target" />
+<Entity id="25" label="target" />
+<Entity id="29" label="target" />
+<Entity id="14" label="target" />
+<Entity id="15" label="target" />
+<Entity id="23" label="target" />
+<Entity id="24" label="target" />
+<Entity id="21" label="target" />
+<Entity id="33" label="target" />
+</Relation>
+<Relation id="40" NAME="identity">
+<Entity id="27" label="source" />
+<Entity id="28" label="target" />
+<Entity id="32" label="target" />
+<Entity id="31" label="target" />
+</Relation></Relations>
+</Document>

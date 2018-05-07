@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Blue Pillar<NODE id="11" /> <NODE id="12" />Expands<NODE id="19" /> <NODE id="20" />its<NODE id="23" /> Award-Winning <NODE id="38" />Aurora® Energy Network of ThingsTM Platform<NODE id="81" /> to Address Needs of Utilities and Energy Providers (February 09, 2016) (<NODE id="154" />PRWEB<NODE id="159" />) February 09, 2016 Orlando, FL DistribuTECH 2016 Booth #2141 <NODE id="221" />Blue Pillar<NODE id="232" /> , <NODE id="235" />provider<NODE id="243" /> of the worlds first <NODE id="264" />self-configurable Energy Network of Things platform<NODE id="315" /> that connects and controls distributed energy assets, <NODE id="370" />announced<NODE id="379" /> the next generation of <NODE id="403" />its<NODE id="406" /> award-winning <NODE id="421" />Aurora platform<NODE id="436" /> with expanded features specifically designed to address the needs of energy service providers and utility grid operators. This next generation <NODE id="580" />release<NODE id="587" /> brings utility grade enhancements that build upon the <NODE id="642" />Aurora platforms<NODE id="658" /> existing ability to dramatically simplify behind-the-meter connectivity and control of distributed energy resources and generation assets. In conjunction with the <NODE id="822" />announcement<NODE id="834" /> of this new <NODE id="847" />Aurora platform<NODE id="862" />, <NODE id="864" />Blue Pillar<NODE id="875" /> has also <NODE id="885" />made<NODE id="889" /> <NODE id="890" />available<NODE id="899" /> a comprehensive <NODE id="916" />Facility of the Future Framework<NODE id="948" /> , a blueprint for addressing the energy needs of Commercial and Industrial (C+I) customers. This <NODE id="1046" />framework<NODE id="1055" /> showcases how assets, services, and applications can utilize open Energy Network of Things connectivity and control in order to create new opportunities for providing energy efficiency, resiliency, and self-sufficiency solutions to the largest of facilities. This ability to apply simplified behind-the-meter connectivity and control, combined with a market-facing customer engagement approach, is valuable for energy solution providers who are turning to <NODE id="1512" />Blue Pillar<NODE id="1523" />s<NODE id="1524" /> <NODE id="1525" />Aurora Energy Network of Things platform<NODE id="1565" /> in order to help differentiate <NODE id="1597" />their<NODE id="1602" /> services and engage <NODE id="1623" />their<NODE id="1628" /> largest (C+I) customers. <NODE id="1654" />Blue Pillar<NODE id="1665" /> started with the vision to disrupt the way C+I energy assets are connected and controlled, in order to help the worlds most complex facilities become more energy efficient, resilient, and self-sufficient. Its a vision that has propelled <NODE id="1903" />us<NODE id="1905" /> to deploy hundreds of the worlds most complex facilities and connect thousands of energy assets, said Tom Willie, CEO of <NODE id="2027" />Blue Pillar<NODE id="2038" />. When <NODE id="2045" />we<NODE id="2047" /> began working with these C+I customers, two things became clear to <NODE id="2115" />us<NODE id="2117" />. First, grid-focused utilities looking to manage Distributed Energy Resources (DERs) needed information and insight into these behind-the-meter energy assets, almost like an extension to their SCADA network. Second, there was a significant opportunity for <NODE id="2374" />our<NODE id="2377" /> energy solution provider customers like NRG to create facilities of the future. Because of <NODE id="2469" />our<NODE id="2472" /> unique ability to offer ubiquitous behind-the-meter connectivity and control, <NODE id="2551" />we<NODE id="2553" /> can meet the aspirations of C+I customers, energy service providers, and grid-focused utilities like no other company in this industry. According to <NODE id="2703" />GTM Research<NODE id="2715" />s DER Management Systems 2014 Report, the proliferation of distributed generation is having an undeniably profound effect on the utility industry, not only threatening to disrupt existing business models, but also jeopardizing grid stability, said Omar Saadeh, Senior Grid Analyst at <NODE id="2999" />GTM Research<NODE id="3011" />. With behind-the-meter connectivity, distribution utilities can gain a heightened level of control and flexibility to more effectively manage the technical and economic challenges posed by an increasingly distributed grid, while offering C+I customers more differentiated services. In addition to helping energy service providers, <NODE id="3343" />Blue Pillar<NODE id="3354" />s<NODE id="3355" /> <NODE id="3356" />Aurora platform<NODE id="3371" /> can solve some of the biggest challenges facing regulated utilities as well. According to the U.S. Energy Information Administration , distributed generation assets among the C+I sector grew 400% from 2010-2015 (solar, wind, <NODE id="3597" />microturbines<NODE id="3610" />, <NODE id="3612" />fuel cells<NODE id="3622" /> and conventional natural gas-fired CHP). This exponential proliferation in distributed generation is increasing utilities need for real-time insight and control that starts behind-the-meter. Utilities need standards-based open networks for connectivity, data aggregation and control. Similar to how the rollout of millions of <NODE id="3949" />smart meters<NODE id="3961" /> created the need for Advanced Meter Infrastructures (AMI), the proliferation of microgrids and DERs create a need for Distributed Generation Infrastructure (DGI). <NODE id="4125" />Aurora<NODE id="4131" /> creates a secured DGI network between the utility and their C+I customers distributed energy resources, which can ultimately become an extension of the utilitys grid. With this new level of visibility and control starting behind-the-meter, utilities can leverage <NODE id="4395" />Aurora<NODE id="4401" /> to optimize DERs in a way that will increase grid efficiency, ensure higher levels of reliability and protect safety. Simplifying Chaos Behind-the-Meter The <NODE id="4559" />Aurora Platform<NODE id="4574" /> Difference Historic approaches to connecting disparate behind-the-meter distributed generation assets required customized SCADA development. This became inordinately expensive, exposed cybersecurity vulnerabilities, and left behind many stranded assets. Additionally, the challenge of trying to connect dispersed facilities and distributed generation fleets meant aggregating and collecting data in real-time, when most systems could not scale time zones or make data accessible to third-party applications. With <NODE id="5088" />Aurora<NODE id="5094" />, <NODE id="5096" />Blue Pillar<NODE id="5107" /> has been able to <NODE id="5125" />create<NODE id="5131" /> <NODE id="5132" />DGI networks<NODE id="5144" /> to connect energy assets that scale to the needs of both energy providers and grid operators. Because the <NODE id="5251" />platform<NODE id="5259" /> is self-configurable, <NODE id="5282" />it<NODE id="5284" /> can be deployed in a manner that works with existing legacy equipment with no onsite programming. By centrally connecting and gathering distributed generation data, a grid operator or energy service provider gains accurate insights and control of any asset that generates, consumes, switches or measures electricity. New <NODE id="5606" />Utility Grade Aurora Platform<NODE id="5635" /> Enhancements This next generation <NODE id="5670" />Aurora platform<NODE id="5685" /> includes expanded functionality, specifically designed for energy service providers and grid operators, including: Availability of new interface and control protocols including DNP 3.0, OpenADR 2.0a VEN, and ICCP to be combined with existing support for OPC UA, Modbus, SNMP, LONWorks, and BACnet. Data aggregation into a public or private cloud-based service, which allows for a robust backend data management platform with distributed data storage and support for multiple time zones. This provides the scalability needed to support multi-site deployments in geographically dispersed regions. An extensive pre-integrated library of energy efficiency, resiliency, and self-sufficiency software applications, which can be utilized by energy service providers as turn-key offerings to C+I facility customers. Unified architecture and open-API support, which allows for plug-and-play integration to third-party facility focused energy applications or DERMS applications solutions, such as grid balancing, load shedding, voltage optimization or demand-side management. An auto-configuring <NODE id="6772" />Blue Pillar<NODE id="6783" /> Aurora gateway<NODE id="6798" /> for equipment connectivity, managed via an automated survey tool, which avoids the programming and customization typical of costly energy equipment integrations. Platform cyber security support from <NODE id="6998" />sensor<NODE id="7004" /> to cloud, providing the most advanced security supported with third party authentication of industry best practices. Demonstrations at DistribuTECH Booth 2141 <NODE id="7164" />Blue Pillar<NODE id="7175" /> will <NODE id="7181" />demonstrate<NODE id="7192" /> <NODE id="7193" />its<NODE id="7196" /> <NODE id="7197" />Aurora Energy Network of Things platform<NODE id="7237" /> in Booth 2141 at DistribuTECH. For more information, contact info(at)bluepillar(dot)com. About <NODE id="7333" />Blue Pillar<NODE id="7344" /> <NODE id="7345" />Blue Pillar<NODE id="7356" /> is the leading Energy Network of Things <NODE id="7397" />provider<NODE id="7405" /> for <NODE id="7410" />distributed energy networks<NODE id="7437" />. <NODE id="7439" />Our<NODE id="7442" /> award winning <NODE id="7457" />Aurora platform<NODE id="7472" />, and patented deployment methodology is the first solution to connect behind-the-meter distributed energy resources by self-prescribing secure IoT networks that enable real-time control of assets and collection of energy data. Using <NODE id="7706" />Aurora<NODE id="7712" />, hundreds of the worlds most complex facilities operators have increased their energy resiliency, efficiency or self-sufficiency efforts including Duke University Medical Center, Tenet Healthcare and Houston Methodist. Energy service providers have been able to offer new services to their Commercial and Industrial (C+I) customers by centrally monitoring, managing, and dispatching behind-the-meter assets with <NODE id="8125" />Aurora<NODE id="8131" />. <NODE id="8133" />Blue Pillar<NODE id="8144" /> was recognized as one of the 15 fastest growing <NODE id="8193" />energy tech<NODE id="8204" /> <NODE id="8205" />companies<NODE id="8214" /> in North America by the <NODE id="8239" />Deloitte<NODE id="8247" /> Fast 500. Learn how <NODE id="8268" />Blue Pillar<NODE id="8279" /> can help you take control of your energy future faster and more affordably by visiting http://www.bluepillar.com or on Twitter at @bluepillarinc. ### Read the full story at http://www.prweb.com/releases/2016/02/prweb13205194.htm . Page: 1 Related Keywords:
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/b7ad9b27-46f3-368f-87b2-8aa5089c0298" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-02-09T22:48:45Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:45:00.053Z" />
+<feature featureName="uri" featureValue="http://www.digitalproducer.com/article/Blue-Pillar-Expands-its-Award-Winning-Aurora174-Energy-Network-of-ThingsTM-Platform-to-Address-Needs-of-Utilities-and-Energy-Providers-4283574" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="organization" surface="Blue Pillar" />
+<Entity id="1" startPos="12" endPos="19" type="trigger" surface="Expands" />
+<Entity id="2" startPos="20" endPos="23" type="organization" surface="its" />
+<Entity id="3" startPos="38" endPos="81" type="product" surface="Aurora® Energy Network of ThingsTM Platform" />
+<Entity id="4" startPos="154" endPos="159" type="organization" surface="PRWEB" />
+<Entity id="5" startPos="221" endPos="232" type="organization" surface="Blue Pillar" />
+<Entity id="6" startPos="235" endPos="243" type="trigger" surface="provider" />
+<Entity id="7" startPos="264" endPos="315" type="product" surface="self-configurable Energy Network of Things platform" />
+<Entity id="8" startPos="370" endPos="379" type="trigger" surface="announced" />
+<Entity id="9" startPos="403" endPos="406" type="organization" surface="its" />
+<Entity id="10" startPos="421" endPos="436" type="product" surface="Aurora platform" />
+<Entity id="11" startPos="580" endPos="587" type="product" surface="release" />
+<Entity id="12" startPos="642" endPos="658" type="product" surface="Aurora platforms" />
+<Entity id="13" startPos="822" endPos="834" type="trigger" surface="announcement" />
+<Entity id="14" startPos="847" endPos="862" type="product" surface="Aurora platform" />
+<Entity id="15" startPos="864" endPos="875" type="organization" surface="Blue Pillar" />
+<Entity id="16" startPos="885" endPos="889" type="trigger" surface="made" />
+<Entity id="17" startPos="890" endPos="899" type="trigger" surface="available" />
+<Entity id="18" startPos="916" endPos="948" type="product" surface="Facility of the Future Framework" />
+<Entity id="19" startPos="1046" endPos="1055" type="product" surface="framework" />
+<Entity id="20" startPos="1512" endPos="1523" type="organization" surface="Blue Pillar" />
+<Entity id="21" startPos="1523" endPos="1524" type="trigger" surface="s" />
+<Entity id="22" startPos="1525" endPos="1565" type="product" surface="Aurora Energy Network of Things platform" />
+<Entity id="23" startPos="1597" endPos="1602" type="organization" surface="their" />
+<Entity id="24" startPos="1623" endPos="1628" type="organization" surface="their" />
+<Entity id="25" startPos="1654" endPos="1665" type="organization" surface="Blue Pillar" />
+<Entity id="26" startPos="1903" endPos="1905" type="organization" surface="us" />
+<Entity id="27" startPos="2027" endPos="2038" type="organization" surface="Blue Pillar" />
+<Entity id="28" startPos="2045" endPos="2047" type="organization" surface="we" />
+<Entity id="29" startPos="2115" endPos="2117" type="organization" surface="us" />
+<Entity id="30" startPos="2374" endPos="2377" type="organization" surface="our" />
+<Entity id="31" startPos="2469" endPos="2472" type="organization" surface="our" />
+<Entity id="32" startPos="2551" endPos="2553" type="organization" surface="we" />
+<Entity id="33" startPos="2703" endPos="2715" type="organization" surface="GTM Research" />
+<Entity id="34" startPos="2999" endPos="3011" type="organization" surface="GTM Research" />
+<Entity id="35" startPos="3343" endPos="3354" type="organization" surface="Blue Pillar" />
+<Entity id="36" startPos="3354" endPos="3355" type="trigger" surface="s" />
+<Entity id="37" startPos="3356" endPos="3371" type="product" surface="Aurora platform" />
+<Entity id="38" startPos="3597" endPos="3610" type="product" surface="microturbines" />
+<Entity id="39" startPos="3612" endPos="3622" type="product" surface="fuel cells" />
+<Entity id="40" startPos="3949" endPos="3961" type="product" surface="smart meters" />
+<Entity id="41" startPos="4125" endPos="4131" type="product" surface="Aurora" />
+<Entity id="42" startPos="4395" endPos="4401" type="product" surface="Aurora" />
+<Entity id="43" startPos="4559" endPos="4574" type="product" surface="Aurora Platform" />
+<Entity id="44" startPos="5088" endPos="5094" type="product" surface="Aurora" />
+<Entity id="45" startPos="5096" endPos="5107" type="organization" surface="Blue Pillar" />
+<Entity id="46" startPos="5125" endPos="5131" type="trigger" surface="create" />
+<Entity id="47" startPos="5132" endPos="5144" type="product" surface="DGI networks" />
+<Entity id="48" startPos="5251" endPos="5259" type="product" surface="platform" />
+<Entity id="49" startPos="5282" endPos="5284" type="product" surface="it" />
+<Entity id="50" startPos="5606" endPos="5635" type="product" surface="Utility Grade Aurora Platform" />
+<Entity id="51" startPos="5670" endPos="5685" type="product" surface="Aurora platform" />
+<Entity id="52" startPos="6772" endPos="6783" type="organization" surface="Blue Pillar" />
+<Entity id="53" startPos="6772" endPos="6798" type="product" surface="Blue Pillar Aurora gateway" />
+<Entity id="54" startPos="6998" endPos="7004" type="product" surface="sensor" />
+<Entity id="55" startPos="7164" endPos="7175" type="organization" surface="Blue Pillar" />
+<Entity id="56" startPos="7181" endPos="7192" type="trigger" surface="demonstrate" />
+<Entity id="57" startPos="7193" endPos="7196" type="organization" surface="its" />
+<Entity id="58" startPos="7197" endPos="7237" type="product" surface="Aurora Energy Network of Things platform" />
+<Entity id="59" startPos="7333" endPos="7344" type="organization" surface="Blue Pillar" />
+<Entity id="60" startPos="7345" endPos="7356" type="organization" surface="Blue Pillar" />
+<Entity id="61" startPos="7397" endPos="7405" type="trigger" surface="provider" />
+<Entity id="62" startPos="7410" endPos="7437" type="product" surface="distributed energy networks" />
+<Entity id="63" startPos="7439" endPos="7442" type="organization" surface="Our" />
+<Entity id="64" startPos="7457" endPos="7472" type="product" surface="Aurora platform" />
+<Entity id="65" startPos="7706" endPos="7712" type="product" surface="Aurora" />
+<Entity id="66" startPos="8125" endPos="8131" type="product" surface="Aurora" />
+<Entity id="67" startPos="8133" endPos="8144" type="organization" surface="Blue Pillar" />
+<Entity id="68" startPos="8193" endPos="8204" type="product" surface="energy tech" />
+<Entity id="69" startPos="8205" endPos="8214" type="trigger" surface="companies" />
+<Entity id="70" startPos="8239" endPos="8247" type="organization" surface="Deloitte" />
+<Entity id="71" startPos="8268" endPos="8279" type="organization" surface="Blue Pillar" /></Entities><Relations>
+<Relation id="72" NAME="CompanyProvidesProduct">
+<Entity id="3" label="product" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="73" NAME="CompanyProvidesProduct">
+<Entity id="7" label="product" />
+<Entity id="5" label="company" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="74" NAME="CompanyProvidesProduct">
+<Entity id="10" label="product" />
+<Entity id="5" label="company" />
+<Entity id="8" label="trigger" />
+</Relation>
+<Relation id="75" NAME="CompanyProvidesProduct">
+<Entity id="14" label="product" />
+<Entity id="15" label="company" />
+<Entity id="13" label="trigger" />
+</Relation>
+<Relation id="76" NAME="CompanyProvidesProduct">
+<Entity id="18" label="product" />
+<Entity id="15" label="company" />
+<Entity id="17" label="trigger" />
+<Entity id="16" label="trigger" />
+</Relation>
+<Relation id="77" NAME="CompanyProvidesProduct">
+<Entity id="22" label="product" />
+<Entity id="20" label="company" />
+<Entity id="21" label="trigger" />
+</Relation>
+<Relation id="78" NAME="CompanyProvidesProduct">
+<Entity id="37" label="product" />
+<Entity id="35" label="company" />
+<Entity id="36" label="trigger" />
+</Relation>
+<Relation id="79" NAME="CompanyProvidesProduct">
+<Entity id="47" label="product" />
+<Entity id="45" label="company" />
+<Entity id="46" label="trigger" />
+</Relation>
+<Relation id="80" NAME="CompanyProvidesProduct">
+<Entity id="53" label="product" />
+<Entity id="52" label="company" />
+</Relation>
+<Relation id="81" NAME="CompanyProvidesProduct">
+<Entity id="58" label="product" />
+<Entity id="55" label="company" />
+<Entity id="56" label="trigger" />
+</Relation>
+<Relation id="82" NAME="CompanyProvidesProduct">
+<Entity id="58" label="product" />
+<Entity id="57" label="company" />
+</Relation>
+<Relation id="83" NAME="CompanyProvidesProduct">
+<Entity id="62" label="product" />
+<Entity id="60" label="company" />
+<Entity id="61" label="trigger" />
+</Relation>
+<Relation id="84" NAME="CompanyProvidesProduct">
+<Entity id="64" label="product" />
+<Entity id="63" label="company" />
+</Relation>
+<Relation id="85" NAME="CompanyProvidesProduct">
+<Entity id="68" label="product" />
+<Entity id="67" label="company" />
+<Entity id="69" label="trigger" />
+</Relation>
+<Relation id="86" NAME="identity">
+<Entity id="0" label="source" />
+<Entity id="63" label="target" />
+<Entity id="32" label="target" />
+<Entity id="35" label="target" />
+<Entity id="30" label="target" />
+<Entity id="23" label="target" />
+<Entity id="67" label="target" />
+<Entity id="52" label="target" />
+<Entity id="57" label="target" />
+<Entity id="24" label="target" />
+<Entity id="25" label="target" />
+<Entity id="31" label="target" />
+<Entity id="26" label="target" />
+<Entity id="71" label="target" />
+<Entity id="60" label="target" />
+<Entity id="28" label="target" />
+<Entity id="20" label="target" />
+<Entity id="2" label="target" />
+<Entity id="55" label="target" />
+<Entity id="59" label="target" />
+<Entity id="27" label="target" />
+<Entity id="29" label="target" />
+<Entity id="15" label="target" />
+<Entity id="9" label="target" />
+<Entity id="5" label="target" />
+<Entity id="45" label="target" />
+</Relation>
+<Relation id="87" NAME="identity">
+<Entity id="3" label="source" />
+<Entity id="66" label="target" />
+<Entity id="44" label="target" />
+<Entity id="7" label="target" />
+<Entity id="65" label="target" />
+<Entity id="12" label="target" />
+<Entity id="41" label="target" />
+<Entity id="50" label="target" />
+<Entity id="42" label="target" />
+<Entity id="53" label="target" />
+<Entity id="48" label="target" />
+<Entity id="10" label="target" />
+<Entity id="64" label="target" />
+<Entity id="11" label="target" />
+<Entity id="43" label="target" />
+<Entity id="58" label="target" />
+<Entity id="51" label="target" />
+<Entity id="49" label="target" />
+<Entity id="22" label="target" />
+<Entity id="37" label="target" />
+<Entity id="14" label="target" />
+</Relation>
+<Relation id="88" NAME="identity">
+<Entity id="18" label="source" />
+<Entity id="19" label="target" />
+</Relation>
+<Relation id="89" NAME="identity">
+<Entity id="33" label="source" />
+<Entity id="34" label="target" />
+</Relation></Relations>
+</Document>

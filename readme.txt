@@ -1,7 +1,16 @@
+Convert to AVRO for dfki-lt-re-group.bitbucket.io:
+
+de.dfki.lt.spree.util.Recon2Document mit spree/tap/tap-experiments/src/main/resources/smartdata/recon2document-productcorpus.properties (20180507), auch hier im Ordner
+
+Create Train/Test split:
+
+Convert to JSON:
+
+avro-tools
 
 
 
-Deleted Files
+Not included in merged files:
 8b9dff1e86912b03.xml -> duplicate of 6f94e28182b68986.xml
 3fa1fd3ebe856424.xml -> too noisy html2text
 1ce22cbc82bace92.xml -> sports news

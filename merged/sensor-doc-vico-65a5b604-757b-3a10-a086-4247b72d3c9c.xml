@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>FDSOI carries on despite <NODE id="25" />ST<NODE id="27" /> re-org, says COO January 27, 2016 // Peter Clarke <NODE id="78" />STMicroelectronics<NODE id="96" />' withdrawal from he <NODE id="117" />set-top-box<NODE id="128" /> <NODE id="129" />business<NODE id="137" /> and the transfer of engineers to <NODE id="171" />microcontroller<NODE id="186" /> and digital <NODE id="199" />automotive<NODE id="209" /> <NODE id="210" />work<NODE id="214" /> will not stop the adoption of fully-depleted silicon-on-insulator (FDSOI) manufacturing process, according to Jean-Marc Chery, <NODE id="342" />ST<NODE id="344" />'s chief operating officer. Page 2 of 3 The reason for the exit from <NODE id="413" />STB<NODE id="416" /> is excessive competition in Asia <NODE id="450" />from<NODE id="454" /> the likes of <NODE id="468" />M-Star<NODE id="474" /> and also in the US while the R&amp;D costs to serve that market remain high as they demand leading-edge and highly <NODE id="586" />integrated circuits<NODE id="605" />, Chery said. On the <NODE id="626" />microcontroller<NODE id="641" /> front Chery said: <NODE id="660" />We<NODE id="662" /> have <NODE id="668" />announced<NODE id="677" /> <NODE id="678" />our<NODE id="681" /> first <NODE id="688" />MCU<NODE id="691" /> on 40nm bulk <NODE id="705" />CMOS<NODE id="709" /> ramping over the next few quarters. <NODE id="746" />We<NODE id="748" /> are <NODE id="753" />developing<NODE id="763" /> the next <NODE id="773" />node<NODE id="777" /> on FDSOI at 28nm. For flash [non-volatile memory] <NODE id="828" />we<NODE id="830" /> have a couple of options. Clearly the best choice is PCM [phase-change memory]. <NODE id="911" />We<NODE id="913" /> are looking forward to very ultra low power <NODE id="958" />MCUs<NODE id="962" />. Moving <NODE id="971" />MCUs<NODE id="975" /> over to FDSOI at the 28nm <NODE id="1002" />node<NODE id="1006" /> is an approach that is also being considered at <NODE id="1055" />NXP <NODE id="1059" />Semiconductors<NODE id="1073" /> NV<NODE id="1076" />. It may seem rash to nominate PCM as an embedded memory option when stand-alone PCM has proved problematic for decades and is continuing to cause problems for <NODE id="1236" />Intel<NODE id="1241" /> and <NODE id="1246" />Micron<NODE id="1252" /> in its latest incarnation known as <NODE id="1288" />3D-XPoint memory<NODE id="1304" /> (see <NODE id="1310" />3D XPoint<NODE id="1319" /> steps into the light ). <NODE id="1344" />We<NODE id="1346" /> have another option, said Chery but he declined to state whether that was resistive RAM or perpendicular magnetic RAM, two options being considered by <NODE id="1498" />NXP<NODE id="1501" /> (see <NODE id="1507" />NXP<NODE id="1510" /> embraces 28nm FDSOI for <NODE id="1535" />MCUs<NODE id="1539" /> ). But despite such plans for the medium term, the <NODE id="1591" />company<NODE id="1598" /> has hit a downward spiral of declining sales, which could be hard to break. <NODE id="1675" />ST<NODE id="1677" /> announced fourth quarter 2015 sales were 1.67 billion, down 8.8 percent year on year and the outlook for 1Q16 sales is for a 3 percent sequential decline. Although <NODE id="1842" />ST<NODE id="1844" /> outsources much of <NODE id="1864" />its<NODE id="1867" /> high-end digital manufacturing <NODE id="1899" />it<NODE id="1901" /> retains <NODE id="1910" />manufacturing<NODE id="1923" /> capacity for <NODE id="1937" />mixed-signal<NODE id="1949" />, <NODE id="1951" />specialty processes<NODE id="1970" /> and such things as <NODE id="1990" />MEMS<NODE id="1994" />. Low utilization of that in-house manufacturing capacity is contributing to pressure on profit margin. Carlo Ferro, <NODE id="2111" />ST<NODE id="2113" />'s chief financial officer, said in an analysts' call to discuss the financial results: <NODE id="2201" />We<NODE id="2203" /> need 1.8 billion per quarter for the manufacturing machine to be comfortable. So where will those increased sales to turn back the tide come from for <NODE id="2354" />ST<NODE id="2356" />? Next: Better than M&amp;A <NODE id="2380" />STMicroelectronics'<NODE id="2399" /> withdrawal from he <NODE id="2419" />set-top-box<NODE id="2430" /> <NODE id="2431" />business<NODE id="2439" /> and the transfer of engineers to <NODE id="2473" />microcontroller<NODE id="2488" /> and digital <NODE id="2501" />automotive<NODE id="2511" /> <NODE id="2512" />work<NODE id="2516" /> will not stop the adoption of fully-depleted silicon-on-insulator (FDSOI) manufacturing process, according to Jean-Marc Chery, <NODE id="2644" />ST<NODE id="2646" />'s chief operating officer. <NODE id="2674" />Set-top box<NODE id="2685" /> and home gateway are application areas where <NODE id="2731" />STMicroelectronics<NODE id="2749" /> has already <NODE id="2762" />designed<NODE id="2770" /> <NODE id="2771" />ICs<NODE id="2774" /> for implementation in the FDSOI process that <NODE id="2820" />it<NODE id="2822" /> has championed in the <NODE id="2845" />industry<NODE id="2853" />, albeit with limited take-up so far. However, the news that <NODE id="2914" />ST<NODE id="2916" /> is withdrawing from those markets (see <NODE id="2956" />ST<NODE id="2958" /> exits STB chip business, plans lay-offs ) and will make no further designs for that sector should not be seen as a blow to prospects for FDSOI, Chery told <NODE id="3114" />EE Times Europe<NODE id="3129" />. Indeed Chery says <NODE id="3149" />ST<NODE id="3151" /> is preparing to <NODE id="3168" />make<NODE id="3172" /> <NODE id="3173" />microcontrollers<NODE id="3189" /> on 28nm FDSOI with options on an embedded non-volatile memory still open, but with phase-change memory as a leading contender. Jean-Marc Chery, COO of <NODE id="3341" />ST<NODE id="3343" />. Of the re-organization that eliminated the digital products group that Chery had led, he said: This absolutely does not impact FDSOI. What is important is that, from the first figure of merit, FDSOI can provide processor cores, usually ARM processor cores, at very low operating voltage. The second figure of merit is in RF for communications. Together this makes FDSOI perfect for the <NODE id="3731" />Internet of Things<NODE id="3749" />. He added that its radiation immunity also makes it well suited for automotive applications as well as for space and defence <NODE id="3875" />ICs<NODE id="3878" />. It has already been announced that the <NODE id="3919" />EyeQ4 processor<NODE id="3934" /> <NODE id="3935" />from<NODE id="3939" /> <NODE id="3940" />Mobileye NV<NODE id="3951" /> will be in FDSOI and <NODE id="3973" />NXP<NODE id="3976" />/<NODE id="3977" />Freescale<NODE id="3986" /> is using FDSOI for ADAS (autonomous driver assistance systems), he said. Chery emphasized that, following the announcement of <NODE id="4113" />ST<NODE id="4115" />'s withdrawal from <NODE id="4134" />STB<NODE id="4137" /> and home gateway <NODE id="4155" />markets<NODE id="4162" /> and of a proposed redeployment of 600 engineers, the <NODE id="4216" />company<NODE id="4223" /> is now <NODE id="4231" />focused<NODE id="4238" /> on <NODE id="4242" />automotive<NODE id="4252" /> and <NODE id="4257" />Internet of Things<NODE id="4275" /> <NODE id="4276" />applications<NODE id="4288" /> and that therefore FDSOI is a core manufacturing process. Indeed it could be argued that moving engineers familiar with FDSOI from the <NODE id="4424" />STB<NODE id="4427" /> group into <NODE id="4439" />MCUs<NODE id="4443" /> and <NODE id="4448" />automotive<NODE id="4458" /> will help to proliferate the technology through the <NODE id="4511" />company<NODE id="4518" />. Next: <NODE id="4526" />MCUs<NODE id="4530" /> going to 28nm FDSOI The reason for the exit from <NODE id="4580" />STB<NODE id="4583" /> is excessive competition in Asia <NODE id="4617" />from<NODE id="4621" /> the likes of <NODE id="4635" />M-Star<NODE id="4641" /> and also in the US while the R&amp;D costs to serve that market remain high as they demand leading-edge and highly <NODE id="4753" />integrated circuits<NODE id="4772" />, Chery said. On the <NODE id="4793" />microcontroller<NODE id="4808" /> front Chery said: <NODE id="4827" />We<NODE id="4829" /> have <NODE id="4835" />announced<NODE id="4844" /> <NODE id="4845" />our<NODE id="4848" /> first <NODE id="4855" />MCU<NODE id="4858" /> on 40nm bulk <NODE id="4872" />CMOS<NODE id="4876" /> ramping over the next few quarters. <NODE id="4913" />We<NODE id="4915" /> are <NODE id="4920" />developing<NODE id="4930" /> the next <NODE id="4940" />node<NODE id="4944" /> on FDSOI at 28nm. For flash [non-volatile memory] <NODE id="4995" />we<NODE id="4997" /> have a couple of options. Clearly the best choice is PCM [phase-change memory]. <NODE id="5078" />We<NODE id="5080" /> are looking forward to very ultra low power <NODE id="5125" />MCUs<NODE id="5129" />. Moving <NODE id="5138" />MCUs<NODE id="5142" /> over to FDSOI at the 28nm <NODE id="5169" />node<NODE id="5173" /> is an approach that is also being considered at <NODE id="5222" />NXP <NODE id="5226" />Semiconductors<NODE id="5240" /> NV<NODE id="5243" />. It may seem rash to nominate PCM as an embedded memory option when stand-alone PCM has proved problematic for decades and is continuing to cause problems for <NODE id="5403" />Intel<NODE id="5408" /> and <NODE id="5413" />Micron<NODE id="5419" /> in its latest incarnation known as <NODE id="5455" />3D-XPoint memory<NODE id="5471" /> (see <NODE id="5477" />3D XPoint<NODE id="5486" /> steps into the light ). <NODE id="5511" />We<NODE id="5513" /> have another option, said Chery but he declined to state whether that was resistive RAM or perpendicular magnetic RAM, two options being considered by <NODE id="5665" />NXP<NODE id="5668" /> (see <NODE id="5674" />NXP<NODE id="5677" /> embraces 28nm FDSOI for <NODE id="5702" />MCUs<NODE id="5706" /> ). But despite such plans for the medium term, the <NODE id="5758" />company<NODE id="5765" /> has hit a downward spiral of declining sales, which could be hard to break. <NODE id="5842" />ST<NODE id="5844" /> announced fourth quarter 2015 sales were 1.67 billion, down 8.8 percent year on year and the outlook for 1Q16 sales is for a 3 percent sequential decline. Although <NODE id="6009" />ST<NODE id="6011" /> outsources much of <NODE id="6031" />its<NODE id="6034" /> high-end digital manufacturing <NODE id="6066" />it<NODE id="6068" /> retains <NODE id="6077" />manufacturing<NODE id="6090" /> capacity for <NODE id="6104" />mixed-signal<NODE id="6116" />, <NODE id="6118" />specialty processes<NODE id="6137" /> and such things as <NODE id="6157" />MEMS<NODE id="6161" />. Low utilization of that in-house manufacturing capacity is contributing to pressure on profit margin. Carlo Ferro, <NODE id="6278" />ST<NODE id="6280" />'s chief financial officer, said in an analysts' call to discuss the financial results: <NODE id="6368" />We<NODE id="6370" /> need 1.8 billion per quarter for the manufacturing machine to be comfortable. So where will those increased sales to turn back the tide come from for <NODE id="6521" />ST<NODE id="6523" />? Next: Better than M&amp;A From all three of <NODE id="6565" />our<NODE id="6568" /> [new] business groups, said Chery. He said that transferring engineers from <NODE id="6645" />STB<NODE id="6648" /> <NODE id="6649" />design<NODE id="6655" /> to <NODE id="6659" />MCUs<NODE id="6663" /> would allow the <NODE id="6680" />company<NODE id="6687" /> to proliferate parts, create more software and development boards and accelerate design wins. The second growth driver is <NODE id="6810" />sensors<NODE id="6817" /> although that is still in transition mode but with good confidence to get back to growth, said Chery (see Updated: <NODE id="6933" />ST<NODE id="6935" /> sees results of <NODE id="6952" />MEMS<NODE id="6956" /> diversity thrust ). The third is specialized <NODE id="7002" />imaging sensors<NODE id="7017" />; the fourth is BCD manufacturing process and another is digital for <NODE id="7086" />automotive<NODE id="7096" />. Going back to <NODE id="7112" />microcontrollers<NODE id="7128" /> where <NODE id="7135" />STMicroelectronics<NODE id="7153" /> has been a force, it is noticeable that recent mergers such <NODE id="7214" />NXP<NODE id="7217" />, <NODE id="7219" />Freescale<NODE id="7228" /> and <NODE id="7233" />Microchip<NODE id="7242" />, <NODE id="7244" />Atmel<NODE id="7249" />, will contrive to push <NODE id="7273" />ST<NODE id="7275" /> down the ranking of <NODE id="7296" />suppliers<NODE id="7305" />. The merger and acquisition spree that the industry has been on has largely passed a pre-occupied <NODE id="7404" />ST<NODE id="7406" /> by. Does <NODE id="7416" />it<NODE id="7418" /> now need to engage with that to regain some critical mass in the <NODE id="7484" />automotive<NODE id="7494" />, <NODE id="7496" />industrial<NODE id="7506" /> and <NODE id="7511" />IoT<NODE id="7514" /> <NODE id="7515" />sectors<NODE id="7522" /> <NODE id="7523" />it<NODE id="7525" /> wants to pursue? In answer Chery said that <NODE id="7569" />ST<NODE id="7571" /> has looked for and continues to look for M&amp;A opportunities but that transferring 600 engineers into the <NODE id="7676" />MCU<NODE id="7679" /> and digital business unit is a similar yet superior approach. This is much better than a merger. <NODE id="7777" />We<NODE id="7779" /> are moving 600 people in R&amp;D and product support but without the issues of managing corporate culture. Basically <NODE id="7893" />we<NODE id="7895" /> are transferring resources from difficult markets to growth markets. Related links and articles: Previous page | 1 | 2 | 3 | Next page
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/65a5b604-757b-3a10-a086-4247b72d3c9c" />
+<feature featureName="source" featureValue="sensor_corpus" />
+<feature featureName="lang" featureValue="en" />
+<feature featureName="pubDate" featureValue="2016-01-28T13:19:34Z" />
+<feature featureName="indexDate" featureValue="2016-07-13T11:13:39.406Z" />
+<feature featureName="uri" featureValue="http://www.electronics-eetimes.com/en/fdsoi-carries-on-despite-st-re-org-says-coo.html?cmp_id=7&amp;news_id=222927296&amp;vID=209&amp;page=1" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="25" endPos="27" type="organization" surface="ST" />
+<Entity id="1" startPos="78" endPos="96" type="organization" surface="STMicroelectronics" />
+<Entity id="2" startPos="117" endPos="128" type="product" surface="set-top-box" />
+<Entity id="3" startPos="129" endPos="137" type="trigger" surface="business" />
+<Entity id="4" startPos="171" endPos="186" type="product" surface="microcontroller" />
+<Entity id="5" startPos="199" endPos="209" type="product" surface="automotive" />
+<Entity id="6" startPos="210" endPos="214" type="trigger" surface="work" />
+<Entity id="7" startPos="342" endPos="344" type="organization" surface="ST" />
+<Entity id="8" startPos="413" endPos="416" type="product" surface="STB" />
+<Entity id="9" startPos="450" endPos="454" type="trigger" surface="from" />
+<Entity id="10" startPos="468" endPos="474" type="organization" surface="M-Star" />
+<Entity id="11" startPos="586" endPos="605" type="product" surface="integrated circuits" />
+<Entity id="12" startPos="626" endPos="641" type="product" surface="microcontroller" />
+<Entity id="13" startPos="660" endPos="662" type="organization" surface="We" />
+<Entity id="14" startPos="668" endPos="677" type="trigger" surface="announced" />
+<Entity id="15" startPos="678" endPos="681" type="organization" surface="our" />
+<Entity id="16" startPos="688" endPos="691" type="product" surface="MCU" />
+<Entity id="17" startPos="705" endPos="709" type="product" surface="CMOS" />
+<Entity id="18" startPos="746" endPos="748" type="organization" surface="We" />
+<Entity id="19" startPos="753" endPos="763" type="trigger" surface="developing" />
+<Entity id="20" startPos="773" endPos="777" type="product" surface="node" />
+<Entity id="21" startPos="828" endPos="830" type="organization" surface="we" />
+<Entity id="22" startPos="911" endPos="913" type="organization" surface="We" />
+<Entity id="23" startPos="958" endPos="962" type="product" surface="MCUs" />
+<Entity id="24" startPos="971" endPos="975" type="product" surface="MCUs" />
+<Entity id="25" startPos="1002" endPos="1006" type="product" surface="node" />
+<Entity id="26" startPos="1055" endPos="1076" type="organization" surface="NXP Semiconductors NV" />
+<Entity id="27" startPos="1059" endPos="1073" type="product" surface="Semiconductors" />
+<Entity id="28" startPos="1236" endPos="1241" type="organization" surface="Intel" />
+<Entity id="29" startPos="1246" endPos="1252" type="organization" surface="Micron" />
+<Entity id="30" startPos="1288" endPos="1304" type="product" surface="3D-XPoint memory" />
+<Entity id="31" startPos="1310" endPos="1319" type="product" surface="3D XPoint" />
+<Entity id="32" startPos="1344" endPos="1346" type="organization" surface="We" />
+<Entity id="33" startPos="1498" endPos="1501" type="organization" surface="NXP" />
+<Entity id="34" startPos="1507" endPos="1510" type="organization" surface="NXP" />
+<Entity id="35" startPos="1535" endPos="1539" type="product" surface="MCUs" />
+<Entity id="36" startPos="1591" endPos="1598" type="organization" surface="company" />
+<Entity id="37" startPos="1675" endPos="1677" type="organization" surface="ST" />
+<Entity id="38" startPos="1842" endPos="1844" type="organization" surface="ST" />
+<Entity id="39" startPos="1864" endPos="1867" type="organization" surface="its" />
+<Entity id="40" startPos="1899" endPos="1901" type="organization" surface="it" />
+<Entity id="41" startPos="1910" endPos="1923" type="trigger" surface="manufacturing" />
+<Entity id="42" startPos="1937" endPos="1949" type="product" surface="mixed-signal" />
+<Entity id="43" startPos="1951" endPos="1970" type="product" surface="specialty processes" />
+<Entity id="44" startPos="1990" endPos="1994" type="product" surface="MEMS" />
+<Entity id="45" startPos="2111" endPos="2113" type="organization" surface="ST" />
+<Entity id="46" startPos="2201" endPos="2203" type="organization" surface="We" />
+<Entity id="47" startPos="2354" endPos="2356" type="organization" surface="ST" />
+<Entity id="48" startPos="2380" endPos="2399" type="organization" surface="STMicroelectronics'" />
+<Entity id="49" startPos="2419" endPos="2430" type="product" surface="set-top-box" />
+<Entity id="50" startPos="2431" endPos="2439" type="trigger" surface="business" />
+<Entity id="51" startPos="2473" endPos="2488" type="product" surface="microcontroller" />
+<Entity id="52" startPos="2501" endPos="2511" type="product" surface="automotive" />
+<Entity id="53" startPos="2512" endPos="2516" type="trigger" surface="work" />
+<Entity id="54" startPos="2644" endPos="2646" type="organization" surface="ST" />
+<Entity id="55" startPos="2674" endPos="2685" type="product" surface="Set-top box" />
+<Entity id="56" startPos="2731" endPos="2749" type="organization" surface="STMicroelectronics" />
+<Entity id="57" startPos="2762" endPos="2770" type="trigger" surface="designed" />
+<Entity id="58" startPos="2771" endPos="2774" type="product" surface="ICs" />
+<Entity id="59" startPos="2820" endPos="2822" type="organization" surface="it" />
+<Entity id="60" startPos="2845" endPos="2853" type="product" surface="industry" />
+<Entity id="61" startPos="2914" endPos="2916" type="organization" surface="ST" />
+<Entity id="62" startPos="2956" endPos="2958" type="organization" surface="ST" />
+<Entity id="63" startPos="3114" endPos="3129" type="organization" surface="EE Times Europe" />
+<Entity id="64" startPos="3149" endPos="3151" type="organization" surface="ST" />
+<Entity id="65" startPos="3168" endPos="3172" type="trigger" surface="make" />
+<Entity id="66" startPos="3173" endPos="3189" type="product" surface="microcontrollers" />
+<Entity id="67" startPos="3341" endPos="3343" type="organization" surface="ST" />
+<Entity id="68" startPos="3731" endPos="3749" type="product" surface="Internet of Things" />
+<Entity id="69" startPos="3875" endPos="3878" type="product" surface="ICs" />
+<Entity id="70" startPos="3919" endPos="3934" type="product" surface="EyeQ4 processor" />
+<Entity id="71" startPos="3935" endPos="3939" type="trigger" surface="from" />
+<Entity id="72" startPos="3940" endPos="3951" type="organization" surface="Mobileye NV" />
+<Entity id="73" startPos="3973" endPos="3976" type="organization" surface="NXP" />
+<Entity id="74" startPos="3977" endPos="3986" type="organization" surface="Freescale" />
+<Entity id="75" startPos="4113" endPos="4115" type="organization" surface="ST" />
+<Entity id="76" startPos="4134" endPos="4137" type="product" surface="STB" />
+<Entity id="77" startPos="4155" endPos="4162" type="trigger" surface="markets" />
+<Entity id="78" startPos="4216" endPos="4223" type="organization" surface="company" />
+<Entity id="79" startPos="4231" endPos="4238" type="trigger" surface="focused" />
+<Entity id="80" startPos="4242" endPos="4252" type="product" surface="automotive" />
+<Entity id="81" startPos="4257" endPos="4275" type="product" surface="Internet of Things" />
+<Entity id="82" startPos="4276" endPos="4288" type="trigger" surface="applications" />
+<Entity id="83" startPos="4424" endPos="4427" type="product" surface="STB" />
+<Entity id="84" startPos="4439" endPos="4443" type="product" surface="MCUs" />
+<Entity id="85" startPos="4448" endPos="4458" type="product" surface="automotive" />
+<Entity id="86" startPos="4511" endPos="4518" type="organization" surface="company" />
+<Entity id="87" startPos="4526" endPos="4530" type="product" surface="MCUs" />
+<Entity id="88" startPos="4580" endPos="4583" type="product" surface="STB" />
+<Entity id="89" startPos="4617" endPos="4621" type="trigger" surface="from" />
+<Entity id="90" startPos="4635" endPos="4641" type="organization" surface="M-Star" />
+<Entity id="91" startPos="4753" endPos="4772" type="product" surface="integrated circuits" />
+<Entity id="92" startPos="4793" endPos="4808" type="product" surface="microcontroller" />
+<Entity id="93" startPos="4827" endPos="4829" type="organization" surface="We" />
+<Entity id="94" startPos="4835" endPos="4844" type="trigger" surface="announced" />
+<Entity id="95" startPos="4845" endPos="4848" type="organization" surface="our" />
+<Entity id="96" startPos="4855" endPos="4858" type="product" surface="MCU" />
+<Entity id="97" startPos="4872" endPos="4876" type="product" surface="CMOS" />
+<Entity id="98" startPos="4913" endPos="4915" type="organization" surface="We" />
+<Entity id="99" startPos="4920" endPos="4930" type="trigger" surface="developing" />
+<Entity id="100" startPos="4940" endPos="4944" type="product" surface="node" />
+<Entity id="101" startPos="4995" endPos="4997" type="organization" surface="we" />
+<Entity id="102" startPos="5078" endPos="5080" type="organization" surface="We" />
+<Entity id="103" startPos="5125" endPos="5129" type="product" surface="MCUs" />
+<Entity id="104" startPos="5138" endPos="5142" type="product" surface="MCUs" />
+<Entity id="105" startPos="5169" endPos="5173" type="product" surface="node" />
+<Entity id="106" startPos="5222" endPos="5243" type="organization" surface="NXP Semiconductors NV" />
+<Entity id="107" startPos="5226" endPos="5240" type="product" surface="Semiconductors" />
+<Entity id="108" startPos="5403" endPos="5408" type="organization" surface="Intel" />
+<Entity id="109" startPos="5413" endPos="5419" type="organization" surface="Micron" />
+<Entity id="110" startPos="5455" endPos="5471" type="product" surface="3D-XPoint memory" />
+<Entity id="111" startPos="5477" endPos="5486" type="product" surface="3D XPoint" />
+<Entity id="112" startPos="5511" endPos="5513" type="organization" surface="We" />
+<Entity id="113" startPos="5665" endPos="5668" type="organization" surface="NXP" />
+<Entity id="114" startPos="5674" endPos="5677" type="organization" surface="NXP" />
+<Entity id="115" startPos="5702" endPos="5706" type="product" surface="MCUs" />
+<Entity id="116" startPos="5758" endPos="5765" type="organization" surface="company" />
+<Entity id="117" startPos="5842" endPos="5844" type="organization" surface="ST" />
+<Entity id="118" startPos="6009" endPos="6011" type="organization" surface="ST" />
+<Entity id="119" startPos="6031" endPos="6034" type="organization" surface="its" />
+<Entity id="120" startPos="6066" endPos="6068" type="organization" surface="it" />
+<Entity id="121" startPos="6077" endPos="6090" type="trigger" surface="manufacturing" />
+<Entity id="122" startPos="6104" endPos="6116" type="product" surface="mixed-signal" />
+<Entity id="123" startPos="6118" endPos="6137" type="product" surface="specialty processes" />
+<Entity id="124" startPos="6157" endPos="6161" type="product" surface="MEMS" />
+<Entity id="125" startPos="6278" endPos="6280" type="organization" surface="ST" />
+<Entity id="126" startPos="6368" endPos="6370" type="organization" surface="We" />
+<Entity id="127" startPos="6521" endPos="6523" type="organization" surface="ST" />
+<Entity id="128" startPos="6565" endPos="6568" type="organization" surface="our" />
+<Entity id="129" startPos="6645" endPos="6648" type="product" surface="STB" />
+<Entity id="130" startPos="6649" endPos="6655" type="trigger" surface="design" />
+<Entity id="131" startPos="6659" endPos="6663" type="product" surface="MCUs" />
+<Entity id="132" startPos="6680" endPos="6687" type="organization" surface="company" />
+<Entity id="133" startPos="6810" endPos="6817" type="product" surface="sensors" />
+<Entity id="134" startPos="6933" endPos="6935" type="organization" surface="ST" />
+<Entity id="135" startPos="6952" endPos="6956" type="product" surface="MEMS" />
+<Entity id="136" startPos="7002" endPos="7017" type="product" surface="imaging sensors" />
+<Entity id="137" startPos="7086" endPos="7096" type="product" surface="automotive" />
+<Entity id="138" startPos="7112" endPos="7128" type="product" surface="microcontrollers" />
+<Entity id="139" startPos="7135" endPos="7153" type="organization" surface="STMicroelectronics" />
+<Entity id="140" startPos="7214" endPos="7217" type="organization" surface="NXP" />
+<Entity id="141" startPos="7219" endPos="7228" type="organization" surface="Freescale" />
+<Entity id="142" startPos="7233" endPos="7242" type="organization" surface="Microchip" />
+<Entity id="143" startPos="7244" endPos="7249" type="organization" surface="Atmel" />
+<Entity id="144" startPos="7273" endPos="7275" type="organization" surface="ST" />
+<Entity id="145" startPos="7296" endPos="7305" type="trigger" surface="suppliers" />
+<Entity id="146" startPos="7404" endPos="7406" type="organization" surface="ST" />
+<Entity id="147" startPos="7416" endPos="7418" type="organization" surface="it" />
+<Entity id="148" startPos="7484" endPos="7494" type="product" surface="automotive" />
+<Entity id="149" startPos="7496" endPos="7506" type="product" surface="industrial" />
+<Entity id="150" startPos="7511" endPos="7514" type="product" surface="IoT" />
+<Entity id="151" startPos="7515" endPos="7522" type="trigger" surface="sectors" />
+<Entity id="152" startPos="7523" endPos="7525" type="organization" surface="it" />
+<Entity id="153" startPos="7569" endPos="7571" type="organization" surface="ST" />
+<Entity id="154" startPos="7676" endPos="7679" type="product" surface="MCU" />
+<Entity id="155" startPos="7777" endPos="7779" type="organization" surface="We" />
+<Entity id="156" startPos="7893" endPos="7895" type="organization" surface="we" /></Entities><Relations>
+<Relation id="157" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="1" label="company" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="158" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="5" label="product" />
+<Entity id="1" label="company" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="159" NAME="CompanyProvidesProduct">
+<Entity id="8" label="product" />
+<Entity id="10" label="company" />
+<Entity id="9" label="trigger" />
+</Relation>
+<Relation id="160" NAME="CompanyProvidesProduct">
+<Entity id="16" label="product" />
+<Entity id="13" label="company" />
+<Entity id="14" label="trigger" />
+</Relation>
+<Relation id="161" NAME="CompanyProvidesProduct">
+<Entity id="20" label="product" />
+<Entity id="18" label="company" />
+<Entity id="19" label="trigger" />
+</Relation>
+<Relation id="162" NAME="CompanyProvidesProduct">
+<Entity id="27" label="product" />
+<Entity id="26" label="company" />
+</Relation>
+<Relation id="163" NAME="CompanyProvidesProduct">
+<Entity id="30" label="product" />
+<Entity id="28" label="company" />
+</Relation>
+<Relation id="164" NAME="CompanyProvidesProduct">
+<Entity id="30" label="product" />
+<Entity id="29" label="company" />
+</Relation>
+<Relation id="165" NAME="CompanyProvidesProduct">
+<Entity id="42" label="product" />
+<Entity id="43" label="product" />
+<Entity id="44" label="product" />
+<Entity id="40" label="company" />
+<Entity id="41" label="trigger" />
+</Relation>
+<Relation id="166" NAME="CompanyProvidesProduct">
+<Entity id="51" label="product" />
+<Entity id="52" label="product" />
+<Entity id="48" label="company" />
+<Entity id="53" label="trigger" />
+</Relation>
+<Relation id="167" NAME="CompanyProvidesProduct">
+<Entity id="49" label="product" />
+<Entity id="48" label="company" />
+<Entity id="50" label="trigger" />
+</Relation>
+<Relation id="168" NAME="CompanyProvidesProduct">
+<Entity id="58" label="product" />
+<Entity id="56" label="company" />
+<Entity id="57" label="trigger" />
+</Relation>
+<Relation id="169" NAME="CompanyProvidesProduct">
+<Entity id="66" label="product" />
+<Entity id="64" label="company" />
+<Entity id="65" label="trigger" />
+</Relation>
+<Relation id="170" NAME="CompanyProvidesProduct">
+<Entity id="70" label="product" />
+<Entity id="72" label="company" />
+<Entity id="71" label="trigger" />
+</Relation>
+<Relation id="171" NAME="CompanyProvidesProduct">
+<Entity id="76" label="product" />
+<Entity id="75" label="company" />
+<Entity id="77" label="trigger" />
+</Relation>
+<Relation id="172" NAME="CompanyProvidesProduct">
+<Entity id="80" label="product" />
+<Entity id="81" label="product" />
+<Entity id="78" label="company" />
+<Entity id="79" label="trigger" />
+<Entity id="82" label="trigger" />
+</Relation>
+<Relation id="173" NAME="CompanyProvidesProduct">
+<Entity id="88" label="product" />
+<Entity id="90" label="company" />
+<Entity id="89" label="trigger" />
+</Relation>
+<Relation id="174" NAME="CompanyProvidesProduct">
+<Entity id="96" label="product" />
+<Entity id="93" label="company" />
+<Entity id="94" label="trigger" />
+</Relation>
+<Relation id="175" NAME="CompanyProvidesProduct">
+<Entity id="100" label="product" />
+<Entity id="98" label="company" />
+<Entity id="99" label="trigger" />
+</Relation>
+<Relation id="176" NAME="CompanyProvidesProduct">
+<Entity id="110" label="product" />
+<Entity id="108" label="company" />
+</Relation>
+<Relation id="177" NAME="CompanyProvidesProduct">
+<Entity id="110" label="product" />
+<Entity id="109" label="company" />
+</Relation>
+<Relation id="178" NAME="CompanyProvidesProduct">
+<Entity id="129" label="product" />
+<Entity id="132" label="company" />
+<Entity id="130" label="trigger" />
+</Relation>
+<Relation id="179" NAME="CompanyProvidesProduct">
+<Entity id="131" label="product" />
+<Entity id="132" label="company" />
+</Relation>
+<Relation id="180" NAME="CompanyProvidesProduct">
+<Entity id="138" label="product" />
+<Entity id="143" label="company" />
+<Entity id="145" label="trigger" />
+</Relation>
+<Relation id="181" NAME="CompanyProvidesProduct">
+<Entity id="138" label="product" />
+<Entity id="139" label="company" />
+<Entity id="145" label="trigger" />
+</Relation>
+<Relation id="182" NAME="CompanyProvidesProduct">
+<Entity id="138" label="product" />
+<Entity id="140" label="company" />
+<Entity id="145" label="trigger" />
+</Relation>
+<Relation id="183" NAME="CompanyProvidesProduct">
+<Entity id="138" label="product" />
+<Entity id="141" label="company" />
+<Entity id="145" label="trigger" />
+</Relation>
+<Relation id="184" NAME="CompanyProvidesProduct">
+<Entity id="138" label="product" />
+<Entity id="142" label="company" />
+<Entity id="145" label="trigger" />
+</Relation>
+<Relation id="185" NAME="CompanyProvidesProduct">
+<Entity id="148" label="product" />
+<Entity id="149" label="product" />
+<Entity id="150" label="product" />
+<Entity id="147" label="company" />
+<Entity id="151" label="trigger" />
+</Relation>
+<Relation id="186" NAME="Identity">
+<Entity id="1" label="source" />
+<Entity id="37" label="target" />
+<Entity id="132" label="target" />
+<Entity id="7" label="target" />
+<Entity id="126" label="target" />
+<Entity id="40" label="target" />
+<Entity id="86" label="target" />
+<Entity id="46" label="target" />
+<Entity id="120" label="target" />
+<Entity id="101" label="target" />
+<Entity id="45" label="target" />
+<Entity id="38" label="target" />
+<Entity id="146" label="target" />
+<Entity id="62" label="target" />
+<Entity id="128" label="target" />
+<Entity id="64" label="target" />
+<Entity id="139" label="target" />
+<Entity id="127" label="target" />
+<Entity id="47" label="target" />
+<Entity id="144" label="target" />
+<Entity id="56" label="target" />
+<Entity id="48" label="target" />
+<Entity id="67" label="target" />
+<Entity id="152" label="target" />
+<Entity id="75" label="target" />
+<Entity id="125" label="target" />
+<Entity id="102" label="target" />
+<Entity id="54" label="target" />
+<Entity id="15" label="target" />
+<Entity id="32" label="target" />
+<Entity id="78" label="target" />
+<Entity id="36" label="target" />
+<Entity id="118" label="target" />
+<Entity id="21" label="target" />
+<Entity id="117" label="target" />
+<Entity id="119" label="target" />
+<Entity id="18" label="target" />
+<Entity id="22" label="target" />
+<Entity id="134" label="target" />
+<Entity id="0" label="target" />
+<Entity id="39" label="target" />
+<Entity id="13" label="target" />
+<Entity id="98" label="target" />
+<Entity id="156" label="target" />
+<Entity id="61" label="target" />
+<Entity id="147" label="target" />
+<Entity id="112" label="target" />
+<Entity id="93" label="target" />
+<Entity id="153" label="target" />
+<Entity id="95" label="target" />
+<Entity id="155" label="target" />
+<Entity id="116" label="target" />
+<Entity id="59" label="target" />
+</Relation>
+<Relation id="187" NAME="Identity">
+<Entity id="26" label="source" />
+<Entity id="106" label="target" />
+<Entity id="33" label="target" />
+<Entity id="113" label="target" />
+<Entity id="140" label="target" />
+<Entity id="34" label="target" />
+<Entity id="74" label="target" />
+<Entity id="73" label="target" />
+<Entity id="114" label="target" />
+</Relation>
+<Relation id="188" NAME="identity">
+<Entity id="2" label="source" />
+<Entity id="129" label="target" />
+<Entity id="88" label="target" />
+<Entity id="49" label="target" />
+<Entity id="55" label="target" />
+<Entity id="83" label="target" />
+<Entity id="76" label="target" />
+<Entity id="8" label="target" />
+</Relation>
+<Relation id="189" NAME="identity">
+<Entity id="4" label="source" />
+<Entity id="92" label="target" />
+<Entity id="51" label="target" />
+<Entity id="12" label="target" />
+<Entity id="138" label="target" />
+<Entity id="66" label="target" />
+</Relation>
+<Relation id="190" NAME="identity">
+<Entity id="5" label="source" />
+<Entity id="148" label="target" />
+<Entity id="80" label="target" />
+<Entity id="52" label="target" />
+<Entity id="85" label="target" />
+<Entity id="137" label="target" />
+</Relation>
+<Relation id="191" NAME="identity">
+<Entity id="10" label="source" />
+<Entity id="90" label="target" />
+</Relation>
+<Relation id="192" NAME="identity">
+<Entity id="11" label="source" />
+<Entity id="91" label="target" />
+<Entity id="69" label="target" />
+<Entity id="58" label="target" />
+</Relation>
+<Relation id="193" NAME="identity">
+<Entity id="16" label="source" />
+<Entity id="24" label="target" />
+<Entity id="96" label="target" />
+<Entity id="103" label="target" />
+<Entity id="84" label="target" />
+<Entity id="104" label="target" />
+<Entity id="131" label="target" />
+<Entity id="35" label="target" />
+<Entity id="87" label="target" />
+<Entity id="23" label="target" />
+<Entity id="115" label="target" />
+<Entity id="154" label="target" />
+</Relation>
+<Relation id="194" NAME="identity">
+<Entity id="17" label="source" />
+<Entity id="97" label="target" />
+</Relation>
+<Relation id="195" NAME="identity">
+<Entity id="20" label="source" />
+<Entity id="25" label="target" />
+<Entity id="105" label="target" />
+<Entity id="100" label="target" />
+</Relation>
+<Relation id="196" NAME="identity">
+<Entity id="28" label="source" />
+<Entity id="108" label="target" />
+</Relation>
+<Relation id="197" NAME="identity">
+<Entity id="29" label="source" />
+<Entity id="109" label="target" />
+</Relation>
+<Relation id="198" NAME="identity">
+<Entity id="30" label="source" />
+<Entity id="31" label="target" />
+<Entity id="111" label="target" />
+<Entity id="110" label="target" />
+</Relation>
+<Relation id="199" NAME="identity">
+<Entity id="42" label="source" />
+<Entity id="122" label="target" />
+</Relation>
+<Relation id="200" NAME="identity">
+<Entity id="43" label="source" />
+<Entity id="123" label="target" />
+</Relation>
+<Relation id="201" NAME="identity">
+<Entity id="44" label="source" />
+<Entity id="124" label="target" />
+<Entity id="135" label="target" />
+</Relation>
+<Relation id="202" NAME="identity">
+<Entity id="60" label="source" />
+<Entity id="149" label="target" />
+</Relation>
+<Relation id="203" NAME="identity">
+<Entity id="68" label="source" />
+<Entity id="81" label="target" />
+<Entity id="150" label="target" />
+</Relation></Relations>
+</Document>
