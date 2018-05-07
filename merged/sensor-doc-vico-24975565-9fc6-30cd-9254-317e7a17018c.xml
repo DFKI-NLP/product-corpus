@@ -24,12 +24,12 @@
 <Entity id="11" startPos="4300" endPos="4316" type="product" surface="connected sensor" />
 <Entity id="12" startPos="4310" endPos="4316" type="product" surface="sensor" />
 <Entity id="13" startPos="4830" endPos="4849" type="organization" surface="SYS-CON Media, Inc." /></Entities><Relations>
-<Relation id="14" NAME="identity">
+<Relation id="14" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="11" label="target" />
 <Entity id="4" label="target" />
 </Relation>
-<Relation id="15" NAME="identity">
+<Relation id="15" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="5" label="target" />
 <Entity id="10" label="target" />

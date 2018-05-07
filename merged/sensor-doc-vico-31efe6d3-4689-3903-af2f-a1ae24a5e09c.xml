@@ -100,7 +100,7 @@
 <Entity id="54" label="source" />
 <Entity id="61" label="target" />
 </Relation>
-<Relation id="70" NAME="identity">
+<Relation id="70" NAME="Identity">
 <Entity id="28" label="source" />
 <Entity id="37" label="target" />
 <Entity id="38" label="target" />
@@ -109,17 +109,17 @@
 <Entity id="33" label="target" />
 <Entity id="39" label="target" />
 </Relation>
-<Relation id="71" NAME="identity">
+<Relation id="71" NAME="Identity">
 <Entity id="29" label="source" />
 <Entity id="44" label="target" />
 </Relation>
-<Relation id="72" NAME="identity">
+<Relation id="72" NAME="Identity">
 <Entity id="43" label="source" />
 <Entity id="47" label="target" />
 <Entity id="46" label="target" />
 <Entity id="45" label="target" />
 </Relation>
-<Relation id="73" NAME="identity">
+<Relation id="73" NAME="Identity">
 <Entity id="55" label="source" />
 <Entity id="59" label="target" />
 </Relation></Relations>

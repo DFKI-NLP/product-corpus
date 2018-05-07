@@ -95,17 +95,17 @@
 <Entity id="59" label="company" />
 <Entity id="60" label="trigger" />
 </Relation>
-<Relation id="72" NAME="company_provides_product">
+<Relation id="72" NAME="CompanyProvidesProduct">
 <Entity id="7" label="product" />
 <Entity id="5" label="company" />
 <Entity id="6" label="trigger" />
 </Relation>
-<Relation id="73" NAME="company_provides_product">
+<Relation id="73" NAME="CompanyProvidesProduct">
 <Entity id="16" label="product" />
 <Entity id="14" label="company" />
 <Entity id="15" label="trigger" />
 </Relation>
-<Relation id="74" NAME="company_provides_product">
+<Relation id="74" NAME="CompanyProvidesProduct">
 <Entity id="44" label="product" />
 <Entity id="41" label="product" />
 <Entity id="49" label="product" />
@@ -116,12 +116,12 @@
 <Entity id="39" label="company" />
 <Entity id="40" label="trigger" />
 </Relation>
-<Relation id="75" NAME="identity">
+<Relation id="75" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="7" label="target" />
 <Entity id="17" label="target" />
 </Relation>
-<Relation id="76" NAME="identity">
+<Relation id="76" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="14" label="target" />
 <Entity id="55" label="target" />
@@ -134,7 +134,7 @@
 <Entity id="52" label="target" />
 <Entity id="56" label="target" />
 </Relation>
-<Relation id="77" NAME="identity">
+<Relation id="77" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="63" label="target" />
 <Entity id="65" label="target" />
@@ -148,15 +148,15 @@
 <Entity id="9" label="target" />
 <Entity id="68" label="target" />
 </Relation>
-<Relation id="78" NAME="identity">
+<Relation id="78" NAME="Identity">
 <Entity id="4" label="source" />
 <Entity id="16" label="target" />
 </Relation>
-<Relation id="79" NAME="identity">
+<Relation id="79" NAME="Identity">
 <Entity id="18" label="source" />
 <Entity id="44" label="target" />
 </Relation>
-<Relation id="80" NAME="identity">
+<Relation id="80" NAME="Identity">
 <Entity id="19" label="source" />
 <Entity id="34" label="target" />
 <Entity id="47" label="target" />
@@ -165,7 +165,7 @@
 <Entity id="45" label="target" />
 <Entity id="29" label="target" />
 </Relation>
-<Relation id="81" NAME="identity">
+<Relation id="81" NAME="Identity">
 <Entity id="26" label="source" />
 <Entity id="46" label="target" />
 </Relation></Relations>

@@ -147,7 +147,7 @@
 <Entity id="51" label="target" />
 <Entity id="54" label="target" />
 </Relation>
-<Relation id="72" NAME="identity">
+<Relation id="72" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="46" label="target" />
 <Entity id="23" label="target" />
@@ -167,7 +167,7 @@
 <Entity id="20" label="target" />
 <Entity id="29" label="target" />
 </Relation>
-<Relation id="73" NAME="identity">
+<Relation id="73" NAME="Identity">
 <Entity id="38" label="source" />
 <Entity id="44" label="target" />
 <Entity id="55" label="target" />

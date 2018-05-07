@@ -125,44 +125,44 @@
 </Relation>
 <Relation id="76" NAME="CompanyProvidesProduct">
 <Entity id="63" label="product" />
-<Entity id="62" label="trigger" />
+<Entity id="62" label="company" />
 </Relation>
-<Relation id="77" NAME="identity">
+<Relation id="77" NAME="Identity">
 <Entity id="0" label="source" />
-<Entity id="54" label="target" />
-<Entity id="48" label="target" />
-<Entity id="30" label="target" />
-<Entity id="31" label="target" />
-<Entity id="29" label="target" />
-<Entity id="7" label="target" />
-<Entity id="44" label="target" />
-<Entity id="58" label="target" />
 <Entity id="40" label="target" />
-<Entity id="45" label="target" />
-<Entity id="13" label="target" />
-<Entity id="5" label="target" />
 <Entity id="8" label="target" />
-<Entity id="9" label="target" />
+<Entity id="44" label="target" />
 <Entity id="12" label="target" />
+<Entity id="31" label="target" />
+<Entity id="9" label="target" />
+<Entity id="54" label="target" />
+<Entity id="29" label="target" />
+<Entity id="45" label="target" />
+<Entity id="7" label="target" />
+<Entity id="58" label="target" />
+<Entity id="48" label="target" />
+<Entity id="5" label="target" />
+<Entity id="13" label="target" />
+<Entity id="30" label="target" />
 </Relation>
-<Relation id="78" NAME="identity">
+<Relation id="78" NAME="Identity">
 <Entity id="2" label="source" />
-<Entity id="60" label="target" />
-<Entity id="53" label="target" />
-<Entity id="6" label="target" />
+<Entity id="56" label="target" />
 <Entity id="47" label="target" />
 <Entity id="52" label="target" />
-<Entity id="56" label="target" />
+<Entity id="53" label="target" />
+<Entity id="6" label="target" />
+<Entity id="60" label="target" />
 </Relation>
-<Relation id="79" NAME="identity">
+<Relation id="79" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="4" label="target" />
 </Relation>
-<Relation id="80" NAME="identity">
+<Relation id="80" NAME="Identity">
 <Entity id="14" label="source" />
 <Entity id="20" label="target" />
 </Relation>
-<Relation id="81" NAME="identity">
+<Relation id="81" NAME="Identity">
 <Entity id="19" label="source" />
 <Entity id="28" label="target" />
 </Relation></Relations>

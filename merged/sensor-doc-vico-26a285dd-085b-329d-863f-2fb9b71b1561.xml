@@ -74,159 +74,158 @@
 <Entity id="61" startPos="3100" endPos="3112" type="organization" surface="Rambus, Inc." />
 <Entity id="62" startPos="3113" endPos="3119" type="organization" surface="Rambus" />
 <Entity id="63" startPos="3121" endPos="3131" type="organization" surface="rambus.com" />
-<Entity id="64" startPos="3133" endPos="3140" type="provide_type" surface="creates" />
-<Entity id="65" startPos="3133" endPos="3140" type="trigger" surface="creates" />
-<Entity id="66" startPos="3154" endPos="3167" type="product" surface="semiconductor" />
-<Entity id="67" startPos="3172" endPos="3183" type="product" surface="IP products" />
-<Entity id="68" startPos="3194" endPos="3200" type="product" surface="memory" />
-<Entity id="69" startPos="3205" endPos="3215" type="product" surface="interfaces" />
-<Entity id="70" startPos="3219" endPos="3227" type="product" surface="security" />
-<Entity id="71" startPos="3229" endPos="3242" type="product" surface="smart sensors" />
-<Entity id="72" startPos="3247" endPos="3255" type="product" surface="lighting" />
-<Entity id="73" startPos="3257" endPos="3260" type="organization" surface="Our" />
-<Entity id="74" startPos="3261" endPos="3266" type="product" surface="chips" />
-<Entity id="75" startPos="3281" endPos="3289" type="product" surface="IP cores" />
-<Entity id="76" startPos="3393" endPos="3396" type="organization" surface="our" />
-<Entity id="77" startPos="3408" endPos="3410" type="organization" surface="We" />
-<Entity id="78" startPos="3466" endPos="3470" type="product" surface="ASIC" />
-<Entity id="79" startPos="3475" endPos="3478" type="product" surface="SoC" />
-<Entity id="80" startPos="3516" endPos="3519" type="product" surface="EDA" />
-<Entity id="81" startPos="3551" endPos="3554" type="organization" surface="Our" />
-<Entity id="82" startPos="3715" endPos="3721" type="product" surface="mobile" />
-<Entity id="83" startPos="3756" endPos="3762" type="organization" surface="Rambus" />
-<Entity id="84" startPos="3764" endPos="3766" type="organization" surface="we" />
-<Entity id="85" startPos="4019" endPos="4030" type="organization" surface="Rambus, Inc" /></Entities><Relations>
-<Relation id="86" NAME="CompanyProvidesProduct">
-<Entity id="16" label="product" />
-<Entity id="14" label="company" />
-<Entity id="15" label="trigger" />
-</Relation>
-<Relation id="87" NAME="company_provides_product">
+<Entity id="64" startPos="3133" endPos="3140" type="trigger" surface="creates" />
+<Entity id="65" startPos="3154" endPos="3167" type="product" surface="semiconductor" />
+<Entity id="66" startPos="3172" endPos="3183" type="product" surface="IP products" />
+<Entity id="67" startPos="3194" endPos="3200" type="product" surface="memory" />
+<Entity id="68" startPos="3205" endPos="3215" type="product" surface="interfaces" />
+<Entity id="69" startPos="3219" endPos="3227" type="product" surface="security" />
+<Entity id="70" startPos="3229" endPos="3242" type="product" surface="smart sensors" />
+<Entity id="71" startPos="3247" endPos="3255" type="product" surface="lighting" />
+<Entity id="72" startPos="3257" endPos="3260" type="organization" surface="Our" />
+<Entity id="73" startPos="3261" endPos="3266" type="product" surface="chips" />
+<Entity id="74" startPos="3281" endPos="3289" type="product" surface="IP cores" />
+<Entity id="75" startPos="3393" endPos="3396" type="organization" surface="our" />
+<Entity id="76" startPos="3408" endPos="3410" type="organization" surface="We" />
+<Entity id="77" startPos="3466" endPos="3470" type="product" surface="ASIC" />
+<Entity id="78" startPos="3475" endPos="3478" type="product" surface="SoC" />
+<Entity id="79" startPos="3516" endPos="3519" type="product" surface="EDA" />
+<Entity id="80" startPos="3551" endPos="3554" type="organization" surface="Our" />
+<Entity id="81" startPos="3715" endPos="3721" type="product" surface="mobile" />
+<Entity id="82" startPos="3756" endPos="3762" type="organization" surface="Rambus" />
+<Entity id="83" startPos="3764" endPos="3766" type="organization" surface="we" />
+<Entity id="84" startPos="4019" endPos="4030" type="organization" surface="Rambus, Inc" /></Entities><Relations>
+<Relation id="85" NAME="CompanyProvidesProduct">
 <Entity id="2" label="product" />
 <Entity id="0" label="company" />
 <Entity id="1" label="trigger" />
 </Relation>
-<Relation id="88" NAME="company_provides_product">
+<Relation id="86" NAME="CompanyProvidesProduct">
 <Entity id="5" label="product" />
 <Entity id="4" label="company" />
 </Relation>
-<Relation id="89" NAME="company_provides_product">
+<Relation id="87" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
-<Entity id="11" label="ceremony" />
+<Entity id="11" label="company" />
 </Relation>
-<Relation id="90" NAME="company_provides_product">
-<Entity id="22" label="product" />
+<Relation id="88" NAME="CompanyProvidesProduct">
+<Entity id="16" label="product" />
+<Entity id="14" label="company" />
+<Entity id="15" label="trigger" />
+</Relation>
+<Relation id="89" NAME="CompanyProvidesProduct">
 <Entity id="21" label="product" />
+<Entity id="22" label="product" />
 <Entity id="19" label="company" />
 <Entity id="20" label="trigger" />
 </Relation>
-<Relation id="91" NAME="company_provides_product">
+<Relation id="90" NAME="CompanyProvidesProduct">
 <Entity id="30" label="product" />
 <Entity id="26" label="company" />
 <Entity id="29" label="trigger" />
 </Relation>
-<Relation id="92" NAME="company_provides_product">
+<Relation id="91" NAME="CompanyProvidesProduct">
 <Entity id="33" label="product" />
 <Entity id="32" label="company" />
 </Relation>
-<Relation id="93" NAME="company_provides_product">
+<Relation id="92" NAME="CompanyProvidesProduct">
 <Entity id="38" label="product" />
 <Entity id="36" label="company" />
 <Entity id="37" label="trigger" />
 </Relation>
-<Relation id="94" NAME="company_provides_product">
-<Entity id="59" label="product" />
-<Entity id="53" label="product" />
+<Relation id="93" NAME="CompanyProvidesProduct">
+<Entity id="57" label="product" />
 <Entity id="55" label="product" />
 <Entity id="56" label="product" />
-<Entity id="54" label="product" />
-<Entity id="58" label="product" />
-<Entity id="57" label="product" />
 <Entity id="52" label="product" />
+<Entity id="59" label="product" />
+<Entity id="58" label="product" />
+<Entity id="53" label="product" />
+<Entity id="54" label="product" />
 <Entity id="49" label="company" />
 </Relation>
-<Relation id="95" NAME="company_provides_product">
-<Entity id="67" label="product" />
-<Entity id="66" label="product" />
-<Entity id="72" label="product" />
-<Entity id="69" label="product" />
-<Entity id="71" label="product" />
+<Relation id="94" NAME="CompanyProvidesProduct">
+<Entity id="65" label="product" />
 <Entity id="68" label="product" />
 <Entity id="70" label="product" />
+<Entity id="69" label="product" />
+<Entity id="67" label="product" />
+<Entity id="66" label="product" />
+<Entity id="71" label="product" />
 <Entity id="62" label="company" />
-<Entity id="65" label="trigger" />
+<Entity id="64" label="trigger" />
 </Relation>
-<Relation id="96" NAME="identity">
+<Relation id="95" NAME="Identity">
 <Entity id="0" label="source" />
-<Entity id="76" label="target" />
-<Entity id="36" label="target" />
-<Entity id="31" label="target" />
-<Entity id="27" label="target" />
-<Entity id="11" label="target" />
-<Entity id="32" label="target" />
-<Entity id="23" label="target" />
-<Entity id="73" label="target" />
-<Entity id="84" label="target" />
-<Entity id="77" label="target" />
-<Entity id="25" label="target" />
-<Entity id="60" label="target" />
-<Entity id="10" label="target" />
-<Entity id="83" label="target" />
-<Entity id="81" label="target" />
-<Entity id="8" label="target" />
 <Entity id="61" label="target" />
-<Entity id="44" label="target" />
 <Entity id="41" label="target" />
-<Entity id="63" label="target" />
-<Entity id="62" label="target" />
-<Entity id="85" label="target" />
+<Entity id="8" label="target" />
+<Entity id="80" label="target" />
+<Entity id="76" label="target" />
+<Entity id="82" label="target" />
+<Entity id="11" label="target" />
+<Entity id="23" label="target" />
+<Entity id="60" label="target" />
+<Entity id="72" label="target" />
+<Entity id="84" label="target" />
+<Entity id="36" label="target" />
+<Entity id="25" label="target" />
 <Entity id="19" label="target" />
+<Entity id="75" label="target" />
+<Entity id="83" label="target" />
+<Entity id="27" label="target" />
+<Entity id="32" label="target" />
+<Entity id="62" label="target" />
+<Entity id="10" label="target" />
+<Entity id="44" label="target" />
+<Entity id="31" label="target" />
+<Entity id="63" label="target" />
 <Entity id="49" label="target" />
 </Relation>
-<Relation id="97" NAME="identity">
+<Relation id="96" NAME="Identity">
 <Entity id="2" label="source" />
-<Entity id="33" label="target" />
 <Entity id="17" label="target" />
 <Entity id="38" label="target" />
+<Entity id="33" label="target" />
 </Relation>
-<Relation id="98" NAME="identity">
+<Relation id="97" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="18" label="target" />
 <Entity id="52" label="target" />
 <Entity id="40" label="target" />
-<Entity id="74" label="target" />
+<Entity id="73" label="target" />
 </Relation>
-<Relation id="99" NAME="identity">
-<Entity id="5" label="source" />
-<Entity id="30" label="target" />
-<Entity id="16" label="target" />
-</Relation>
-<Relation id="100" NAME="identity">
+<Relation id="98" NAME="Identity">
 <Entity id="4" label="source" />
-<Entity id="14" label="target" />
 <Entity id="26" label="target" />
+<Entity id="14" label="target" />
 </Relation>
-<Relation id="101" NAME="identity">
-<Entity id="54" label="product" />
+<Relation id="99" NAME="Identity">
+<Entity id="5" label="source" />
+<Entity id="16" label="target" />
+<Entity id="30" label="target" />
+</Relation>
+<Relation id="100" NAME="Identity">
 <Entity id="21" label="source" />
+<Entity id="67" label="target" />
 <Entity id="50" label="target" />
-<Entity id="68" label="target" />
+<Entity id="54" label="target" />
 </Relation>
-<Relation id="102" NAME="identity">
+<Relation id="101" NAME="Identity">
 <Entity id="22" label="source" />
-<Entity id="51" label="target" />
 <Entity id="55" label="target" />
 <Entity id="39" label="target" />
-<Entity id="69" label="target" />
+<Entity id="68" label="target" />
+<Entity id="51" label="target" />
 </Relation>
-<Relation id="103" NAME="identity">
+<Relation id="102" NAME="Identity">
 <Entity id="24" label="source" />
 <Entity id="43" label="target" />
 <Entity id="42" label="target" />
 <Entity id="45" label="target" />
 </Relation>
-<Relation id="104" NAME="identity">
+<Relation id="103" NAME="Identity">
 <Entity id="46" label="source" />
-<Entity id="82" label="target" />
+<Entity id="81" label="target" />
 </Relation></Relations>
 </Document>

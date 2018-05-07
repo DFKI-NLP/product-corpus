@@ -46,7 +46,7 @@
 <Entity id="10" label="target" />
 <Entity id="8" label="target" />
 </Relation>
-<Relation id="22" NAME="identity">
+<Relation id="22" NAME="Identity">
 <Entity id="11" label="source" />
 <Entity id="18" label="target" />
 <Entity id="13" label="target" />

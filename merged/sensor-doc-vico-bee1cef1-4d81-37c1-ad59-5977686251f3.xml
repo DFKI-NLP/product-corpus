@@ -15,7 +15,7 @@
 <Entity id="2" startPos="1120" endPos="1124" type="organization" surface="SICK" />
 <Entity id="3" startPos="2266" endPos="2282" type="product" surface="Model YX-FS60-II" />
 <Entity id="4" startPos="3360" endPos="3376" type="product" surface="Model YX-FS60-II" /></Entities><Relations>
-<Relation id="5" NAME="identity">
+<Relation id="5" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="4" label="target" />
 <Entity id="3" label="target" />

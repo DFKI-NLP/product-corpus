@@ -33,48 +33,48 @@
 <Entity id="20" startPos="3017" endPos="3028" type="organization" surface="TripAdvisor" />
 <Entity id="21" startPos="3076" endPos="3082" type="organization" surface="Google" />
 <Entity id="22" startPos="3397" endPos="3400" type="organization" surface="FAA" /></Entities><Relations>
-<Relation id="23" NAME="company_provides_product">
+<Relation id="23" NAME="CompanyProvidesProduct">
 <Entity id="3" label="product" />
 <Entity id="1" label="company" />
 <Entity id="2" label="trigger" />
 </Relation>
-<Relation id="24" NAME="company_provides_product">
+<Relation id="24" NAME="CompanyProvidesProduct">
 <Entity id="6" label="product" />
 <Entity id="4" label="company" />
 <Entity id="5" label="trigger" />
 </Relation>
-<Relation id="25" NAME="company_provides_product">
+<Relation id="25" NAME="CompanyProvidesProduct">
 <Entity id="12" label="product" />
 <Entity id="10" label="company" />
 <Entity id="11" label="trigger" />
 </Relation>
-<Relation id="26" NAME="company_provides_product">
+<Relation id="26" NAME="CompanyProvidesProduct">
 <Entity id="13" label="product" />
 <Entity id="15" label="company" />
 <Entity id="14" label="trigger" />
 </Relation>
-<Relation id="27" NAME="company_provides_product">
+<Relation id="27" NAME="CompanyProvidesProduct">
 <Entity id="18" label="product" />
-<Entity id="16" label="source" />
+<Entity id="16" label="company" />
 <Entity id="17" label="trigger" />
 </Relation>
-<Relation id="28" NAME="identity">
+<Relation id="28" NAME="Identity">
 <Entity id="3" label="source" />
-<Entity id="9" label="target" />
 <Entity id="7" label="target" />
 <Entity id="8" label="target" />
+<Entity id="9" label="target" />
 <Entity id="6" label="target" />
 </Relation>
-<Relation id="29" NAME="identity">
+<Relation id="29" NAME="Identity">
 <Entity id="10" label="source" />
 <Entity id="21" label="target" />
-<Entity id="15" label="target" />
 <Entity id="16" label="target" />
 <Entity id="19" label="target" />
+<Entity id="15" label="target" />
 </Relation>
-<Relation id="30" NAME="identity">
+<Relation id="30" NAME="Identity">
 <Entity id="12" label="source" />
-<Entity id="18" label="target" />
 <Entity id="13" label="target" />
+<Entity id="18" label="target" />
 </Relation></Relations>
 </Document>

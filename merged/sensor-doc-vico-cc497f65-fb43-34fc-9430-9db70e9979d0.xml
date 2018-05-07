@@ -36,33 +36,33 @@
 <Entity id="23" startPos="8303" endPos="8312" type="organization" surface="pr-inside" />
 <Entity id="24" startPos="8314" endPos="8316" type="organization" surface="We" />
 <Entity id="25" startPos="8349" endPos="8358" type="organization" surface="PR-inside" /></Entities><Relations>
-<Relation id="26" NAME="company_provides_product">
+<Relation id="26" NAME="CompanyProvidesProduct">
 <Entity id="3" label="product" />
 <Entity id="5" label="company" />
 <Entity id="4" label="trigger" />
 </Relation>
-<Relation id="27" NAME="company_provides_product">
+<Relation id="27" NAME="CompanyProvidesProduct">
 <Entity id="8" label="product" />
 <Entity id="10" label="company" />
 <Entity id="9" label="trigger" />
 </Relation>
-<Relation id="28" NAME="company_provides_product">
+<Relation id="28" NAME="CompanyProvidesProduct">
 <Entity id="12" label="product" />
 <Entity id="14" label="company" />
 <Entity id="13" label="trigger" />
 </Relation>
-<Relation id="29" NAME="company_provides_product">
+<Relation id="29" NAME="CompanyProvidesProduct">
 <Entity id="20" label="product" />
 <Entity id="22" label="company" />
 <Entity id="21" label="trigger" />
 </Relation>
-<Relation id="30" NAME="identity">
+<Relation id="30" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="24" label="target" />
 <Entity id="23" label="target" />
 <Entity id="25" label="target" />
 </Relation>
-<Relation id="31" NAME="identity">
+<Relation id="31" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="5" label="target" />
 <Entity id="14" label="target" />
@@ -72,11 +72,11 @@
 <Entity id="7" label="target" />
 <Entity id="6" label="target" />
 </Relation>
-<Relation id="32" NAME="identity">
+<Relation id="32" NAME="Identity">
 <Entity id="15" label="source" />
 <Entity id="19" label="target" />
 </Relation>
-<Relation id="33" NAME="identity">
+<Relation id="33" NAME="Identity">
 <Entity id="19" label="source" />
 <Entity id="20" label="target" />
 </Relation></Relations>

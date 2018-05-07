@@ -41,11 +41,11 @@
 <Entity id="28" startPos="3883" endPos="3893" type="organization" surface="Perceptics" />
 <Entity id="29" startPos="3895" endPos="3907" type="organization" surface="Thales Group" />
 <Entity id="30" startPos="3912" endPos="3932" type="organization" surface="Kapsch TrafficCom AG" /></Entities><Relations>
-<Relation id="31" NAME="identity">
+<Relation id="31" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 </Relation>
-<Relation id="32" NAME="identity">
+<Relation id="32" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="12" label="target" />
 <Entity id="9" label="target" />

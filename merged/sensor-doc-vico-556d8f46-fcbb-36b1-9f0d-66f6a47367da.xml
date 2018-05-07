@@ -74,7 +74,7 @@ Thermal Interface Material with Integrated Heater Element. Filed July 21, 2014 a
 <Entity id="33" startPos="5951" endPos="5963" type="product" surface="battery cell" />
 <Entity id="34" startPos="6291" endPos="6298" type="product" surface="vehicle" />
 <Entity id="35" startPos="7011" endPos="7030" type="product" surface="electrified vehicle" /></Entities><Relations>
-<Relation id="36" NAME="identity">
+<Relation id="36" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 <Entity id="5" label="target" />
@@ -83,17 +83,17 @@ Thermal Interface Material with Integrated Heater Element. Filed July 21, 2014 a
 <Entity id="10" label="target" />
 <Entity id="2" label="target" />
 </Relation>
-<Relation id="37" NAME="identity">
+<Relation id="37" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="9" label="target" />
 </Relation>
-<Relation id="38" NAME="identity">
+<Relation id="38" NAME="Identity">
 <Entity id="4" label="source" />
 <Entity id="11" label="target" />
 <Entity id="6" label="target" />
 <Entity id="35" label="target" />
 </Relation>
-<Relation id="39" NAME="identity">
+<Relation id="39" NAME="Identity">
 <Entity id="13" label="source" />
 <Entity id="30" label="target" />
 <Entity id="17" label="target" />
@@ -109,7 +109,7 @@ Thermal Interface Material with Integrated Heater Element. Filed July 21, 2014 a
 <Entity id="21" label="target" />
 <Entity id="33" label="target" />
 </Relation>
-<Relation id="40" NAME="identity">
+<Relation id="40" NAME="Identity">
 <Entity id="27" label="source" />
 <Entity id="28" label="target" />
 <Entity id="32" label="target" />

@@ -75,8 +75,8 @@
 <Entity id="26" label="trigger" />
 </Relation>
 <Relation id="52" NAME="CompanyProvidesProduct">
-<Entity id="32" label="product" />
 <Entity id="31" label="product" />
+<Entity id="32" label="product" />
 <Entity id="29" label="company" />
 <Entity id="30" label="trigger" />
 </Relation>
@@ -86,8 +86,8 @@
 <Entity id="36" label="trigger" />
 </Relation>
 <Relation id="54" NAME="CompanyProvidesProduct">
-<Entity id="37" label="product" />
 <Entity id="38" label="product" />
+<Entity id="37" label="product" />
 <Entity id="35" label="company" />
 <Entity id="39" label="trigger" />
 <Entity id="36" label="trigger" />
@@ -97,42 +97,42 @@
 <Entity id="41" label="company" />
 </Relation>
 <Relation id="56" NAME="Identity">
-<Entity id="6" label="source" />
-<Entity id="47" label="target" />
-<Entity id="33" label="target" />
-<Entity id="35" label="target" />
-<Entity id="43" label="target" />
-<Entity id="28" label="target" />
-<Entity id="44" label="target" />
-<Entity id="48" label="target" />
-<Entity id="46" label="target" />
-<Entity id="45" label="target" />
-<Entity id="34" label="target" />
-<Entity id="29" label="target" />
-<Entity id="22" label="target" />
-<Entity id="23" label="target" />
-<Entity id="41" label="target" />
-</Relation>
-<Relation id="57" NAME="identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 </Relation>
-<Relation id="58" NAME="identity">
-<Entity id="27" label="product" />
+<Relation id="57" NAME="Identity">
 <Entity id="3" label="source" />
+<Entity id="25" label="target" />
+<Entity id="27" label="target" />
+<Entity id="42" label="target" />
 <Entity id="32" label="target" />
 <Entity id="38" label="target" />
-<Entity id="42" label="target" />
-<Entity id="25" label="target" />
 </Relation>
-<Relation id="59" NAME="identity">
+<Relation id="58" NAME="Identity">
 <Entity id="4" label="source" />
-<Entity id="7" label="target" />
-<Entity id="21" label="target" />
 <Entity id="11" label="target" />
 <Entity id="15" label="target" />
+<Entity id="7" label="target" />
+<Entity id="21" label="target" />
 <Entity id="9" label="target" />
 <Entity id="8" label="target" />
 <Entity id="13" label="target" />
+</Relation>
+<Relation id="59" NAME="Identity">
+<Entity id="6" label="source" />
+<Entity id="22" label="target" />
+<Entity id="48" label="target" />
+<Entity id="41" label="target" />
+<Entity id="43" label="target" />
+<Entity id="45" label="target" />
+<Entity id="29" label="target" />
+<Entity id="33" label="target" />
+<Entity id="46" label="target" />
+<Entity id="35" label="target" />
+<Entity id="28" label="target" />
+<Entity id="23" label="target" />
+<Entity id="44" label="target" />
+<Entity id="34" label="target" />
+<Entity id="47" label="target" />
 </Relation></Relations>
 </Document>

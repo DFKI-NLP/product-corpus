@@ -92,7 +92,7 @@
 <Entity id="26" label="target" />
 <Entity id="24" label="target" />
 </Relation>
-<Relation id="47" NAME="identity">
+<Relation id="47" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="1" label="target" />
 </Relation></Relations>

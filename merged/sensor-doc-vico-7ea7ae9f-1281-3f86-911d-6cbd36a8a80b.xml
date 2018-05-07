@@ -63,50 +63,50 @@
 <Entity id="50" startPos="3493" endPos="3509" type="product" surface="research studies" />
 <Entity id="51" startPos="3556" endPos="3569" type="product" surface="Semiconductor" /></Entities><Relations>
 <Relation id="52" NAME="CompanyProvidesProduct">
+<Entity id="19" label="product" />
 <Entity id="20" label="product" />
 <Entity id="18" label="product" />
 <Entity id="22" label="product" />
-<Entity id="19" label="product" />
 <Entity id="17" label="product" />
-<Entity id="26" label="company" />
+<Entity id="25" label="company" />
 <Entity id="23" label="trigger" />
 <Entity id="21" label="trigger" />
 </Relation>
 <Relation id="53" NAME="CompanyProvidesProduct">
+<Entity id="19" label="product" />
 <Entity id="20" label="product" />
 <Entity id="18" label="product" />
 <Entity id="22" label="product" />
-<Entity id="19" label="product" />
 <Entity id="17" label="product" />
 <Entity id="24" label="company" />
 <Entity id="23" label="trigger" />
 <Entity id="21" label="trigger" />
 </Relation>
 <Relation id="54" NAME="CompanyProvidesProduct">
+<Entity id="19" label="product" />
 <Entity id="20" label="product" />
 <Entity id="18" label="product" />
 <Entity id="22" label="product" />
+<Entity id="17" label="product" />
+<Entity id="26" label="company" />
+<Entity id="23" label="trigger" />
+<Entity id="21" label="trigger" />
+</Relation>
+<Relation id="55" NAME="CompanyProvidesProduct">
 <Entity id="19" label="product" />
+<Entity id="20" label="product" />
+<Entity id="18" label="product" />
+<Entity id="22" label="product" />
 <Entity id="17" label="product" />
 <Entity id="27" label="company" />
 <Entity id="23" label="trigger" />
 <Entity id="21" label="trigger" />
 </Relation>
-<Relation id="55" NAME="CompanyProvidesProduct">
-<Entity id="20" label="product" />
-<Entity id="18" label="product" />
-<Entity id="22" label="product" />
-<Entity id="19" label="product" />
-<Entity id="17" label="product" />
-<Entity id="25" label="company" />
-<Entity id="23" label="trigger" />
-<Entity id="21" label="trigger" />
-</Relation>
 <Relation id="56" NAME="CompanyProvidesProduct">
+<Entity id="19" label="product" />
 <Entity id="20" label="product" />
 <Entity id="18" label="product" />
 <Entity id="22" label="product" />
-<Entity id="19" label="product" />
 <Entity id="17" label="product" />
 <Entity id="28" label="company" />
 <Entity id="23" label="trigger" />
@@ -117,34 +117,34 @@
 <Entity id="48" label="company" />
 <Entity id="49" label="trigger" />
 </Relation>
-<Relation id="58" NAME="identity">
+<Relation id="58" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="48" label="target" />
-<Entity id="45" label="target" />
 <Entity id="47" label="target" />
+<Entity id="45" label="target" />
 <Entity id="44" label="target" />
 </Relation>
-<Relation id="59" NAME="identity">
+<Relation id="59" NAME="Identity">
 <Entity id="1" label="source" />
-<Entity id="7" label="target" />
-<Entity id="5" label="target" />
 <Entity id="15" label="target" />
-<Entity id="16" label="target" />
-<Entity id="22" label="target" />
-<Entity id="6" label="target" />
-<Entity id="11" label="target" />
-<Entity id="12" label="target" />
 <Entity id="13" label="target" />
-<Entity id="2" label="target" />
 <Entity id="14" label="target" />
+<Entity id="7" label="target" />
+<Entity id="16" label="target" />
+<Entity id="12" label="target" />
+<Entity id="11" label="target" />
 <Entity id="42" label="target" />
+<Entity id="22" label="target" />
+<Entity id="2" label="target" />
+<Entity id="6" label="target" />
+<Entity id="5" label="target" />
 </Relation>
-<Relation id="60" NAME="identity">
+<Relation id="60" NAME="Identity">
 <Entity id="43" label="source" />
 <Entity id="51" label="target" />
 </Relation>
-<Relation id="61" NAME="identity">
-<Entity id="50" label="target" />
+<Relation id="61" NAME="Identity">
+<Entity id="50" label="source" />
 <Entity id="46" label="target" />
 </Relation></Relations>
 </Document>

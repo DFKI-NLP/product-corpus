@@ -84,17 +84,17 @@
 <Entity id="25" label="product" />
 <Entity id="24" label="company" />
 </Relation>
-<Relation id="57" NAME="identity">
+<Relation id="57" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="9" label="target" />
 </Relation>
-<Relation id="58" NAME="identity">
+<Relation id="58" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="10" label="target" />
 <Entity id="5" label="target" />
 <Entity id="4" label="target" />
 </Relation>
-<Relation id="59" NAME="identity">
+<Relation id="59" NAME="Identity">
 <Entity id="48" label="source" />
 <Entity id="49" label="target" />
 <Entity id="47" label="target" />

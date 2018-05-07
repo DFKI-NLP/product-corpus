@@ -20,17 +20,17 @@
 <Entity id="7" startPos="6368" endPos="6375" type="product" surface="sensors" />
 <Entity id="8" startPos="6781" endPos="6788" type="organization" surface="Gartner" />
 <Entity id="9" startPos="7779" endPos="7798" type="organization" surface="SYS-CON Media, Inc." /></Entities><Relations>
-<Relation id="10" NAME="identity">
+<Relation id="10" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="5" label="target" />
 <Entity id="7" label="target" />
 <Entity id="3" label="target" />
 </Relation>
-<Relation id="11" NAME="identity">
+<Relation id="11" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="6" label="target" />
 </Relation>
-<Relation id="12" NAME="identity">
+<Relation id="12" NAME="Identity">
 <Entity id="4" label="source" />
 <Entity id="8" label="target" />
 </Relation></Relations>

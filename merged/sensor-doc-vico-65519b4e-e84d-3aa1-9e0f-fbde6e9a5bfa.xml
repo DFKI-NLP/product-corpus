@@ -36,25 +36,25 @@
 <Entity id="23" startPos="4645" endPos="4661" type="product" surface="SafeUnsubscribe™" />
 <Entity id="24" startPos="4670" endPos="4673" type="organization" surface="our" />
 <Entity id="25" startPos="4698" endPos="4721" type="organization" surface="T &amp; L Publications, Inc" /></Entities><Relations>
-<Relation id="26" NAME="identity">
+<Relation id="26" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="2" label="target" />
 </Relation>
-<Relation id="27" NAME="identity">
+<Relation id="27" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="9" label="target" />
 </Relation>
-<Relation id="28" NAME="identity">
+<Relation id="28" NAME="Identity">
 <Entity id="15" label="source" />
 <Entity id="19" label="target" />
 <Entity id="16" label="target" />
 <Entity id="17" label="target" />
 </Relation>
-<Relation id="29" NAME="identity">
+<Relation id="29" NAME="Identity">
 <Entity id="18" label="source" />
 <Entity id="21" label="target" />
 </Relation>
-<Relation id="30" NAME="identity">
+<Relation id="30" NAME="Identity">
 <Entity id="22" label="source" />
 <Entity id="24" label="target" />
 <Entity id="25" label="target" />

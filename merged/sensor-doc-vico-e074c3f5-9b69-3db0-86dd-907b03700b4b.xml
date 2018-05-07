@@ -19,14 +19,14 @@
 <Entity id="6" startPos="2121" endPos="2128" type="organization" surface="company" />
 <Entity id="7" startPos="2886" endPos="2899" type="product" surface="smart sensors" />
 <Entity id="8" startPos="2906" endPos="2917" type="product" surface="controllers" /></Entities><Relations>
-<Relation id="9" NAME="identity">
+<Relation id="9" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="2" label="target" />
 <Entity id="5" label="target" />
 <Entity id="6" label="target" />
 <Entity id="4" label="target" />
 </Relation>
-<Relation id="10" NAME="identity">
+<Relation id="10" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="7" label="target" />
 </Relation></Relations>

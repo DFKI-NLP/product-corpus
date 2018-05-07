@@ -100,19 +100,19 @@
 <Entity id="44" label="target" />
 <Entity id="41" label="target" />
 </Relation>
-<Relation id="56" NAME="identity">
+<Relation id="56" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="46" label="target" />
 </Relation>
-<Relation id="57" NAME="identity">
+<Relation id="57" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="45" label="target" />
 </Relation>
-<Relation id="58" NAME="identity">
+<Relation id="58" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="38" label="target" />
 </Relation>
-<Relation id="59" NAME="identity">
+<Relation id="59" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="10" label="target" />
 <Entity id="19" label="target" />

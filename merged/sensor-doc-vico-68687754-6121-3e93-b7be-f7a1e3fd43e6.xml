@@ -78,26 +78,26 @@
 <Entity id="36" label="target" />
 <Entity id="27" label="target" />
 </Relation>
-<Relation id="45" NAME="identity">
+<Relation id="45" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="20" label="target" />
 <Entity id="6" label="target" />
 </Relation>
-<Relation id="46" NAME="identity">
+<Relation id="46" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="21" label="target" />
 <Entity id="22" label="target" />
 </Relation>
-<Relation id="47" NAME="identity">
+<Relation id="47" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="7" label="target" />
 </Relation>
-<Relation id="48" NAME="identity">
+<Relation id="48" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="23" label="target" />
 <Entity id="24" label="target" />
 </Relation>
-<Relation id="49" NAME="identity">
+<Relation id="49" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="32" label="target" />
 <Entity id="8" label="target" />

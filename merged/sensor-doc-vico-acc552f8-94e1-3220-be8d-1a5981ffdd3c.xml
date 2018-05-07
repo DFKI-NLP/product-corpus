@@ -40,7 +40,7 @@
 <Entity id="4" label="company" />
 <Entity id="3" label="trigger" />
 </Relation>
-<Relation id="26" NAME="identity">
+<Relation id="26" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="13" label="target" />
 <Entity id="10" label="target" />
@@ -53,12 +53,12 @@
 <Entity id="6" label="target" />
 <Entity id="2" label="target" />
 </Relation>
-<Relation id="27" NAME="identity">
+<Relation id="27" NAME="Identity">
 <Entity id="4" label="source" />
 <Entity id="5" label="target" />
 <Entity id="22" label="target" />
 </Relation>
-<Relation id="28" NAME="identity">
+<Relation id="28" NAME="Identity">
 <Entity id="23" label="source" />
 <Entity id="24" label="target" />
 </Relation></Relations>

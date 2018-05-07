@@ -94,12 +94,12 @@
 <Entity id="81" startPos="3586" endPos="3612" type="product" surface="frequency control products" />
 <Entity id="82" startPos="3790" endPos="3809" type="organization" surface="Diodes Incorporated" />
 <Entity id="83" startPos="3924" endPos="3937" type="organization" surface="Shelton Group" /></Entities><Relations>
-<Relation id="84" NAME="company_provides_product">
+<Relation id="84" NAME="CompanyProvidesProduct">
 <Entity id="0" label="product" />
 <Entity id="2" label="company" />
 <Entity id="1" label="trigger" />
 </Relation>
-<Relation id="85" NAME="company_provides_product">
+<Relation id="85" NAME="CompanyProvidesProduct">
 <Entity id="10" label="product" />
 <Entity id="11" label="product" />
 <Entity id="9" label="product" />
@@ -108,12 +108,12 @@
 <Entity id="8" label="trigger" />
 <Entity id="7" label="trigger" />
 </Relation>
-<Relation id="86" NAME="company_provides_product">
+<Relation id="86" NAME="CompanyProvidesProduct">
 <Entity id="14" label="product" />
 <Entity id="4" label="company" />
 <Entity id="13" label="trigger" />
 </Relation>
-<Relation id="87" NAME="company_provides_product">
+<Relation id="87" NAME="CompanyProvidesProduct">
 <Entity id="30" label="product" />
 <Entity id="29" label="product" />
 <Entity id="32" label="product" />
@@ -123,13 +123,13 @@
 <Entity id="33" label="trigger" />
 <Entity id="28" label="trigger" />
 </Relation>
-<Relation id="88" NAME="company_provides_product">
+<Relation id="88" NAME="CompanyProvidesProduct">
 <Entity id="36" label="product" />
 <Entity id="34" label="company" />
 <Entity id="35" label="trigger" />
 <Entity id="41" label="trigger" />
 </Relation>
-<Relation id="89" NAME="company_provides_product">
+<Relation id="89" NAME="CompanyProvidesProduct">
 <Entity id="57" label="product" />
 <Entity id="63" label="product" />
 <Entity id="52" label="product" />
@@ -154,13 +154,13 @@
 <Entity id="42" label="company" />
 <Entity id="43" label="trigger" />
 </Relation>
-<Relation id="90" NAME="company_provides_product">
+<Relation id="90" NAME="CompanyProvidesProduct">
 <Entity id="68" label="product" />
 <Entity id="66" label="company" />
 <Entity id="67" label="trigger" />
 <Entity id="69" label="trigger" />
 </Relation>
-<Relation id="91" NAME="company_provides_product">
+<Relation id="91" NAME="CompanyProvidesProduct">
 <Entity id="78" label="product" />
 <Entity id="79" label="product" />
 <Entity id="81" label="product" />
@@ -168,7 +168,7 @@
 <Entity id="76" label="company" />
 <Entity id="77" label="trigger" />
 </Relation>
-<Relation id="92" NAME="identity">
+<Relation id="92" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="17" label="target" />
 <Entity id="14" label="target" />
@@ -176,7 +176,7 @@
 <Entity id="19" label="target" />
 <Entity id="18" label="target" />
 </Relation>
-<Relation id="93" NAME="identity">
+<Relation id="93" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="65" label="target" />
 <Entity id="20" label="target" />
@@ -192,19 +192,19 @@
 <Entity id="34" label="target" />
 <Entity id="22" label="target" />
 </Relation>
-<Relation id="94" NAME="identity">
+<Relation id="94" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="23" label="target" />
 </Relation>
-<Relation id="95" NAME="identity">
+<Relation id="95" NAME="Identity">
 <Entity id="37" label="source" />
 <Entity id="74" label="target" />
 </Relation>
-<Relation id="96" NAME="identity">
+<Relation id="96" NAME="Identity">
 <Entity id="38" label="source" />
 <Entity id="75" label="target" />
 </Relation>
-<Relation id="97" NAME="identity">
+<Relation id="97" NAME="Identity">
 <Entity id="72" label="source" />
 <Entity id="73" label="target" />
 <Entity id="76" label="target" />

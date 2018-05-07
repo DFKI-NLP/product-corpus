@@ -35,7 +35,7 @@
 <Entity id="22" startPos="3110" endPos="3114" type="product" surface="tire" />
 <Entity id="23" startPos="3175" endPos="3191" type="product" surface="3D smart sensors" />
 <Entity id="24" startPos="3326" endPos="3330" type="product" surface="tire" /></Entities><Relations>
-<Relation id="25" NAME="identity">
+<Relation id="25" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="3" label="target" />
 <Entity id="7" label="target" />
@@ -45,7 +45,7 @@
 <Entity id="6" label="target" />
 <Entity id="22" label="target" />
 </Relation>
-<Relation id="26" NAME="identity">
+<Relation id="26" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="18" label="target" />
 <Entity id="17" label="target" />
@@ -61,7 +61,7 @@
 <Entity id="9" label="target" />
 <Entity id="20" label="target" />
 </Relation>
-<Relation id="27" NAME="identity">
+<Relation id="27" NAME="Identity">
 <Entity id="10" label="source" />
 <Entity id="13" label="target" />
 </Relation></Relations>

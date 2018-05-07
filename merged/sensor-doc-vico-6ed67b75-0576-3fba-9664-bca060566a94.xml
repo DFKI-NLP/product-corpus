@@ -209,22 +209,22 @@
 <Entity id="63" label="target" />
 <Entity id="65" label="target" />
 </Relation>
-<Relation id="104" NAME="identity">
+<Relation id="104" NAME="Identity">
 <Entity id="4" label="source" />
 <Entity id="38" label="target" />
 <Entity id="32" label="target" />
 </Relation>
-<Relation id="105" NAME="identity">
+<Relation id="105" NAME="Identity">
 <Entity id="74" label="source" />
 <Entity id="78" label="target" />
 <Entity id="84" label="target" />
 </Relation>
-<Relation id="106" NAME="identity">
+<Relation id="106" NAME="Identity">
 <Entity id="75" label="source" />
 <Entity id="85" label="target" />
 <Entity id="80" label="target" />
 </Relation>
-<Relation id="107" NAME="identity">
+<Relation id="107" NAME="Identity">
 <Entity id="90" label="source" />
 <Entity id="91" label="target" />
 </Relation></Relations>

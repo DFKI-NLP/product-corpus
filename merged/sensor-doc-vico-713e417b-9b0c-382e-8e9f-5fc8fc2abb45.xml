@@ -30,7 +30,7 @@
 <Entity id="17" startPos="5190" endPos="5204" type="product" surface="connected cars" />
 <Entity id="18" startPos="5200" endPos="5204" type="product" surface="cars" />
 <Entity id="19" startPos="6172" endPos="6174" type="organization" surface="IO" /></Entities><Relations>
-<Relation id="20" NAME="identity">
+<Relation id="20" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="8" label="target" />
 <Entity id="5" label="target" />
@@ -38,7 +38,7 @@
 <Entity id="14" label="target" />
 <Entity id="7" label="target" />
 </Relation>
-<Relation id="21" NAME="identity">
+<Relation id="21" NAME="Identity">
 <Entity id="10" label="source" />
 <Entity id="15" label="target" />
 <Entity id="18" label="target" />

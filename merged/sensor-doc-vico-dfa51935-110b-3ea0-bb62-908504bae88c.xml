@@ -161,7 +161,7 @@
 <Entity id="82" label="trigger" />
 <Entity id="79" label="trigger" />
 </Relation>
-<Relation id="98" NAME="identity">
+<Relation id="98" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="70" label="target" />
 <Entity id="63" label="target" />
@@ -194,7 +194,7 @@
 <Entity id="2" label="target" />
 <Entity id="41" label="target" />
 </Relation>
-<Relation id="99" NAME="identity">
+<Relation id="99" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="25" label="target" />
 <Entity id="73" label="target" />
@@ -209,32 +209,32 @@
 <Entity id="38" label="target" />
 <Entity id="9" label="target" />
 </Relation>
-<Relation id="100" NAME="identity">
+<Relation id="100" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="39" label="target" />
 <Entity id="77" label="target" />
 </Relation>
-<Relation id="101" NAME="identity">
+<Relation id="101" NAME="Identity">
 <Entity id="6" label="source" />
 <Entity id="40" label="target" />
 </Relation>
-<Relation id="102" NAME="identity">
+<Relation id="102" NAME="Identity">
 <Entity id="17" label="source" />
 <Entity id="18" label="target" />
 <Entity id="30" label="target" />
 <Entity id="43" label="target" />
 <Entity id="58" label="target" />
 </Relation>
-<Relation id="103" NAME="identity">
+<Relation id="103" NAME="Identity">
 <Entity id="29" label="source" />
 <Entity id="57" label="target" />
 </Relation>
-<Relation id="104" NAME="identity">
+<Relation id="104" NAME="Identity">
 <Entity id="50" label="source" />
 <Entity id="52" label="target" />
 <Entity id="51" label="target" />
 </Relation>
-<Relation id="105" NAME="identity">
+<Relation id="105" NAME="Identity">
 <Entity id="80" label="source" />
 <Entity id="81" label="target" />
 </Relation></Relations>

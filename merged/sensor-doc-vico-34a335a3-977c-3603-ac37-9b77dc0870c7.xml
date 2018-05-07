@@ -96,17 +96,17 @@ ataxiarchos@sensata.com + 1-508-236-1761 Photo - http://photos.prnewswire.com/pr
 <Entity id="9" label="company" />
 <Entity id="12" label="trigger" />
 </Relation>
-<Relation id="58" NAME="company_provides_product">
+<Relation id="58" NAME="CompanyProvidesProduct">
 <Entity id="31" label="product" />
 <Entity id="29" label="company" />
 <Entity id="30" label="trigger" />
 </Relation>
-<Relation id="59" NAME="company_provides_product">
+<Relation id="59" NAME="CompanyProvidesProduct">
 <Entity id="36" label="product" />
 <Entity id="34" label="company" />
 <Entity id="35" label="trigger" />
 </Relation>
-<Relation id="60" NAME="company_provides_product">
+<Relation id="60" NAME="CompanyProvidesProduct">
 <Entity id="46" label="product" />
 <Entity id="48" label="product" />
 <Entity id="49" label="product" />
@@ -114,7 +114,7 @@ ataxiarchos@sensata.com + 1-508-236-1761 Photo - http://photos.prnewswire.com/pr
 <Entity id="44" label="company" />
 <Entity id="45" label="trigger" />
 </Relation>
-<Relation id="61" NAME="identity">
+<Relation id="61" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="11" label="target" />
 <Entity id="32" label="target" />
@@ -130,25 +130,25 @@ ataxiarchos@sensata.com + 1-508-236-1761 Photo - http://photos.prnewswire.com/pr
 <Entity id="9" label="target" />
 <Entity id="44" label="target" />
 </Relation>
-<Relation id="62" NAME="identity">
+<Relation id="62" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="36" label="target" />
 <Entity id="31" label="target" />
 <Entity id="18" label="target" />
 </Relation>
-<Relation id="63" NAME="identity">
+<Relation id="63" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="19" label="target" />
 <Entity id="37" label="target" />
 <Entity id="23" label="target" />
 </Relation>
-<Relation id="64" NAME="identity">
+<Relation id="64" NAME="Identity">
 <Entity id="6" label="source" />
 <Entity id="20" label="target" />
 <Entity id="24" label="target" />
 <Entity id="38" label="target" />
 </Relation>
-<Relation id="65" NAME="identity">
+<Relation id="65" NAME="Identity">
 <Entity id="7" label="source" />
 <Entity id="8" label="target" />
 <Entity id="53" label="target" />

@@ -32,7 +32,7 @@
 <Entity id="7" label="company" />
 <Entity id="9" label="trigger" />
 </Relation>
-<Relation id="14" NAME="identity">
+<Relation id="14" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="6" label="target" />
 </Relation></Relations>

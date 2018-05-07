@@ -22,19 +22,19 @@
 <Entity id="9" startPos="973" endPos="995" type="product" surface="public address systems" />
 <Entity id="10" startPos="3547" endPos="3559" type="product" surface="Door sensors" />
 <Entity id="11" startPos="3564" endPos="3572" type="product" surface="speakers" /></Entities><Relations>
-<Relation id="12" NAME="identity">
+<Relation id="12" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="8" label="target" />
 <Entity id="5" label="target" />
 <Entity id="10" label="target" />
 </Relation>
-<Relation id="13" NAME="identity">
+<Relation id="13" NAME="Identity">
 <Entity id="1" label="source" />
 <Entity id="11" label="target" />
 <Entity id="7" label="target" />
 <Entity id="2" label="target" />
 </Relation>
-<Relation id="14" NAME="identity">
+<Relation id="14" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="6" label="target" />
 <Entity id="9" label="target" />
