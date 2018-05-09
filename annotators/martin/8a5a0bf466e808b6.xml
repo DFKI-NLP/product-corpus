@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Free Energy
+<NODE id="12" />Ambit Energy <NODE id="25" />– Top <NODE id="31" />Electricity<NODE id="42" /> and <NODE id="47" />Gas<NODE id="50" /> <NODE id="51" />Provider<NODE id="59" />
+Over turkey sandwiches at a Dallas-area deli in 2006, Co-Founders Jere Thompson, Jr. and Chris Chambless devised a blueprint for what would become <NODE id="207" />Ambit Energy<NODE id="219" />. That day, they made the decision to never sacrifice integrity for growth – the same motto <NODE id="311" />Ambit<NODE id="316" /> follows today.
+Since that humble beginning, <NODE id="361" />Ambit<NODE id="366" /> has welcomed over a million Customers and generated over $1 billion in revenue. Chris and Jere’s dream of creating the finest and most-respected retail energy provider in America has driven <NODE id="557" />Ambit<NODE id="562" />’s success. Read the full story about <NODE id="600" />Ambit<NODE id="605" />, and find out more about how you can be a part of this incredible and ongoing success story.
+Learn More about <NODE id="716" />Ambit Energy<NODE id="728" />
+Your Journey Starts Here
+In less than a decade, more than 250,000 entrepreneurs have embraced the <NODE id="827" />Ambit<NODE id="832" /> Opportunity. These men and women have started down the road to Financial Freedom by becoming <NODE id="926" />Ambit Energy<NODE id="938" /> Independent Consultants.
+The benefits are clear and the business plan is simple: Everyone uses energy. All you have to do is offer potential Customers <NODE id="1090" />Ambit<NODE id="1095" />’s award-winning service, competitive rates and the potential to earn Free Energy . Then, you can introduce like-minded individuals to the <NODE id="1234" />Ambit<NODE id="1239" /> Opportunity, and help them change their lives by becoming Consultants. As your team of Consultants grows, the rewards – personally, professionally and financially – can be abundant.
+Start Your Own <NODE id="1437" />Ambit<NODE id="1442" /> Business
+Serving These Great Markets, and Expanding Fast
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/17" />
+<feature featureName="uri" featureValue="http://ww2.ambitenergy.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="25" type="organization-company" surface="Ambit Energy " />
+<Entity id="1" startPos="31" endPos="42" type="product" surface="Electricity" />
+<Entity id="2" startPos="47" endPos="50" type="product" surface="Gas" />
+<Entity id="3" startPos="51" endPos="59" type="trigger" surface="Provider" />
+<Entity id="4" startPos="207" endPos="219" type="organization-company" surface="Ambit Energy" />
+<Entity id="5" startPos="311" endPos="316" type="organization-company" surface="Ambit" />
+<Entity id="6" startPos="361" endPos="366" type="organization-company" surface="Ambit" />
+<Entity id="7" startPos="557" endPos="562" type="organization-company" surface="Ambit" />
+<Entity id="8" startPos="600" endPos="605" type="organization-company" surface="Ambit" />
+<Entity id="9" startPos="716" endPos="728" type="organization-company" surface="Ambit Energy" />
+<Entity id="10" startPos="827" endPos="832" type="organization-company" surface="Ambit" />
+<Entity id="11" startPos="926" endPos="938" type="organization-company" surface="Ambit Energy" />
+<Entity id="12" startPos="1090" endPos="1095" type="organization-company" surface="Ambit" />
+<Entity id="13" startPos="1234" endPos="1239" type="organization-company" surface="Ambit" />
+<Entity id="14" startPos="1437" endPos="1442" type="organization-company" surface="Ambit" /></Entities><Relations>
+<Relation id="15" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="16" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="7" label="target" />
+<Entity id="13" label="target" />
+<Entity id="4" label="target" />
+<Entity id="8" label="target" />
+<Entity id="5" label="target" />
+<Entity id="9" label="target" />
+<Entity id="11" label="target" />
+<Entity id="12" label="target" />
+<Entity id="14" label="target" />
+<Entity id="6" label="target" />
+<Entity id="10" label="target" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />FEAG<NODE id="4" />. Elektrotechnische Systeme.
+Willkommen,
+die <NODE id="49" />FEAG<NODE id="53" /> ist <NODE id="58" />auf dem Gebiet<NODE id="72" /> der <NODE id="77" />Elektrotechnik<NODE id="91" /> <NODE id="92" />tätig<NODE id="97" />. Den Schwerpunkt bildet die Fertigung elektrischer Komponenten mit dazugehörigen Prüfungen. Bei Bedarf wird die komplette Prozesskette angeboten.
+<NODE id="244" />Wir<NODE id="247" /> <NODE id="248" />bieten<NODE id="254" /> effiziente, technische <NODE id="278" />Lösungen<NODE id="286" /> in den Bereichen:
+<NODE id="305" />Energieerzeugung<NODE id="321" /> und <NODE id="326" />-versorgung<NODE id="337" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/54" />
+<feature featureName="uri" featureValue="http://www.feag.com/start/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="organization-company" surface="FEAG" />
+<Entity id="1" startPos="49" endPos="53" type="organization-company" surface="FEAG" />
+<Entity id="2" startPos="58" endPos="72" type="trigger" surface="auf dem Gebiet" />
+<Entity id="3" startPos="77" endPos="91" type="product" surface="Elektrotechnik" />
+<Entity id="4" startPos="92" endPos="97" type="trigger" surface="tätig" />
+<Entity id="5" startPos="244" endPos="247" type="organization-company" surface="Wir" />
+<Entity id="6" startPos="248" endPos="254" type="trigger" surface="bieten" />
+<Entity id="7" startPos="278" endPos="286" type="trigger" surface="Lösungen" />
+<Entity id="8" startPos="305" endPos="321" type="product" surface="Energieerzeugung" />
+<Entity id="9" startPos="326" endPos="337" type="product" surface="-versorgung" /></Entities><Relations>
+<Relation id="10" NAME="CompanyProvidesProduct">
+<Entity id="3" label="product" />
+<Entity id="1" label="company" />
+<Entity id="4" label="trigger" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="11" NAME="CompanyProvidesProduct">
+<Entity id="8" label="product" />
+<Entity id="9" label="product" />
+<Entity id="5" label="company" />
+<Entity id="6" label="trigger" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="12" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+<Entity id="5" label="target" />
+</Relation></Relations>
+</Document>

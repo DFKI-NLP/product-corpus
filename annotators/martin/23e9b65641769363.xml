@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>0 More...
+<NODE id="10" />Galadari Engineering Works Ltd Co.<NODE id="44" /> (L.L.C)
+Large-scale construction specialists, <NODE id="91" />Galadari Engineering Works<NODE id="117" /> (<NODE id="119" />GEW<NODE id="122" />) is proud to be <NODE id="139" />responsible<NODE id="150" /> for much of the <NODE id="167" />construction<NODE id="179" /> of modern Dubai, including the world-famous Atlantis Palm. <NODE id="239" />GEW<NODE id="242" /> was one of the first <NODE id="264" />engineering<NODE id="275" /> and <NODE id="280" />fabrication<NODE id="291" /> <NODE id="292" />businesses<NODE id="302" /> in Dubai and has <NODE id="320" />led the industry<NODE id="336" /> in <NODE id="340" />mechanical<NODE id="350" />, <NODE id="352" />structural<NODE id="362" />, <NODE id="364" />marine<NODE id="370" /> and <NODE id="375" />general engineering works<NODE id="400" /> for more than three decades. As part of the wider <NODE id="451" />Galadari Brothers group<NODE id="474" />, <NODE id="476" />GEW<NODE id="479" /> work in close conjunction with <NODE id="511" />Galadari <NODE id="520" />Trucks<NODE id="526" /> and <NODE id="531" />Heavy Equipment<NODE id="546" />, providing a one-stop solution for equipment for construction projects of all sizes.
+Tel : + 971 4 266 7318
+Fax : + 971 4 266 2151
+<NODE id="678" />Arab Emirates Bandac Co. L.L.C.<NODE id="709" />
+<NODE id="710" />Arab Emirates Bandac Co. LLC<NODE id="738" /> – established in 1973 – is a pioneer <NODE id="776" />technical rubber<NODE id="792" /> and <NODE id="797" />polyurethane products<NODE id="818" /> <NODE id="819" />manufacturing and services company<NODE id="853" /> in the UAE – ISO9001:2008, ISO 18001 and ISO 14001 certified – providing superior products with excellent value for money. The activity covers – Application of Anticorrosive Lining and Coating Systems, Material Handling Systems, Marine Fender Systems, Building Car Park Protection System, Pipe Sealing System, Rubber Sheets, Bridge Bearing and Expansion Joint. <NODE id="1215" />AEB<NODE id="1218" /> are master distributor/ service partner for <NODE id="1263" />REMA TIP TOP – GERMANY<NODE id="1285" />.
+Tel : + 971 4 2858317 / 2861160
+Fax : + 971 4 2858891 / 2861170
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/65" />
+<feature featureName="uri" featureValue="http://www.galadarigroup.com/albums/galadari-engineering-works-ltd-co-l-l-c/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="10" endPos="44" type="organization-company" surface="Galadari Engineering Works Ltd Co." />
+<Entity id="1" startPos="91" endPos="117" type="organization-company" surface="Galadari Engineering Works" />
+<Entity id="2" startPos="119" endPos="122" type="organization-company" surface="GEW" />
+<Entity id="3" startPos="139" endPos="150" type="trigger" surface="responsible" />
+<Entity id="4" startPos="167" endPos="179" type="product" surface="construction" />
+<Entity id="5" startPos="239" endPos="242" type="organization-company" surface="GEW" />
+<Entity id="6" startPos="264" endPos="275" type="product" surface="engineering" />
+<Entity id="7" startPos="280" endPos="291" type="product" surface="fabrication" />
+<Entity id="8" startPos="292" endPos="302" type="trigger" surface="businesses" />
+<Entity id="9" startPos="320" endPos="336" type="trigger" surface="led the industry" />
+<Entity id="10" startPos="340" endPos="350" type="product" surface="mechanical" />
+<Entity id="11" startPos="352" endPos="362" type="product" surface="structural" />
+<Entity id="12" startPos="364" endPos="370" type="product" surface="marine" />
+<Entity id="13" startPos="375" endPos="400" type="product" surface="general engineering works" />
+<Entity id="14" startPos="451" endPos="474" type="organization-company" surface="Galadari Brothers group" />
+<Entity id="15" startPos="476" endPos="479" type="organization-company" surface="GEW" />
+<Entity id="16" startPos="511" endPos="546" type="organization-company" surface="Galadari Trucks and Heavy Equipment" />
+<Entity id="17" startPos="520" endPos="526" type="product" surface="Trucks" />
+<Entity id="18" startPos="531" endPos="546" type="product" surface="Heavy Equipment" />
+<Entity id="19" startPos="678" endPos="709" type="organization-company" surface="Arab Emirates Bandac Co. L.L.C." />
+<Entity id="20" startPos="710" endPos="738" type="organization-company" surface="Arab Emirates Bandac Co. LLC" />
+<Entity id="21" startPos="776" endPos="792" type="product" surface="technical rubber" />
+<Entity id="22" startPos="797" endPos="818" type="product" surface="polyurethane products" />
+<Entity id="23" startPos="819" endPos="853" type="trigger" surface="manufacturing and services company" />
+<Entity id="24" startPos="1215" endPos="1218" type="organization-company" surface="AEB" />
+<Entity id="25" startPos="1263" endPos="1285" type="organization-company" surface="REMA TIP TOP – GERMANY" /></Entities><Relations>
+<Relation id="26" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="1" label="company" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="27" NAME="CompanyProvidesProduct">
+<Entity id="13" label="product" />
+<Entity id="10" label="product" />
+<Entity id="11" label="product" />
+<Entity id="12" label="product" />
+<Entity id="5" label="company" />
+<Entity id="9" label="trigger" />
+</Relation>
+<Relation id="28" NAME="CompanyProvidesProduct">
+<Entity id="6" label="product" />
+<Entity id="7" label="product" />
+<Entity id="5" label="company" />
+<Entity id="8" label="trigger" />
+</Relation>
+<Relation id="29" NAME="CompanyProvidesProduct">
+<Entity id="21" label="product" />
+<Entity id="22" label="product" />
+<Entity id="20" label="company" />
+<Entity id="23" label="target" />
+</Relation>
+<Relation id="30" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="15" label="target" />
+<Entity id="2" label="target" />
+<Entity id="1" label="target" />
+<Entity id="5" label="target" />
+</Relation>
+<Relation id="31" NAME="Identity">
+<Entity id="19" label="source" />
+<Entity id="20" label="target" />
+<Entity id="24" label="target" />
+</Relation></Relations>
+</Document>

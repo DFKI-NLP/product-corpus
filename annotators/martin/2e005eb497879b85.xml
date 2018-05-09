@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Kinder Morgan<NODE id="13" /> is one of the largest <NODE id="36" />energy infrastructure<NODE id="57" /> <NODE id="58" />companies<NODE id="67" /> in North America. <NODE id="86" />We<NODE id="88" /> own an interest in or <NODE id="111" />operate<NODE id="118" /> approximately 84,000 miles of <NODE id="149" />pipelines<NODE id="158" /> and 155 <NODE id="167" />terminals<NODE id="176" />. <NODE id="178" />Our<NODE id="181" /> <NODE id="182" />pipelines<NODE id="191" /> transport natural gas, gasoline, crude oil, carbon dioxide (CO
+2
+) and more. <NODE id="269" />Our<NODE id="272" /> terminals store and handle petroleum products, chemicals and other products.
+The revolutionary shale plays across the United States are creating a tremendous need for more energy infrastructure, which bodes well for <NODE id="489" />us<NODE id="491" />.  <NODE id="494" />We<NODE id="496" /> invest billions of dollars each year to grow <NODE id="542" />the company<NODE id="553" /> by building new and expanding existing assets to help ensure that a variety of energy products get delivered into the marketplace.
+In most of <NODE id="696" />our<NODE id="699" /> businesses we operate like a giant toll road and receive a fee for our services, generally avoiding commodity price risk. <NODE id="822" />Our<NODE id="825" /> customers include major oil companies, energy producers and shippers, local distribution companies and businesses across many industries.
+<NODE id="964" />Kinder Morgan<NODE id="977" /> is committed to being a good corporate citizen and conducting ourselves in an ethical and responsible manner. <NODE id="1088" />We<NODE id="1090" /> spend hundreds of millions of dollars each year on integrity management and maintenance programs to operate our assets safely and to protect the public, <NODE id="1244" />our<NODE id="1247" /> employees, contractors and the environment. Operationally, <NODE id="1307" />we<NODE id="1309" /> continue to perform better than our industry peers relative to environmental, health and safety measures.
+NYSE
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/59" />
+<feature featureName="uri" featureValue="https://www.kindermorgan.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="organization-company" surface="Kinder Morgan" />
+<Entity id="1" startPos="36" endPos="57" type="product" surface="energy infrastructure" />
+<Entity id="2" startPos="58" endPos="67" type="trigger" surface="companies" />
+<Entity id="3" startPos="86" endPos="88" type="organization-company" surface="We" />
+<Entity id="4" startPos="111" endPos="118" type="trigger" surface="operate" />
+<Entity id="5" startPos="149" endPos="158" type="product" surface="pipelines" />
+<Entity id="6" startPos="167" endPos="176" type="product" surface="terminals" />
+<Entity id="7" startPos="178" endPos="181" type="organization-company" surface="Our" />
+<Entity id="8" startPos="182" endPos="191" type="product" surface="pipelines" />
+<Entity id="9" startPos="269" endPos="272" type="organization-company" surface="Our" />
+<Entity id="10" startPos="489" endPos="491" type="organization-company" surface="us" />
+<Entity id="11" startPos="494" endPos="496" type="organization-company" surface="We" />
+<Entity id="12" startPos="542" endPos="553" type="organization-company" surface="the company" />
+<Entity id="13" startPos="696" endPos="699" type="organization-company" surface="our" />
+<Entity id="14" startPos="822" endPos="825" type="organization-company" surface="Our" />
+<Entity id="15" startPos="964" endPos="977" type="organization-company" surface="Kinder Morgan" />
+<Entity id="16" startPos="1088" endPos="1090" type="organization-company" surface="We" />
+<Entity id="17" startPos="1244" endPos="1247" type="organization-company" surface="our" />
+<Entity id="18" startPos="1307" endPos="1309" type="organization-company" surface="we" /></Entities><Relations>
+<Relation id="19" NAME="CompanyProvidesProduct">
+<Entity id="1" label="product" />
+<Entity id="0" label="company" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="20" NAME="CompanyProvidesProduct">
+<Entity id="5" label="product" />
+<Entity id="6" label="product" />
+<Entity id="3" label="company" />
+<Entity id="4" label="trigger" />
+</Relation>
+<Relation id="21" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="15" label="target" />
+<Entity id="17" label="target" />
+<Entity id="9" label="target" />
+<Entity id="14" label="target" />
+<Entity id="11" label="target" />
+<Entity id="13" label="target" />
+<Entity id="18" label="target" />
+<Entity id="3" label="target" />
+<Entity id="12" label="target" />
+<Entity id="16" label="target" />
+<Entity id="7" label="target" />
+</Relation></Relations>
+</Document>

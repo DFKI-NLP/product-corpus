@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />De Jong Combustion<NODE id="18" /> Schiedam
+The history of <NODE id="43" />De Jong Combustion<NODE id="61" />
+<NODE id="62" />A. de Jong bv<NODE id="75" /> (<NODE id="77" />De Jong<NODE id="84" />) was founded in 1877, when Albert de Jong bought a shipyard in Scheveningen and started a shipping company. In the 1930’s <NODE id="207" />De Jong<NODE id="214" /> <NODE id="215" />became involved in<NODE id="233" /> <NODE id="234" />combustion technology<NODE id="255" />. In 1955 <NODE id="265" />De Jong<NODE id="272" /> settled in Schiedam with an engineering office and a construction workshop. From that time, the company is developing rapidly. Nowadays <NODE id="409" />it<NODE id="411" /> still <NODE id="418" />designs<NODE id="425" /> and <NODE id="430" />develops<NODE id="438" /> <NODE id="439" />gas<NODE id="442" /> and <NODE id="447" />oil burners<NODE id="458" /> for various industrial applications.
+In 1973 <NODE id="504" />De Jong<NODE id="511" /> entered into a joint venture agreement with a renowned business partner from the United States. In the next forty years the joint venture grew into one of the most important <NODE id="686" />industrial burner<NODE id="703" /> companies in the world. In 2010 the collaboration came to an end and all the shares were transferred to <NODE id="808" />De Jong<NODE id="815" />. From that day <NODE id="831" />the same <NODE id="840" />burner<NODE id="846" /> business<NODE id="855" /> is continues under a new name: ‘<NODE id="888" />De Jong Combustion<NODE id="906" />’.
+Sister company <NODE id="924" />R&amp;V Engineering<NODE id="939" />
+Nowadays <NODE id="949" />De Jong Combustion<NODE id="967" /> works very closely together with sister company <NODE id="1016" />R&amp;V Engineering<NODE id="1031" />. Together, they are also called   the <NODE id="1070" />Industrial Combustion Group<NODE id="1097" /> , and are a leading Dutch <NODE id="1124" />supplier<NODE id="1132" /> of <NODE id="1136" />industrial gas<NODE id="1150" /> and <NODE id="1155" />oil burner systems<NODE id="1173" />. We offer and sell our products and services to utility companies, oil companies, chemical corporations and other major industries all over the world.
+Specific information?
+Please call +31 (0)10 – 446 92 22  for any burner and combustion questions.
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/75" />
+<feature featureName="uri" featureValue="http://dejong.nl/l/de-jong-combustion-schiedam/?lang=en" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="18" type="organization-company" surface="De Jong Combustion" />
+<Entity id="1" startPos="43" endPos="61" type="organization-company" surface="De Jong Combustion" />
+<Entity id="2" startPos="62" endPos="75" type="organization-company" surface="A. de Jong bv" />
+<Entity id="3" startPos="77" endPos="84" type="organization-company" surface="De Jong" />
+<Entity id="4" startPos="207" endPos="214" type="organization-company" surface="De Jong" />
+<Entity id="5" startPos="215" endPos="233" type="trigger" surface="became involved in" />
+<Entity id="6" startPos="234" endPos="255" type="product" surface="combustion technology" />
+<Entity id="7" startPos="265" endPos="272" type="organization-company" surface="De Jong" />
+<Entity id="8" startPos="409" endPos="411" type="organization-company" surface="it" />
+<Entity id="9" startPos="418" endPos="425" type="trigger" surface="designs" />
+<Entity id="10" startPos="430" endPos="438" type="trigger" surface="develops" />
+<Entity id="11" startPos="439" endPos="442" type="product" surface="gas" />
+<Entity id="12" startPos="447" endPos="458" type="product" surface="oil burners" />
+<Entity id="13" startPos="504" endPos="511" type="organization-company" surface="De Jong" />
+<Entity id="14" startPos="686" endPos="703" type="product" surface="industrial burner" />
+<Entity id="15" startPos="808" endPos="815" type="organization-company" surface="De Jong" />
+<Entity id="16" startPos="831" endPos="855" type="organization-company" surface="the same burner business" />
+<Entity id="17" startPos="840" endPos="846" type="product" surface="burner" />
+<Entity id="18" startPos="888" endPos="906" type="organization-company" surface="De Jong Combustion" />
+<Entity id="19" startPos="924" endPos="939" type="organization-company" surface="R&amp;V Engineering" />
+<Entity id="20" startPos="949" endPos="967" type="organization-company" surface="De Jong Combustion" />
+<Entity id="21" startPos="1016" endPos="1031" type="organization-company" surface="R&amp;V Engineering" />
+<Entity id="22" startPos="1070" endPos="1097" type="organization-company" surface="Industrial Combustion Group" />
+<Entity id="23" startPos="1124" endPos="1132" type="trigger" surface="supplier" />
+<Entity id="24" startPos="1136" endPos="1150" type="product" surface="industrial gas" />
+<Entity id="25" startPos="1155" endPos="1173" type="product" surface="oil burner systems" /></Entities><Relations>
+<Relation id="26" NAME="CompanyProvidesProduct">
+<Entity id="6" label="product" />
+<Entity id="4" label="company" />
+<Entity id="5" label="trigger" />
+</Relation>
+<Relation id="27" NAME="CompanyProvidesProduct">
+<Entity id="12" label="product" />
+<Entity id="11" label="product" />
+<Entity id="8" label="company" />
+<Entity id="9" label="trigger" />
+<Entity id="10" label="trigger" />
+</Relation>
+<Relation id="28" NAME="CompanyProvidesProduct">
+<Entity id="17" label="product" />
+<Entity id="16" label="company" />
+</Relation>
+<Relation id="29" NAME="CompanyProvidesProduct">
+<Entity id="24" label="product" />
+<Entity id="25" label="product" />
+<Entity id="22" label="company" />
+<Entity id="23" label="trigger" />
+</Relation>
+<Relation id="30" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="3" label="target" />
+<Entity id="4" label="target" />
+<Entity id="1" label="target" />
+<Entity id="18" label="target" />
+<Entity id="2" label="target" />
+<Entity id="13" label="target" />
+<Entity id="7" label="target" />
+<Entity id="20" label="target" />
+<Entity id="15" label="target" />
+<Entity id="8" label="target" />
+<Entity id="16" label="target" />
+</Relation>
+<Relation id="31" NAME="Identity">
+<Entity id="11" label="source" />
+<Entity id="24" label="target" />
+</Relation>
+<Relation id="32" NAME="Identity">
+<Entity id="12" label="source" />
+<Entity id="25" label="target" />
+</Relation>
+<Relation id="33" NAME="Identity">
+<Entity id="19" label="source" />
+<Entity id="21" label="target" />
+</Relation></Relations>
+</Document>

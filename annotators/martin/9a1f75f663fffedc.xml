@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Read Article
+In our rivers, through our skies, across our oceans... there's a change happening. A change in the way we think about energy. Leading the way is <NODE id="158" />Nalcor Energy<NODE id="171" />.
+From oil and gas to industrial fabrication to wind and hydroelectric power, we’re focused on sustainable growth with a wide portfolio of projects.
+view <NODE id="325" />Nalcor energy<NODE id="338" /> brand video
+The number one priority at <NODE id="378" />Nalcor Energy<NODE id="391" /> is safety.
+As we continue to drive our business to the next level, we are committed to achieving excellence in safety performance. Recently, <NODE id="533" />Nalcor<NODE id="539" />’s subsidary company <NODE id="560" />Newfoundland and Labrador<NODE id="585" /> Hydro launched a safety campaign called Back it Up. Visit  HydroSafety.ca for tips, videos and contests that will help you learn more about how to stay safe every day.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/100" />
+<feature featureName="uri" featureValue="https://nalcorenergy.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="158" endPos="171" type="organization-company" surface="Nalcor Energy" />
+<Entity id="1" startPos="325" endPos="338" type="organization-company" surface="Nalcor energy" />
+<Entity id="2" startPos="378" endPos="391" type="organization-company" surface="Nalcor Energy" />
+<Entity id="3" startPos="533" endPos="539" type="organization-company" surface="Nalcor" />
+<Entity id="4" startPos="560" endPos="585" type="organization-company" surface="Newfoundland and Labrador" /></Entities><Relations>
+<Relation id="5" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+<Entity id="3" label="target" />
+<Entity id="2" label="target" />
+</Relation></Relations>
+</Document>

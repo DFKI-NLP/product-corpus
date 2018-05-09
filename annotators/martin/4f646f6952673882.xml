@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>More than 150 Years in business
+2015 marked the 150th Anniversary of the <NODE id="73" />Bertling Group<NODE id="87" />. This video was taken during the celebrations
+in the head office in Hamburg on 15 June 2015, the company’s foundation day. This was great fun.
+Watch the movie
+Case Studies - <NODE id="262" />Bertling<NODE id="270" />'s expertise
+Looking for a vessel from China and Africa, the best route through the Amazon Jungle or the most effective way to track your cargo? To fully understand what we could do for you, see what we have done for others.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/53" />
+<feature featureName="uri" featureValue="http://www.bertling.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="73" endPos="87" type="organization-company" surface="Bertling Group" />
+<Entity id="1" startPos="262" endPos="270" type="organization-company" surface="Bertling" /></Entities><Relations />
+</Document>
