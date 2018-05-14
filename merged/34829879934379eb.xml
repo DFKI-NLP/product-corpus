@@ -32,35 +32,35 @@ Last Updated             06/13/2014
 <Entity id="16" startPos="2657" endPos="2681" type="organization" surface="University of Pittsburgh" />
 <Entity id="17" startPos="2745" endPos="2793" type="organization" surface="ULS                           Preservation Dept." /></Entities><Relations>
 <Relation id="18" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+<Entity id="12" label="target" />
+<Entity id="2" label="target" />
+</Relation>
+<Relation id="19" NAME="Identity">
+<Entity id="3" label="source" />
+<Entity id="4" label="target" />
+</Relation>
+<Relation id="20" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="15" label="target" />
 <Entity id="6" label="target" />
 </Relation>
-<Relation id="19" NAME="Identity">
+<Relation id="21" NAME="Identity">
 <Entity id="7" label="source" />
 <Entity id="8" label="target" />
 <Entity id="14" label="target" />
 </Relation>
-<Relation id="20" NAME="Identity">
+<Relation id="22" NAME="Identity">
 <Entity id="9" label="source" />
 <Entity id="10" label="target" />
 </Relation>
-<Relation id="21" NAME="Identity">
+<Relation id="23" NAME="Identity">
 <Entity id="11" label="source" />
 <Entity id="16" label="target" />
 </Relation>
-<Relation id="22" NAME="Identity">
+<Relation id="24" NAME="Identity">
 <Entity id="13" label="source" />
 <Entity id="17" label="target" />
-</Relation>
-<Relation id="23" NAME="identity">
-<Entity id="0" label="source" />
-<Entity id="1" label="target" />
-<Entity id="2" label="target" />
-<Entity id="12" label="target" />
-</Relation>
-<Relation id="24" NAME="identity">
-<Entity id="3" label="source" />
-<Entity id="4" label="target" />
 </Relation></Relations>
 </Document>

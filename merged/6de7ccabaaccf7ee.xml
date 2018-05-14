@@ -75,55 +75,55 @@ The Japanese and South Korean <NODE id="6289" />biopower<NODE id="6297" /> secto
 <Entity id="49" startPos="6630" endPos="6637" type="product" surface="biomass" /></Entities><Relations>
 <Relation id="50" NAME="Identity">
 <Entity id="0" label="source" />
-<Entity id="36" label="target" />
-<Entity id="8" label="target" />
-<Entity id="5" label="target" />
-<Entity id="16" label="target" />
-<Entity id="18" label="target" />
-<Entity id="19" label="target" />
-<Entity id="39" label="target" />
-<Entity id="23" label="target" />
-<Entity id="46" label="target" />
-<Entity id="24" label="target" />
-<Entity id="41" label="target" />
-<Entity id="17" label="target" />
-<Entity id="49" label="target" />
 <Entity id="14" label="target" />
-<Entity id="2" label="target" />
-<Entity id="7" label="target" />
+<Entity id="39" label="target" />
+<Entity id="8" label="target" />
+<Entity id="41" label="target" />
 <Entity id="42" label="target" />
+<Entity id="49" label="target" />
+<Entity id="23" label="target" />
 <Entity id="27" label="target" />
 <Entity id="47" label="target" />
+<Entity id="5" label="target" />
+<Entity id="16" label="target" />
+<Entity id="2" label="target" />
+<Entity id="18" label="target" />
+<Entity id="24" label="target" />
+<Entity id="36" label="target" />
+<Entity id="17" label="target" />
+<Entity id="19" label="target" />
+<Entity id="46" label="target" />
+<Entity id="7" label="target" />
 </Relation>
 <Relation id="51" NAME="Identity">
 <Entity id="1" label="source" />
-<Entity id="6" label="target" />
 <Entity id="40" label="target" />
-<Entity id="4" label="target" />
-<Entity id="9" label="target" />
-<Entity id="45" label="target" />
-<Entity id="15" label="target" />
-<Entity id="3" label="target" />
 <Entity id="35" label="target" />
+<Entity id="3" label="target" />
+<Entity id="15" label="target" />
+<Entity id="6" label="target" />
+<Entity id="9" label="target" />
+<Entity id="4" label="target" />
+<Entity id="45" label="target" />
 </Relation>
 <Relation id="52" NAME="Identity">
 <Entity id="10" label="source" />
-<Entity id="25" label="target" />
 <Entity id="37" label="target" />
+<Entity id="25" label="target" />
 </Relation>
 <Relation id="53" NAME="Identity">
 <Entity id="11" label="source" />
-<Entity id="34" label="target" />
-<Entity id="33" label="target" />
 <Entity id="38" label="target" />
 <Entity id="26" label="target" />
+<Entity id="34" label="target" />
+<Entity id="33" label="target" />
 </Relation>
 <Relation id="54" NAME="Identity">
 <Entity id="12" label="source" />
-<Entity id="20" label="trigger" />
-<Entity id="13" label="trigger" />
-<Entity id="22" label="target" />
+<Entity id="20" label="target" />
 <Entity id="21" label="target" />
+<Entity id="13" label="target" />
+<Entity id="22" label="target" />
 </Relation>
 <Relation id="55" NAME="Identity">
 <Entity id="28" label="source" />
@@ -132,7 +132,7 @@ The Japanese and South Korean <NODE id="6289" />biopower<NODE id="6297" /> secto
 </Relation>
 <Relation id="56" NAME="Identity">
 <Entity id="29" label="source" />
-<Entity id="32" label="target" />
 <Entity id="44" label="target" />
+<Entity id="32" label="target" />
 </Relation></Relations>
 </Document>

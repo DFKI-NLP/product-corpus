@@ -11,9 +11,9 @@ The 'Pay Online' links provided directs you to third party websites. You will be
 <Entity id="0" startPos="31" endPos="57" type="organization" surface="Belize Electricity Limited" />
 <Entity id="1" startPos="147" endPos="150" type="organization" surface="BEL" />
 <Entity id="2" startPos="162" endPos="188" type="organization" surface="Belize Electricity Limited" /></Entities><Relations>
-<Relation id="3" NAME="identity">
+<Relation id="3" NAME="Identity">
 <Entity id="0" label="source" />
-<Entity id="2" label="target" />
 <Entity id="1" label="target" />
+<Entity id="2" label="target" />
 </Relation></Relations>
 </Document>

@@ -70,9 +70,9 @@ Sider på ae.no:
 <Relation id="48" NAME="CompanyProvidesProduct">
 <Entity id="4" label="product" />
 <Entity id="1" label="company" />
+<Entity id="3" label="trigger" />
 <Entity id="5" label="trigger" />
 <Entity id="2" label="trigger" />
-<Entity id="3" label="trigger" />
 </Relation>
 <Relation id="49" NAME="CompanyProvidesProduct">
 <Entity id="8" label="product" />
@@ -81,14 +81,14 @@ Sider på ae.no:
 <Entity id="7" label="trigger" />
 </Relation>
 <Relation id="50" NAME="CompanyProvidesProduct">
+<Entity id="12" label="product" />
+<Entity id="11" label="company" />
+<Entity id="13" label="trigger" />
+</Relation>
+<Relation id="51" NAME="CompanyProvidesProduct">
 <Entity id="14" label="product" />
 <Entity id="11" label="company" />
 <Entity id="15" label="trigger" />
-</Relation>
-<Relation id="51" NAME="CompanyProvidesProduct">
-<Entity id="11" label="company" />
-<Entity id="12" label="source" />
-<Entity id="13" label="trigger" />
 </Relation>
 <Relation id="52" NAME="CompanyProvidesProduct">
 <Entity id="18" label="product" />
@@ -121,20 +121,20 @@ Sider på ae.no:
 </Relation>
 <Relation id="58" NAME="Identity">
 <Entity id="1" label="source" />
-<Entity id="11" label="target" />
-<Entity id="19" label="target" />
+<Entity id="27" label="target" />
 <Entity id="6" label="target" />
-<Entity id="10" label="target" />
-<Entity id="45" label="target" />
-<Entity id="0" label="target" />
-<Entity id="43" label="target" />
-<Entity id="47" label="target" />
-<Entity id="42" label="target" />
-<Entity id="41" label="target" />
+<Entity id="11" label="target" />
 <Entity id="16" label="target" />
 <Entity id="21" label="target" />
+<Entity id="0" label="target" />
+<Entity id="42" label="target" />
+<Entity id="19" label="target" />
 <Entity id="44" label="target" />
-<Entity id="27" label="target" />
+<Entity id="45" label="target" />
+<Entity id="41" label="target" />
+<Entity id="47" label="target" />
+<Entity id="10" label="target" />
+<Entity id="43" label="target" />
 </Relation>
 <Relation id="59" NAME="Identity">
 <Entity id="4" label="source" />
@@ -142,10 +142,10 @@ Sider på ae.no:
 </Relation>
 <Relation id="60" NAME="Identity">
 <Entity id="33" label="source" />
+<Entity id="30" label="target" />
+<Entity id="12" label="target" />
 <Entity id="8" label="target" />
 <Entity id="35" label="target" />
-<Entity id="12" label="target" />
-<Entity id="30" label="target" />
 </Relation>
 <Relation id="61" NAME="Identity">
 <Entity id="22" label="source" />

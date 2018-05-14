@@ -44,8 +44,8 @@ In most of <NODE id="696" />our<NODE id="699" /> businesses <NODE id="711" />we<
 <Relation id="28" NAME="CompanyProvidesProduct">
 <Entity id="2" label="product" />
 <Entity id="0" label="company" />
-<Entity id="3" label="trigger" />
 <Entity id="1" label="trigger" />
+<Entity id="3" label="trigger" />
 </Relation>
 <Relation id="29" NAME="CompanyProvidesProduct">
 <Entity id="7" label="product" />
@@ -54,36 +54,36 @@ In most of <NODE id="696" />our<NODE id="699" /> businesses <NODE id="711" />we<
 <Entity id="5" label="trigger" />
 </Relation>
 <Relation id="30" NAME="CompanyProvidesProduct">
-<Entity id="8" label="product" />
 <Entity id="9" label="product" />
+<Entity id="8" label="company" />
 </Relation>
 <Relation id="31" NAME="Identity">
 <Entity id="0" label="source" />
+<Entity id="25" label="target" />
 <Entity id="20" label="target" />
-<Entity id="24" label="target" />
-<Entity id="15" label="target" />
 <Entity id="10" label="target" />
-<Entity id="18" label="target" />
+<Entity id="21" label="target" />
 <Entity id="4" label="target" />
+<Entity id="15" label="target" />
+<Entity id="13" label="target" />
+<Entity id="19" label="target" />
+<Entity id="26" label="target" />
 <Entity id="22" label="target" />
 <Entity id="16" label="target" />
-<Entity id="13" label="target" />
-<Entity id="23" label="target" />
-<Entity id="14" label="target" />
-<Entity id="8" label="target" />
-<Entity id="21" label="target" />
-<Entity id="26" label="target" />
-<Entity id="25" label="target" />
-<Entity id="19" label="target" />
 <Entity id="17" label="target" />
+<Entity id="24" label="target" />
+<Entity id="8" label="target" />
+<Entity id="23" label="target" />
+<Entity id="18" label="target" />
+<Entity id="14" label="target" />
 </Relation>
 <Relation id="32" NAME="Identity">
 <Entity id="2" label="source" />
 <Entity id="12" label="target" />
 </Relation>
 <Relation id="33" NAME="Identity">
+<Entity id="6" label="source" />
 <Entity id="9" label="target" />
-<Entity id="6" label="target" />
 </Relation>
 <Relation id="34" NAME="Identity">
 <Entity id="7" label="source" />

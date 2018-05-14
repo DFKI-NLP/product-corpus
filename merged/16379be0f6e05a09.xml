@@ -15,11 +15,11 @@ The <NODE id="373" />BBC Chartering<NODE id="387" /> fleet portfolio ranges from
 <Entity id="2" startPos="161" endPos="164" type="organization" surface="our" />
 <Entity id="3" startPos="226" endPos="249" type="organization" surface="Our global organization" />
 <Entity id="4" startPos="373" endPos="387" type="organization" surface="BBC Chartering" /></Entities><Relations>
-<Relation id="5" NAME="identity">
+<Relation id="5" NAME="Identity">
 <Entity id="0" label="source" />
-<Entity id="4" label="target" />
-<Entity id="1" label="target" />
 <Entity id="3" label="target" />
 <Entity id="2" label="target" />
+<Entity id="4" label="target" />
+<Entity id="1" label="target" />
 </Relation></Relations>
 </Document>

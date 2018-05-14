@@ -14,7 +14,7 @@ Download <NODE id="560" />our<NODE id="563" /> App
 <Entity id="0" startPos="108" endPos="124" type="organization" surface="BEST Undertaking" />
 <Entity id="1" startPos="339" endPos="369" type="organization" surface="Bombay Tramway Company Limited" />
 <Entity id="2" startPos="560" endPos="563" type="organization" surface="our" /></Entities><Relations>
-<Relation id="3" NAME="identity">
+<Relation id="3" NAME="Identity">
 <Entity id="0" label="source" />
 <Entity id="2" label="target" />
 </Relation></Relations>
