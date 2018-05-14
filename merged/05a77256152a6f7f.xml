@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-<TEXT><NODE id="0" />JET<NODE id="3" /> doesn't only inspire scientists and engineers - it also mesmerises artists. ... Read more.
+<TEXT><NODE id="0" />JET<NODE id="3" /> doesn't only inspire scientists and engineers - <NODE id="52" />it<NODE id="54" /> also mesmerises artists. ... Read more.
 Watch the latest <NODE id="112" />CCFE<NODE id="116" /> video
 Latest tweet from @fusionenergy
 Welcome to <NODE id="166" />Culham Centre for Fusion Energy<NODE id="197" />, the UK's national <NODE id="217" />fusion research<NODE id="232" /> <NODE id="233" />laboratory<NODE id="243" />
@@ -16,42 +16,47 @@ It features <NODE id="813" />CCFE<NODE id="817" /> experts talking about their 
 <feature featureName="uri" featureValue="http://www.ccfe.ac.uk/" />
 <feature featureName="lang" featureValue="en" /></Meta><Entities>
 <Entity id="0" startPos="0" endPos="3" type="product" surface="JET" />
-<Entity id="1" startPos="112" endPos="116" type="organization" surface="CCFE" />
-<Entity id="2" startPos="166" endPos="197" type="organization" surface="Culham Centre for Fusion Energy" />
-<Entity id="3" startPos="217" endPos="232" type="product" surface="fusion research" />
-<Entity id="4" startPos="233" endPos="243" type="trigger" surface="laboratory" />
-<Entity id="5" startPos="347" endPos="353" type="organization" surface="Culham" />
-<Entity id="6" startPos="354" endPos="363" type="trigger" surface="is one of" />
-<Entity id="7" startPos="384" endPos="399" type="product" surface="fusion research" />
-<Entity id="8" startPos="400" endPos="412" type="trigger" surface="laboratories" />
-<Entity id="9" startPos="414" endPos="417" type="organization" surface="Our" />
-<Entity id="10" startPos="712" endPos="715" type="organization" surface="our" />
-<Entity id="11" startPos="781" endPos="789" type="product" surface="research" />
-<Entity id="12" startPos="793" endPos="799" type="organization" surface="Culham" />
-<Entity id="13" startPos="813" endPos="817" type="organization" surface="CCFE" /></Entities><Relations>
-<Relation id="14" NAME="CompanyProvidesProduct">
-<Entity id="3" label="product" />
-<Entity id="2" label="company" />
-<Entity id="4" label="trigger" />
-</Relation>
+<Entity id="1" startPos="52" endPos="54" type="product" surface="it" />
+<Entity id="2" startPos="112" endPos="116" type="organization" surface="CCFE" />
+<Entity id="3" startPos="166" endPos="197" type="organization" surface="Culham Centre for Fusion Energy" />
+<Entity id="4" startPos="217" endPos="232" type="product" surface="fusion research" />
+<Entity id="5" startPos="233" endPos="243" type="trigger" surface="laboratory" />
+<Entity id="6" startPos="347" endPos="353" type="organization" surface="Culham" />
+<Entity id="7" startPos="354" endPos="363" type="trigger" surface="is one of" />
+<Entity id="8" startPos="384" endPos="399" type="product" surface="fusion research" />
+<Entity id="9" startPos="400" endPos="412" type="trigger" surface="laboratories" />
+<Entity id="10" startPos="414" endPos="417" type="organization" surface="Our" />
+<Entity id="11" startPos="712" endPos="715" type="organization" surface="our" />
+<Entity id="12" startPos="781" endPos="789" type="product" surface="research" />
+<Entity id="13" startPos="793" endPos="799" type="organization" surface="Culham" />
+<Entity id="14" startPos="813" endPos="817" type="organization" surface="CCFE" /></Entities><Relations>
 <Relation id="15" NAME="CompanyProvidesProduct">
-<Entity id="7" label="product" />
-<Entity id="5" label="company" />
-<Entity id="8" label="trigger" />
-<Entity id="6" label="trigger" />
+<Entity id="4" label="product" />
+<Entity id="3" label="company" />
+<Entity id="5" label="trigger" />
 </Relation>
-<Relation id="16" NAME="Identity">
-<Entity id="2" label="source" />
-<Entity id="9" label="target" />
-<Entity id="5" label="target" />
-<Entity id="12" label="target" />
-<Entity id="10" label="target" />
-<Entity id="13" label="target" />
-<Entity id="1" label="target" />
+<Relation id="16" NAME="CompanyProvidesProduct">
+<Entity id="8" label="product" />
+<Entity id="6" label="company" />
+<Entity id="7" label="trigger" />
+<Entity id="9" label="trigger" />
 </Relation>
 <Relation id="17" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="1" label="target" />
+</Relation>
+<Relation id="18" NAME="Identity">
 <Entity id="3" label="source" />
 <Entity id="11" label="target" />
-<Entity id="7" label="target" />
+<Entity id="2" label="target" />
+<Entity id="10" label="target" />
+<Entity id="6" label="target" />
+<Entity id="14" label="target" />
+<Entity id="13" label="target" />
+</Relation>
+<Relation id="19" NAME="Identity">
+<Entity id="4" label="source" />
+<Entity id="12" label="target" />
+<Entity id="8" label="target" />
 </Relation></Relations>
 </Document>

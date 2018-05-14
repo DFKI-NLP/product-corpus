@@ -14,27 +14,25 @@ Overview
 <Entity id="2" startPos="50" endPos="62" type="product" surface="construction" />
 <Entity id="3" startPos="64" endPos="75" type="product" surface="concessions" />
 <Entity id="4" startPos="80" endPos="93" type="product" surface="manufacturing" />
-<Entity id="5" startPos="94" endPos="99" type="organization" surface="group" />
-<Entity id="6" startPos="94" endPos="99" type="trigger" surface="group" />
-<Entity id="7" startPos="177" endPos="179" type="organization" surface="We" />
-<Entity id="8" startPos="180" endPos="186" type="trigger" surface="create" />
-<Entity id="9" startPos="187" endPos="211" type="product" surface="infrastructure solutions" /></Entities><Relations>
-<Relation id="10" NAME="CompanyProvidesProduct">
+<Entity id="5" startPos="94" endPos="99" type="trigger" surface="group" />
+<Entity id="6" startPos="177" endPos="179" type="organization" surface="We" />
+<Entity id="7" startPos="180" endPos="186" type="trigger" surface="create" />
+<Entity id="8" startPos="187" endPos="211" type="product" surface="infrastructure solutions" /></Entities><Relations>
+<Relation id="9" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
 <Entity id="4" label="product" />
 <Entity id="3" label="product" />
-<Entity id="2" label="product" />
 <Entity id="1" label="company" />
-<Entity id="6" label="trigger" />
+<Entity id="5" label="trigger" />
 </Relation>
-<Relation id="11" NAME="CompanyProvidesProduct">
-<Entity id="9" label="product" />
-<Entity id="7" label="company" />
-<Entity id="8" label="trigger" />
+<Relation id="10" NAME="CompanyProvidesProduct">
+<Entity id="8" label="product" />
+<Entity id="6" label="company" />
+<Entity id="7" label="trigger" />
 </Relation>
-<Relation id="12" NAME="Identity">
+<Relation id="11" NAME="Identity">
 <Entity id="1" label="source" />
-<Entity id="5" label="target" />
-<Entity id="7" label="target" />
 <Entity id="0" label="target" />
+<Entity id="6" label="target" />
 </Relation></Relations>
 </Document>
