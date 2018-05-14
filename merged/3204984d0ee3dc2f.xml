@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>W.1.G.H.<NODE id="8" />Forged Steel Gate Valves<NODE id="32" />, Bolted Bonnet
+Home
+<NODE id="53" />HP Valves<NODE id="62" /> is a well-known and respected <NODE id="93" />manufacturer<NODE id="105" /> of <NODE id="109" />medium<NODE id="115" /> and <NODE id="120" />high pressure gate<NODE id="138" />, <NODE id="140" />globe<NODE id="145" />, <NODE id="147" />check<NODE id="152" /> and <NODE id="157" />needle valves<NODE id="170" />. Using <NODE id="178" />our<NODE id="181" /> experience in worldwide delivery, <NODE id="216" />we<NODE id="218" /> can <NODE id="223" />offer<NODE id="228" /> a wide range of <NODE id="245" />valves<NODE id="251" /> for power generation and petrochemical industries.
+The <NODE id="307" />HP Valves B.V.<NODE id="321" /> website provides continuous support of <NODE id="361" />our<NODE id="364" /> customer’s strategic purchasing objectives, assisting your company to realize significant cuts in both material and process costs. <NODE id="496" />We<NODE id="498" /> use a joint approach to focus on an intensive supplier-customer relationship, provide professional services and assess <NODE id="618" />our<NODE id="621" /> performance.
+<NODE id="635" />HP Valves bv<NODE id="647" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="vico/iter03/77" />
+<feature featureName="uri" featureValue="http://www.hpvalves.com/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="32" type="product" surface="Forged Steel Gate Valves" />
+<Entity id="1" startPos="53" endPos="62" type="organization" surface="HP Valves" />
+<Entity id="2" startPos="93" endPos="105" type="trigger" surface="manufacturer" />
+<Entity id="3" startPos="109" endPos="115" type="product" surface="medium" />
+<Entity id="4" startPos="120" endPos="138" type="product" surface="high pressure gate" />
+<Entity id="5" startPos="140" endPos="145" type="product" surface="globe" />
+<Entity id="6" startPos="147" endPos="152" type="product" surface="check" />
+<Entity id="7" startPos="157" endPos="170" type="product" surface="needle valves" />
+<Entity id="8" startPos="178" endPos="181" type="organization" surface="our" />
+<Entity id="9" startPos="216" endPos="218" type="organization" surface="we" />
+<Entity id="10" startPos="223" endPos="228" type="trigger" surface="offer" />
+<Entity id="11" startPos="245" endPos="251" type="product" surface="valves" />
+<Entity id="12" startPos="307" endPos="321" type="organization" surface="HP Valves B.V." />
+<Entity id="13" startPos="361" endPos="364" type="organization" surface="our" />
+<Entity id="14" startPos="496" endPos="498" type="organization" surface="We" />
+<Entity id="15" startPos="618" endPos="621" type="organization" surface="our" />
+<Entity id="16" startPos="635" endPos="647" type="organization" surface="HP Valves bv" /></Entities><Relations>
+<Relation id="17" NAME="CompanyProvidesProduct">
+<Entity id="6" label="product" />
+<Entity id="5" label="product" />
+<Entity id="4" label="product" />
+<Entity id="7" label="product" />
+<Entity id="3" label="product" />
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="18" NAME="CompanyProvidesProduct">
+<Entity id="11" label="product" />
+<Entity id="9" label="company" />
+<Entity id="10" label="trigger" />
+</Relation>
+<Relation id="19" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="6" label="target" />
+<Entity id="5" label="target" />
+<Entity id="4" label="target" />
+<Entity id="7" label="target" />
+<Entity id="11" label="target" />
+<Entity id="3" label="target" />
+</Relation>
+<Relation id="20" NAME="Identity">
+<Entity id="12" label="source" />
+<Entity id="9" label="target" />
+<Entity id="15" label="target" />
+<Entity id="1" label="target" />
+<Entity id="14" label="target" />
+<Entity id="13" label="target" />
+<Entity id="16" label="target" />
+<Entity id="8" label="target" />
+</Relation></Relations>
+</Document>

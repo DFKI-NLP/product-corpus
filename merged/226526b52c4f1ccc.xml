@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Big White House Win For Everyday People, One Of Worst Obama Agencies Corralled.
+
+(<NODE id="82" />Conservative Tribune<NODE id="102" />) – In what has been an entirely infuriating battle between the Trump administration and an Obama administration holdover, White House press secretary Sarah Sanders has made it perfectly clear:
+President Donald Trump is in control.
+The White House has announced that for the time being, Director of the Office of Management and Budget Mick Mulvaney is taking the lead of the <NODE id="477" />Consumer Financial Protection Bureau<NODE id="513" />, a powerful, private regulatory agency in the financial sector.
+“Director Mulvaney has taken charge of <NODE id="617" />that agency<NODE id="628" /> and he has the full cooperation of the staff and appeared there this morning and things went very well,” Sanders said according to the <NODE id="764" />Independent Journal Review<NODE id="790" />.
+The transition of authority from retiring director Richard Cordray to Mulvaney should have been painless, but one of former President Barack Obama’s holdovers got in the way.
+Leandra English has sued Trump, claiming that she is the rightful successor to Cordray.
+There’s only one problem with this:
+As Judge Timothy J. Kelly of the <NODE id="1124" />Federal District Court<NODE id="1146" /> in Washington noted according to <NODE id="1180" />The New York Times<NODE id="1198" />, the Federal Vacancies Reform Act, which has been a law for nearly 20 years, makes it clear that it’s the presidential administration’s prerogative to appoint a replacement.
+It’s up to Trump to appoint a successor — not some worker who’s upset because they feel entitled to the job.
+Despite English’s childish lawsuit, Sanders chose to speak of her with a degree of professionalism.
+“I’m not saying we do have anything against her,” Sanders said. “I’m saying that we want Director Mulvaney to lead <NODE id="1697" />this agency<NODE id="1708" /> and that’s a decision that the president is allowed to make.”
+Sanders also fielded questions from the press about statements from Mulvaney concerning the <NODE id="1863" />Consumer Financial Protection Bureau<NODE id="1899" /> in the past, including calling it a “joke.”
+Sanders wasn’t having it, so she just told them the truth:
+“We think that a lot of the past practices under the previous director and under the previous administration were used more to advance political ambitions and not about protecting American consumers, which is what that’s supposed to be,” Sanders said, according to the <NODE id="2272" />Independent Journal Review<NODE id="2298" />.
+“And our goal is to make sure we get back to that.”
+In every office of the Trump administration, President Trump has to have his people working. Obama holdovers don’t have the right to promotions.
+After eight years of Obama, they should be happy to be employed at all.
+What do you think about this story? Please share this on <NODE id="2626" />Facebook<NODE id="2634" /> and <NODE id="2639" />Twitter<NODE id="2646" /> and let us know!
+conservativetribune.com/big-white-house-win-for-everyday/
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.teaparty.org/big-white-house-win-everyday-people-one-worst-obama-agencies-corralled-279476/@2017-11-30T19:40:36.000+01:00" />
+<feature featureName="uri" featureValue="https://www.teaparty.org/big-white-house-win-everyday-people-one-worst-obama-agencies-corralled-279476/" />
+<feature featureName="lang" featureValue="en" /></Meta><Entities>
+<Entity id="0" startPos="82" endPos="102" type="organization" surface="Conservative Tribune" />
+<Entity id="1" startPos="477" endPos="513" type="organization" surface="Consumer Financial Protection Bureau" />
+<Entity id="2" startPos="617" endPos="628" type="organization" surface="that agency" />
+<Entity id="3" startPos="764" endPos="790" type="organization" surface="Independent Journal Review" />
+<Entity id="4" startPos="1124" endPos="1146" type="organization" surface="Federal District Court" />
+<Entity id="5" startPos="1180" endPos="1198" type="organization" surface="The New York Times" />
+<Entity id="6" startPos="1697" endPos="1708" type="organization" surface="this agency" />
+<Entity id="7" startPos="1863" endPos="1899" type="organization" surface="Consumer Financial Protection Bureau" />
+<Entity id="8" startPos="2272" endPos="2298" type="organization" surface="Independent Journal Review" />
+<Entity id="9" startPos="2626" endPos="2634" type="organization" surface="Facebook" />
+<Entity id="10" startPos="2639" endPos="2646" type="organization" surface="Twitter" /></Entities><Relations>
+<Relation id="11" NAME="Identity">
+<Entity id="1" label="source" />
+<Entity id="2" label="target" />
+<Entity id="7" label="target" />
+<Entity id="6" label="target" />
+</Relation>
+<Relation id="12" NAME="Identity">
+<Entity id="3" label="source" />
+<Entity id="8" label="target" />
+</Relation></Relations>
+</Document>
