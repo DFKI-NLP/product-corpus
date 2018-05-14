@@ -49,3 +49,11 @@ sensor-doc-vico-dd7e66ae-deaa-3330-b9c2-e757c63917a9.xml -> Reason: car sale ad
 sensor-doc-vico-e06564e9-4632-3861-aed5-04330b235632.xml -> Reason: car sale ad
 sensor-doc-vico-ec965016-5ca4-3f9a-844c-596a7ac33d81.xml -> Reason: car sale ad
 sensor-doc-vico-f3b965a9-be7e-3e22-a6a8-4b79f3fc65ce.xml -> Reason: car sale ad
+
+
+=== VERSION 2 ===
+
+Added annotations for Version 2
+
+ - phrases that are used like proper name products in certain contexts or enumerations even without being explicitly used in a CompanyProvidesProduct mention, e.g. "[drip chamber] segment"
+ - phrases clearly recognizable as a physical product, esp. in market descriptions where specific products are mentioned, e.g. "[fusion pumps]" in the "[IV equipment] market".
