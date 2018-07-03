@@ -38,24 +38,24 @@
 <Entity id="25" startPos="5005" endPos="5017" type="organization" surface="Toronto Star" /></Entities><Relations>
 <Relation id="26" NAME="Identity">
 <Entity id="1" label="source" />
-<Entity id="2" label="target" />
-<Entity id="10" label="target" />
-<Entity id="21" label="target" />
-<Entity id="3" label="target" />
-<Entity id="9" label="target" />
-<Entity id="13" label="target" />
 <Entity id="12" label="target" />
-<Entity id="18" label="target" />
-<Entity id="17" label="target" />
+<Entity id="9" label="target" />
 <Entity id="19" label="target" />
 <Entity id="16" label="target" />
+<Entity id="21" label="target" />
+<Entity id="10" label="target" />
+<Entity id="3" label="target" />
+<Entity id="18" label="target" />
+<Entity id="17" label="target" />
+<Entity id="2" label="target" />
+<Entity id="13" label="target" />
 <Entity id="14" label="target" />
 </Relation>
 <Relation id="27" NAME="Identity">
 <Entity id="5" label="source" />
 <Entity id="7" label="target" />
-<Entity id="6" label="target" />
 <Entity id="8" label="target" />
+<Entity id="6" label="target" />
 </Relation>
 <Relation id="28" NAME="Identity">
 <Entity id="20" label="source" />
