@@ -8,9 +8,9 @@ Create Train/Test split:
 de.dfki.lt.spree.flink.batch.DocumentTrainDevTestSplitJob  mit spree/tap/tap-experiments/src/main/resources/smartdata/trainTestSplit-productcorpus.properties (20180507), auch hier im Ordner als 20180509 getagged
 
 Convert to JSON:
-java -jar /home/leonhard/Dokumente/code/avro-tools-1.8.2.jar tojson --pretty train/1.avro > train/train.json
-java -jar /home/leonhard/Dokumente/code/avro-tools-1.8.2.jar tojson --pretty test/1.avro > test/test.json
-java -jar /home/leonhard/Dokumente/code/avro-tools-1.8.2.jar tojson --pretty dev/1.avro > dev/dev.json
+java -jar /home/leonhard/Dokumente/code/avro-tools-1.8.2.jar tojson --pretty train/1.avro > json/train.json
+java -jar /home/leonhard/Dokumente/code/avro-tools-1.8.2.jar tojson --pretty test/1.avro > json/test.json
+java -jar /home/leonhard/Dokumente/code/avro-tools-1.8.2.jar tojson --pretty dev/1.avro > json/dev.json
 
 Not included in merged files:
 8b9dff1e86912b03.xml -> duplicate of 6f94e28182b68986.xml
