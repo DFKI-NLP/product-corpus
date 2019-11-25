@@ -1,0 +1,243 @@
+[
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "Span",
+ "fields": [
+   {"name": "start", "type": "int"},
+   {"name": "end", "type": "int"},
+   {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "Provenance",
+ "fields": [
+   {"name": "annotator", "type": "string"},
+   {"name": "license", "type": ["null", "string"], "default": null},
+   {"name": "score", "type": ["null", "float"], "default": null},
+   {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null},
+   {"name": "creator", "type": ["null", "string"], "default": null},
+   {"name": "annotatorVersion", "type": ["null", "string"], "default": null},
+   {"name": "model", "type": ["null", "string"], "default": null},
+   {"name": "modelVersion", "type": ["null", "string"], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "Reference",
+ "fields": [
+     {"name": "key", "type": "string"},
+     {"name": "value", "type": "string"},
+     {"name": "provenance", "type": ["null", "Provenance"], "default": null},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "Token",
+ "fields": [
+    {"name": "span", "type": "Span"},
+    {"name": "lemma", "type": ["null", "string"], "default": null},
+    {"name": "ner", "type": ["null", "string"], "default": null},
+    {"name": "posTag", "type": ["null", "string"], "default": null},
+    {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "Vertex",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "span", "type": "Span"},
+     {"name": "label", "type": "string"},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "Edge",
+ "fields": [
+     {"name": "source", "type": "string"},
+     {"name": "target", "type": "string"},
+     {"name": "label", "type": "string"},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "Graph",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "span", "type": "Span"},
+     {"name": "vertices", "type": {"type": "array", "items": "Vertex"}},
+     {"name": "edges", "type": {"type": "array", "items": "Edge"}},
+     {"name": "provenance", "type": ["null", {"type": "array", "items": "Provenance"}], "default": null},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "Annotation",
+ "fields": [
+   {"name": "span", "type": "Span"},
+   {"name": "key", "type": "string"},
+   {"name": "label", "type": "string"},
+   {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null},
+   {"name": "provenance", "type": ["null", {"type": "array", "items": "Provenance"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "ConceptMention",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "span", "type": "Span"},
+     {"name": "type", "type": "string"},
+     {"name": "normalizedValue", "type": ["null", "string"], "default": null},
+     {"name": "refids", "type": ["null", {"type": "array", "items": "Reference"}], "default": null},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null},
+     {"name": "provenance", "type": ["null", {"type": "array", "items": "Provenance"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "RelationArgument",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "role", "type": "string"},
+     {"name": "conceptMention", "type": "ConceptMention"},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "RelationMention",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "span", "type": "Span"},
+     {"name": "name", "type": "string"},
+     {"name": "args", "type": ["null", {"type": "array", "items": "RelationArgument"}], "default": null},
+     {"name": "provenance", "type": ["null", {"type": "array", "items": "Provenance"}], "default": null},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "Sentence",
+ "fields": [
+    {"name": "id", "type": "string"},
+    {"name": "span", "type": "Span"},
+    {"name": "index", "type": "int"},
+    {"name": "docId", "type": ["null", "string"], "default": null},
+    {"name": "parseTree", "type": ["null", "Graph"], "default": null},
+    {"name": "tokens", "type": ["null", {"type": "array", "items": "Token"}], "default": null},
+    {"name": "conceptMentions", "type": ["null", {"type": "array", "items": "ConceptMention"}], "default": null},
+    {"name": "relationMentions", "type": ["null", {"type": "array", "items": "RelationMention"}], "default": null},
+    {"name": "annotations", "type": ["null", {"type": "array", "items": "Annotation"}], "default": null},
+    {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "CorefChain",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "canonicalName", "type": ["null", "string"], "default": null},
+     {"name": "mentions", "type": ["null", {"type": "array", "items": "ConceptMention"}], "default": null},
+     {"name": "provenance", "type": ["null", {"type": "array", "items": "Provenance"}], "default": null},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.tap",
+ "type": "record",
+ "name": "Document",
+ "fields": [
+  {"name": "id", "type": "string"},
+  {"name": "raw", "type": "string"},
+  {"name": "text", "type": ["null", "string"], "default": null},
+  {"name": "uri", "type": ["null", "string"], "default": null},
+  {"name": "signature", "type": ["null", "string"], "default": null},
+  {"name": "langCode", "type": ["null", "string"], "default": null},
+  {"name": "date", "type": ["null", "string"], "default": null},
+  {"name": "tokens", "type": ["null", {"type": "array", "items": "Token"}], "default": null},
+  {"name": "sentences", "type": ["null", {"type": "array", "items": "Sentence"}], "default": null},
+  {"name": "corefChains", "type": ["null", {"type": "array", "items": "CorefChain"}], "default": null},
+  {"name": "conceptMentions", "type": ["null", {"type": "array", "items": "ConceptMention"}], "default": null},
+  {"name": "relationMentions", "type": ["null", {"type": "array", "items": "RelationMention"}], "default": null},
+  {"name": "annotations", "type": ["null", {"type": "array", "items": "Annotation"}], "default": null},
+  {"name": "provenance", "type": ["null", {"type": "array", "items": "Provenance"}], "default": null},
+  {"name": "refids", "type": ["null", {"type": "map", "values": "string"}], "default": null},
+  {"name": "title", "type": ["null", "string"], "default": null},
+  {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null},
+  {"name": "docType", "type":["null",{"type":"enum", "name":"docTypes", "symbols":["TWITTER_JSON", "RSS_XML", "NEWS_HTML"]}],"default":null}
+ ]
+},
+{"namespace": "de.dfki.lt.spree",
+ "type": "record",
+ "name": "ConceptInstance",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "type", "type": "string"},
+     {"name": "normalizedValue", "type": ["null", "string"], "default": null},
+     {"name": "refids", "type": ["null", {"type": "array", "items": "de.dfki.lt.tap.Reference"}], "default": null},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null},
+     {"name": "provenance", "type": ["null", {"type": "array", "items": "de.dfki.lt.tap.Provenance"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.spree.re",
+ "type": "record",
+ "name": "RelationInstanceArgument",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "role", "type": "string"},
+     {"name": "conceptInstance", "type": "de.dfki.lt.spree.ConceptInstance"},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.spree.re",
+ "type": "record",
+ "name": "RelationInstance",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "name", "type": "string"},
+     {"name": "args", "type": ["null", {"type": "array", "items": "RelationInstanceArgument"}], "default": null},
+     {"name": "provenance", "type": ["null", {"type": "array", "items": "de.dfki.lt.tap.Provenance"}], "default": null},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.spree.re",
+ "type": "record",
+ "name": "ReVertex",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "label", "type": "string"},
+     {"name": "lemma", "type": ["null", "string"], "default": null},
+     {"name": "ner", "type": ["null", "string"], "default": null},
+     {"name": "posTag", "type": ["null", "string"], "default": null},
+     {"name": "argRole", "type": ["null", "string"], "default": null},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.spree.re",
+ "type": "record",
+ "name": "ReEdge",
+ "fields": [
+     {"name": "source", "type": "string"},
+     {"name": "target", "type": "string"},
+     {"name": "label", "type": "string"},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+},
+{"namespace": "de.dfki.lt.spree.re",
+ "type": "record",
+ "name": "RePattern",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "name", "type": "string"},
+     {"name": "vertices", "type": {"type": "array", "items": "ReVertex"}},
+     {"name": "edges", "type": {"type": "array", "items": "ReEdge"}},
+     {"name": "provenance", "type": ["null", {"type": "array", "items": "de.dfki.lt.tap.Provenance"}], "default": null},
+     {"name": "attributes", "type": ["null", {"type": "map", "values": "string"}], "default": null}
+ ]
+}
+]
