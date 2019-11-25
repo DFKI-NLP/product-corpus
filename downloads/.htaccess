@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Bitte melden Sie sich an"
-AuthUserFile /product-corpus/.htpasswd
-require valid-user 
