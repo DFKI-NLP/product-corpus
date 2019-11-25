@@ -1,6 +1,6 @@
 # DFKI Product Corpus
 
-This repository contains the DFKI Product Corpus, a dataset of English web pages and social media posts annotated for _product_ and _company_ named entities, and the relation _CompanyProvidesProduct_. The goal is to make extraction of non-standard, B2B products and relations from unstructured text easier and more reliable. The corpus is also annotated for coreference chains of companies and products.
+This repository contains the DFKI Product Corpus, a dataset of 152 English web pages and social media posts annotated for _product_ and _company_ named entities, and the relation _CompanyProvidesProduct_. The goal is to make extraction of non-standard, B2B products and relations from unstructured text easier and more reliable. The corpus is also annotated for coreference chains of companies and products.
 
 You can find the full description of the corpus here: [http://www.dfki.de/lt/publication_show.php?id=9428](http://www.dfki.de/lt/publication_show.php?id=9428)
 
