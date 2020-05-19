@@ -16,7 +16,7 @@ Changes for Version 2:
  * Annotation change: phrases clearly recognizable as a physical product, esp. in market descriptions where specific products are mentioned, e.g. "[fusion pumps]" in the "[IV equipment] market", are now marked as products.
 
 ## Use
-The DFKI Product Corpus is released as [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). If you use this data, you should cite the accompanying paper:
+The DFKI Product Corpus is released as [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you use this data, you should cite the accompanying paper:
 
 _A Corpus Study and Annotation Schema for Named Entity Recognition and Relation Extraction of Business Products. Saskia Schön, Veselina Mironova, Aleksandra Gabryszak and Leonhard Hennig. Proceedings of LREC, 2018._ [(bib)](paper.bib) [(pdf)](https://www.dfki.de/fileadmin/user_upload/import/9428_lrec_product_corpus.pdf)
 
